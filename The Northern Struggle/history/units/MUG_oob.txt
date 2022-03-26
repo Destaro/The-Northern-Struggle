@@ -1,0 +1,58 @@
+army = {
+	name = "Army of the Mughal Empire"
+	location = 1236
+	regiment = {
+		name= "1.Mughal Contingent"
+		type = irregular
+		home = 1236
+	}
+
+	regiment = {
+		name= "2.Mughal Contingent"
+		type = irregular
+		home = 1236
+	}
+
+	regiment = {
+		name= "3.Mughal Contingent"
+		type = irregular
+		home = 1239
+	}
+
+regiment = {
+		name= "4.Mughal Contingent"
+		type = irregular
+		home = 1237
+	}
+
+	regiment = {
+		name= "5.Mughal Contingent"
+		type = irregular
+		home = 1235
+	}
+
+	regiment = {
+		name= "6.Mughal Contingent"
+		type = irregular
+		home = 1238
+	}
+
+regiment = {
+		name= "7.Mughal Contingent"
+		type = cavalry
+		home = 1240
+	}
+
+	regiment = {
+		name= "8.Mughal Contingent"
+		type = cavalry
+		home = 1240
+	}
+
+	regiment = {
+		name= "9.Mughal Contingent"
+		type = cavalry
+		home = 1242
+	}
+
+}

@@ -1,0 +1,6 @@
+owner = PRV
+controller = PRV
+add_core = LIB
+colonial = 2
+trade_goods = coffee
+life_rating = 30

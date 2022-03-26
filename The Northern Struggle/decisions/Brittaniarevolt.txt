@@ -1,0 +1,376 @@
+country_event = { 
+	id = 100700 #Decision
+	title = "REVLT1.T"
+	desc = "REVLT1.D"
+	
+	trigger = { 
+  tag = DEN 
+	}
+	
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "REVLT1.A" 
+    set_country_flag = sca_crash
+	set_country_flag = bri_revolt
+	ai_chance = { factor = 50 }
+			}
+			
+	    option = { 
+	name = "REVLT1a.A" 
+    set_country_flag = sca_love
+	set_country_flag = bri_revolt
+	ai_chance = { factor = 50 }
+			}		
+	}
+	
+	
+	country_event = { 
+	id = 100701 #Decision
+	title = "REVLT1.T"
+	desc = "REVLT1.D"
+	
+	trigger = { 
+    tag = SWE }
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "REVLT1.A" 
+    set_country_flag = sca_crash
+	set_country_flag = bri_revolt
+	set_country_flag = den_intolerance
+	ai_chance = { factor = 50 }
+			}
+			
+	    option = { 
+	name = "REVLT1a.A" 
+    set_country_flag = sca_love
+	set_country_flag = bri_revolt
+	ai_chance = { factor = 50 }
+			}		
+	}
+	
+	
+	country_event = { 
+	id = 100702 #Decision
+	title = "REVLT1.T"
+	desc = "REVLT1.D"
+	
+	trigger = {  
+    tag = NOR
+	}
+	
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "REVLT1.A" 
+    set_country_flag = sca_crash
+	set_country_flag = bri_revolt
+	ai_chance = { factor = 50 }
+			}
+			
+	    option = { 
+	name = "REVLT1a.A" 
+    set_country_flag = sca_love
+	set_country_flag = bri_revolt
+	ai_chance = { factor = 50 }
+			}		
+	}
+	
+	
+	
+	country_event = { 
+	id = 100800 #settlement
+	title = "REVLT2.T"
+	desc = "REVLT2.D"
+	
+	 trigger = {
+        has_country_flag = sca_crash
+  
+    }
+
+    mean_time_to_happen = {
+        days = 45
+        modifier = {
+            factor = 1.5
+        }
+    }
+
+    option = {
+        name = "REVLT2.A"
+        random_state = {
+            limit = {
+                any_owned_province = {
+                    OR = { 
+					AND = { is_core = ENG }
+					AND = { is_core = SCO }
+					AND = { is_core = IRE }
+					}
+                    NOT = {
+                        is_primary_culture = yes
+                        is_accepted_culture = yes
+                    }
+                }
+            }
+            random_owned = {
+			limit = { NOT = { has_province_modifier = sca_settlement } }
+                add_province_modifier = {
+                    name = sca_settlement
+                    duration = -1
+                }
+            }
+        }
+    }
+}
+				
+	country_event = { 
+	id = 100900 #settlement
+	title = "REVLT3.T"
+	desc = "REVLT3.D"
+	
+	 trigger = {
+        has_country_flag = bri_revolt
+  
+    }
+
+    mean_time_to_happen = {
+        days = 45
+        modifier = {
+            factor = 1.5
+        }
+    }
+
+    option = {
+        name = "REVLT3.A"
+        random_state = {
+            limit = {
+                any_owned_province = {
+                    OR = { 
+					AND = { is_core = ENG }
+					AND = { is_core = SCO }
+					AND = { is_core = IRE }
+					}
+                    NOT = {
+                        is_primary_culture = yes
+                        is_accepted_culture = yes
+                    }
+                }
+            }
+            random_owned = {
+			limit = { NOT = { has_province_modifier = english_presence } } 
+				
+                add_province_modifier = {
+				
+                    name = english_presence
+                    duration = -1
+                }
+            }
+        }
+    }
+}
+
+
+
+country_event = {
+    id = 101000
+    title = "REVLT4.T" #Attack on settlers
+    desc = "REVLT4.D"
+
+    trigger = {
+	any_owned_province = {
+        has_province_modifier = sca_settlement
+        controlled_by = THIS
+		}
+        
+    }
+
+    mean_time_to_happen = {
+        days = 50
+        modifier = {
+            factor = 1.5
+            average_militancy = 1
+        }
+        modifier = {
+            factor = 2
+            average_militancy = 2
+        }
+        modifier = {
+            factor = 3
+            average_militancy = 3
+        }
+    }
+
+    option = {
+        name = "REVLT4.A"
+        owner = { prestige = -5 }
+         random_state = {
+            limit = {
+                any_owned_province = {
+                    has_province_modifier = sca_settlement
+             
+                }
+            }
+            random_owned = {
+                remove_province_modifier = sca_settlement
+                    
+                }
+            }
+			ai_chance = { factor = 30 }
+        }
+		
+		 option = {
+        name = "REVLT4a.A"
+ 
+         random_state = {
+            limit = {
+                any_owned_province = {
+                    has_province_modifier = sca_settlement
+             
+                }
+            }
+            random_owned = {
+                any_pop = {
+            limit = { has_pop_culture = british }
+            militancy = 2
+			
+        }
+		any_pop = {
+		 reduce_pop = 0.95
+		 }
+                    
+                }
+            }
+			ai_chance = { factor = 70 }
+        }
+    
+}
+
+	country_event = { 
+	id = 101100 #collabrationists
+	title = "REVLT5.T"
+	desc = "REVLT5.D"
+	
+	 trigger = {
+        has_country_flag = sca_love
+  
+    }
+
+    mean_time_to_happen = {
+        days = 45
+		   modifier = {
+            factor = 1.5
+        }
+    }
+
+    option = {
+        name = "REVLT5.A"
+        random_state = {
+            limit = {
+                any_owned_province = {
+                    OR = { 
+					AND = { is_core = ENG }
+					AND = { is_core = SCO }
+					AND = { is_core = IRE }
+					}
+                    NOT = {
+                        is_primary_culture = yes
+                        is_accepted_culture = yes
+                    }
+                }
+            }
+            random_owned = {
+			limit = { NOT = { has_province_modifier = english_collab } }
+                add_province_modifier = {
+                    name = english_collab
+                    duration = -1
+                }
+            }
+        }
+    }
+}
+
+country_event = { 
+	id = 101200 #revolution
+	title = "REVLT6.T"
+	desc = "REVLT6.D"
+	
+	 trigger = {
+        year = 1850
+		has_country_flag = bri_revolt
+    OR = { 
+	AND = { tag = SWE }
+	AND = { tag = DEN }
+	AND = { tag = NOR }
+	}
+    }
+
+    mean_time_to_happen = {
+        days = 10
+		   modifier = {
+            factor = 1.5
+        }
+    }
+	
+    immediate = {
+	clr_country_flag = sca_love
+	clr_country_flag = bri_revolt
+	clr_country_flag = sca_crash
+	set_country_flag = bri_rising
+	}
+	
+    option = {
+        name = "REVLT6.A"
+        any_pop = {
+        limit = { has_pop_culture = british }
+        militancy = 2
+         }
+		 any_owned = {
+         remove_province_modifier = sca_settlement
+		 remove_province_modifier = english_collab
+		 remove_province_modifier = english_presence
+}
+}
+
+
+			
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				

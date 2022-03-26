@@ -1,0 +1,84 @@
+political_decisions = {
+
+form_saf_new = {
+		potential = {
+			OR = {
+			tag = ORA
+                         tag = TRN
+                          tag = NAL
+                          }
+			NOT = {
+				exists = SAF
+				
+			}
+		}	
+		allow = {
+			war = no
+			SAF = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					
+						
+						
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = Griqua
+						 primary_culture = povonandos
+                                                   primary_culture = Frumkvodlarsh
+                                                      
+
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = SAF
+				}
+				add_core = SAF
+			}			
+			change_tag = SAF
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

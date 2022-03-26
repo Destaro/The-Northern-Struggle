@@ -1,0 +1,489 @@
+political_decisions = {
+
+ger_rev2 = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = pru_rev }
+            is_vassal = no
+			owns = 690
+            owns = 695
+			owns = 699
+			owns = 682 
+		}
+		allow = {
+			war = no
+            money = 25000
+		}
+		effect = {
+		SWE = { country_event = 160003 }
+		money = -25000	
+        set_country_flag = pru_rev		  
+}
+
+}
+
+pol_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_lit }
+            is_vassal = no
+			LIT = {
+			owns = 706 
+ 			owns = 710  }
+			
+		}
+		allow = {
+			war = no
+			LIT = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+		}
+		effect = {
+         war = {
+			target = LIT
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				 state_province_id = 706
+			}
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				 state_province_id = 710
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+        set_country_flag = war_lit
+		
+}
+}
+
+assim_POL = {
+		potential = {
+			tag = PRU 
+			NOT = { has_country_flag = ass_kra }
+            is_vassal = no
+            owns = 706
+            owns = 710
+	        has_country_flag = plan_ost		}
+		
+		allow = {
+			war = no
+
+		}
+		effect = {
+		706 = { change_province_name = "Warschau" }
+		708 = { change_province_name = "Schrottersburg" }
+		709 = { change_province_name = "Lumbse" }
+		711 = { change_province_name = "Rentendorf" }
+		707 = { change_province_name = "Sudauen" }
+		716 = { change_province_name = "Kjelzy" }
+		712 = { change_province_name = "Litzmannstadt" }
+		717 = { change_province_name = "Kalisch" }
+	any_pop = {
+            limit = {
+             OR = {
+                        strata = middle
+                        strata = rich
+                        type = soldiers
+                    }
+             culture = polish					
+            }
+            move_pop = 632
+        }
+       any_owned = {
+		limit = {
+                 is_core = POL	
+                 is_core = LIT			 
+            }
+			
+	 add_province_modifier = {
+				
+                    name = GER_assimilation
+                    duration = 20000
+					
+                }	
+}
+set_country_flag = ass_kra
+}
+  ai_will_do = {
+            factor = 0
+			}
+	}
+
+kra_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_gal }
+            is_vassal = no
+			KRA = { exists = yes } 
+		}
+		allow = {
+			war = no
+			KRA = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			owns = 706				
+		}
+		effect = {
+         war = {
+			target = KRA
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+		badboy = -5	
+        set_country_flag = war_gal
+		
+}
+}
+
+assim_KRA = {
+		potential = {
+			tag = PRU 
+			NOT = { has_country_flag = ass_pol }
+            is_vassal = no
+            owns = 703
+            owns = 702
+            has_country_flag = plan_ost			}
+		
+		allow = {
+			war = no
+
+		}
+		effect = {
+	705 = { change_province_name = "Premissel" }
+	704 = { change_province_name = "Neu-Sandez" }
+	714 = { change_province_name = "Tarnau" }
+	703 = { change_province_name = "Krakau" }
+	2584 = { change_province_name = "Bielitz" }
+	702 = { change_province_name = "Lemberg" }		
+    941 = { change_province_name = "Stryj" }
+	953 = { change_province_name = "Stanislau" }
+	any_pop = {
+            limit = {
+             OR = {
+                        strata = middle
+                        strata = rich
+                        type = soldiers
+                    }
+             culture = polish					
+            }
+            move_pop = 631
+        }
+       any_owned = {
+		limit = {
+                 is_core = KRA			 
+            }
+			
+	 add_province_modifier = {
+				
+                    name = GER_assimilation
+                    duration = 20000
+					
+                }	
+}
+set_country_flag = ass_pol
+}
+	}
+	
+ost_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_ost }
+            is_vassal = no
+			has_country_flag = plan_ost
+			LIT = { exists = yes } 
+		}
+		allow = {
+			war = no
+			LIT = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = LIT }
+		}
+		effect = {
+         war = {
+			target = LIT
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+		badboy = 5
+        set_country_flag = war_ost
+
+		
+}
+}
+
+ukr_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_ukr }
+            is_vassal = no
+			has_country_flag = plan_ost
+			RUT = { exists = yes } 
+		}
+		allow = {
+			war = no
+			RUT = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = RUT }
+			RUT = { vassal_of = PRU }
+		}
+		effect = {
+         war = {
+			target = RUT
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = humiliation
+			}
+			}
+		badboy = 5	
+        set_country_flag = war_ukr
+		
+}
+}
+
+chr_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_chr }
+            is_vassal = no
+			has_country_flag = plan_ost
+			CHR = { exists = yes } 
+		}
+		allow = {
+			war = no
+			CHR = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = CHR 
+			CHR = { vassal_of = PRU } }
+		}
+		effect = {
+         war = {
+			target = CHR
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = humiliation
+			}
+			}
+		badboy = 5	
+        set_country_flag = war_chr
+		
+}
+}
+
+cry_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_cry }
+            is_vassal = no
+			has_country_flag = plan_ost
+		}
+		allow = {
+			war = no
+			CRI = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = CRI }
+			
+		}
+		effect = {
+         war = {
+			target = CRI
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = humiliation
+			}
+			}
+		badboy = 5	
+        set_country_flag = war_cry
+		
+}
+}
+
+mus_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_mus }
+            is_vassal = no
+			has_country_flag = plan_ost
+		}
+		allow = {
+     
+			war = no
+			MUS = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	
+      is_greater_power = yes }    }
+			NOT = {
+            truce_with = MUS }
+			
+			RUT = { exists = no }
+			
+			CHR = { exists = no }
+		}
+		effect = {
+         war = {
+			target = MUS
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = cut_down_to_size 
+			}
+			}
+		badboy = 15
+        set_country_flag = war_mus
+		
+}
+}
+
+fin_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_fin }
+            is_vassal = no
+			has_country_flag = plan_ost
+			MUS = { vassal_of = PRU }
+		}
+		allow = {
+			war = no
+			FIN = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = FIN }
+			
+		}
+		effect = {
+         war = {
+			target = FIN
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				state_province_id = 354
+			}
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				state_province_id = 349
+			}
+			defender_goal = {
+			casus_belli = humiliation
+			}
+			}
+        set_country_flag = war_fin
+		
+}
+}
+
+suo_conq = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = war_suo }
+            is_vassal = no
+			has_country_flag = plan_ost
+			has_country_flag = war_fin
+			MUS = { vassal_of = PRU }
+            owns = 349
+            owns = 354 
+		}
+		allow = {
+			war = no
+			FIN = { NOT = { alliance_with = PRU
+                            in_sphere = PRU	} }
+			NOT = {
+            truce_with = FIN }
+			
+		}
+		effect = {
+         war = {
+			target = FIN
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				state_province_id = 994
+			}
+			defender_goal = {
+			casus_belli = humiliation
+			}
+			}
+        set_country_flag = war_suo
+		
+}
+}
+
+expnd_blt = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = exp_blt }
+			has_country_flag = plan_ost
+            is_vassal = no
+			UBD = { vassal_of = PRU }
+		}
+		allow = {
+			war = no
+			owns = 354
+			owns = 994
+			
+		}
+		effect = {
+        set_country_flag = exp_blt
+		354 = { secede_province = UBD } 
+		355 = { secede_province = UBD }
+		356 = { secede_province = UBD }
+        357 = { secede_province = UBD } 
+		358 = { secede_province = UBD }
+		359 = { secede_province = UBD } 
+		349 = { secede_province = UBD }
+        350 = { secede_province = UBD } 
+		351 = { secede_province = UBD }
+		352 = { secede_province = UBD }	
+		353 = { secede_province = UBD }
+		996 = { secede_province = UBD }
+		997 = { secede_province = UBD }	
+		1006 = { secede_province = UBD }		
+		UBD = { any_pop = {
+            limit = {
+             OR = {
+                        strata = middle
+                        strata = rich
+                        type = soldiers
+                    }
+             culture = finnish		
+            }
+            move_pop = 343
+        } }
+		994 = { change_province_name = Adolfsburg}
+		996 = { change_province_name = Ingermanland}
+		997 = { change_province_name = Effdowe }
+		1006 = { change_province_name = Pskou}
+		359 = { change_province_name = Libau}
+		358 = { change_province_name = Windau}
+		357 = { change_province_name = Mitau}
+		355 = { change_province_name = Wolmar}
+		356 = { change_province_name = Dunaburg}
+		352 = { change_province_name = Werro}
+		351 = { change_province_name = Pernau}
+		350 = { change_province_name = Narwa}
+		349 = { change_province_name = Revel}
+		
+		994 = { 
+		add_province_modifier = {
+                    name = goten_plan
+                    duration = -1
+                } }
+}
+
+}
+
+}

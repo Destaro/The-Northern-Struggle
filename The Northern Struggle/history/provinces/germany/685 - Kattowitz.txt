@@ -1,0 +1,16 @@
+owner = KRA
+controller = KRA
+add_core = KRA
+
+add_core = PRU
+
+add_core = GER
+
+add_core = POL
+
+add_core = PLC
+trade_goods = coal
+life_rating = 40
+1861.1.1 = { railroad = 3 }
+
+add_core = BRG

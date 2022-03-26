@@ -1,0 +1,41 @@
+
+army = {
+	name = "Armia Krakówiej"
+	location = 703
+	regiment = {
+		name = "1. Brygada"
+		type = infantry
+		home = 703
+	}
+regiment = {
+		name = "2. Brygada"
+		type = infantry
+		home = 685
+	}
+regiment = {
+		name = "3. Brygada"
+		type = infantry
+		home = 714
+	}
+regiment = {
+		name = "4. Brygada"
+		type = infantry
+		home = 704
+	}
+regiment = {
+		name = "5. Brygada"
+		type = artillery
+		home = 705
+	}
+regiment = {
+		name = "6. Brygada"
+		type = cavalry
+		home = 702
+	}
+regiment = {
+		name = "7. Brygada"
+		type = cavalry
+		home = 952
+	}
+}
+

@@ -1,0 +1,10 @@
+owner = EDE
+controller = EDE
+
+trade_goods = iron
+life_rating = 35
+
+add_core = ARM
+add_core = TUR
+add_core = EDE
+add_core = OUT

@@ -1,0 +1,166 @@
+country_event = { 
+	id = 180003 #Decision
+	title = "PRU4.T"
+	desc = "PRU4.D"
+
+		trigger = { 
+  tag = PRU 
+  RUT = { vassal_of = PRU }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+		   option = { 
+	name = "PRU4.A" 
+	RUT = { add_accepted_culture = ukrainian }
+	 }
+	 
+	 option = { 
+	name = "PRU4a.A" 
+	prestige = 10
+	 }
+	
+}
+
+country_event = { 
+	id = 190003 #Decision
+	title = "PRU5.T"
+	desc = "PRU4.D"
+
+		trigger = { 
+  tag = PRU 
+  BYE = { vassal_of = PRU }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+		   option = { 
+	name = "PRU4.A" 
+	BYE = { add_accepted_culture = byelorussian }
+	 }
+	 
+	 option = { 
+	name = "PRU4a.A" 
+	prestige = 10
+	 }
+	
+}
+
+country_event = { 
+	id = 110004 #Decision
+	title = "PRU6.T"
+	desc = "PRU4.D"
+
+		trigger = { 
+  tag = PRU 
+  UBD = { vassal_of = PRU }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+		   option = { 
+	name = "PRU4.A" 
+	UBD = { 
+	add_accepted_culture = latvian
+    add_accepted_culture = estonian
+    add_accepted_culture = lithuanian }
+	 }
+	 
+	 option = { 
+	name = "PRU4a.A" 
+	prestige = 10
+	 }
+	
+}
+
+country_event = { 
+	id = 120004 #Decision
+	title = "PRU7.T"
+	desc = "PRU4.D"
+
+		trigger = { 
+  tag = PRU 
+  MUS = { vassal_of = PRU }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+		   option = { 
+	name = "PRU4.A" 
+	MUS = { 
+	add_accepted_culture = russian
+     }
+	 }
+	 
+	 option = { 
+	name = "PRU4a.A" 
+	prestige = 10
+	 }
+	
+}
+
+country_event = { 
+	id = 130004 #Decision
+	title = "BLT1.T"
+	desc = "BLT1.D"
+
+	is_triggered_only = yes
+	
+		   option = { 
+	name = "BLT1.A" 
+    360 = { secede_province = PRU }
+    361 = { secede_province = PRU }
+    363 = { secede_province = PRU }
+    364 = { secede_province = PRU }
+    365 = { secede_province = PRU }	
+     }
+	 }
+	 
+country_event = { 
+	id = 130044 #Decision
+	title = "BLT1.T"
+	desc = "BLT1.D"
+
+	is_triggered_only = yes
+	
+		   option = { 
+	name = "BLT1.A" 
+    939 = { secede_province = PRU }
+    938 = { secede_province = PRU }
+    936 = { secede_province = PRU }
+    947 = { secede_province = PRU }
+	357 = { secede_province = PRU }
+    356 = { secede_province = PRU }
+    958 = { secede_province = PRU }
+    959 = { secede_province = PRU }
+     }
+	 }	 
+	 	

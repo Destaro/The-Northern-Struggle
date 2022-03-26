@@ -1,0 +1,32 @@
+political_decisions = {
+	rename_the_congo = {
+		potential = {
+			tag = LOT
+			exists = CNG
+			CNG = {
+				vassal_of = THIS
+			}
+			NOT = {
+				has_global_flag = congo_renamed
+			}
+		}
+		
+		allow = {
+			invention = mission_to_civilize
+		}
+		
+		effect = {
+			1987 = {
+				change_province_name = "cringeville"
+			}		
+			1982 = {
+				change_province_name = "epicville"
+			}
+			1996 = {
+				change_province_name = "gamerville"
+			}
+			prestige = 10
+			set_global_flag = congo_renamed
+		}
+	}
+}

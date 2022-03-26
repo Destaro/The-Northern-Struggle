@@ -1,0 +1,142 @@
+REV01.T;Cultural tensions in the British isles;;;;;;;;;;;;;;;;;;;;x
+REV01.D;The settlement of the British isles by Scandinavian settlers has brought unwanted consequences. The locals are in dismay and are starting to organise revolts against their overlords. We are nearing the zenith of their unrest, and only time will tell what happens next.;;;;;;;;;;;;;;;;;;;;x
+REV01.A;Concerning;;;;;;;;;;;;;;;;;;;;x
+REV03.T;Britain unites against us;;;;;;;;;;;;;;;;;;;;x
+REV03.D;People are flocking under the banner of a new national hero, who is inciting a major revolt against our Empire! He is considered to be a beacon of hope to the British people, and the morale of the people is rising. We expect to see major developments with him as the symbol of resistance against foreign oppression.;;;;;;;;;;;;;;;;;;;;x
+REV03.A;Bring me his head!;;;;;;;;;;;;;;;;;;;;x
+REV04.T;The future of Northumbria;;;;;;;;;;;;;;;;;;;;x
+REV04.D;We have come to a crossroad. Two options have appeared on our table regarding the Northumbrian destiny. One is to stay loyal to our Danish overlords, and the other is to unite with Britain and join their revolt against Denmark. Which path should our nation take?;;;;;;;;;;;;;;;;;;;;x
+REV04.A1;Northumbria is Danish!;;;;;;;;;;;;;;;;;;;;x
+REV04.A2;Northumbria is British!;;;;;;;;;;;;;;;;;;;;x
+REV05.T;Violent riots emerge;;;;;;;;;;;;;;;;;;;;x
+REV05.D;Minor riots have started in the British isles. For now, they are not dangerous, but if we let them be they will get more arrogant and endanger the integrity of our nation. What should we do about them?;;;;;;;;;;;;;;;;;;;;x
+REV05.A1;Suppress the riots;;;;;;;;;;;;;;;;;;;;x
+REV05.A2;Let them be;;;;;;;;;;;;;;;;;;;;x
+REV08.T;The riots escalate!;;;;;;;;;;;;;;;;;;;;x
+REV08.D;The worst has came to the worst and the riots have gotten out of control. If we don't do something now, our control over the British isles will loosen and the rebels may overthrow our rule. We can bring help from our American colonies or accept the rebels' demands. What will be the best course of action for our nation?;;;;;;;;;;;;;;;;;;;;x
+REV08.A1;Increase the funding of the army with American money;;;;;;;;;;;;;;;;;;;;x
+REV08.A2;Conscript people from our American colonies;;;;;;;;;;;;;;;;;;;;x
+REV08.A3;Accept the rebels' demands;;;;;;;;;;;;;;;;;;;;x
+REV09.T;Our overlords increase tarrifs;;;;;;;;;;;;;;;;;;;;x
+REV09.D;In order to defeat the rebels in the British isles, the Scandinavians have increased the tarrifs on our goods. This has caused an outrage in our country and increased the resentment towards the colonisers.;;;;;;;;;;;;;;;;;;;;x
+REV09.A;We will not stand for this!;;;;;;;;;;;;;;;;;;;;x
+REV10.T;Our overlords increase conscription;;;;;;;;;;;;;;;;;;;;x
+REV10.D;In order to defeat the rebels in the British isles, the Scandinavians have begun conscripting more recruits. This has caused an outrage in our country and increased the resentment towards the colonisers.;;;;;;;;;;;;;;;;;;;;x
+REV11.T;The British question;;;;;;;;;;;;;;;;;;;;x
+REV11.D;Our overlords have granted the British people independence, but our population is still bound by the chains held by Scandinavians. We shouldn't allow this to continue any further! Our independence will be gained through spilled blood of our men fighting against foreign oppression!;;;;;;;;;;;;;;;;;;;;x
+REV11.A;Break the chains!;;;;;;;;;;;;;;;;;;;;x
+REV12.T;Pro-English governor killed by the army;;;;;;;;;;;;;;;;;;;;x
+REV12.D;A governor supporting the English people has been murdered by the military. The people are fed up with their overlords and the unrest is higher than ever. The spark that will ignite the fires of the revolution has just been lighted, and the day of judgement has come for the Scandinavians.;;;;;;;;;;;;;;;;;;;;x
+REV12.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
+REV12.A2;Onwards, on the barricades!;;;;;;;;;;;;;;;;;;;;x
+REV14.T;Pro-Irish governor killed by the army;;;;;;;;;;;;;;;;;;;;x
+REV14.D;A governor supporting the Irish people has been murdered by the military. The people are fed up with their overlords and the unrest is higher than ever. The spark that will ignite the fires of the revolution has just been lighted, and the day of judgement has come for oppressors.;;;;;;;;;;;;;;;;;;;;x
+REV14.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
+REV14.A2;Play as Ireland;;;;;;;;;;;;;;;;;;;;x
+REV14.A3;Play as Wales;;;;;;;;;;;;;;;;;;;;x
+REV16.T;Pro-Scottish governor killed by the army;;;;;;;;;;;;;;;;;;;;x
+REV16.D;A governor supporting the Scottish people has been murdered by the military. The people are fed up with their overlords and the unrest is higher than ever. The spark that will ignite the fires of the revolution has just been lighted, and the day of judgement has come for oppressors.;;;;;;;;;;;;;;;;;;;;x
+REV16.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
+REV16.A2;Play as Ireland;;;;;;;;;;;;;;;;;;;;x
+REV18.D;The Northumbrian people have decided to join the British revolution and reject their Danish overlords. We will break the chains that have bound us for many years!;;;;;;;;;;;;;;;;;;;;x
+REV19.A;Glory to Britain!;;;;;;;;;;;;;;;;;;;;x
+REV19.T;Northumbria offers help;;;;;;;;;;;;;;;;;;;;x
+REV19.D;The people of Northumbria have decided to join our just revolt against Denmark. We will use any help we can get to ensure our freedom and the well-being of the British people.;;;;;;;;;;;;;;;;;;;;x
+REV20.T;Brittany declares independence;;;;;;;;;;;;;;;;;;;;x
+REV20.D;The governor appointed to rule in our stead has taken advantage of the revolts happening in Britain and declared independence. We cannot do anything, as we are too busy fending off the British insurance.;;;;;;;;;;;;;;;;;;;;x
+REV20.A;We will get them... one day;;;;;;;;;;;;;;;;;;;;x
+REV21.T;Normandy declares independence;;;;;;;;;;;;;;;;;;;;x
+REV22.T;Burgundy takes over Norwegian colonies in France;;;;;;;;;;;;;;;;;;;;x
+REV22.D;The Burgundian military has noticed our temporary weakness and marched into our territories in France. It seems that they have completely gained control over Lille in this short period of time.;;;;;;;;;;;;;;;;;;;;x
+REV23.T;Workers revolt in Vinland;;;;;;;;;;;;;;;;;;;;x
+REV23.D;An echo has went through Vinland after we have increased the tarrifs. The workers there have revolted and created a new, revolutionary state and declared their independence from us. We have to embark on our ships and protect the integrity of our country.;;;;;;;;;;;;;;;;;;;;x
+REV23.A;North America will remain Scandinavian!;;;;;;;;;;;;;;;;;;;;x
+riots_bri_big;Riots;;;;;;;;;;;;;;;;;;;;x
+riots_bri_small;Riots;;;;;;;;;;;;;;;;;;;;x
+increased_taxes_overlord;Increased taxes;;;;;;;;;;;;;;;;;;;;x
+increased_taxes_colony;Increased taxes;;;;;;;;;;;;;;;;;;;;x
+increased_conscription_overlord;Increased conscription;;;;;;;;;;;;;;;;;;;;x
+increased_conscription_colony;Increased conscription;;;;;;;;;;;;;;;;;;;;x
+VEN01.T;The death of a Doge;;;;;;;;;;;;;;;;;;;;x
+VEN01.D;This morning, our Doge, Giovanni Morosini, has passed away in his bed. The nation mourns his death, as he was a beloved ruler who took care of his people. Now, we need to prepare to elect a new Doge who will lead our nation through these tough times.;;;;;;;;;;;;;;;;;;;;x
+VEN01.A;May he rest in Heaven;;;;;;;;;;;;;;;;;;;;x
+VEN02.T;The Great Council of Venice;;;;;;;;;;;;;;;;;;;;x
+VEN02.D;The Great Council has launched an emergency meeting, where after a convoluted process 3 pure-blooded candidates for the title of the Doge were chosen: Alessandro Pagnozzi, coming from a wealthy merchant family, with a grand idea of dominating the seas, Gianni d'Angelo, a higher-up in the army and a staunch militarist, and young Giuseppe Garibaldi, commonly called "The Italian" for his nationalistic ideas. The Council is now deciding on who the best person to lead the country in the future will be.;;;;;;;;;;;;;;;;;;;;x
+VEN02.A1;Pagnozzi wins;;;;;;;;;;;;;;;;;;;;x
+VEN02.A2;d'Angelo wins;;;;;;;;;;;;;;;;;;;;x
+VEN02.A3;Garibaldi wins;;;;;;;;;;;;;;;;;;;;x
+VEN03.T;Alessandro Pagnozzi elected Doge of Venice;;;;;;;;;;;;;;;;;;;;x
+VEN04.T;Gianni d'Angelo elected Doge of Venice;;;;;;;;;;;;;;;;;;;;x
+VEN05.T;Giuseppe Garibaldi elected Doge of Venice;;;;;;;;;;;;;;;;;;;;x
+VEN03.D;The Venetian nation once dominated the Mediterranean sea, possessing the largest navy in the region. It has become apparent that the people want to regain our former glory and undisputedly rule over the Mediterranean once again. In order to do that, a candidate with an ambition of controlling the seas and the means to achieve it has been elected as the Doge of Venice. It is hoped that the nation will enter prosperous times and become a force to be reckoned with once again.;;;;;;;;;;;;;;;;;;;;x
+VEN04.D;The Venetian army desperately needs modernisation. It has become apparents that the threats coming from Austria cannot be ignored, and we cannot stop them in our current state. As a means of achieving this goal, someone with a military background who will rule the country with an iron fist has been put into power. That person is Gianni d'Angelo, a general of the Venetian army.;;;;;;;;;;;;;;;;;;;;x
+VEN05.D;The Apennine peninsula is divided between countless minor Italian states. We have already seen in the past that a divided Italian nation is prone to foreign invasions. In order to protect the Italian people and unite the peninsula, a young and capable candidate with the ability to fearlessly lead the people has been elected. We hope that this is the right choice and Italy will be a great and prosperous nation and will be a force to be reckoned with.;;;;;;;;;;;;;;;;;;;;x
+VEN03.A;Avanti Venezia!;;;;;;;;;;;;;;;;;;;;x
+VEN04.A;Avanti Venezia!;;;;;;;;;;;;;;;;;;;;x
+VEN05.A;Avanti Italia!;;;;;;;;;;;;;;;;;;;;x
+VEN06.T;Venice called the most beautiful vacation spot in Europe;;;;;;;;;;;;;;;;;;;;x
+VEN06.D;Many newspapers around the world, including The Courier, the Daily Mail and many others, have been calling Venice the best place to visit in $YEAR$. We are sure that many tourists will visit and see the beauty of this city.;;;;;;;;;;;;;;;;;;;;x
+VEN06.A;Welcome to Venice!;;;;;;;;;;;;;;;;;;;;x
+VEN07.T;Fate of Croatia;;;;;;;;;;;;;;;;;;;;x
+VEN06.A;Joining their rebellion against Austria, we did promise them freedom from Hapsburgian rule in exchange for alliance and some contributions, and the deal was signed. However, what we did not promise was total freedom from our rule, oh no. Croatian army is victorious but weak, and we are in a position to quickly come and take everything.;;;;;;;;;;;;;;;;;;;;x
+VEN07.A;They will get angry. Who asked though?;;;;;;;;;;;;;;;;;;;;x
+conquer_tun_title;Conquer Tunis;;;;;;;;;;;;;;;;;;;;x
+conquer_tun_desc;Venice needs to become a leading force in the Mediterranean. To show our dominance, we will broaden our coastline and acquire a new colony in North Africa. Tunis will be the first step in our lengthy journey!;;;;;;;;;;;;;;;;;;;;x
+annex_java_title;End the Rajasa dynasty;;;;;;;;;;;;;;;;;;;;x
+annex_java_desc;Following a local uprising in our country, which has long held Java in its sphere of influence, we will formally depose the Royal House and annex the island.;;;;;;;;;;;;;;;;;;;;x
+become_greece_title;Relocate to Greece;;;;;;;;;;;;;;;;;;;;x
+become_greece_desc;Out capital city, Venice, and a lot of major strongholds on the Apennine peninsula have been lost. As our government is still intact, we will relocate to Greece and continue our reign in there, hoping to return to our homeland one day.;;;;;;;;;;;;;;;;;;;;x
+expand_docks_title;Expand docks;;;;;;;;;;;;;;;;;;;;x
+expand_docks_desc;Our new Doge is already making efforts to improve our nation's navy. His first decree is to expand our docks so that we are able to produce and repair new ships more effectively.;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_adriatic_title;Guarantee merchants' safety in the Adriatic;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_adriatic_desc;Our sailors are worried about their safety while sailing through the Adriatic sea. We need to address this issue so that we can trade with other countries without any problems.;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_black_sea_title;Guarantee merchants' safety in the Black Sea;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_black_sea_desc;Our sailors are worried about their safety while sailing through the Black sea. We need to address this issue so that we can trade with other countries without any problems.;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_med_title;Guarantee merchants' safety in the Mediterranean;;;;;;;;;;;;;;;;;;;;x
+guarantee_trade_in_med_desc;Our sailors are worried about their safety while sailing through the Mediterranean sea. We need to address this issue so that we can trade with other countries without any problems.;;;;;;;;;;;;;;;;;;;;x
+ports_in_east_asia_title;Colonies in the East;;;;;;;;;;;;;;;;;;;;x
+ports_in_east_asia_desc;Our navy has grown very strong and can compete with the major naval powers of the world. We need to think about expanding our trade routes, and acquiring a port in China will definitely broaden our possibilites and help our merchants sell their products overseas.;;;;;;;;;;;;;;;;;;;;x
+naval_dominance_title;Venetian global dominance;;;;;;;;;;;;;;;;;;;;x
+naval_dominance_desc;Over the past years, the Venetian navy has grown substantially. We possess a large fleet capable of beating anyone who dares to challenge us. We have finally achieved the dream of naval dominance in Europe.;;;;;;;;;;;;;;;;;;;;x
+invade_croatia_title;The first decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
+invade_croatia_desc;The threat of an Austrian invasion is looming. We need to expand our military and protect our borders, and our first target will be our neighbour, Crotia, whom we will easily be able to conquer.;;;;;;;;;;;;;;;;;;;;x
+invade_croatia_puppet_title;The first decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
+invade_croatia_puppet_desc;Austrian army has recently arrived in Zagreb and forced the Croatian government to capitulate and submit to Austrian rule. Unacceptable! Austria will expand near our borders no more! By supporting Croatian separatists, we can destabilise the Hapsburgs and gain some power ourselves.;;;;;;;;;;;;;;;;;;;;x
+invade_serbia_title;The second decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
+invade_serbia_desc;After dealing with Croatia, we have opened up new possibilites of expansion in the Balkans. Our next target will be Serbia, a country with very little defensive capabilities.;;;;;;;;;;;;;;;;;;;;x
+croatian_compromise_title;The Croatian compromise;;;;;;;;;;;;;;;;;;;;x
+serbian_compromise_title;The Serbian compromise;;;;;;;;;;;;;;;;;;;;x
+croatian_compromise_desc;The Croats and the Serbians are known not to like each other very much. We need to choose one side if we want to develop our country further. We have decided that the right way to go forwards is to compromise with the Croats, and leave Serbia behind.;;;;;;;;;;;;;;;;;;;;x
+serbian_compromise_desc;The Croats and the Serbians are known not to like each other very much. We need to choose one side if we want to develop our country further. We have decided that the right way to go forwards is to compromise with the Serbs, and leave Croatia behind.;;;;;;;;;;;;;;;;;;;;x
+destabilise_bulgaria_title;Destabilise Bulgaria;;;;;;;;;;;;;;;;;;;;x
+destabilise_bulgaria_desc;Bulgaria is a country torn by many internal conflicts. We can use this to our advantage and subjugate their country by force, so that we can be the strongest force in the Balkans.;;;;;;;;;;;;;;;;;;;;x
+push_into_asia_title;Push into Asia;;;;;;;;;;;;;;;;;;;;x
+push_into_asia_desc;The Aegean islands are very close to our borders. We need to protect our interest in the region and take these islands, so that the safety of our people can be guaranteed.;;;;;;;;;;;;;;;;;;;;x
+prepare_against_austrians_title;Prepare against Austrians;;;;;;;;;;;;;;;;;;;;x
+prepare_against_austrians_desc;The Austrian threat is closer to us than ever. We need to prepare for an invasion, which by this point is imminent. Our military will very soon be put to a test, and we need to make sure that we will come out victorious.;;;;;;;;;;;;;;;;;;;;x
+protect_ethnic_minorities_title;Protect ethnic minorities;;;;;;;;;;;;;;;;;;;;x
+protect_ethnic_minorities_desc;Austria unjustly controls many lands inhabited by people of many ethnicities, many of which were discriminated against in there. It is our divine right to protect these people and give them safety and protection that they deserve.;;;;;;;;;;;;;;;;;;;;x
+invade_savoy_title;Invade Savoy;;;;;;;;;;;;;;;;;;;;x
+invade_savoy_desc;Savoy is a land inhabited by many Italian people. We need to make sure they live in safety, and we aren't sure if Savoy can provide that to them. To protect our people, we will enter Savoy and take these territories by force.;;;;;;;;;;;;;;;;;;;;x
+meddle_with_south_germany_title;Intervene with South German affairs;;;;;;;;;;;;;;;;;;;;x
+meddle_with_south_germany_desc;Austria may no longer be a looming disaster to our nation, but they are still a considerable threat. We need to make sure our country will keep safe from anything that might threaten our country, and to do that we will intervene in South Germany.;;;;;;;;;;;;;;;;;;;;x
+subjugate_aus_title;Subjugate Austria;;;;;;;;;;;;;;;;;;;;x
+subjugate_aus_desc;Austria is no longer in a position to threaten us, and we might as well use this opportunity to expand our territories to the north.;;;;;;;;;;;;;;;;;;;;x
+industrial_powerhouse_title;Venetian industrial might;;;;;;;;;;;;;;;;;;;;x
+industrial_powerhouse_desc;In the past years, Venice's industry has grown by a considerable amount under Garibaldi's rule, and we are considered the industrial powerhouse of the world.;;;;;;;;;;;;;;;;;;;;x
+alessandro_pagnozzi;Alessandro Pagnozzi;;;;;;;;;;;;;;;;;;;;x
+alessandro_pagnozzi_desc;Alessandro Pagnozzi, a eighth-generation pure-blooded merchant, has been elected the 122nd Doge of Venice.;;;;;;;;;;;;;;;;;;;;x
+gianni_dangelo;Gianni d'Angelo;;;;;;;;;;;;;;;;;;;;x
+gianni_dangelo_desc;Gianni d'Angelo, a staunch militarist, has been elected the 122nd Doge of Venice.;;;;;;;;;;;;;;;;;;;;x
+giuseppe_garibaldi;Giuseppe Garibaldi;;;;;;;;;;;;;;;;;;;;x
+giuseppe_garibaldi_desc;Giuseppe "The Italian" Garibaldi, an advocate for Italian unification, has been elected the 122nd Doge of Venice.;;;;;;;;;;;;;;;;;;;;x
+expanded_docks;Expanded naval production;;;;;;;;;;;;;;;;;;;;x
+expanded_docks_desc;Pagnozzi's first decree in office was to expand naval production.;;;;;;;;;;;;;;;;;;;;x
+naval_dominance;Naval dominance;;;;;;;;;;;;;;;;;;;;x
+naval_dominance_desc;Venetian navy is the greatest in the world, and no one dares to contest us!;;;;;;;;;;;;;;;;;;;;x
+military_buff;Military exercise on Austrian border;;;;;;;;;;;;;;;;;;;;x
+military_buff_desc;D'Angelo's first decree in office was to start army drilling to prepare against Austrian onslaught.;;;;;;;;;;;;;;;;;;;;x
+industrial_powerhouse_modif;Industrial powerhouse;;;;;;;;;;;;;;;;;;;;x
+industrial_powerhouse_modif_desc;Venetian industry is the most sprawling industry in the world. No country comes even close to our numbers!;;;;;;;;;;;;;;;;;;;;x
+tourist_attraction;Best tourist destination of this yea;;;;;;;;;;;;;;;;;;;;x
+tourist_attraction_desc;Over the years, the city of Venice has proven to be a very attractive destination for tourists, and is growing very quickly.;;;;;;;;;;;;;;;;;;;;x

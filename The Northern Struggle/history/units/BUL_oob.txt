@@ -1,0 +1,201 @@
+army = {
+	name = "Constantine Garrison"
+	location = 860
+	regiment = {
+		name= "I. corp"
+		type = guard
+		home = 860
+	}
+regiment = {
+		name= "I. corp"
+		type = guard
+		home = 811
+	}
+regiment = {
+		name= "I. corp"
+		type = guard
+		home = 812
+	}
+regiment = {
+		name= "I. corp"
+		type = artillery
+		home = 813
+	}
+regiment = {
+		name= "I. corp"
+		type = artillery
+		home = 814
+	}
+regiment = {
+		name= "I. corp"
+		type = hussar
+		home = 828
+	}
+regiment = {
+		name= "I. corp"
+		type = cuirassier
+		home = 859
+	}
+}
+
+army = {
+	name = "Army of Sofia"
+	location = 809
+	regiment = {
+		name= "I. corp"
+		type = guard
+		home = 810
+	}
+regiment = {
+		name= "I. corp"
+		type = guard
+		home = 809
+	}
+
+regiment = {
+		name= "I. corp"
+		type = artillery
+		home = 813
+	}
+regiment = {
+		name= "I. corp"
+		type = artillery
+		home = 806
+	}
+
+regiment = {
+		name= "I. corp"
+		type = cuirassier
+		home = 807
+	}
+}
+
+navy = {
+	name = "Bulgarian Navy"
+	location = 860
+	ship = {
+		name= "Masudiya"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sadd al Bahri"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ankay i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Taus i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Tevfik Nyuma"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bisharet Nyuma"
+		type = manowar
+	}
+
+	ship = {
+		name= "Killid i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heybetendaz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Melek i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sayyad i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Gulbang i Nusret"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jebel Andaz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Iskenderiya"
+		type = frigate
+	}
+
+	ship = {
+		name= "Badere i Zaffar"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mahubey Subham"
+		type = frigate
+	}
+
+	ship = {
+		name= "Metelin"
+		type = frigate
+	}
+
+	ship = {
+		name= "Denyuvet"
+		type = frigate
+	}
+
+	ship = {
+		name= "Rahbar i Alam"
+		type = frigate
+	}
+
+	ship = {
+		name= "Malbaik Nesuret"
+		type = frigate
+	}
+
+	ship = {
+		name= "Bedr i Zafar"
+		type = frigate
+	}
+
+	ship = {
+		name= "Meskeni Ghazi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fakim i Zafar"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+}

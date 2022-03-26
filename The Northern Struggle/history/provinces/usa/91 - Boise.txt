@@ -1,0 +1,15 @@
+owner = COL
+controller = COL
+trade_goods = wool
+life_rating = 35
+
+
+add_core = USA
+add_core = CAN
+
+1861.1.1 = {
+	add_core = USA
+}
+
+
+add_core = COL

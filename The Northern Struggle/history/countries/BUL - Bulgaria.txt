@@ -1,0 +1,66 @@
+capital = 809
+primary_culture = bulgarian
+religion = orthodox
+government = hms_government
+plurality = 0.08
+nationalvalue = nv_order
+prestige = 20
+literacy = 0.4
+civilized = yes
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = no_trade_unions
+voting_system = jefferson_method
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = trinket_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+oob = "BUL_oob.txt"
+
+ruling_party = BUL_conservative
+upper_house = {
+	fascist = 0
+	liberal = 25
+	conservative = 60
+	reactionary = 10
+	anarcho_liberal = 5
+	socialist = 0
+	communist = 0
+}
+
+1861.1.1 = {
+	oob = "/1861/BUL_oob.txt"
+}
+1861.1.1 = {
+# Technologies
+
+#Inventions
+}

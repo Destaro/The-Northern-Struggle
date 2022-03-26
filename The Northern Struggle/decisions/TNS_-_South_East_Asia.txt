@@ -1,0 +1,334 @@
+political_decisions = {
+    indochina_westernization = {
+        picture = torching_of_the_summer_palace
+        potential = {
+			OR = {
+			tag = DAI
+			tag = BUR
+			tag = CAM
+			tag = SIA
+			}
+			NOT = { has_country_flag = indochina_westernization }
+        }
+        allow = {
+			prestige = 15
+			war = no
+		}
+
+        effect = {
+			research_points = 150000
+			set_country_flag = indochina_westernization
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+form_indochina = {
+		potential = { 
+			OR = {
+			tag = DAI
+			tag = BUR
+			tag = CAM
+			tag = SIA
+			}
+			NOT = {
+				exists = INC
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			BUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			SIA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			CAM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			DAI = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+add_accepted_culture = vietnamese
+add_accepted_culture = lao
+add_accepted_culture = burmese
+add_accepted_culture = thai
+add_accepted_culture = khmer
+			change_tag = INC
+			BUR = { all_core = { add_core = INC } }
+			SIA = { all_core = { add_core = INC } }
+			DAI = { all_core = { add_core = INC } }
+			CAM = { all_core = { add_core = INC } }
+			prestige = 40
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = vietnamese
+						primary_culture = lao
+						primary_culture = burmese
+						primary_culture = thai
+						primary_culture = khmer
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    vietnam_conquer_cambodia = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = DAI
+			NOT = { has_country_flag = vietnam_conquer_cambodia }
+        }
+        allow = {
+      war = no
+			prestige = 25
+     
+		}
+
+        effect = {
+			badboy = 10
+			add_core = 1368
+			any_provinces = {
+				limit = {
+					LUA_1356
+					ANN_1383
+				}
+				add_core = DAI
+			}
+			set_country_flag = vietnam_conquer_cambodia
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    vietnam_conquer_mon_kingdom = {
+        picture = torching_of_the_summer_palace
+        potential = {
+			tag = DAI
+			NOT = { has_country_flag = vietnam_takes_mon_kingdom }
+        }
+        allow = {
+			prestige = 20
+			war = no
+			owns = 1366
+		}
+
+        effect = {
+			badboy = 10
+			SIA = { all_core = { add_core = DAI } }
+			set_country_flag = vietnam_takes_mon_kingdom
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    vietnam_conquer_burma = {
+        picture = torching_of_the_summer_palace
+        potential = {
+			tag = DAI
+			NOT = { has_country_flag = vietnam_conquer_burma }
+        }
+        allow = {
+			prestige = 20
+			war = no
+			owns = 1346
+		}
+
+        effect = {
+			badboy = 10
+			BUR = { all_core = { add_core = DAI } }
+			set_country_flag = vietnam_conquer_burma
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    cambodia_conquer_vietnam = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = CAM
+			NOT = { has_country_flag = cambodia_conquer_vietnam }
+        }
+        allow = {
+      war = no
+			prestige = 20
+CAM = { all_core = { owned_by = THIS } }
+		}
+
+        effect = {
+			badboy = 10
+			add_core = 1378
+			add_core = 1379
+			add_core = 1356
+			any_provinces = {
+				limit = {
+					ANN_1374
+				}
+				add_core = CAM
+			}
+			casus_belli = {
+				target = DAI
+				type = conquest_any
+				months = 36
+			}
+			set_country_flag = cambodia_conquer_vietnam
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    cambodia_conquer_mon = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = CAM
+			NOT = { has_country_flag = cambodia_conquer_mon }
+        }
+        allow = {
+      war = no
+       
+			prestige = 30
+		}
+
+        effect = {
+			badboy = 10
+			SIA = { all_core = { add_core = CAM } }
+			set_country_flag = cambodia_conquer_mon
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    burma_conquer_mon = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = BUR
+			NOT = { has_country_flag = burma_conquer_mon }
+        }
+        allow = {
+      war = no
+			prestige = 25
+     
+    
+		}
+
+        effect = {
+			badboy = 10
+			SIA = { all_core = { add_core = BUR } }
+			set_country_flag = burma_conquer_mon
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    burma_conquer_cambodia = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = BUR
+			NOT = { has_country_flag = burma_conquer_cambodia }
+        }
+        allow = { 
+     war = no
+			prestige = 20
+			owns = 1346
+		}
+
+        effect = {
+			badboy = 10
+			CAM = { all_core = { add_core = BUR } }
+			set_country_flag = burma_conquer_cambodia
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    mon_expands = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = SIA
+			NOT = { has_country_flag = mon_expands }
+        }
+        allow = {
+      war = no
+			prestige = 20
+		}
+
+        effect = {
+			badboy = 5
+			any_provinces = {
+				limit = {
+					SIA_1358
+					LUA_1356
+					SIA_1355
+				}
+				add_core = SIA
+			}
+			add_core = 1343
+			add_core = 1332
+			set_country_flag = mon_expands
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    mon_conquer_cambodia = {
+        picture = torching_of_the_summer_palace
+        potential = {
+            tag = SIA
+			NOT = { has_country_flag = mon_conquer_cambodia }
+        }
+        allow = {
+			prestige = 20
+			owns = 1350
+		}
+
+        effect = {
+			badboy = 10
+			CAM = { all_core = { add_core = SIA } }
+			set_country_flag = mon_conquer_cambodia
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

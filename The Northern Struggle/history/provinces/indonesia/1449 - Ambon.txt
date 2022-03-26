@@ -1,0 +1,5 @@
+owner = NOR
+controller = NOR
+trade_goods = grain
+life_rating = 30
+colonial = 1

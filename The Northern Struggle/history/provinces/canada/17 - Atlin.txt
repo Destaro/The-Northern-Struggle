@@ -1,0 +1,8 @@
+owner = NOR
+controller = NOR
+add_core = CAN
+add_core = COL
+trade_goods = timber
+life_rating = 30
+
+colonial = 2

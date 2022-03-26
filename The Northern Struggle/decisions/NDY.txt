@@ -1,0 +1,290 @@
+country_event = { 
+	id = 100100 #War for the independence
+	title = "NDY1.T"
+	desc = "NDY1.D"
+	
+	trigger = { 
+	tag = NDY  
+	year = 1856
+	NDY = {
+	 exists = yes
+	 vassal_of = DEN
+	 }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 10 
+	modifier = {  
+	factor = 1
+		}
+	}
+	immediate = {
+	set_global_flag = war_ndy
+	}
+	
+	option = { 
+	name = "NDY1.A" 
+	release_vassal = NDY
+	leave_alliance = DEN
+	relation = { who = SWE value = -200 }
+    relation = { who = DEN value = -200 } 	
+	NDY = { add_accepted_culture = Norman }
+	NDY = { add_accepted_culture = Breton }
+	inherit = BRT
+	}
+	
+	}
+	
+			
+			country_event = { 
+	id = 5070 #revolution_den
+	title = "REVLT7.T"
+	desc = "REVLT7.D"
+	
+	 trigger = {
+     tag = DEN
+	 has_country_flag = bri_rising
+	}
+    
+	fire_only_once = yes 
+
+    mean_time_to_happen = {
+        days = 10
+		   modifier = {
+            factor = 1.5
+        }
+    }
+	
+    option = {
+        name = "REVLT7.A" 
+		 296 = { secede_province = ENG }
+	     299 = { secede_province = ENG }
+	     297 = { secede_province = ENG }
+	     298 = { secede_province = ENG }
+         419 = { secede_province = ENG }
+		 300 = { secede_province = ENG }
+	     294 = { secede_province = ENG }
+	     301 = { secede_province = ENG }
+	     302 = { secede_province = ENG }
+         303 = { secede_province = ENG }
+		 284 = { secede_province = ENG }
+         286 = { secede_province = ENG }
+		 287 = { secede_province = ENG }
+	     288 = { secede_province = ENG }
+	     289 = { secede_province = ENG } 
+         290 = { secede_province = ENG }
+		 
+		 war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region
+			state_province_id = 291
+			}
+			}
+			}
+			
+		 option = {
+        name = "REVLT7a.A" 
+		 296 = { secede_province = ENG }
+	     299 = { secede_province = ENG }
+	     297 = { secede_province = ENG }
+	     298 = { secede_province = ENG }
+         419 = { secede_province = ENG }
+		 300 = { secede_province = ENG }
+	     294 = { secede_province = ENG }
+	     301 = { secede_province = ENG }
+	     302 = { secede_province = ENG }
+         303 = { secede_province = ENG }
+		 284 = { secede_province = ENG }
+         286 = { secede_province = ENG }
+		 287 = { secede_province = ENG }
+	     288 = { secede_province = ENG }
+	     289 = { secede_province = ENG } 
+         290 = { secede_province = ENG }
+		 
+		 war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region
+			state_province_id = 291
+			}
+			}
+			change_tag_no_core_switch = ENG
+			}	
+			
+			}
+			
+	country_event = { 
+	id = 5060 #revolution_SWE
+	title = "REVLT8.T"
+	desc = "REVLT8.D"
+	
+	 trigger = {
+     tag = SWE
+	 has_country_flag = bri_rising
+	}
+    
+	fire_only_once = yes 
+
+    mean_time_to_happen = {
+        days = 1
+		   modifier = {
+            factor = 1.5
+        }
+    }
+	
+    option = {
+        name = "REVLT8.A" 
+		 273 = { secede_province = ENG }
+	     274 = { secede_province = ENG }
+	     275 = { secede_province = ENG }
+	     263 = { secede_province = IRE }
+		 258 = { secede_province = IRE }
+		 259 = { secede_province = IRE }
+		 264 = { secede_province = IRE }
+		 265 = { secede_province = IRE }
+		 260 = { secede_province = IRE }
+		 261 = { secede_province = IRE }
+		 262 = { secede_province = IRE }
+		 
+		 release_vassal = IRE
+	     leave_alliance = IRE
+	
+		 war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				state_province_id = 273
+			}
+			defender_goal = {
+			casus_belli = acquire_state 
+			state_province_id = 276
+			}
+			}
+			war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region
+			state_province_id = 254
+			}
+			}
+			}
+			
+			option = {
+        name = "REVLT8a.A" 
+		 273 = { secede_province = ENG }
+	     274 = { secede_province = ENG }
+	     275 = { secede_province = ENG }
+	     263 = { secede_province = IRE }
+		 258 = { secede_province = IRE }
+		 259 = { secede_province = IRE }
+		 264 = { secede_province = IRE }
+		 265 = { secede_province = IRE }
+		 260 = { secede_province = IRE }
+		 261 = { secede_province = IRE }
+		 262 = { secede_province = IRE }
+		 
+		 release_vassal = IRE
+	     leave_alliance = IRE
+	
+		 war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = acquire_substate_region
+				state_province_id = 273
+			}
+			defender_goal = {
+			casus_belli = acquire_state 
+			state_province_id = 276
+			}
+			}
+			war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region
+			state_province_id = 254
+			}
+			}
+			change_tag_no_core_switch = IRE
+			} 
+			
+			}
+			
+	country_event = { 
+	id = 5050 #revolution_NOR
+	title = "REVLT9.T"
+	desc = "REVLT9.D"
+	
+	 trigger = {
+     tag = NOR
+	 has_country_flag = bri_rising
+	}
+    
+	fire_only_once = yes 
+
+    mean_time_to_happen = {
+        days = 10
+		   modifier = {
+            factor = 1.5
+        }
+    }
+	
+    option = {
+        name = "REVLT9.A" 
+		 270 = { secede_province = SCO }
+	     266 = { secede_province = SCO }
+	     267 = { secede_province = SCO }
+	     268 = { secede_province = SCO }
+		 
+		 war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region 
+			state_province_id = 269
+			}
+			}
+			}
+			
+			 option = {
+        name = "REVLT9a.A" 
+		 270 = { secede_province = SCO }
+	     266 = { secede_province = SCO }
+	     267 = { secede_province = SCO }
+	     268 = { secede_province = SCO }
+		 
+		 war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region 
+			state_province_id = 269
+			}
+			}
+			change_tag_no_core_switch = IRE
+			}
+			}
+	
+	
+	
+
+	
+	

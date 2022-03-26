@@ -1,0 +1,8 @@
+owner = OMA
+controller = OMA
+trade_goods = fruit
+life_rating = 15
+
+add_core = OMA
+
+add_core = ZAN

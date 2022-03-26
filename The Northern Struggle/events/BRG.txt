@@ -1,0 +1,178 @@
+country_event = { 
+	id = 110003 #Decision
+	title = "BRG1.T"
+	desc = "BRG1.D"
+	
+	trigger = { 
+  tag = BRG 
+  owns = 556
+  owns = 559
+  owns = 682
+	}
+	
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "BRG1.A" 
+    add_country_modifier = { name = good_brg duration = 10000 }
+	ai_chance = { factor = 50 }
+			}
+			
+	    option = { 
+	name = "BRG1a.A" 
+    create_vassal = BOH
+	BOH = {
+	  primary_culture = south_german
+      add_accepted_culture = north_german	  
+	  remove_accepted_culture = slovak
+	add_country_modifier = { name = german_protectorate duration = -1 }
+    	
+	any_pop = {
+            limit = {
+                has_pop_culture = czech
+            }
+            consciousness = 3
+			militancy = 3
+        }	
+		}
+	630 = { change_province_name = "Budweis" }			
+	631 = { change_province_name = "Brunn" }
+	625 = { change_province_name = "Prag" }
+	629 = { change_province_name = "Pilsen" }
+	626 = { change_province_name = "Koniggratz" }
+	632 = { change_province_name = "Olmutz" }
+	689 = { change_province_name = "Tschechisch" }	
+	badboy = 5	
+	ai_chance = { factor = 50 }
+			}		
+	}
+	
+country_event = { 
+	id = 120003 #Decision
+	title = "BRG2.T"
+	desc = "BRG2.D"
+	
+	is_triggered_only = yes
+	
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+
+	    option = { 
+	name = "BRG2.A" 
+    681 = { secede_province = BRG }
+	695 = { secede_province = BRG }
+	697 = { secede_province = BRG }
+	699 = { secede_province = POL }
+	701 = { secede_province = POL }
+	700 = { secede_province = POL }
+	war = {
+			target = BRG
+			attacker_goal = {
+			casus_belli = acquire_core_state 
+			state_province_id = 681
+			}
+			attacker_goal = {
+			casus_belli = acquire_core_state 
+			state_province_id = 691
+			}
+			defender_goal = {
+			casus_belli = annex_core_country
+			}
+			}
+	war = {
+			target = POL
+			attacker_goal = {
+				casus_belli = annex_core_country
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+    BRG = {
+    war = {
+			target = POL
+			attacker_goal = {
+				casus_belli = annex_core_country
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			} }	
+	}
+}	
+
+country_event = { 
+	id = 110013 #hun
+	title = "AUS7.T"
+	desc = "AUS7.D"
+	
+	trigger = { 
+    tag = AUS
+	year = 1840
+	owns = 606
+    owns = 605	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 30
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "AUS7.A" 
+	any_owned = {
+	limit = { is_core = SWI }
+	remove_core = AUS }
+	2568 = { secede_province = VEN }
+	609 = { secede_province = SAR }
+	608 = { secede_province = BGU }
+	607 = { secede_province = BGU }
+	any_owned = {
+	limit = { is_core = SWI }
+	secede_province = SWI }
+    ai_chance = { factor = 90 }	
+	
+	}
+	
+	option = { 
+	name = "AUS7a.A" 
+	2568 = { secede_province = VEN }
+	609 = { secede_province = SAR }
+	608 = { secede_province = BGU }
+	607 = { secede_province = BGU }
+	any_owned = {
+	limit = { is_core = SWI }
+	secede_province = SWI }
+	war = {
+			target = SWI
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+		badboy = 10
+    ai_chance = { factor = 50 }	
+	}
+	}
+
+	

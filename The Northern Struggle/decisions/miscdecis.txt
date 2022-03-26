@@ -1,0 +1,24 @@
+political_decisions = {
+
+buy_boh = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = bog_bym }
+            is_vassal = no
+			OR = {
+			BOH = { vassal_of = PRU } 
+			BOH = { vassal_of = BRG } }
+		}
+		allow = {
+			money = 50000
+		}
+		effect = {
+        set_country_flag = bog_bym
+		PRU = { country_event = 170160 }
+		BRG = { country_event = 170160 }
+
+}
+
+}
+
+}

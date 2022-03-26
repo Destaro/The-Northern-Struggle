@@ -1,0 +1,36 @@
+political_decisions = {
+form_eranshahr = {
+		picture = khosrow_the_great
+		potential = {
+			
+				tag = PER
+			
+		}
+		allow = {
+			war = no
+			AFG = { all_core = { owned_by = THIS } } 
+			PER = { all_core = { owned_by = THIS } } 
+		}
+		
+		effect = {
+			prestige = 10
+			AFG = { all_core = { add_core = ARY } } 
+			PER = { all_core = { add_core = ARY } }
+			KOK = { all_core = { add_core = ARY } }
+			BUK = { all_core = { add_core = ARY } }
+			KHI = { all_core = { add_core = ARY } }
+			IRQ = { all_core = { add_core = ARY } }
+			890 = { add_core = ARY }
+			892 = { add_core = ARY }
+			KZK = { all_core = { remove_core = ARY } }
+			1186 = { remove_core = ARY }
+			1188 = { remove_core = ARY }
+			1190 = { remove_core = ARY }
+			1194 = { remove_core = ARY }
+			change_tag = ARY
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

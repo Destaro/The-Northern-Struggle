@@ -1,0 +1,835 @@
+
+MAD = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+BRG = {
+	value = 50		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+IRE = {
+	value = 50		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+ORL = {
+	value = 20		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+NEW = {
+	value = 50		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+CUB = {
+	value = 50		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+POR = {
+	value = 50		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+LIT = {
+	value = 75		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+DZG = {
+	value = 50	#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+
+
+leader = {
+	name = "Carl Nordenskjöld"
+	date = 1834.1.1
+	type = sea
+	personality = disciplined
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Carl XIV Johan"
+	date = 1818.1.1
+	type = land
+	personality = charismatic
+	background = elderly
+	prestige = 0.5
+}
+
+leader = {
+	name = "Johan Tawast"
+	date = 1807.1.1
+	type = land
+	personality = soldierly
+	background = old_school
+	prestige = 0.3
+}
+
+leader = {
+	name = "Axel Mörner"
+	date = 1818.1.1
+	type = land
+	personality = unruly
+	background = generals_aide
+	prestige = 0.2
+}
+
+leader = {
+	name = "Baltzar von Platen"
+	date = 1834.1.1
+	type = sea
+	personality = able
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "C. Cederström"
+	date = 1824.1.1
+	type = land
+	personality = strange
+	background = hated
+	prestige = 0.1
+}
+
+leader = {
+	name = "af Billbergh"
+	date = 1814.1.1
+	type = land
+	personality = diplomatic
+	background = toady
+	prestige = 0.2
+}
+
+leader = {
+	name = "Gustaf Peyron"
+	date = 1827.1.1
+	type = land
+	personality = imperious
+	background = exranker
+	prestige = 0.1
+}
+army = {
+	name = "The Calcutta Army"
+	location = 1251
+	regiment = {
+		name= "1.10th Division"
+		type = infantry
+		home = 300
+	}
+
+	regiment = {
+		name= "2.10th Division"
+		type = infantry
+		home = 2566
+	}
+
+	regiment = {
+		name= "3.10th Division"
+		type = infantry
+		home = 1256
+	}
+
+	regiment = {
+		name= "1.3rd Indian Division"
+		type = infantry
+		home = 1251
+	}
+
+	regiment = {
+		name= "2.3rd Indian Division"
+		type = infantry
+		home = 1257
+	}
+
+	regiment = {
+		name= "3.3rd Indian Division"
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "1.4th Indian Division"
+		type = infantry
+		home = 1258
+	}
+
+	regiment = {
+		name= "2.4th Indian Division"
+		type = infantry
+		home = 1251
+	}
+
+	regiment = {
+		name= "3.4th Indian Division"
+		type = infantry
+		home = 1329
+	}
+
+}
+
+
+army = {
+	name = "Svenska Armén"
+	location = 322
+	regiment = {
+		name= "Svea Livgarde"
+		type = guard
+		home = 322
+	}
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 326
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 325
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 324
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = infantry
+		home = 330
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = infantry
+		home = 332
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 333
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = infantry
+		home = 334
+	}
+
+regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 332
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = artillery
+		home = 333
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = artillery
+		home = 334
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 335
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = dragoon
+		home = 321
+	}
+
+}
+
+army = {
+	name = "Karlskrona Army"
+	location = 335
+	regiment = {
+		name= "Svea Livgarde"
+		type = guard
+		home = 322
+	}
+
+	
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = infantry
+		home = 332
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 333
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = guard
+		home = 334
+	}
+
+regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 332
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = artillery
+		home = 333
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = artillery
+		home = 334
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 335
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = dragoon
+		home = 321
+	}
+
+}
+
+army = {
+	name = "Dutch garrison"
+	location = 386
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 385
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 384
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 383
+	}
+}
+
+army = {
+	name = "Army Of Pomerania"
+	location = 546
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 547
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 546
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 679
+	}
+regiment = {
+		name= "Södermanlands Regemente"
+		type = hussar
+		home = 680
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 548
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 546
+	}
+}
+
+army = {
+	name = "Breton Force"
+	location = 420
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 423
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 424
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 422
+	}
+regiment = {
+		name= "Södermanlands Regemente"
+		type = hussar
+		home = 421
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 420
+	}
+
+}
+
+army = {
+	name = "Irish Forces"
+	location = 254
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 254
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 263
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 256
+	}
+
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 259
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 258
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = hussar
+		home = 262
+	}
+}
+
+army = {
+	name = "New Sweden garrison"
+	location = 231
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 211
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 226
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 206
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 223
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 205
+	}
+
+regiment = {
+		name= "Södermanlands Regemente"
+		type = cuirassier
+		home = 260
+	}
+}
+
+navy = {
+	name = "South Atlantic Station"
+	location = 2131 # Falklands
+	ship = {
+		name= "HMS Hamadryad"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Lancaster"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thames"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thisbe"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "Bengal Station"
+	location = 1251
+	ship = {
+		name= "HMS Hamadryad"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Lancaster"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thames"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thisbe"
+		type = frigate
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "Goteborg Navy"
+	location = 331
+	ship = {
+		name= "HMS Hamadryad"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Lancaster"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thames"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thisbe"
+		type = frigate
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "HMS Thisbe"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "Swedish Navy"
+	location = 322
+	ship = {
+		name= "Karl XIII"
+		type = manowar
+	}
+
+	ship = {
+		name= "Karl XIV Johan"
+		type = manowar
+	}
+
+	ship = {
+		name= "Fäderneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+ship = {
+		name= "Karl XIII"
+		type = manowar
+	}
+
+	ship = {
+		name= "Karl XIV Johan"
+		type = manowar
+	}
+
+	ship = {
+		name= "Fäderneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
+
+ship = {
+		name= "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
+
+ship = {
+		name= "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
+
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "New Sweden Transport Squad"
+	location = 231
+
+ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "2rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+ship = {
+		name= "1rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "New Sweden Armada"
+	location = 231
+
+ship = {
+		name= "atlante"
+		type = manowar
+	}
+
+ship = {
+		name= "greenville"
+		type = frigate
+	}
+
+
+ship = {
+		name= "trenton"
+		type = frigate
+	}
+
+ship = {
+		name= "norfolk"
+		type = frigate
+	}
+}

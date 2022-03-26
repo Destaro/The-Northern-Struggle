@@ -1,0 +1,63 @@
+country_event = {
+	id = 72667
+	title = "EVTNAME72667"
+	desc = "EVTDESC72667"
+
+	tag = BUL
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA72667"
+		capital = 809
+		860 = { change_province_name = "Carihrad" }
+		859 = { change_province_name = "Galipoli" }
+		858 = { change_province_name = "Ljuleburgas" }
+		830 = { change_province_name = "Didimoteiko" }
+		829 = { change_province_name = "Ksanti" }
+		828 = { change_province_name = "Odrin" }
+		set_country_flag = slav_bulgaria
+		primary_culture = bulgarian
+		add_accepted_culture = rimski
+	}
+	option = {
+		name = "EVTOPTB72667"
+		prestige = 20
+		860 = { change_province_name = "Konstantinopol" }
+		859 = { change_province_name = "Kalipol" }
+		858 = { change_province_name = "Vrisa" }
+		830 = { change_province_name = "Dimotika" }
+		829 = { change_province_name = "Skecha" }
+		828 = { change_province_name = "Adrianopol" }
+		set_country_flag = status_quo
+	}
+	option = {
+		name = "EVTOPTB72667"
+		capital = 860
+		860 = { change_province_name = "Mikligarður" }
+		859 = { change_province_name = "Fallegborg" }
+		858 = { change_province_name = "Fjörutíu kirkjur" }
+		830 = { change_province_name = "ðimoþika" }
+		829 = { change_province_name = "Ljóshærð" }
+		828 = { change_province_name = "Hadríansborg" }
+		set_country_flag = varangian_coup
+		primary_culture = varangoi
+		remove_accepted_culture = rimski
+		remove_accepted_culture = greek
+		remove_accepted_culture = bulgarian
+	}
+	option = {
+		name = "EVTOPTD72667"
+		860 = { change_province_name = "Konstantinopol" }
+		859 = { change_province_name = "Kalipol" }
+		858 = { change_province_name = "Saranta Eklisies" }
+		830 = { change_province_name = "Dimotika" }
+		829 = { change_province_name = "Skecha" }
+		828 = { change_province_name = "Adrianopol" }
+		capital = 860
+		set_country_flag = roman_restoration
+		primary_culture = rimski
+		add_accepted_culture = bulgarian
+		add_accepted_culture = greek
+		remove_accepted_culture = varangoi
+	}
+}

@@ -1,0 +1,306 @@
+POR = {
+	value = 125		#relation
+}
+
+army = {
+	name = "Army of Forbidden Banners"
+	location = 1612
+	regiment = {
+		name= "1. Manchu Yellow Banner"
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "2.Manchu Yellow Banner"
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "3.Manchu Yellow Banner"
+		type = infantry
+		home = 1480
+	}
+}
+
+army = {
+	name = "Army of The Manchu Red Banner"
+	location = 1479
+
+	regiment = {
+		name= "1.Manchu Red Banner"
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "2.Manchu Red Banner"
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "3.Manchu Red Banner"
+		type = infantry
+		home = 1552
+	}
+}
+
+army = {
+	name = "Army of The Manchu Blue Banner"
+	location = 1612
+
+	regiment = {
+		name= "1.Manchu Blue Banner"
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "2.Manchu Blue Banner"
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "3.Manchu Blue Banner"
+		type = infantry
+		home = 1552
+	}
+}
+
+army = {
+	name = "1st Green Standard Army"
+	location = 1575
+	regiment = {
+		name= "1st Green Standard"
+		type = irregular
+		home = 1470
+	}
+
+	regiment = {
+		name= "2nd Green Standard"
+		type = irregular
+		home = 1510
+	}
+
+	regiment = {
+		name= "3rd Green Standard"
+		type = irregular
+		home = 1547
+	}
+	
+	regiment = {
+		name= "4th Green Standard"
+		type = irregular
+		home = 1471
+	}
+
+	regiment = {
+		name= "5th Green Standard"
+		type = irregular
+		home = 1511
+	}
+
+	regiment = {
+		name= "6th Green Standard"
+		type = irregular
+		home = 1548
+	}
+	
+		regiment = {
+		name= "7th Green Standard"
+		type = irregular
+		home = 1472
+	}
+
+	regiment = {
+		name= "8th Green Standard"
+		type = irregular
+		home = 1512
+	}
+
+	regiment = {
+		name= "9th Green Standard"
+		type = irregular
+		home = 1549
+	}
+}
+
+army = {
+	name = "4th Green Standard Army"
+	location = 1576
+
+	regiment = {
+		name= "28th Green Standard"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "29th Green Standard"
+		type = irregular
+		home = 1519
+	}
+
+	regiment = {
+		name= "30th Green Standard"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "31st Green Standard"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "32nd Green Standard"
+		type = irregular
+		home = 1520
+	}
+
+	regiment = {
+		name= "33rd. Green Standard"
+		type = irregular
+		home = 1564
+	}
+
+	regiment = {
+		name= "34th Green Standard"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "35th Green Standard"
+		type = irregular
+		home = 1521
+	}
+
+	regiment = {
+		name= "36th Green Standard"
+		type = irregular
+		home = 1565
+	}	
+}
+
+army = {
+	name = "9th Green Standard Army"
+	location = 1536
+
+	regiment = {
+		name= "73rd Green Standard"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "74th Green Standard"
+		type = irregular
+		home = 1539
+	}
+
+	regiment = {
+		name= "75th Green Standard"
+		type = irregular
+		home = 1581
+	}
+
+	regiment = {
+		name= "76th Green Standard"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "77th Green Standard"
+		type = irregular
+		home = 1540
+	}
+
+	regiment = {
+		name= "78th Green Standard"
+		type = irregular
+		home = 1582
+	}
+
+	regiment = {
+		name= "79th Green Standard"
+		type = irregular
+		home = 1618
+	}
+
+	regiment = {
+		name= "80th Green Standard"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "81st Green Standard"
+		type = irregular
+		home = 1583
+	}
+}
+
+army = {
+	name = "10th Green Standard Army"
+	location = 1613
+
+	regiment = {
+		name= "82nd Green Standard"
+		type = irregular
+		home = 1505
+	}
+
+	regiment = {
+		name= "83rd Green Standard"
+		type = irregular
+		home = 1542
+	}
+
+	regiment = {
+		name= "84th Green Standard"
+		type = irregular
+		home = 1584
+	}
+
+	regiment = {
+		name= "85th Green Standard"
+		type = irregular
+		home = 1506
+	}
+
+	regiment = {
+		name= "86th Green Standard"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "87th Green Standard"
+		type = irregular
+		home = 1585
+	}
+
+	regiment = {
+		name= "88th Green Standard"
+		type = irregular
+		home = 1507
+	}
+
+	regiment = {
+		name= "89th Green Standard"
+		type = irregular
+		home = 1544
+	}
+
+	regiment = {
+		name= "90th Green Standard"
+		type = irregular
+		home = 1586
+	}
+}

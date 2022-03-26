@@ -1,0 +1,710 @@
+political_decisions = {
+	
+	conquer_tun = {
+		
+		potential = {
+			OR = {
+				tag = VEN
+				tag = SAR
+			}
+			exists = TUN
+			is_vassal = no
+			NOT = { has_country_flag = tun_invaded }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			nationalism_n_imperialism = 1
+			TUN = { civilized = no }
+		}
+		effect = {
+			badboy = 3
+			war = {
+				target = TUN
+				attacker_goal = {
+					casus_belli = conquest
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+			set_country_flag = tun_invaded
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	annex_java = {
+		
+		potential = {
+			OR = {
+				tag = VEN
+				tag = SAR
+				tag = NOR
+				tag = SWE
+				tag = SPA
+			}
+			exists = JAV
+			JAV = { ai = yes }
+			NOT = { has_global_flag = rajasa_dynasty_over }
+		}
+		allow = {
+			JAV = {
+				in_sphere = THIS
+				civilized = no
+				war = no
+			}
+			invention = mission_to_civilize
+			invention = expansionism
+			war = no
+		}
+		effect = {
+			inherit = JAV
+			set_country_flag = rajasa_dynasty_over
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	become_greece = {
+		
+		potential = {
+			tag = VEN
+			NOT = { exists = GRE }
+			NOT = { owns = 729 }
+			NOT = { has_global_flag = became_greece }
+			ai = no
+		}
+		allow = {
+			NOT = { owns = 729 }
+		}
+		effect = {
+			change_tag = GRE
+			set_country_flag = became_greece
+		}
+	}
+	
+	# Alessandro Pagnozzi
+	
+	expand_docks = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			NOT = { has_country_flag = docks_expanded }
+		}
+		allow = {
+			battleship_column_doctrine = 1
+			money = 10000
+		}
+		effect = {
+			treausry = -10000
+			any_owned = {
+				limit = { port = yes }
+				add_province_modifier = {
+					name = expanded_docks
+					duration = -1
+				}
+			}
+			set_country_flag = docks_expanded
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	guarantee_trade_in_adriatic = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			NOT = { has_country_flag = adricatic_guaranteed }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			ideological_thought = 1
+		}
+		effect = {
+			badboy = 3
+			753 = { add_core = VEN }
+			756 = { add_core = VEN }
+			757 = { add_core = VEN }
+			758 = { add_core = VEN }
+			851 = { add_core = VEN }
+			852 = { add_core = VEN }
+			set_country_flag = adricatic_guaranteed
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	guarantee_trade_in_black_sea = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			NOT = { has_country_flag = black_sea_guaranteed }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			state_n_government = 1
+		}
+		effect = {
+			badboy = 3
+			860 = { add_core = VEN }
+			861 = { add_core = VEN }
+			964 = { add_core = VEN }
+			966 = { add_core = VEN }
+			967 = { add_core = VEN }
+			979 = { add_core = VEN }
+			set_country_flag = black_sea_guaranteed
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	guarantee_trade_in_med = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			NOT = { has_country_flag = med_guaranteed }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			badboy = 3
+			843 = { add_core = VEN }
+			844 = { add_core = VEN }
+			846 = { add_core = VEN }
+			854 = { add_core = VEN }
+			916 = { add_core = VEN }
+			919 = { add_core = VEN }
+			920 = { add_core = VEN }
+			set_country_flag = med_guaranteed
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	ports_in_east_asia = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			NOT = { has_country_flag = asian_ports }
+			NOT = {
+				owns = 1388
+				owns = 1499
+				owns = 1608
+			}
+		}
+		allow = {
+			is_greater_power = yes
+			total_amount_of_ships = 50
+			war = no
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			badboy = 3
+			any_country = {
+				limit = { owns = 1388 }
+				add_casus_belli = {
+					target = THIS
+					type = place_in_the_sun
+					months = 12
+				}
+			}
+			any_country = {
+				limit = { owns = 1499 }
+				add_casus_belli = {
+					target = THIS
+					type = place_in_the_sun
+					months = 12
+				}
+			}
+			any_country = {
+				limit = { owns = 1608 }
+				add_casus_belli = {
+					target = THIS
+					type = place_in_the_sun
+					months = 12
+				}
+			}
+			set_country_flag = asian_ports
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	naval_dominance = {
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_colonial
+			has_country_flag = adricatic_guaranteed
+			has_country_flag = black_sea_guaranteed
+			has_country_flag = med_guaranteed
+			has_country_flag = asian_ports
+		}
+		allow = {
+			war = no
+			rank = 1
+			total_amount_of_ships = 150
+		}
+		effect = {
+			prestige = 50
+			add_country_modifier = {
+				name = naval_dominance
+				duration = -1
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	# Gianni d'Angelo
+	
+	invade_croatia = {
+		
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_imperial
+			NOT = { has_country_flag = cro_invasion }
+			exists = CRO
+			CRO = { is_vassal = no }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			owns = 780
+			NOT = { truce_with = CRO }
+			ideological_thought = 1
+		}
+		effect = {
+			badboy = 10
+			casus_belli = {
+				target = CRO
+				type = conquest_any
+				months = 12
+			}
+			set_country_flag = cro_invasion
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	invade_croatia_puppet = {
+		
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_imperial
+			NOT = { has_country_flag = cro_invasion }
+			exists = CRO
+			CRO = { is_vassal = yes }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			owns = 780
+			NOT = { truce_with = AUS }
+			ideological_thought = 1
+		}
+		effect = {
+			
+			release_vassal = CRO
+			create_alliance = CRO
+			AUS = {
+				casus_belli = {
+					target = CRO
+					type = make_puppet
+					months = 12
+				}
+				war = {
+					target = CRO
+					attacker_goal = {
+						casus_belli = make_puppet
+					}
+					defender_goal = {
+						casus_belli = status_quo
+					}
+				}
+			}
+			set_country_flag = cro_invasion
+			set_country_flag = cro_protected
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	invade_serbia = {
+		
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_imperial
+			NOT = { has_country_flag = ser_invasion }
+			exists = SER
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			owns = 780
+			owns = 771
+			NOT = { truce_with = SER }
+			state_n_government = 1
+		}
+		effect = {
+			badboy = 10
+			casus_belli = {
+				target = SER
+				type = conquest_any
+				months = 12
+			}
+			set_country_flag = ser_invasion
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	croatian_compromise = {
+		
+		potential = {
+			tag = VEN
+			has_country_flag = cro_invasion
+			has_country_flag = ser_invasion
+			NOT = { has_country_flag = yugo_compromise }
+		}
+		allow = {
+			war = no
+			owns = 771
+			owns = 794
+			CRO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			CRO = {
+				all_core = { add_core = THIS }
+			}
+			add_accepted_culture = croat
+			any_pop = {
+				limit = {
+					culture = croat
+				}
+				militancy = -1
+				consciousness = -1
+			}
+			any_pop = {
+				limit = {
+					culture = serb
+				}
+				militancy = 2
+				consciousness = 2
+			}
+			set_country_flag = yugo_compromise
+		}
+		ai_will_do = { factor = 1 }
+		
+	}
+	
+	serbian_compromise = {
+		
+		potential = {
+			tag = VEN
+			has_country_flag = cro_invasion
+			has_country_flag = ser_invasion
+			NOT = { has_country_flag = yugo_compromise }
+		}
+		allow = {
+			war = no
+			owns = 771
+			owns = 794
+			SER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			SER = {
+				all_core = { add_core = THIS }
+			}
+			add_accepted_culture = serb
+			any_pop = {
+				limit = {
+					culture = serb
+				}
+				militancy = -1
+				consciousness = -1
+			}
+			any_pop = {
+				limit = {
+					culture = croat
+				}
+				militancy = 2
+				consciousness = 2
+			}
+			set_country_flag = yugo_compromise
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	destabilise_bulgaria = {
+		
+		potential = {
+			tag = VEN
+			has_country_flag = cro_invasion
+			has_country_flag = ser_invasion
+			NOT = { has_country_flag = bul_destabilised }
+			NOT = { is_our_vassal = BUL }
+			exists = BUL
+		}
+		allow = {
+			is_greater_power = yes
+			BUL = { is_greater_power = no }
+			war = no
+			owns = 771
+			owns = 794
+			NOT = { truce_with = BUL }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			BUL = { release_vassal = ALB }
+			create_vassal = ALB
+			819 = { add_core = THIS }
+			820 = { add_core = THIS }
+			821 = { add_core = THIS }
+			badboy = 5
+			casus_belli = {
+				target = BUL
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = BUL
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = cut_down_to_size
+				}
+				defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 849
+				}
+			}
+			set_country_flag = bul_destabilised
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	push_into_asia = {
+		
+		potential = {
+			tag = VEN
+			has_country_flag = bul_destabilised 
+			is_our_vassal = BUL
+			NOT = { has_country_flag = asia_cored }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			is_our_vassal = BUL
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			badboy = 5
+			843 = { add_core = THIS }
+			844 = { add_core = THIS }
+			846 = { add_core = THIS }
+			864 = { add_core = THIS }
+			865 = { add_core = THIS }
+			869 = { add_core = THIS }
+			870 = { add_core = THIS }
+			871 = { add_core = THIS }
+			872 = { add_core = THIS }
+			set_country_flag = asia_cored
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	# Giuseppe "The Italian" Garibaldi
+	
+	prepare_against_austrians = {
+		
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_cisalpine
+			NOT = { owns = 734 }
+			NOT = { has_country_flag = preparations }
+		}
+		allow = {
+			ideological_thought = 1
+		}
+		effect = {
+			734 = { add_core = VEN }
+			735 = { add_core = VEN }
+			add_country_modifier = {
+				name = military_buff
+				duration = 730
+			}
+			set_country_flag = preparations
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	protect_ethnic_minorities = {
+		
+		potential = {
+			tag = VEN
+			has_global_flag = ven_goes_cisalpine
+			NOT = { has_country_flag = minorities_protected }
+			has_country_flag = preparations
+			AUS = {
+				OR = {
+					owns = 768
+					owns = 603
+					owns = 607
+				}
+			}
+		}
+		allow = {
+			OR = {
+				war_policy = pro_military
+				war_policy = jingoism
+			}
+			state_n_government = 1
+			is_vassal = no
+			war = no
+		}
+		effect = {
+			add_accepted_culture = slovene
+			add_accepted_culture = swiss
+			767 = { add_core = VEN }
+			768 = { add_core = VEN }
+			SWI = {
+				all_core = { add_core = VEN }
+			}
+			set_country_flag = minorities_protected
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	invade_savoy = {
+		
+		potential = {
+			tag = VEN
+			exists = SAR
+			NOT = { has_country_flag = sar_invaded }
+			has_global_flag = ven_goes_cisalpine
+			NOT = { is_our_vassal = SAR }
+		}
+		allow = {
+			is_vassal = no
+			war = no
+			NOT = { truce_with = SAR }
+			state_n_government = 1
+		}
+		effect = {
+			badboy = 7
+			casus_belli = {
+				target = SAR
+				type = conquest_any
+				months = 12
+			}
+			war = {
+				target = SAR
+				attacker_goal = {
+					casus_belli = conquest_any
+				}
+				defender_goal = {
+					casus_belli = free_peoples
+					country = LOM
+					state_province_id = 726
+				}
+			}
+			set_country_flag = sar_invaded
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	meddle_with_south_germany = {
+		
+		potential = {
+			tag = VEN
+			exists = AUS
+			has_country_flag = minorities_protected
+			NOT = { has_country_flag = aus_meddled }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			NOT = { truce_with = AUS }
+			owns = 734
+			owns = 607
+			owns = 603
+			owns = 768
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			infamy = 7
+			casus_belli = {
+				target = AUS
+				type = cut_down_to_size
+				months = 12
+			}
+			set_country_flag = aus_meddled
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	subjugate_aus = {
+		
+		potential = {
+			tag = VEN
+			exists = AUS
+			has_country_flag = aus_meddled
+			NOT = { has_country_flag = aus_puppeted }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			NOT = { truce_with = AUS }
+			AUS = { is_greater_power = no }
+			OR = {
+				relation = {
+					who = AUS
+					value = 200
+				}
+				AUS = { in_sphere = THIS }
+			}
+		}
+		effect = {
+			create_vassal = AUS
+			set_country_flag = aus_puppeted
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	industrial_powerhouse = {
+		
+		potential = {
+			tag = VEN
+			NOT = { has_country_flag = industrial_powerhouse }
+		}
+		allow = {
+			rank = 1
+			war = no
+			revolution_n_counterrevolution = 1
+			industrial_score = 300
+		}
+		effect = {
+			prestige = 50
+			add_country_modifier = {
+				name = industrial_powerhouse
+				duration = -1
+			}
+			set_country_flag = industrial_powerhouse
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,311 @@
+political_decisions = {
+	
+	the_grunderzeit = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			owns = 619
+			NOT = {
+				has_country_flag = grunderzeit_we_have_done
+			}
+		}
+		allow = {
+			iron_railroad = 1
+			cheap_iron = 1
+		}
+		effect = {
+			619 = {
+				any_pop = {
+					ideology = {
+						value = liberal
+						factor = 0.2
+					}
+				}
+				life_rating = 5
+			}
+			prestige = 10
+			set_country_flag = grunderzeit_we_have_done
+		}
+	}
+	
+	union_debug = {
+		potential = {
+            ai = yes
+			tag = AUS			
+		}
+		allow = {
+			OR = {
+				alliance_with = SIE
+				alliance_with = HUN
+			}
+		}
+		effect = {
+			leave_alliance = SIE
+			leave_alliance = HUN
+			relation = { who = SIE value = -100 }
+			relation = { who = HUN value = -100 }
+		}
+	}
+	
+	invade_mag = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = mag_war }
+            is_vassal = no
+			has_country_flag = aus_dnb
+		}
+		allow = {
+			war = no
+			HUN = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+		}
+		effect = {
+			badboy = 5
+			relation = { who = HUN value = -200 }
+			casus_belli = {
+				target = HUN
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = HUN
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+			set_country_flag = mag_war
+	}
+}
+
+	invade_BOH = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = boh_war }
+            is_vassal = no
+			has_country_flag = aus_dnb
+			HUN = { vassal_of = AUS }
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			BOH = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+		}
+		effect = {
+			relation = { who = BOH value = -200 }
+			casus_belli = {
+				target = BOH
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = BOH
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+			badboy = 5
+			set_country_flag = boh_war
+		}
+	}
+	
+	invade_CZE = {
+		potential = {
+		    exists = CZE
+			tag = AUS
+			NOT = { has_country_flag = boh_war }
+            is_vassal = no
+			has_country_flag = aus_dnb
+			HUN = { vassal_of = AUS }
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			CZE = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+			HUN = { vassal_of = AUS }
+		}
+		effect = {
+			relation = { who = CZE value = -200 }
+			casus_belli = {
+				target = CZE
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = CZE
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+		badboy = 5
+        set_country_flag = boh_war
+		}
+	}
+	
+	invade_cro = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = cro_war }
+            is_vassal = no
+			
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			CRO = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+			HUN = { vassal_of = AUS }				
+		}
+		effect = {
+			relation = { who = CRO value = -200 }
+			casus_belli = {
+				target = CRO
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = CRO
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+			badboy = 5
+			set_country_flag = cro_war
+		}
+	}
+
+	invade_sie = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = sie_war }
+            is_vassal = no
+			has_country_flag = aus_dnb
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			SIE = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+			HUN = { vassal_of = AUS }
+		}
+		effect = {
+			relation = { who = SIE value = -200 }
+			casus_belli = {
+				target = SIE
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = SIE
+					attacker_goal = {
+						casus_belli = make_puppet
+					}
+					defender_goal = {
+						casus_belli = humiliate
+					}
+				}
+			badboy = 5
+			set_country_flag = sie_war
+		}
+	}
+
+	invade_kra = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = kra_war }
+            is_vassal = no
+			has_country_flag = aus_dnb
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			KRA = {
+				NOT = {
+					alliance_with = AUS
+                    in_sphere = AUS
+				}
+			}
+			HUN = { vassal_of = AUS }
+		}
+		effect = {
+			relation = { who = KRA value = -200 }
+			casus_belli = {
+				target = KRA
+				type = make_puppet
+				months = 12
+			}
+			war = {
+				target = KRA
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = humiliate
+				}
+			}
+			badboy = 5
+			set_country_flag = kra_war
+		}
+	}
+
+	core_BOH = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = boh_cor }
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			OR = {
+				BOH = { vassal_of = AUS }
+				AND = {
+					owns = AUS_625 
+					owns = AUS_626
+				}
+			}
+		}
+		effect = {
+			AUS_625 = { add_core = AUS }
+			AUS_626 = { add_core = AUS }
+			inherit = BOH
+			badboy = 10
+			set_country_flag = boh_cor
+		}
+	}
+}

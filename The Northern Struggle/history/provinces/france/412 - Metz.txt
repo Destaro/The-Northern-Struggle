@@ -1,0 +1,35 @@
+owner = LUX
+controller = LUX
+add_core = LUX
+add_core = GER
+trade_goods = precious_metal
+life_rating = 30
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+
+	state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+		state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}
+		state_building = {
+		level = 1
+		building = liquor_distillery
+		upgrade = yes
+	}
+
+1861.1.1 = { railroad = 3 }
+
+add_core = BGU
+add_core = LOT
+
+add_core = RHE
+add_core = SWA

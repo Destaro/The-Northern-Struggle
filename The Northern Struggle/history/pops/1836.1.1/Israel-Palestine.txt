@@ -1,0 +1,419 @@
+#Bayrut Region (52000)  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
+916 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 275
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 350
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1250
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3550
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 44575
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 18750
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 501
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 13750
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11850
+	}
+}
+#Palestine Region (236000)  #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem (68000/17000 POPS)
+917 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 550
+	}
+
+	officers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 275
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 12300
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5750
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 28100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 750
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11825
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 23100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 500
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1875
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 51175
+	}
+}
+#Nablus (44000/11000 POPS)
+918 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 525
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 600
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11025
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3125
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 37625
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1250
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8500
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1000
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8750
+	}
+}
+#Jaffa (48000/12000 POPS)
+919 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2125
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 500
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2125
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 37550
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1000
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8750
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3000
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 16750
+	}
+}
+#Gaza (44000/11000 POPS)
+920 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1250
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 600
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11250
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 4250
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 37400
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2500
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 17250
+	}
+}
+#Beersheba (36000/9000 POPS)
+921 = {
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 759
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1000
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 64250
+	}
+
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 750
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2500
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 20000
+	}
+
+}

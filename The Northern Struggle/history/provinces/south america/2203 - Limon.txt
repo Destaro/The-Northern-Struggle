@@ -1,0 +1,8 @@
+owner = MEX
+controller = MEX
+add_core = UCA
+
+trade_goods = coffee
+life_rating = 30
+
+add_core = MEX

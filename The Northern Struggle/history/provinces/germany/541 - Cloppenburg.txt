@@ -1,0 +1,11 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+add_core = HAN
+add_core = GER
+trade_goods = coal
+life_rating = 40
+
+add_core = WST
+add_core = RHE
+add_core = OLD

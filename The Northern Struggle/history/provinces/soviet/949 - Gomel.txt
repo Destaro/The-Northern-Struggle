@@ -1,0 +1,10 @@
+owner = CHR
+controller = CHR
+add_core = LIT
+add_core = BYE
+add_core = PLC
+trade_goods = cattle
+life_rating = 35
+
+
+add_core = CHR

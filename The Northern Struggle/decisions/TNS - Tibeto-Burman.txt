@@ -1,0 +1,46 @@
+political_decisions = {
+	form_pinya_empire = {
+		picture = torching_of_the_summer_palace
+		potential = {
+			tag = BUR
+			tag = TIB
+			tag = CHN
+			tag = YNN
+			NOT = {
+				exists = PIY
+			}
+		}
+		allow = {
+			war = no
+			PIY = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 30
+			change_tag = PIY
+			add_accepted_culture = tibetan
+			add_accepted_culture = chin
+			add_accepted_culture = bai
+			add_accepted_culture = burmese
+			add_accepted_culture = kachin
+			any_country = {
+				limit = {
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,12 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = NET
+add_core = LUX
+trade_goods = fish
+life_rating = 35
+
+add_core = WST
+add_core = LOT
+add_core = RHE
+add_core = OLD

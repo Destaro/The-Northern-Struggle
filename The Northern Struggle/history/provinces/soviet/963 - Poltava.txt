@@ -1,0 +1,9 @@
+owner = RUT
+controller = RUT
+add_core = LIT
+add_core = RUT
+add_core = UKR
+add_core = PLC
+fort = 1
+trade_goods = coal
+life_rating = 35

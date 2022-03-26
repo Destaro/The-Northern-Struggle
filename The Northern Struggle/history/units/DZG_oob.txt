@@ -1,0 +1,90 @@
+army = {
+       name = "Danzig Guard"
+       location = 690
+
+regiment = {
+           
+               name= "I.Korps"
+               type = infantry
+               home = 690
+
+         }
+
+
+regiment = {
+           
+               name= "II.Korps"
+               type = infantry
+               home = 690
+
+         }
+
+regiment = {
+           
+               name= "III.Korps"
+               type = infantry
+               home = 693
+
+         }
+
+regiment = {
+           
+               name= "IV.Korps"
+               type = infantry
+               home = 695
+
+         }
+
+regiment = {
+           
+               name= "V.Korps"
+               type = artillery
+               home = 696
+
+         }
+
+regiment = {
+           
+               name= "VI.Korps"
+               type = artillery
+               home = 692
+
+         }
+
+ regiment = {
+           
+               name= "VII.Korps"
+               type = hussar
+               home = 700
+
+         }
+}
+
+navy = {
+	name = "Baltic Armada"
+	location = 690
+
+ship = {
+            name= "Gdanks"
+            type = manowar
+        }
+
+ship = {
+            name= "Gdanks II"
+            type = frigate
+        }
+
+ship = {
+            name= "Gdanks III"
+            type = frigate
+        }
+
+ship = {
+            name= "Gdanks IV"
+            type = clipper_transport
+        }
+}
+
+
+
+               

@@ -1,0 +1,6 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = PIY
+trade_goods = tea
+life_rating = 32

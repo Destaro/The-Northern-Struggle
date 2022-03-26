@@ -1,0 +1,104 @@
+political_decisions = {
+	
+free_pol = {
+		potential = {
+			OR = { tag = MUS
+			 tag = RUS }
+			NOT = { has_country_flag = fre_pol }
+            is_vassal = no
+            POL = { exists = no }
+			LIT = { NOT = { owns = 706 } }
+		}
+		allow = {
+			war = no
+			owns = 706 } 
+		     
+		effect = { 
+		badboy = -5
+		any_owned = {
+		limit = {
+                 is_core = POL
+				  NOT = {
+				 is_core = UBD }
+                 NOT = {
+				 is_core = UKR }
+                 NOT = {
+				 is_core = BYE } 
+			    }      
+	secede_province = POL
+					
+                }	
+	create_vassal = POL			
+        
+			
+			set_country_flag = fre_pol } }
+			
+adopt_panslavism = {
+		potential = {
+			tag = RUS
+			NOT = { has_global_flag = rus_pns }
+            is_vassal = no
+			LIT = { NOT = { owns = 706 } }
+		}
+		allow = {
+			war = no
+			POL = { vassal_of = RUS } } #nationalism_n_imperialism = 1
+			
+		effect = { 
+		RUS = { country_event = 666006 }
+		set_global_flag = rus_pns
+                }	
+        
+			
+		  } 
+
+unite_glc = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = glc_una }
+            is_vassal = no
+            POL = { vassal_of = RUS }
+			KRA = { exists = yes }
+			has_global_flag = rus_pns
+		}
+		allow = {
+			war = no
+			#in_sphere = KRA
+			OR = {
+            KRA = { is_vassal = no }
+			KRA = { vassal_of = RUS }
+			}		} 
+		effect = { 
+		POL = { inherit = KRA
+        add_accepted_culture = ukrainian }
+			set_country_flag = glc_una } 
+			}			
+       	
+
+pol_pibre = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = pol_lib }
+			has_global_flag = rus_pns
+		}
+		allow = {
+			war = no
+			 }
+		effect = { 
+		set_country_flag = pol_lib
+		 any_country = {
+            limit = {
+                exists = yes
+                any_owned_province = {
+				is_core = POL }
+				 } 
+            
+           add_casus_belli = {
+                    target = THIS
+                    type = liberate_country
+                    country = POL
+                    months = 200
+                } } }
+          	} 					
+
+}

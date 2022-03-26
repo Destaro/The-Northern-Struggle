@@ -1,0 +1,11 @@
+owner = COL
+controller = COL
+
+
+add_core = USA
+trade_goods = cattle
+life_rating = 35
+
+
+
+add_core = COL

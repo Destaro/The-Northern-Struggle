@@ -1,0 +1,10 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+
+add_core = PRU
+add_core = GER
+trade_goods = fruit
+life_rating = 40
+
+add_core = BRG

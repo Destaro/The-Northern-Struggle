@@ -1,0 +1,191 @@
+#China substates
+substate = {
+	first = CHI
+	second = GXI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#substate = {
+#	first = CHI
+#	second = MCK
+#	start_date = 1836.1.1
+#	end_date = 1937.1.1
+#}
+#substate = {
+#	first = CHI
+#	second = XIN
+#	start_date = 1836.1.1
+#	end_date = 1937.1.1
+#}
+substate = {
+	first = CHI
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = XBI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = CHI
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#vassal = {
+#        first = CHI
+#	second = KOR
+#	start_date = 1836.1.1
+#	end_date = 1895.5.17 #Treaty of Shimonoseki
+#}
+
+# JAP-KOR
+vassal = {
+	first = JAP
+	second = KOR
+	start_date = 1815.1.1
+	end_date = 1970.11.23
+}
+
+
+# SPA-CLM
+vassal = {
+	first = SPA
+	second = CLM
+	start_date = 1815.1.1
+	end_date = 1870.11.23
+}
+
+# SPA-MEX
+vassal = {
+	first = SPA
+	second = MEX
+	start_date = 1815.1.1
+	end_date = 1870.11.23
+}
+
+# SPA-PEU
+vassal = {
+	first = SPA
+	second = PEU
+	start_date = 1815.1.1
+	end_date = 1870.11.23
+}
+
+# POR-BRZ
+vassal = {
+	first = POR
+	second = BRZ
+	start_date = 1815.1.1
+	end_date = 1870.11.23
+}
+
+# NOR-COL
+vassal = {
+	first = NOR
+	second = COL
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# NOR-QUE
+vassal = {
+	first = NOR
+	second = QUE
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# DEN-NDY
+vassal = {
+	first = DEN
+	second = NDY
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# DEN-NTU
+vassal = {
+	first = DEN
+	second = NTU
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# DEN-KRL
+vassal = {
+	first = DEN
+	second = KRL
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# DEN-NEN
+vassal = {
+	first = DEN
+	second = NEN
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# SWE-IRE
+vassal = {
+	first = SWE
+	second = IRE
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# SWE-CUB
+vassal = {
+	first = SWE
+	second = CUB
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# SWE-NEW
+vassal = {
+	first = SWE
+	second = NEW
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+# SWE-BRT
+vassal = {
+	first = SWE
+	second = BRT
+	start_date = 1815.1.1
+	end_date = 1936.11.23
+}
+
+
+
+
+
+
+
+
+#######################
+#        INDIA        #
+#######################
+
+
+
+#vassal = {
+#	first = PAN
+#	second = KAS
+#	start_date = 1780.1.1
+#	end_date = 1949.1.1
+#}
+
+
+
+
+#########1861

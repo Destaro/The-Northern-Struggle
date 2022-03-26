@@ -1,0 +1,30 @@
+
+	country_event = { 
+	id = 100001 #hun
+	title = "WAL1.T"
+	desc = "AUS5.D"
+	
+	is_triggered_only = yes
+		
+    option = { 
+	name = "AUS5.A" 
+	665 = { secede_province = WAL }
+	666 = { secede_province = WAL }
+	664 = { secede_province = WAL }
+	668 = { secede_province = WAL }
+	667 = { secede_province = WAL }
+	669 = { secede_province = WAL }
+	662 = { secede_province = WAL }
+	663 = { secede_province = WAL }
+	673 = { secede_province = WAL }
+	672 = { secede_province = WAL }
+	670 = { secede_province = WAL }
+	671 = { secede_province = WAL } 
+	674 = { secede_province = WAL } 
+	675 = { secede_province = WAL } 
+	
+    ai_chance = { factor = 100 }	
+	}
+	
+	
+	}

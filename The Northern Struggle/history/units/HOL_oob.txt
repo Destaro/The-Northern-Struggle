@@ -1,0 +1,187 @@
+army = {
+	name = "Holsteinische Armee"
+	location = 369
+	regiment = {
+		name= "1. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 369
+	}
+regiment = {
+		name= "2. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 369
+	}
+regiment = {
+		name= "3. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 528
+	}
+regiment = {
+		name= "4. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 529
+	}
+regiment = {
+		name= "5. Schleswig-Hols. Landwehrbrigade"
+		type = artillery
+		home = 530
+	}
+regiment = {
+		name= "6. Schleswig-Hols. Landwehrbrigade"
+		type = artillery
+		home = 532
+	}
+regiment = {
+		name= "7. Schleswig-Hols. Landwehrbrigade"
+		type = hussar
+		home = 544
+	}
+regiment = {
+		name= "8. Schleswig-Hols. Landwehrbrigade"
+		type = cuirassier
+		home = 531
+	}
+}
+
+army = {
+	name = "Hanover Armee"
+	location = 534
+	regiment = {
+		name= "1. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 540
+	}
+
+regiment = {
+		name= "2. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 534
+	}
+regiment = {
+		name= "3. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 535
+	}
+regiment = {
+		name= "4. Schleswig-Hols. Landwehrbrigade"
+		type = infantry
+		home = 585
+	}
+regiment = {
+		name= "5. Schleswig-Hols. Landwehrbrigade"
+		type = artillery
+		home = 536
+	}
+regiment = {
+		name= "6. Schleswig-Hols. Landwehrbrigade"
+		type = hussar
+		home = 537
+	}
+}
+
+navy = {
+	name = "Kiel Armada"
+	location = 369
+	ship = {
+		name= "HMS Blenheim"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Cambridge"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Cornwallis"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Defence"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Genoa"
+		type = manowar
+	}
+
+
+
+	ship = {
+		name= "HMS Salisbury"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Amazon"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Fisguard"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Isis"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Latona"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Melampus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Minerva"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nereus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Seringapatam"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Southampton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Venus"
+		type = frigate
+	}
+ship = {
+		name= "HMS Venus"
+		type = clipper_transport
+	}
+ship = {
+		name= "HMS Venus"
+		type = clipper_transport
+	}
+ship = {
+		name= "HMS Venus"
+		type = clipper_transport
+	}
+ship = {
+		name= "HMS Venus"
+		type = clipper_transport
+	}
+ship = {
+		name= "HMS Venus"
+		type = clipper_transport
+	}
+
+}

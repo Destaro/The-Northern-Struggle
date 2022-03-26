@@ -1,0 +1,66 @@
+army = {
+        name = "Army Of Khanate Of Crimea"
+        location = 964
+        regiment = {
+                name= "1st regiment"
+                type = infantry
+                home = 964
+
+        }
+regiment = {
+                name= "3st regiment"
+                type = infantry
+                home = 1051
+
+        }
+regiment = {
+                name= "2st regiment"
+                type = infantry
+                home = 1049
+
+        }
+regiment = {
+                name= "4st regiment"
+                type = cavalry
+                home = 1047
+
+        }
+regiment = {
+                name= "5st regiment"
+                type = cavalry
+                home = 1049
+
+        }
+
+regiment = {
+                name= "6st regiment"
+                type = cavalry
+                home = 979
+
+        }
+}
+
+army = {
+        name = "Army Of The Caucasus"
+        location = 1050
+regiment = {
+                name= "1st regiment"
+                type = infantry
+                home = 1050
+
+            }
+
+regiment = {
+                name= "2st regiment"
+                type = cavalry
+                home = 1047
+
+            }
+
+regiment = {
+                name= "1st regiment"
+                type = cavalry
+                home = 979
+
+            }
+}

@@ -1,0 +1,8 @@
+owner = KRL
+controller = KRL
+add_core = USA
+trade_goods = timber
+life_rating = 35
+
+add_core = QUE
+add_core = KRL

@@ -1,0 +1,9 @@
+
+add_core = XIN
+trade_goods = sulphur
+life_rating = 32
+
+owner = MGL
+controller = MGL
+
+add_core = MGL

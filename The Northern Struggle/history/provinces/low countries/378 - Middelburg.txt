@@ -1,0 +1,10 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+add_core = NET
+add_core = LUX
+trade_goods = fish
+life_rating = 35
+
+add_core = LOT
+add_core = RHE

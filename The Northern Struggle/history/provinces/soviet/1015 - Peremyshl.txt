@@ -1,0 +1,8 @@
+owner = CHR
+controller = CHR
+add_core = RUS
+trade_goods = timber
+life_rating = 35
+
+add_core = MUS
+add_core = CHR

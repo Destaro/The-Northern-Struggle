@@ -1,0 +1,7 @@
+owner = KZK
+controller = KZK
+add_core = RUS
+trade_goods = sulphur
+life_rating = 35
+
+add_core = KZK

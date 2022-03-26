@@ -1,0 +1,9 @@
+owner = NET
+controller = NET
+add_core = NET
+add_core = LUX
+trade_goods = coal
+life_rating = 35
+
+add_core = LOT
+add_core = RHE

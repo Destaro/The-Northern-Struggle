@@ -1,0 +1,7 @@
+owner = YNN
+controller = YNN
+add_core = YNN
+add_core = PIY
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,81 @@
+army = {
+	name = "Prague Armee"
+	location = 625
+	regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = guard
+		home = 625
+	}
+regiment = {
+		name= "2. Bohemia-Moravia Infanterie-Brigade"
+		type = guard
+		home = 626
+	}	   
+regiment = {
+		name= "2. Bohemia-Moravia Infanterie-Brigade"
+		type = guard
+		home = 628
+	}	   
+regiment = {
+		name= "3. Bohemia-Moravia Infanterie-Brigade"
+		type = artillery
+		home = 630
+	}	   
+regiment = {
+		name= "4. Bohemia-Moravia Infanterie-Brigade"
+		type = artillery
+		home = 627
+	}	   
+regiment = {
+		name= "5. Bohemia-Moravia Infanterie-Brigade"
+		type = hussar
+		home = 629
+	}	   
+regiment = {
+		name= "6. Bohemia-Moravia Infanterie-Brigade"
+		type = artillery
+		home = 630
+	}	   
+regiment = {
+		name= "7. Bohemia-Moravia Infanterie-Brigade"
+		type = infantry
+		home = 625
+	}	   	            
+}
+
+army = {
+	name = "Schelesien Armee"
+	location = 682
+	regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = artillery
+		home = 682
+	}
+regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = infantry
+		home = 683
+	}	   
+regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = guard
+		home = 684
+	}	   
+regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = artillery
+		home = 687
+	}	   
+	   
+regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = hussar
+		home = 631
+	}	   
+   
+regiment = {
+		name= "1. Bohemia-Moravia Infanterie-Brigade"
+		type = infantry
+		home = 561
+	}	   	            
+}

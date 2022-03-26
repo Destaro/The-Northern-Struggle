@@ -1,0 +1,11 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = ENG
+
+trade_goods = fish
+life_rating = 35
+fort = 1
+1861.1.1 = { railroad = 3 }
+
+add_core = ANG

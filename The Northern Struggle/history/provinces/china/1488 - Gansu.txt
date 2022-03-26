@@ -1,0 +1,8 @@
+owner = MGL
+controller = MGL
+
+add_core = XBI
+trade_goods = cotton
+life_rating = 32
+
+add_core = MGL

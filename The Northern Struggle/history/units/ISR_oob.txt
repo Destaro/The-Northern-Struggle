@@ -1,0 +1,56 @@
+army = {
+	name = "Army Of Zion"
+	location = 917
+	regiment = {
+		name= "1.Judea Regiment"
+		type = infantry
+		home = 919
+	}
+
+	regiment = {
+		name= "2.Judea Regiment"
+		type = infantry
+		home = 918
+	}
+
+	regiment = {
+		name= "3.Judea Regiment"
+		type = infantry
+		home = 917
+	}
+	regiment = {
+		name= "4.Judea Regiment"
+		type = infantry
+		home = 916
+	}
+
+	regiment = {
+		name= "5.Judea Regiment"
+		type = infantry
+		home = 902
+	}
+
+	regiment = {
+		name= "6.Judea Regiment"
+		type = cavalry
+		home = 920
+	}
+	regiment = {
+		name= "7.Judea Regiment"
+		type = cavalry
+		home = 921
+	}
+
+	regiment = {
+		name= "8.Judea Regiment"
+		type = cavalry
+		home = 903
+	}
+
+	regiment = {
+		name= "9.Judea Regiment"
+		type = artillery
+		home = 917
+	}
+
+}

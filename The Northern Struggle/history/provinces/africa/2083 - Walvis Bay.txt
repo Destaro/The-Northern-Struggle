@@ -1,0 +1,8 @@
+owner = VEN
+	controller = VEN
+colonial = 2
+trade_goods = wool
+life_rating = 15
+
+add_core = NAL
+add_core = SAF

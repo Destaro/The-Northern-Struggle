@@ -1,0 +1,8 @@
+owner = CLM
+controller = CLM
+add_core = VNZ
+add_core = GCO
+trade_goods = wool
+life_rating = 25
+
+add_core = CLM

@@ -1,0 +1,11 @@
+owner = SCL
+controller = SCL
+add_core = TUN
+trade_goods = grain
+life_rating = 35
+colonial = 2
+1861.1.1 = {
+	owner = TUR
+	controller = TUR
+	colonial = 2
+}

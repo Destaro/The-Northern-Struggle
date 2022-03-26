@@ -1,0 +1,6 @@
+owner = ORA
+controller = ORA
+trade_goods = tobacco
+life_rating = 15
+
+add_core = ORA

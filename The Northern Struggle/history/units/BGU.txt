@@ -1,0 +1,68 @@
+army = {
+	name = "Royal Army"
+	location = 428
+	regiment = {
+		name= "1.Regiment"
+		type = infantry
+		home = 428
+	}
+
+regiment = {
+		name= "2.Regiment"
+		type = infantry
+		home = 431
+	}
+regiment = {
+		name= "3.Regiment"
+		type = infantry
+		home = 430
+	}
+regiment = {
+		name= "4.Regiment"
+		type = infantry
+		home = 433
+	}
+
+regiment = {
+		name= "5.Regiment"
+		type = cuirassier
+		home = 429
+	}
+
+regiment = {
+		name= "6.Regiment"
+		type = artillery
+		home = 432
+}
+
+regiment = {
+		name= "7.Regiment"
+		type = artillery
+		home = 407
+	}
+
+
+}
+
+army = {
+	name = "i dont know how to name this Army"
+	location = 408
+
+regiment = {
+		name= "1.Regiment"
+		type = infantry
+		home = 408
+	}
+
+regiment = {
+		name= "2.Regiment"
+		type = infantry
+		home = 403
+	}
+
+regiment = {
+		name= "3.Regiment"
+		type = infantry
+		home = 406
+	}
+}

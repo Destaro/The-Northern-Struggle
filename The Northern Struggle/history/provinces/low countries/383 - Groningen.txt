@@ -1,0 +1,14 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = NET
+add_core = LUX
+add_core = WST
+trade_goods = grain
+life_rating = 35
+
+
+
+add_core = LOT
+add_core = RHE
+add_core = OLD

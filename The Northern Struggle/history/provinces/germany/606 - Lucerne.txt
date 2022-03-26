@@ -1,0 +1,9 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = SWI
+add_core = SGF
+trade_goods = timber
+life_rating = 40
+railroad = 1 
+add_core = GER

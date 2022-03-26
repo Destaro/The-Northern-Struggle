@@ -1,0 +1,9 @@
+owner = PON
+controller = PON
+
+trade_goods = fruit
+life_rating = 35
+
+add_core = ARM
+add_core = TUR
+add_core = PON

@@ -1,0 +1,8 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = PLC
+add_core = UBD
+naval_base = 1
+trade_goods = grain
+life_rating = 35

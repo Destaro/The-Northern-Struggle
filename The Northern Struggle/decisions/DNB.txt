@@ -1,0 +1,86 @@
+political_decisions = {
+
+ven_war = {
+		potential = {
+		    exists = VEN
+			tag = DNB
+			NOT = { has_country_flag = ven_war }
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			VEN = { NOT = { alliance_with = AUS
+                            in_sphere = AUS			} }
+         }
+		
+		effect = {
+        war = {
+			target = VEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = acquire_substate_region
+			state_province_id = 734
+			}
+			}
+		badboy = 15
+        set_country_flag = ven_war
+		
+}
+}
+
+annex_ven = {
+    potential = {
+        VEN = { is_vassal_of =  THIS }
+OR = { tag = DNB tag = SGF }
+}
+allow = {
+prestige = 40
+is_greater_power = yes
+VEN = all_core = { owned_by = VEN }
+}
+
+effect = {
+inherit = VEN
+badboy = 10
+prestige = 20
+
+}
+}
+
+
+
+
+
+
+ser_war = {
+		potential = {
+		    exists = SER
+			tag = DNB
+			NOT = { has_country_flag = ser_war }
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			SER = { NOT = { alliance_with = AUS
+                            in_sphere = AUS			} }
+         }
+		
+		effect = {
+        war = {
+			target = SER
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+			}
+		badboy = 5
+        set_country_flag = ser_war
+		
+}
+}
+
+}

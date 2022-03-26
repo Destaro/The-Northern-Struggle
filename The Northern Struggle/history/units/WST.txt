@@ -1,0 +1,56 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "I. Korps"
+location = 581
+regiment = {
+name = "Regiment 1"
+type = artillery
+home = 581
+}
+regiment = {
+name = "Regiment 4"
+type = artillery
+home = 581
+}
+regiment = {
+name = "Regiment 2"
+type = hussar
+home = 581
+}
+regiment = {
+name = "Regiment 3"
+type = hussar
+home = 581
+}
+regiment = {
+name = "Regiment 4"
+type = guard
+home = 581
+}
+regiment = {
+name = "Regiment 5"
+type = guard
+home = 581
+}
+regiment = {
+name = "Regiment 6"
+type = guard
+home = 581
+}
+regiment = {
+name = "Regiment 7"
+type = guard
+home = 581
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

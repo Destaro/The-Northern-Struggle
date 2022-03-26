@@ -1,0 +1,2879 @@
+# Start of the revolution DEN - less loyalists
+country_event = {
+	id = 99012
+	title = "REV12.T"
+	desc = "REV12.D"
+	
+	major = yes
+	
+	trigger = {
+		has_country_flag = riots_suppressed
+		tag = DEN
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = { # Play Denmark
+		name = "REV12.A1"
+		
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_300
+					region = ENG_296
+					region = ENG_284
+					region = ENG_291
+		        }
+				NOT = { province_id = 290 }
+				NOT = { province_id = 292 }
+			}
+			secede_province = ENG
+		}
+		release_vassal = ENG
+		casus_belli = {
+			target = ENG
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 284
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 292
+			}
+		}
+		prestige = -50
+		set_global_flag = eng_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		ENG = { country_event = 99112 }
+	}
+	
+	option = { # Play England
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = ENG
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_300
+					region = ENG_296
+					region = ENG_284
+					region = ENG_291
+		        }
+				NOT = { province_id = 290 }
+				NOT = { province_id = 292 }
+			}
+			secede_province = ENG
+		}
+		release_vassal = ENG
+		casus_belli = {
+			target = ENG
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 284
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 292
+			}
+		}
+		prestige = -50
+		set_global_flag = eng_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		ENG = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Start of the revolution DEN - more loyalists
+country_event = {
+	id = 99013
+	title = "REV12.T"
+	desc = "REV12.D"
+	
+	major = yes
+	
+	trigger = {
+		has_country_flag = riots_allowed
+		tag = DEN
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = {
+		name = "REV12.A1"
+		
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_300
+					region = ENG_296
+					region = ENG_284
+		        }
+				NOT = { province_id = 292 }
+			}
+			secede_province = ENG
+		}
+		release_vassal = ENG
+		casus_belli = {
+			target = ENG
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 284
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 292
+			}
+		}
+		prestige = -50
+		set_global_flag = eng_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		ENG = { country_event = 99112 }
+	}
+	
+	option = {
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = ENG
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_300
+					region = ENG_296
+					region = ENG_284
+		        }
+				NOT = { province_id = 292 }
+			}
+			secede_province = ENG
+		}
+		release_vassal = ENG
+		casus_belli = {
+			target = ENG
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = ENG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 284
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 292
+			}
+		}
+		prestige = -50
+		set_global_flag = eng_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		ENG = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Start of the revolution SWE - less loyalists
+country_event = {
+	id = 99014
+	title = "REV14.T"
+	desc = "REV14.D"
+	
+	trigger = {
+		has_country_flag = riots_suppressed
+		tag = SWE
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = {
+		name = "REV12.A1"
+		
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_263
+					region = ENG_254
+		        }
+				NOT = { province_id = 254 }
+			}
+			secede_province = IRE
+		}
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+	}
+	
+	option = {
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = IRE
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_263
+					region = ENG_254
+		        }
+				NOT = { province_id = 254 }
+			}
+			secede_province = IRE
+		}
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV12.A3"
+		
+		change_tag_no_core_switch = WLS
+		any_owned = {
+			limit = {
+		        OR = {
+					region = ENG_263
+					region = ENG_254
+		        }
+				NOT = { province_id = 254 }
+			}
+			secede_province = IRE
+		}
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Start of the revolution SWE - more loyalists
+country_event = {
+	id = 99015
+	title = "REV14.T"
+	desc = "REV14.D"
+	
+	trigger = {
+		has_country_flag = riots_allowed
+		tag = SWE
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = {
+		name = "REV12.A1"
+		
+		any_owned = {
+			limit = {
+				region = ENG_263
+			}
+			secede_province = IRE
+		}
+		257 = { secede_province = IRE }
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+	}
+	
+	option = {
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = IRE
+		any_owned = {
+			limit = {
+				region = ENG_263
+			}
+			secede_province = IRE
+		}
+		257 = { secede_province = IRE }
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV12.A3"
+		
+		change_tag_no_core_switch = WLS
+		any_owned = {
+			limit = {
+				region = ENG_263
+			}
+			secede_province = IRE
+		}
+		257 = { secede_province = IRE }
+		273 = { secede_province = WLS }
+		275 = { secede_province = WLS }
+		276 = { secede_province = WLS }
+		release_vassal = IRE
+		release_vassal = WLS
+		casus_belli = {
+			target = IRE
+			type = conquest
+			months = 12
+		}
+		casus_belli = {
+			target = WLS
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = IRE
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 254
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 304
+			}
+		}
+		war = {
+			target = WLS
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 273
+			}
+		}
+		prestige = -50
+		set_global_flag = ire_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		IRE = { country_event = 99112 }
+		WLS = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Start of the revolution NOR - less loyalists
+country_event = {
+	id = 99016
+	title = "REV16.T"
+	desc = "REV16.D"
+	
+	trigger = {
+		has_country_flag = riots_suppressed
+		tag = NOR
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = {
+		name = "REV12.A1"
+		
+		269 = { secede_province = SCO }
+		270 = { secede_province = SCO }
+		271 = { secede_province = SCO }
+		272 = { secede_province = SCO }
+		266 = { secede_province = SCO }
+		268 = { secede_province = SCO }
+		release_vassal = SCO
+		casus_belli = {
+			target = SCO
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 266
+			}
+		}
+		prestige = -50
+		set_global_flag = sco_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		SCO = { country_event = 99112 }
+	}
+	
+	option = {
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = SCO
+		269 = { secede_province = SCO }
+		270 = { secede_province = SCO }
+		271 = { secede_province = SCO }
+		272 = { secede_province = SCO }
+		266 = { secede_province = SCO }
+		268 = { secede_province = SCO }
+		release_vassal = SCO
+		casus_belli = {
+			target = SCO
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 266
+			}
+		}
+		prestige = -50
+		set_global_flag = sco_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		SCO = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Start of the revolution NOR - more loyalists
+country_event = {
+	id = 99017
+	title = "REV16.T"
+	desc = "REV16.D"
+	
+	trigger = {
+		has_country_flag = riots_allowed
+		tag = NOR
+		OR = {
+			has_country_flag = increased_taxes
+			has_country_flag = increased_conscription
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 10 }
+	
+	option = {
+		name = "REV12.A1"
+		
+		269 = { secede_province = SCO }
+		270 = { secede_province = SCO }
+		271 = { secede_province = SCO }
+		272 = { secede_province = SCO }
+		268 = { secede_province = SCO }
+		release_vassal = SCO
+		casus_belli = {
+			target = SCO
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 266
+			}
+		}
+		prestige = -50
+		set_global_flag = sco_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		SCO = { country_event = 99112 }
+	}
+	
+	option = {
+		name = "REV12.A2"
+		
+		change_tag_no_core_switch = SCO
+		269 = { secede_province = SCO }
+		270 = { secede_province = SCO }
+		271 = { secede_province = SCO }
+		272 = { secede_province = SCO }
+		268 = { secede_province = SCO }
+		release_vassal = SCO
+		casus_belli = {
+			target = SCO
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = SCO
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+					casus_belli = acquire_core_state
+					state_province_id = 266
+			}
+		}
+		prestige = -50
+		set_global_flag = sco_revolt
+		clr_country_flag = sca_love
+		clr_country_flag = bri_revolt
+		clr_country_flag = sca_crash
+		SCO = { country_event = 99112 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Northumbria revolting to go celtic
+country_event = {
+	id = 99118
+	title = "REV12.T"
+	desc = "REV118.D"
+	
+	trigger = {
+		tag = DEN
+		has_global_flag = eng_revolt
+		has_global_flag = ntu_celtic
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "REV118.A"
+		
+		release_vassal = NTU
+		casus_belli = {
+			target = NTU
+			type = make_puppet
+			months = 12
+		}
+		war = {
+			target = NTU
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+	}
+}
+
+# Northumbria revolting to join ENG
+country_event = {
+	id = 99018
+	title = "REV12.T"
+	desc = "REV18.D"
+	
+	trigger = {
+		tag = NTU
+		has_global_flag = ntu_revolt
+		has_global_flag = eng_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "REV19.A"
+		
+		change_tag_no_core_switch = ENG
+		ENG = { country_event = 99019 }
+	}
+}
+
+# England annexes NTU
+country_event = {
+	id = 99019
+	title = "REV19.T"
+	desc = "REV19.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV19.A"
+		
+		inherit = NTU
+	}
+}
+
+# BRT independence
+country_event = {
+	id = 99020
+	title = "REV20.T"
+	desc = "REV20.D"
+	
+	trigger = {
+		tag = SWE
+		has_global_flag = ire_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV20.A"
+		
+		release_vassal = BRT
+		leave_alliance = BRT
+		casus_belli = {
+			target = BRT
+			type = make_puppet
+			months = 24
+		}
+	}
+}
+
+# NDY independence
+country_event = {
+	id = 99021
+	title = "REV21.T"
+	desc = "REV20.D"
+	
+	trigger = {
+		tag = DEN
+		has_global_flag = eng_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV20.A"
+		
+		release_vassal = NDY
+		leave_alliance = NDY
+		casus_belli = {
+			target = NDY
+			type = make_puppet
+			months = 24
+		}
+	}
+}
+
+# BGU takes stuff
+country_event = {
+	id = 99022
+	title = "REV22.T"
+	desc = "REV22.D"
+	
+	trigger = {
+		tag = NOR
+		has_global_flag = sco_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV20.A"
+		
+		404 = { secede_province = BGU }
+		401 = { secede_province = BGU }
+		402 = { secede_province = BGU }
+		400 = { secede_province = BGU }
+		399 = { secede_province = BGU }
+		393 = { secede_province = BGU }
+		388 = { secede_province = BGU }
+		389 = { secede_province = BGU }
+		378 = { secede_province = BGU }
+		casus_belli = {
+			target = BGU
+			type = acquire_state
+			months = 24
+		}
+	}
+}
+
+# Workers revolt in Vinland NOR
+country_event = {
+	id = 99023
+	title = "REV23.T"
+	desc = "REV23.D"
+	
+	trigger = {
+		tag = NOR
+		has_global_flag = sco_revolt
+		has_country_modifier = increased_taxes
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV23.A1"
+		
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = MAN }
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+			}
+			secede_province = QUE
+		}
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 13
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99026 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = wokers_revolt
+	}
+	
+	option = {
+		name = "REV23.A2"
+		
+		change_tag_no_core_switch = QUE
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = MAN }
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+			}
+			secede_province = QUE
+		}
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 13
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99026 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = wokers_revolt
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV23.A3"
+		
+		change_tag_no_core_switch = COL
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = MAN }
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+				NOT = {
+					province_id = 66
+					province_id = 67
+				}
+			}
+			secede_province = QUE
+		}
+		66 = { secede_province = NEN }
+		67 = { secede_province = NEN }
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 13
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99026 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = wokers_revolt
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Conscripts revolt in Vinland NOR
+country_event = {
+	id = 99024
+	title = "REV24.T"
+	desc = "REV24.D"
+	
+	trigger = {
+		tag = NOR
+		has_global_flag = sco_revolt
+		has_country_modifier = increased_conscription
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV23.A1"
+		
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = USA }
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+			}
+			secede_province = QUE
+		}
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99027 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = conscripts_revolt
+	}
+	
+	option = {
+		name = "REV23.A2"
+		
+		change_tag_no_core_switch = QUE
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = USA }
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+			}
+			secede_province = QUE
+		}
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99027 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = conscripts_revolt
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV23.A3"
+		
+		change_tag_no_core_switch = COL
+		release_vassal = QUE
+		release_vassal = COL
+		release_vassal = NEN
+		any_owned = {
+			limit = { is_core = USA }
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_58
+					region = ENG_46
+				}
+			}
+			secede_province = QUE
+		}
+		NOR = {
+			leave_alliance = QUE
+			leave_alliance = COL
+		}
+		casus_belli = {
+			target = QUE
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = COL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = QUE
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 28
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 30
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 36
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 43
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state 
+				state_province_id = 66
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 69
+			}
+		}
+		war = {
+			target = COL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		DEN = {country_event = 99027 }
+		SWE = {country_event = 99028 }
+		QUE = {country_event = 99025 }
+		COL = {country_event = 99025 }
+		set_global_flag = conscripts_revolt
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Colonies war setup
+country_event = {
+	id = 99025
+	title = "REV25.T"
+	desc = "REV25.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV25.A"
+		
+		THIS = { government = democracy }
+		THIS = { remove_country_modifier = increased_taxes_colony }
+		THIS = { remove_country_modifier = increased_conscription_colony }
+		prestige = 10
+	}
+}
+
+# Workers revolt in Vinland DEN
+country_event = {
+	id = 99026
+	title = "REV24.T"
+	desc = "REV24.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV23.A1"
+		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		MAN = { country_event = 99025 }
+	}
+	
+	option = {
+		name = "REV26.A2"
+		
+		change_tag_no_core_switch = KRL		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		MAN = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV26.A3"
+		
+		change_tag_no_core_switch = NEN		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		MAN = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV26.A4"
+		
+		change_tag_no_core_switch = MAN		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = MAN
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = MAN
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = MAN
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		MAN = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Conscripts revolt in Vinland DEN
+country_event = {
+	id = 99027
+	title = "REV24.T"
+	desc = "REV24.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV23.A1"
+		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		USA = { country_event = 99025 }
+	}
+	
+	option = {
+		name = "REV26.A2"
+		
+		change_tag_no_core_switch = KRL		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		USA = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV26.A3"
+		
+		change_tag_no_core_switch = NEN		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		USA = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+	
+	option = {
+		name = "REV26.A4"
+		
+		change_tag_no_core_switch = USA		
+		release_vassal = KRL
+		release_vassal = NEN
+		131 = { secede_province = TEX }
+		129 = { secede_province = TEX }
+		128 = { secede_province = KRL }
+		127 = { secede_province = KRL }
+		106 = { secede_province = KRL }
+		109 = { secede_province = KRL }
+		187 = { secede_province = KRL }
+		108 = { secede_province = MEX }
+		107 = { secede_province = COL }
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_168
+					region = USA_170
+					region = USA_185
+					region = USA_178
+				}
+				NOT = { province_id = 166 }
+			}
+			secede_province = USA
+		}
+		any_owned = {
+			limit = {
+				is_core = NEN
+				NOT = {
+					province_id = 233 
+					province_id = 232
+				}
+			}
+			secede_province = NEN
+		}
+		any_owned = {
+			limit = {
+				is_core = KRL
+				NOT = {
+					province_id = 197 
+				province_id = 198 
+				province_id = 194
+				}
+			}
+			secede_province = KRL
+		}
+		188 = { secede_province = NEW }
+		196 = { secede_province = NEW }
+		191 = { secede_province = NEW }
+		190 = { secede_province = NEW }
+		
+		casus_belli = {
+			target = KRL
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = USA
+			type = conquest
+			months = 12
+		}
+		war = {
+			target = KRL
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 194
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 197
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 198
+			}
+		} 
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 232
+			}
+		}
+		war = {
+			target = USA
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		KRL = { country_event = 99025 }
+		NEN = { country_event = 99025 }
+		USA = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# Workers revolt in Vinland SWE
+country_event = {
+	id = 99028
+	title = "REV24.T"
+	desc = "REV24.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV23.A1"
+		
+		release_vassal = NEW
+		release_vassal = CUB
+		223 = { secede_province = NEN }
+		226 = { secede_province = NEN }
+		199 = { secede_province = CUB }
+		any_owned = {
+			limit = {
+				is_core = NEW
+				NOT = {
+					region = USA_219
+					region = USA_231
+					province_id = 220
+				}
+			}
+			secede_province = NEW
+		}
+		221 = { secede_province = NEW }
+		casus_belli = {
+			target = NEW
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = CUB
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = NEW
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 219
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 220
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state
+				state_province_id = 223
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 229
+			}
+		}
+		war = {
+			target = CUB
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+		}
+		NEW = { country_event = 99025 }
+		CUB = { country_event = 99025 }
+    }
+	
+	option = {
+		name = "REV28.A2"
+		
+		release_vassal = NEW
+		release_vassal = CUB
+		change_tag_no_core_switch = NEW
+		223 = { secede_province = NEN }
+		226 = { secede_province = NEN }
+		199 = { secede_province = CUB }
+		any_owned = {
+			limit = {
+				is_core = NEW
+				NOT = {
+					region = USA_219
+					region = USA_231
+					province_id = 220
+				}
+			}
+			secede_province = NEW
+		}
+		221 = { secede_province = NEW }
+		casus_belli = {
+			target = NEW
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = CUB
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = NEW
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 219
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 220
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state
+				state_province_id = 223
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 229
+			}
+		}
+		war = {
+			target = CUB
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+		}
+		NEW = { country_event = 99025 }
+		CUB = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+    }
+	 
+	 option = {
+		name = "REV28.A3"
+		
+		release_vassal = NEW
+		release_vassal = CUB
+		change_tag_no_core_switch = CUB
+		223 = { secede_province = NEN }
+		226 = { secede_province = NEN }
+		199 = { secede_province = CUB }
+		any_owned = {
+			limit = {
+				is_core = NEW
+				NOT = {
+					region = USA_219
+					region = USA_231
+					province_id = 220
+				}
+			}
+			secede_province = NEW
+		}
+		221 = { secede_province = NEW }
+		casus_belli = {
+			target = NEW
+			type = make_puppet
+			months = 12
+		}
+		casus_belli = {
+			target = NEN
+			type = acquire_state
+			months = 12
+		}
+		casus_belli = {
+			target = CUB
+			type = acquire_state
+			months = 12
+		}
+		war = {
+			target = NEW
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 219
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 220
+			}
+		}
+		war = {
+			target = NEN
+			attacker_goal = {
+				casus_belli = acquire_state
+				state_province_id = 223
+			}
+			defender_goal = {
+				casus_belli = acquire_state
+				state_province_id = 229
+			}
+		}
+		war = {
+			target = CUB
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = status_quo
+			}
+		}
+		NEW = { country_event = 99025 }
+		CUB = { country_event = 99025 }
+		ai_chance = { factor = 0 }
+    }
+}
+
+# ENG seizes ships
+country_event = {
+	id = 99036
+	title = "REV36.T"
+	desc = "REV36.D"
+	
+	trigger = {
+		tag = ENG
+		war_with = DEN
+		has_global_flag = eng_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV36.A"
+		
+		clipper_convoy = 150
+		artillery = 75
+		any_owned = {
+			limit = { port = yes }
+			add_province_modifier = {
+				name = scandi_ships
+				duration = 365
+			}
+		}
+	}
+}
+
+# IRE seizes ships
+country_event = {
+	id = 99037
+	title = "REV37.T"
+	desc = "REV36.D"
+	
+	trigger = {
+		tag = IRE
+		war_with = SWE
+		has_global_flag = ire_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV36.A"
+		
+		clipper_convoy = 150
+		artillery = 75
+		any_owned = {
+			limit = { port = yes }
+			add_province_modifier = {
+				name = scandi_ships
+				duration = 365
+			}
+		}
+	}
+}
+
+# SCO seizes ships
+country_event = {
+	id = 99038
+	title = "REV38.T"
+	desc = "REV36.D"
+	
+	trigger = {
+		tag = SCO
+		war_with = NOR
+		has_global_flag = ire_revolt
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 7 }
+	
+	option = {
+		name = "REV36.A"
+		
+		clipper_convoy = 150
+		artillery = 75
+		any_owned = {
+			limit = { port = yes }
+			add_province_modifier = {
+				name = scandi_ships
+				duration = 365
+			}
+		}
+	}
+}
+
+# Brits war setup
+country_event = {
+	id = 99112
+	title = "REV112.T"
+	desc = "REV112.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "REV112.A"
+		
+		any_owned = {
+			remove_province_modifier = riots_bri_big
+			remove_province_modifier = riots_bri_small
+			remove_province_modifier = sca_settlement
+			remove_province_modifier = english_presence
+			remove_province_modifier = english_collab
+		}
+		small_arms = 20
+		canned_food = 30
+		artillery = 10
+		wine = 20
+		liquor = 10
+		treasury = 10000
+		prestige = 10
+	}
+}

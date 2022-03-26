@@ -1,0 +1,5 @@
+owner = PAU
+controller = PAU
+add_core = PAU
+trade_goods = fish
+life_rating = 30

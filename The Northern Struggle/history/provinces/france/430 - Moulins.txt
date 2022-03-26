@@ -1,0 +1,8 @@
+owner = BGU
+controller = BGU
+add_core = FRA
+trade_goods = coal
+life_rating = 30
+
+add_core = BGU
+add_core = LOT

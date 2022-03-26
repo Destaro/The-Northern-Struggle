@@ -1,0 +1,7 @@
+
+
+
+trade_goods = coal
+life_rating = 35
+
+add_core = SIB

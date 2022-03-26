@@ -1,0 +1,874 @@
+# DEN wins in Britain (about NTU)
+country_event = {
+	id = 99032
+	title = "REV32.T"
+	desc = "REV32.D"
+	
+	trigger = {
+		tag = DEN
+		NOT = { war_with = ENG }
+		has_global_flag = eng_revolt
+		has_global_flag = ntu_loyal
+		OR = {
+			is_our_vassal = ENG
+			NOT = { exists = ENG }
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = { # Give stuff to NTU
+		name = "REV32.A1"
+		
+		any_owned = {
+			limit = {
+				is_core = ENG
+			}
+			secede_province = NTU
+			remove_core = DEN
+			add_core = NTU
+		}
+		badboy = -1
+		prestige = 5
+		clr_global_flag = eng_revolt
+		ai_chance = { factor = 100 }
+	}
+	
+	option = { # Keep everything
+		name = "REV32.A2"
+		
+		relation = {
+			who = NTU
+			value = -200
+		}
+		any_pop = {
+			limit = {
+				culture = Northumbriam
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		badboy = 2
+		prestige = -10
+		clr_global_flag = eng_revolt
+		ai_chance = { factor = 0 }
+	}
+}
+
+# DEN looses in Britain
+country_event = {
+	id = 99033
+	title = "REV33.T"
+	desc = "REV33.D"
+	
+	trigger = {
+		tag = DEN
+		NOT = { war_with = ENG }
+		has_global_flag = eng_revolt
+		NOT = { is_our_vassal = ENG }
+		exists = ENG
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "REV33.A"
+		
+		any_core = {
+			limit = {
+				is_core = ENG
+			}
+			remove_core = DEN
+		}
+		clr_global_flag = eng_revolt
+	}
+}
+
+# SWE looses in Britain
+country_event = {
+	id = 99034
+	title = "REV33.T"
+	desc = "REV33.D"
+	
+	trigger = {
+		tag = SWE
+		NOT = { war_with = IRE }
+		NOT = { war_with = WLS }
+		has_country_flag = ire_revolt
+		OR = {
+			AND = {
+				NOT = { is_our_vassal = IRE }
+				exists = IRE
+			}
+			AND = {
+				NOT = { is_our_vassal = WAL }
+				exists = WAL
+			}
+		}
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "REV33.A"
+		
+		any_core = {
+			limit = {
+				is_core = IRE
+			}
+			remove_core = SWE
+		}
+		any_core = {
+			limit = {
+				is_core = WAL
+			}
+			remove_core = SWE
+		}
+		clr_global_flag = ire_revolt
+	}
+}
+
+# NOR looses in Britain
+country_event = {
+	id = 99035
+	title = "REV33.T"
+	desc = "REV33.D"
+	
+	trigger = {
+		tag = NOR
+		NOT = { war_with = SCO }
+		has_global_flag = sco_revolt
+		NOT = { is_our_vassal = SCO }
+		exists = SCO
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "REV33.A"
+		
+		any_core = {
+			limit = {
+				is_core = SCO
+			}
+			remove_core = NOR
+		}
+		clr_global_flag = sco_revolt
+	}
+}
+
+# NOR wins in America for QUE
+country_event = { 
+	id = 99039
+	title = "NMR4.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = NOR
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		QUE = { vassal_of = NOR }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		QUE = {
+			government = absolute_monarchy 
+			primary_culture = norwegian
+			add_accepted_culture = nordic_canadian
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = QUE
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# NOR wins in America for USA/MAN
+country_event = {
+	id = 99040
+	title = "REV40.T"
+	desc = "REV40.D"
+
+	trigger = { 
+		tag = NOR
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		owns = 164
+		USA = { exists = no }
+		MAN = { exists = no }
+		QUE = { vassal_of = NOR }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR4.A" 
+		any_owned = {
+			limit = {
+				is_core = MAN
+				is_core = QUE
+			}
+			secede_province = QUE
+		}
+		release_vassal = MAN
+		MAN = {
+			government = absolute_monarchy 
+			primary_culture = norwegian
+			add_accepted_culture = nordic_canadian
+		}
+		relation = {
+			who = DEN
+			value = -50
+		}
+		ai_chance = { factor = 80 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		badboy = 5
+		relation = {
+			who = DEN
+			value = -50
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+# NOR wins in America for COL
+country_event = { 
+	id = 99041
+	title = "NMR6.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = NOR
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		COL = { vassal_of = NOR }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		COL = {
+			government = absolute_monarchy 
+			primary_culture = norwegian
+			add_accepted_culture = nordic_canadian
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = COL
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# DEN wins in America for KRL
+country_event = { 
+	id = 99042
+	title = "NMR7.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = DEN
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		KRL = { vassal_of = DEN }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		KRL = {
+			government = absolute_monarchy 
+			primary_culture = danish
+			add_accepted_culture = Karolean
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = KRL
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# DEN wins in America for NEN
+country_event = { 
+	id = 99044
+	title = "NMR8.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = DEN
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		NEN = { vassal_of = DEN }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		NEN = {
+			government = absolute_monarchy 
+			primary_culture = danish
+			add_accepted_culture = dano_canadian
+			remove_accepted_culture = nordic_canadian
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = NEN
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# DEN wins in America for USA/MAN
+country_event = {
+	id = 99045
+	title = "REV40.T"
+	desc = "NMR4.D"
+
+	trigger = { 
+		tag = DEN
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		owns = 164
+		USA = { exists = no }
+		MAN = { exists = no }
+		KRL = { vassal_of = DEN }
+		NEN = { vassal_of = DEN }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR4.A" 
+		any_owned = {
+			limit = {
+				is_core = MAN
+				is_core = KRL
+			}
+			secede_province = KRL
+		}
+		any_owned = {
+			limit = {
+				is_core = MAN
+				is_core = NEN
+			}
+			secede_province = NEN
+		}
+		release_vassal = MAN
+		MAN = {
+			government = absolute_monarchy 
+			primary_culture = norwegian
+			add_accepted_culture = nordic_canadian
+		}
+		relation = {
+			who = NOR
+			value = -50
+		}
+		ai_chance = { factor = 80 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		badboy = 5
+		relation = {
+			who = NOR
+			value = -50
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+# SWE wins in America for NEW
+country_event = { 
+	id = 99046
+	title = "NMR9.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = SWE
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		NEW = { vassal_of = SWE }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		NEW = {
+			government = absolute_monarchy 
+			primary_culture = swedish
+			add_accepted_culture = Vastsvenskar
+			remove_accepted_culture = dano_canadian
+			remove_accepted_culture = caribeno
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = NEW
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# SWE wins in America for CUB
+country_event = { 
+	id = 99047
+	title = "NMR10.T"
+	desc = "NMR4.D"
+
+	trigger = {
+		tag = SWE
+		OR = {
+			has_global_flag = wokers_revolt
+			has_global_flag = conscripts_revolt
+		}
+		CUB = { vassal_of = SWE }
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR4.A"
+		CUB = {
+			government = absolute_monarchy 
+			primary_culture = swedish
+			add_accepted_culture = caribeno
+			remove_accepted_culture = afro_caribeno
+			remove_accepted_culture = afro_caribbean
+			remove_accepted_culture = afro_american
+			remove_accepted_culture = afro_antillean
+		}
+		ai_chance = { factor = 65 }
+	}
+	 
+	option = { 
+		name = "NMR4a.A"
+		inherit = CUB
+		badboy = 10
+		ai_chance = { factor = 35 }
+	}
+}
+
+# QUE wins
+country_event = {
+	id = 170007
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = QUE
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		primary_culture = nordic_canadian
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		primary_culture = nordic_canadian
+		add_accepted_culture = dano_canadian
+		add_accepted_culture = norwegian
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		primary_culture = nordic_canadian
+		add_accepted_culture = dano_canadian
+		add_accepted_culture = norwegian
+		add_accepted_culture = cree
+		add_accepted_culture = inuit
+		add_accepted_culture = metis
+		add_accepted_culture = native_american_minor
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	} 
+}
+
+# NEN wins
+country_event = {
+	id = 180007
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = NEN
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = dano_canadian
+		remove_accepted_culture = nordic_canadian
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		add_accepted_culture = nordic_canadian
+		add_accepted_culture = Vastsvenskar
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	} 
+}
+
+# NEW wins
+country_event = { 
+	id = 190007
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = NEW
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = dano_canadian
+		remove_accepted_culture = swedish
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		add_accepted_culture = nordic_canadian
+		add_accepted_culture = Vastsvenskar
+		add_accepted_culture = Karolean
+		add_accepted_culture = afro_american
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	}
+}
+
+# CUB wins
+country_event = { 
+	id = 110008
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = CUB
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = afro_caribeno
+		remove_accepted_culture = afro_caribbean
+		remove_accepted_culture = afro_american
+		remove_accepted_culture = afro_antillean
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		add_accepted_culture = swedish
+		remove_accepted_culture = afro_american
+		remove_accepted_culture = afro_antillean
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		add_accepted_culture = swedish
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	}
+}
+
+# KRL wins
+country_event = { 
+	id = 120008
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = KRL
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = dano_canadian
+		remove_accepted_culture = danish
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		add_accepted_culture = afro_american
+		add_accepted_culture = cherokee
+		add_accepted_culture = dakota
+		add_accepted_culture = native_american_minor
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2 
+		}
+		ai_chance = { factor = 33 }
+	 }
+}	 
+
+# COL wins
+country_event = { 
+	id = 130008
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = { 
+		tag = COL
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = dano_canadian
+		remove_accepted_culture = british
+		remove_accepted_culture = norwegian
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		remove_accepted_culture = british
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		remove_accepted_culture = british
+		add_accepted_culture = native_american_minor
+		any_pop = {
+			limit = {
+			is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	} 
+}
+
+# USA/MAN wins
+country_event = { 
+	id = 140008 #Decision
+	title = "NMR11.T"
+	desc = "NMR9.D"
+
+	trigger = {
+		OR = {
+			tag = USA
+			tag = MAN
+		}
+		war = no
+		is_vassal = no
+		OR = {
+			has_global_flag = workers_revolt
+			has_global_flag = conscripts_revolt
+		}
+	}
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { days = 1 }
+		
+	option = { 
+		name = "NMR9.A" 
+		prestige = 25
+		add_country_modifier = { name = am_assim duration = 10000 }
+		remove_accepted_culture = texan
+		primary_culture = nordic_canadian
+		ai_chance = { factor = 33 }
+	}
+	 
+	option = { 
+		name = "NMR9a.A" 
+		remove_accepted_culture = texan
+		primary_culture = nordic_canadian
+		add_accepted_culture = dano_canadian
+		add_accepted_culture = Karolean
+		ai_chance = { factor = 34 }
+	}
+	 
+	option = { 
+		name = "NMR9b.A" 
+		prestige = -25
+		remove_accepted_culture = texan
+		primary_culture = nordic_canadian
+		add_accepted_culture = dano_canadian
+		add_accepted_culture = Karolean
+		add_accepted_culture = native_american_minor
+		add_accepted_culture = norwegian
+		add_accepted_culture = Vastsvenskar
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		ai_chance = { factor = 33 }
+	}
+}

@@ -1,0 +1,12 @@
+owner = NET
+
+controller = NET
+
+add_core = NET
+add_core = LUX
+trade_goods = cattle
+life_rating = 35
+1861.1.1 = { railroad = 1 }
+
+add_core = LOT
+add_core = RHE

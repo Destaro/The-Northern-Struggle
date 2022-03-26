@@ -1,0 +1,6 @@
+owner = OMA
+controller = OMA
+trade_goods = cotton
+life_rating = 15
+
+add_core = OMA

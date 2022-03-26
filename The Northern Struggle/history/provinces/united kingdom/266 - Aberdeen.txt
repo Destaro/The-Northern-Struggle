@@ -1,0 +1,20 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+add_core = SCO
+
+trade_goods = wool
+life_rating = 35
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { 
+	railroad = 3 
+}
+
+
+add_core = CEL

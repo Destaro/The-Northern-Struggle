@@ -1,0 +1,11 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+add_core = ICL
+add_core = SCA
+trade_goods = fish
+life_rating = 35
+colonial = 2
+
+add_core = DKN
+add_core = SNN

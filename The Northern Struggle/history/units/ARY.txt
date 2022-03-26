@@ -1,0 +1,44 @@
+army = {
+name = "The Shahanshah's army"
+location = 1121
+regiment = {
+name = "Shah's Guard"
+type = guard
+home = 1121
+}
+regiment = {
+name = "Shah's Guard"
+type = guard
+home = 1125
+}
+regiment = {
+name = "Shah's Guard"
+type = guard
+home = 1124
+}
+regiment = {
+name = "Shah's Guard"
+type = infantry
+home = 1127
+}
+regiment = {
+name = "Shah's Guard"
+type = infantry
+home = 1148
+}
+regiment = {
+name = "Shah's Guard"
+type = cavalry
+home = 1129
+}
+regiment = {
+name = "Shah's Guard"
+type = artillery
+home = 1113
+}
+regiment = {
+name = "Shah's Guard"
+type = artillery
+home = 1116
+}
+}

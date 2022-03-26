@@ -1,0 +1,138 @@
+country_event = { 
+	id = 666001 
+	title = "MUS1.T"
+	desc = "MUS1.D"
+	
+	trigger = { 
+	tag = MUS
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1460
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "MUS1.A" 
+        war = {
+			target = FIN
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			defender_goal = {
+			casus_belli = make_puppet
+			}
+			}
+			
+	ai_chance = { factor = 100 }
+			}
+			}
+			
+country_event = { 
+	id = 666002 
+	title = "MUS2.T"
+	desc = "MUS2.D"
+	
+	trigger = { 
+	tag = MUS
+	FIN = { vassal_of = MUS }
+	}
+	
+	fire_only_once = yes 
+	
+	mean_time_to_happen = { 
+	days = 1 
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "MUS1.A" 
+    badboy = 15
+	FIN = { country_event = 666003
+    primary_culture = russian 
+	add_accepted_culture = finnish }
+	339 = { change_province_name = "Vyborg" }		
+	342 = { change_province_name = "Kuvopivo" }		
+	337 = { change_province_name = "Kayana" }		
+	336 = { change_province_name = "Ovula" }		
+	346 = { change_province_name = "Nikolaigrad" }		
+	338 = { change_province_name = "Duvort" }		
+	345 = { change_province_name = "Kaby" }	
+    347 = { change_province_name = "Tamerpad" }		
+	344 = { change_province_name = "Vanava" }		
+	343 = { change_province_name = "Helsipad" }		
+	340 = { change_province_name = "Kyumenegrad" }		
+	341 = { change_province_name = "Sv. Mickhailsk" }		
+	982 = { change_province_name = "Pechenga" }	
+	994 = { change_province_name = "Petrograd" }		
+	350 = { change_province_name = "Narov" }	
+	352 = { change_province_name = "Yuryev" }
+	351 = { change_province_name = "Pernov" }
+	349 = { change_province_name = "Revel" }
+	355 = { change_province_name = "Volmar" }
+	356 = { change_province_name = "Dvinsk" }
+	357 = { change_province_name = "Mitava" }
+	358 = { change_province_name = "Vindava" }
+	359 = { change_province_name = "Libava" }
+			
+	ai_chance = { factor = 100 }
+			}
+			}	
+			
+country_event = { 
+	id = 666005 
+	title = "aibuff.T"
+	desc = "aibuff.D"
+	
+	trigger = { 
+	tag = MUS
+	ai = yes
+	FIN = { vassal_of = MUS }
+	RUT = {
+	player = no
+	NOT = { in_sphere = MUS
+    vassal_of = MUS	} }
+	NOT = { BRG = { ai = yes }
+    PRU = { ai = yes }	}
+	}
+	
+	mean_time_to_happen = { 
+	days = 30
+	modifier = {  
+	factor = 1
+		}
+	}
+		
+    option = { 
+	name = "aibuff.A" 
+    diplomatic_influence = { who = RUT value = 200 }		
+	ai_chance = { factor = 100 }
+			}
+			}		
+
+country_event = { 
+	id = 666007
+	title = "RUS3.T"
+	desc = "RUS3.D"
+	
+	is_triggered_only = yes
+		
+    option = { 
+	name = "RUS3.A" 
+   THIS = { casus_belli = {
+                    target = RUS
+                    type = liberate_country
+                    country = POL
+                    months = 24
+                } }
+	ai_chance = { factor = 100 }
+			}
+			}				
+
+			

@@ -1,0 +1,9 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = SWI
+add_core = SGF
+trade_goods = coal
+life_rating = 40
+
+add_core = LOT

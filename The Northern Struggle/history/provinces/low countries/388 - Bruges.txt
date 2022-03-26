@@ -1,0 +1,21 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+
+add_core = BEL
+
+add_core = LUX
+add_core = NET
+
+add_core = FLA
+
+naval_base = 1
+trade_goods = grain
+life_rating = 35
+1861.1.1 = { 
+	railroad = 3
+	naval_base = 2
+}
+
+add_core = BGU
+add_core = LOT

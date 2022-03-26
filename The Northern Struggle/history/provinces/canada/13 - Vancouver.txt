@@ -1,0 +1,7 @@
+owner = NOR
+controller = NOR
+add_core = CAN
+add_core = COL
+trade_goods = fish
+life_rating = 35
+

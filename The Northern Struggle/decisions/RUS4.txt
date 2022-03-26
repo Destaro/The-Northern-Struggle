@@ -1,0 +1,160 @@
+political_decisions = {			
+
+west_exp = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = wst_exp }
+			has_country_flag = pol_int
+		}
+		allow = {
+			war = no
+			POL = { exists = no }
+			 }
+		effect = { 
+		set_country_flag = wst_exp
+		badboy = 10
+		RUS = { country_event = 666008 }
+		 }
+          	}
+			
+russif_WePOL = {
+		potential = {
+			tag = RUS 
+			NOT = { has_country_flag = rsf_wpf }
+			has_country_flag = wst_exp
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			owns = 546 
+			owns = 681
+			owns = 680
+			owns = 679
+			owns = 697 
+			owns = 695
+			} 
+		
+		effect = {
+        set_country_flag = rsf_wpf
+		any_pop = {
+            limit = {
+                    culture = north_german
+					OR = {
+                        strata = middle
+                        strata = rich
+                        type = soldiers
+                    }
+                }
+			move_pop = 369
+            }           
+		any_owned_province = {
+		limit = {
+                 is_core = PRU
+				 NOT = { is_core = POL }
+			    }      
+	   add_province_modifier = { name = poll_expell 
+	   duration = 1000
+					
+                } } 
+		695 = { change_province_name = "Korolevec" }	
+		697 = { change_province_name = "Gusev" }	
+		698 = { change_province_name = "Klaipeda" }	
+		680 = { change_province_name = "Koshalin" }	
+		679 = { change_province_name = "Kolobzheg" }	
+		546 = { change_province_name = "Shchetsin" }	
+		681 = { change_province_name = "Kostshin" } }
+		
+		}
+        		
+
+annex_dzg = {
+		potential = {
+			tag = RUS 
+			NOT = { has_country_flag = ann_dzg }
+			has_country_flag = wst_exp
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			owns = 546 
+			owns = 680
+			owns = 679
+			owns = 697 
+			owns = 695
+			} 
+		
+		effect = {
+        set_country_flag = ann_dzg
+		badboy = 3
+		inherit = DZG
+        	}		
+
+}
+
+conq_brg = {
+		potential = {
+			tag = RUS 
+			NOT = { has_country_flag = conq_brg }
+			has_country_flag = rsf_wpf
+            is_vassal = no
+			BRG = { exists = yes }
+			BRG = { NOT = { vassal_of = RUS } }
+			
+			 }
+		
+		allow = {
+			war = no
+			BRG = { NOT = { in_sphere = MUS
+            vassal_of = BOH	} }
+			} 
+		
+		effect = {
+        set_country_flag = conq_brg
+		 war = {
+			target = BRG
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			defender_goal = {
+			casus_belli = humiliation
+      
+			}
+			}
+        	}		
+
+}
+
+conq_pru = {
+		potential = {
+			tag = RUS 
+			NOT = { has_country_flag = conq_pru }
+			has_country_flag = rsf_wpf
+            is_vassal = no
+			PRU = { exists = yes 
+			NOT = { vassal_of = BOH } }
+			PRU = { NOT = { vassal_of = RUS } }
+		}
+		allow = {
+			war = no
+			PRU = { NOT = { in_sphere = MUS
+            vassal_of = MUS	} }
+			} 
+		
+		effect = {
+        set_country_flag = conq_pru
+		 war = {
+			target = PRU
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+			casus_belli = humiliation
+      
+			}
+			}
+        	}		
+
+}
+
+}
+
