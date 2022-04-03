@@ -223,38 +223,6 @@
 		size = 2700
 	}
 }
-#Tichit (12000/3000 POPS) 
-1780 = {
-	aristocrats = {
-		culture = maures
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = maures
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = maures
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = maures
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = maures
-		religion = sunni
-		size = 2700
-	}
-}
 #Walata (28000/7000 POPS) 
 1781 = {
 	aristocrats = {

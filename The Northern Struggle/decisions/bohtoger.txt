@@ -1,0 +1,304 @@
+political_decisions = {
+
+form_ngf_boh = {
+		potential = {
+			is_greater_power = yes
+			tag = BOH
+			NOT = {
+				exists = GER
+				exists = NGF
+			}
+		}	
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						NOT = {
+							culture = north_german
+						}
+					}
+				}
+			} 
+		}
+		
+		effect = {
+      remove_accepted_culture = slovak
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_german
+						tag = SCH 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GER
+				}
+				add_core = NGF
+			}			
+			change_tag = NGF
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+core_BOH = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = boh_cor }
+            is_vassal = no
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			OR = {
+				BOH = { vassal_of = AUS }
+				AND = {
+					owns = AUS_625 
+					owns = AUS_626
+				}
+			}
+		}
+		effect = {
+			AUS_625 = { add_core = AUS }
+			AUS_626 = { add_core = AUS }
+			inherit = BOH
+			badboy = 10
+			set_country_flag = boh_cor
+		}
+	}
+
+become_wendiska = {
+       potential = {
+       OR = { tag = BOH tag = SAX }
+       NOT = { exists = CZH }
+       }
+    allow = {
+    is_greater_power = yes
+    BRG = { vassal_of = THIS }
+    owns = 2584
+    owns = 555
+    owns = 553
+    owns = 561
+    owns = 560
+    owns = 559
+    owns = 558
+    owns = 556
+    owns = 554
+    owns = 687
+    owns = 679
+    owns = 680
+    owns = 681
+    owns = 682
+    owns = 683
+    owns = 684
+    owns = 685
+    owns = 690
+    owns = 691
+    owns = 692
+    owns = 699
+    owns = 700
+    owns = 701
+    owns = 546
+    owns = 547
+    owns = 548
+    owns = 545
+    owns = 544
+    
+    
+    }
+    effect = { 
+    add_accepted_culture = north_german
+    add_accepted_culture = slovak
+    add_accepted_culture = czech
+    add_accepted_culture = silesian
+    add_accepted_culture = sorbian
+    add_accepted_culture = saxisk
+    inherit = BRG
+    change_tag = CZH
+    add_core = 2584
+    add_core = 555
+    add_core = 553
+    add_core = 561
+    add_core = 560
+    add_core = 559
+    add_core = 558
+    add_core = 556
+    add_core = 554
+    add_core = 687
+    add_core = 679
+    add_core = 680
+    add_core = 681
+    add_core = 682
+    add_core = 683
+    add_core = 684
+    add_core = 685
+    add_core = 690
+    add_core = 691
+    add_core = 692
+    add_core = 699
+    add_core = 700
+    add_core = 701
+    add_core = 546
+    add_core = 547
+    add_core = 548
+    add_core = 545
+    add_core = 544
+    add_core = 549
+    add_core = 550
+    add_core =551 
+    add_core = 552
+    add_core = 553
+    add_core = 555
+    add_core = 557
+    }
+}
+
+integrate_wst = {
+potential = { 
+tag = CZH
+NOT = { exists = RHE 
+has_country_flag = wst_in }
+has_country_flag = dzg_out
+}
+allow = { 
+RHE = {
+
+				all_core = {
+
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						NOT = {
+							culture = north_german
+						}
+					}
+				}
+			} 
+is_greater_power = yes
+war = no
+state_n_government = 1
+}
+effect = {
+set_country_flag = wst_in
+inherit = WST
+badboy = 5
+prestige = 20
+          }
+}
+
+
+core_dzg_wend = {
+potential = { tag = CZH 
+NOT = { has_country_tag = cor_dzg }
+has_country_flag = invade_dzg
+}
+alllow = {
+DZG = { all_core = { owned_by = THIS } }
+is_greater_power = yes
+war = no
+          }
+effect = {
+DZG = { all_core = { add_core = THIS } }
+set_country_flag = cor_dzg
+set_country_flag = dzg_out
+         }
+  }
+  
+   = { 
+  potential = { 
+  tag = CZH 
+  NOT = { has_country_flag = invade_dzg_wend }
+  }
+  allow = {
+  is_greater_power = yes
+  war = no
+  CZH = { all_core = { owned_by =  THIS } }
+          }
+        effect = {
+        set_country_flag = invade_dzg_wend
+        badboy = 5
+     casus_belli = {
+ target = DZG
+ type = conquest_any
+ months = 12 
+                     }
+             }
+    }
+        
+integrate_hun = {
+potential = { tag = CZH 
+NOT = { has_country_flag = int_hun }
+            }
+allow = {
+HUN = { vassal_of = THIS }
+HUN = { all_core = { owned_by = HUN } }
+war = no
+is_greater_power = yes
+nationalism_n_imperialism = 1
+}
+effect = {
+set_country_flag = int_hun
+badboy = 5
+inherit = HUN
+prestige = 10
+          }
+    }
+
+accept_magyars = { 
+potential = { tag = CZE 
+has_country_flag = int_hun
+NOT = { has_country_flag = accept_hun 
+exists = HUN }
+}
+allow = {
+HUN = { all_core = { owned_by = THIS } }
+war = no
+}
+effect = {
+add_accepted_culture = hungarian 
+prestige = 5
+set_country_flag = accept_hun
+        }
+     }
+cor_hun = {
+potential = {
+tag = CZH 
+NOT = { has_country_flag = cor_hun 
+exists = HUN }
+            }
+allow = {
+HUN = { all_core = { owned_by = THIS } }
+is_greater_power = yes
+revolution_n_counterrevolution = 1
+          }
+effect = { 
+HUN = { all_core = { add_core = THIS } }
+badboy = 10
+prestige = 20
+         }
+    }
+
+
+
+}

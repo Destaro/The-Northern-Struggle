@@ -14,9 +14,9 @@ generalplan_ost = {
         set_country_flag = plan_ost
         add_country_modifier = { name = generalplanost duration = -1 }
 
-}
+                   }
 
-}
+         }
 
 rch_lit = {
 		potential = {
@@ -24,13 +24,14 @@ rch_lit = {
 			NOT = { has_country_flag = prt_lit	 }
 			has_country_flag = plan_ost
             is_vassal = no
-			LIT = { exists = no }
+			NOT = { exists = LIT }
 		}
 		allow = {
 			war = no
 			owns = 360
 		}
 		effect = {
+		set_global_flag = pru_ubd
         set_country_flag = prt_lit
         360 = { secede_province = UBD }
 		361 = { secede_province = UBD }
@@ -121,10 +122,10 @@ rch_blr = {
 rch_ukr = {
 		potential = {
 			tag = PRU
-			NOT = { has_country_flag = prt_ukr	 }
+	NOT = { has_country_flag = prt_ukr	 }
 			has_country_flag = plan_ost
             is_vassal = no
-			UKR = { exists = no }
+		NOT = { exists = RUT }
 		}
 		allow = {
 			war = no

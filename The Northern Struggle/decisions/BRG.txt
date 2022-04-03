@@ -3,6 +3,7 @@ political_decisions = {
 great_BOH = {
 		potential = {
 			tag = BRG
+			exists = BOH
 			NOT = { has_country_flag = great_boh }
             is_vassal = no
 		}
@@ -47,7 +48,9 @@ assim_BOH = {
 		}
 		allow = {
 			war = no
-
+          prestige = 40
+          is_greater_power = yes
+          has_country_flag = great_boh
 		}
 		effect = {
 		 any_pop = {

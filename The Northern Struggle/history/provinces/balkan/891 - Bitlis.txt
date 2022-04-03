@@ -4,5 +4,3 @@ controller = ARM
 add_core = ARM
 trade_goods = grain
 life_rating = 35
-
-add_core = TUR

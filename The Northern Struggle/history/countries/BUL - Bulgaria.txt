@@ -1,5 +1,8 @@
 capital = 809
 primary_culture = bulgarian
+culture = rimski
+culture = varangoi
+culture = greek
 religion = orthodox
 government = hms_government
 plurality = 0.08

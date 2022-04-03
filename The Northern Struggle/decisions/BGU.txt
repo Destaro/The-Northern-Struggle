@@ -137,6 +137,7 @@ OR = { exists = SWI
 		}
 		
 		allow = {
+			nationalism_n_imperialism = 1
 			 
      owns = 605
      owns = 607

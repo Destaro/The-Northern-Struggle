@@ -4,6 +4,7 @@ political_decisions = {
 form_france_new = {
 		potential = {
 			OR = {
+                           tag = ORL
                            tag = BRT
                            tag = NDY
                            tag = BGU
@@ -15,6 +16,7 @@ form_france_new = {
 			}
 		}	
 		allow = {
+			nationalism_n_imperialism = 1
 			war = no
 			FRA = {
 				all_core = {

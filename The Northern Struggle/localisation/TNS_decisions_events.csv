@@ -3,7 +3,7 @@ form_germany_from_danzig_desc;By controlling, directly or indirectly, the manifo
 form_germany_from_bohemia_title;Three Hurrahs For Germany!;;;;;;;;;x;;;;
 form_germany_from_bohemia_desc;By controlling, directly or indirectly, the manifold principalities, duchies and free cities that make up the German Nation, we can unite our people into one singular nation state. Three Hurrahs for the German Empire!;;;;;;;;;;x;;;;
 Become_Prussia_title;Let us dye them in Prussian Blue!;;;;;;;;;x;;;;
-Become_Prussia_desc;After reclaiming the territories that our ancestors lost to the Polish and Scandinavian invaders it is time to proclaim the Kingdom Of Prussia and unite the German people! Long Live the Kaiser!;;;;;;;;;;x;;;;
+Become_Prussia_desc;After we have reclaimed the territories that our ancestors lost to the Polish and Scandinavian invaders, it is time to proclaim the Kingdom Of Prussia and unite the German people! Long Live the Kaiser!;;;;;;;;;;x;;;;
 form_france_title; Je suis Francais!;;;;;;;;;x;;;;
 NDY1.T;The Norman war of independence;;;;;;;;;;;;;
 NDY1.D;After centuries of oppression, the Norman and Breton duchies are finally breaking free from our Nordic rulers who have looked down on us and treated us like we're scum. Now, the time to fight for our freedom has come! Normandy will not be ruled by Scandinavian pigs! We will let our old oppressors know that we are descendants of the great Carolingian Empire!;;;;;;;;;;;;;
@@ -129,7 +129,7 @@ invade_sie_desc;Transilvania is a new emerging power in the Balkans. Of course, 
 invade_kra_title;Conquer Galicia-Lodomeria;;;;;;;;;;;;;
 invade_kra_desc;Galicia is a territory inhabited by both Poles and Ukrainians. They need to be supervised to avoid any further ethnic conflicts, and our Empire can help them with that.;;;;;;;;;;;;;
 invade_CZE_title;Conquer Bohemia;;;;;;;;;;;;;
-invade_CZE_desc;Conquer Bohemia;;;;;;;;;;;;;
+invade_CZE_desc;The terrains of the Sudetes are mainly inhabited by Germans. We need to make sure that the Germans living there will not be discriminated against by the Czech oppressors, and to do that we will invade the Bohemians.;;;;;;;;;;;;;
 invade_mag_title;Conquer Hungary;;;;;;;;;;;;;
 invade_mag_desc;Hungary shall be our first target in the eastern expansion. Their location will prove to be a nice place to start further conquests, and due to how many Hungarians there are outside their home country we can use their nationalism to our advantage.;;;;;;;;;;;;;
 ven_war_title;Great Venetian War;;;;;;;;;;;;;
@@ -137,7 +137,7 @@ ven_war_desc;After unifying the lands on the Danube we can challenge our greates
 ser_war_title;Conquer Serbia;;;;;;;;;;;;;
 ser_war_desc;Serbia is the last Slavic state in the region. By conquering them, we can unite all Serbo-croats under our Empire thus completely destroying Panslavic dreams.;;;;;;;;;;;;;
 AUS1.T;Austrian fate;;;;;;;;;;;;;
-AUS1.D;Austria has always been a prosperous state that lacked a greater purpose. So today, the Kaiser has assembled the Reichsrat to discuss our further goals. A new rising movement of German nationalists has proposed to adopt Pangermanic Ideals and start working under the banner of a  'South German Federation'. However, there are a lot of imperialists who have started making plans of a 'Danubian Federation' long ago that will unite various eastern european people under our Flag.\n Warning: currently danubian path has the most flavour so it's recommeded to choose it.;;;;;;;;;;;;;
+AUS1.D;Austria has always been a prosperous state that lacked a greater purpose. So today, the Kaiser has assembled the Reichsrat to discuss our further goals. A new rising movement of German nationalists has proposed to adopt Pangermanic Ideals and start working under the banner of a  'South German Federation'. However, there are a lot of imperialists who have started making plans of a 'Danubian Federation' long ago that will unite various eastern european people under our Flag.;;;;;;;;;;;;;
 AUS1.A;We need to unite southern germans!;;;;;;;;;;;;;
 AUS1a.A;Danubian destiny for us!;;;;;;;;;;;;;
 AUS2.T;The Transdanubian question;;;;;;;;;;;;;
@@ -397,9 +397,9 @@ Become_poland_desc;We have suffered under foreign oppression for almost half a c
 form_yugoslavia_title;Form Yugoslavia;;;;;;;;;;;;;
 form_yugoslavia_desc;Our position in the Balkans allows us to unite the southern Slavic people under the banner of Yugoslavia.;;;;;;;;;;;;;
 Become_the_two_sicilies_title;Become the Two Sicilies;;;;;;;;;;;;;
-Become_the_two_sicilies_desc;We have united the south Italian lands under our rule, it is time to show the world our might!;;;;;;;;;;;;;
+Become_the_two_sicilies_desc;The south Italian lands have been unified under our rule, the time has come to show the world our might!;;;;;;;;;;;;;
 form_celtic_union_title;Form the Celtic Union;;;;;;;;;;;;;
-form_celtic_union_desc;We have united the Celtic people under our banner, it is time to restore the former glory of the Celtic people!;;;;;;;;;;;;;
+form_celtic_union_desc;We have united the Celtic people under our banner, it is time to restore the former glory of the Celtic nation!;;;;;;;;;;;;;
 form_outremer_title;Form Outremer;;;;;;;;;;;;;
 form_outremer_desc;We have reclaimed the Promised Lands, now it is time to defend it like the Crusaders, who once made the Muslim invaders tremble!;;;;;;;;;;;;;
 form_indochina_title;Form Indochina;;;;;;;;;;;;;
@@ -418,7 +418,7 @@ form_transcaucasia_title;Form Transcaucasia;;;;;;;;;;;;;
 form_transcaucasia_desc;We control vast territories in the Caucasus, we need to work together under the Transcaucasian banner to ensure that we will stay undefeated in the face of foreign invaders.;;;;;;;;;;;;;
 form_indochina_title;Form the Indochinese Union;;;;;;;;;x
 form_indochina_desc;We have united all the lands of Indochina under our dynasty. Now we shall form the Indochinese Union and make a nation that welcomes all ethnics and cultures in Indochina;;;;;;;;;x
-indochina_westernization_title;Begin westernisation;;;;;;;;;x
+indochina_westernization_title;Begin Westernisation;;;;;;;;;x
 indochina_westernization_desc;We need to westernise as soon as possible, the Europeans overshadow us technologically, with our largest disadvantage being weaponry. We will become their colony if we don't catch up with them.;;;;;;;;;x
 vietnam_conquer_cambodia_title;Conquer Cambodia;;;;;;;;;x
 vietnam_conquer_cambodia_desc;We have been fighting the Cambodians for a long time and we have improved our military a lot, we should get the upper hand when we invade them.;;;;;;;;;x
@@ -515,3 +515,13 @@ become_guatemala_title;Become Guatemala;;;;;;;;;;;;;;;;;;;;x
 become_guatemala_desc;We have united the territories of Guatemala, now it is time to embrace our new identity.;;;;;;;;;;;;;;;;;;;;x
 core_panama_title;Integrate Panama;;;;;;;;;;;;;;;;;;;;x
 core_panama_desc;The Panaman territories are fully controlled by us and we have complete authority over these lands. It is only right to fully incorporate these territories to our country.;;;;;;;;;;;;;;;;;;;;x
+form_france_new_title;Form France;;;;;;;;;;;;;;;;;;;;x
+form_france_new_desc;The lands of France, which have been divided for a very long time, have been finally unified by our country. An united French country is sure to wreak havoc in Europe. Vive la France!;;;;;;;;;;;;;;;;;;;;x
+form_ngf_boh_title;Form the North German Federation;;;;;;;;;;;;;;;;;;;;x
+form_ngf_boh_desc;By achieving a dominant position among the North German states, we can form the North German Confederation.;;;;;;;;;;;;;;;;;;;;x
+form_aragon_title;Unite Aragon;;;;;;;;;;;;;;;;;;;;x
+form_aragon_desc;After successfully fending off the Spanish invaders, we need to take care of our own country. Uniting under the banner of Aragon will be the first step in attempting to improve our standing on the global stage.;;;;;;;;;;;;;;;;;;;;x
+integrate_swi_title;Integrate the Swiss lands;;;;;;;;;;;;;;;;;;;;x
+integrate_swi_desc;The territory of West Switzerland has finally come under our control. The Swiss people are happy to be liberated from their former Austrian oppressors and are welcoming us with open arms.;;;;;;;;;;;;;;;;;;;;x
+form_luson_title;Proclaim the Luson Empire;;;;;;;;;;;;;;;;;;;;x
+form_luson_desc;The Brazilian nation has been threatened by their neighbours and now seeks a tighter cooperation with us. We, as their overlords, will accept this offer and attempt to recover the lands lost by Brazil.;;;;;;;;;;;;;;;;;;;;x

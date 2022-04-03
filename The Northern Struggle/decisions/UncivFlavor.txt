@@ -247,4 +247,5 @@ OUT = { all_core = { add_core = BAB }  }
 			prestige = 20
 		}
 	}
+
 }

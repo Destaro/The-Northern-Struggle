@@ -1,5 +1,7 @@
-owner = TUR
-controller = TUR
+owner = ANI
+controller = ANI
+add_core = ANI
 add_core = TUR
+add_core = YUG
 trade_goods = grain
 life_rating = 35

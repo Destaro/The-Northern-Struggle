@@ -690,6 +690,7 @@ political_decisions = {
 		potential = {
 			tag = VEN
 			NOT = { has_country_flag = industrial_powerhouse }
+			has_global_flag = ven_goes_cisalpine
 		}
 		allow = {
 			rank = 1
@@ -700,7 +701,7 @@ political_decisions = {
 		effect = {
 			prestige = 50
 			add_country_modifier = {
-				name = industrial_powerhouse
+				name = industrial_powerhouse_modif
 				duration = -1
 			}
 			set_country_flag = industrial_powerhouse

@@ -3,7 +3,7 @@ political_decisions = {
 expnd_ukr = {
 		potential = {
 			tag = PRU
-			NOT = { has_country_flag = exp_ukr }
+	NOT = { has_country_flag = exp_ukr }
 			has_country_flag = plan_ost
             is_vassal = no
 			UKR = { vassal_of = PRU }
@@ -73,7 +73,7 @@ expnd_sml = {
             is_vassal = no
 			UKR = { vassal_of = PRU }
 			BYE = { vassal_of = PRU }
-			CHR = { exists = no }
+			NOT = { exists = CHR }
 		}
 		allow = {
 			war = no
@@ -276,7 +276,7 @@ mus_plan = {
 		1010 = { change_province_name = Morastigen} 
 		1014 = { change_province_name = Quabbeburg} 
 		1009 = { change_province_name = Borodfen} 
-		badboy = -15
+		badboy = 5
 }
 }
 

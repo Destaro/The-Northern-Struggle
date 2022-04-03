@@ -1,0 +1,80 @@
+political_decisions = {
+
+form_celtic_union = {
+		
+		potential = { 
+OR = {
+
+			tag = BRT
+tag = IRE
+tag = SCO
+
+}
+
+			NOT = {
+				exists = CEL
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			CEL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+add_accepted_culture = irish
+add_accepted_culture = Scottish
+add_accepted_culture = Breton
+			any_country = {
+				limit = {
+					OR = {
+						is_culture_group = british
+NOT = { ENG }
+						tag = BRT
+tag = IRE
+tag = SCO
+
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = CEL
+				}
+				add_core = CEL
+			}			
+			change_tag = CEL
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

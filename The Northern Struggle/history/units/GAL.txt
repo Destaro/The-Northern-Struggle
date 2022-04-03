@@ -1,0 +1,63 @@
+
+leader = {
+	name = "Abdullah Bey"
+	date = 1813.1.1
+	type = land
+	personality = aggressive
+	background = cavalry_school
+	prestige = 0.2
+}
+
+leader = {
+	name = "Enver"
+	date = 1814.1.1
+	type = land
+	personality = poet
+	background = cursed_luck
+	prestige = 0.1
+}
+
+army = {
+	name = "Army of Galatia"
+	location = 876
+	regiment = {
+		name = "1. Regiment"
+		type = infantry
+		home = 876
+	}
+	regiment = {
+		name = "2. Regiment"
+		type = infantry
+		home = 879
+	}
+	regiment = {
+		name = "3. Regiment"
+		type = infantry
+		home = 868
+	}
+	regiment = {
+		name = "4. Regiment"
+		type = artillery
+		home = 878
+	}
+}
+
+army = {
+	name = "Turkish Militia"
+	location = 878
+	regiment = {
+		name = "1. Militia"
+		type = irregular
+		home = 876
+	}
+	regiment = {
+		name = "2. Militia"
+		type = irregular
+		home = 877
+	}
+	regiment = {
+		name = "3. Militia"
+		type = irregular
+		home = 878
+	}
+}

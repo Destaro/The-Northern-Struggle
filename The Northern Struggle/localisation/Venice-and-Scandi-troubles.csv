@@ -1,3 +1,4 @@
+
 REV01.T;Cultural tensions in the British isles;;;;;;;;;;;;;;;;;;;;x
 REV01.D;The settlement of the British isles by Scandinavian settlers has brought unwanted consequences. The locals are in dismay and are starting to organise revolts against their overlords. We are nearing the zenith of their unrest, and only time will tell what happens next.;;;;;;;;;;;;;;;;;;;;x
 REV01.A;Concerning;;;;;;;;;;;;;;;;;;;;x
@@ -8,6 +9,7 @@ REV04.T;The future of Northumbria;;;;;;;;;;;;;;;;;;;;x
 REV04.D;We have come to a crossroad. Two options have appeared on our table regarding the Northumbrian destiny. One is to stay loyal to our Danish overlords, and the other is to unite with Britain and join their revolt against Denmark. Which path should our nation take?;;;;;;;;;;;;;;;;;;;;x
 REV04.A1;Northumbria is Danish!;;;;;;;;;;;;;;;;;;;;x
 REV04.A2;Northumbria is British!;;;;;;;;;;;;;;;;;;;;x
+REV04.A3;Northumbria is Celtic!;;;;;;;;;;;;;;;;;;;;x
 REV05.T;Violent riots emerge;;;;;;;;;;;;;;;;;;;;x
 REV05.D;Minor riots have started in the British isles. For now, they are not dangerous, but if we let them be they will get more arrogant and endanger the integrity of our nation. What should we do about them?;;;;;;;;;;;;;;;;;;;;x
 REV05.A1;Suppress the riots;;;;;;;;;;;;;;;;;;;;x
@@ -29,6 +31,7 @@ REV12.T;Pro-English governor killed by the army;;;;;;;;;;;;;;;;;;;;x
 REV12.D;A governor supporting the English people has been murdered by the military. The people are fed up with their overlords and the unrest is higher than ever. The spark that will ignite the fires of the revolution has just been lighted, and the day of judgement has come for the Scandinavians.;;;;;;;;;;;;;;;;;;;;x
 REV12.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
 REV12.A2;Onwards, on the barricades!;;;;;;;;;;;;;;;;;;;;x
+REV12.A3;Onwards, to Cardiff!;;;;;;;;;;;;;;;;;;;;x
 REV14.T;Pro-Irish governor killed by the army;;;;;;;;;;;;;;;;;;;;x
 REV14.D;A governor supporting the Irish people has been murdered by the military. The people are fed up with their overlords and the unrest is higher than ever. The spark that will ignite the fires of the revolution has just been lighted, and the day of judgement has come for oppressors.;;;;;;;;;;;;;;;;;;;;x
 REV14.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
@@ -39,18 +42,54 @@ REV16.D;A governor supporting the Scottish people has been murdered by the milit
 REV16.A1;Crush the rebellion!;;;;;;;;;;;;;;;;;;;;x
 REV16.A2;Play as Ireland;;;;;;;;;;;;;;;;;;;;x
 REV18.D;The Northumbrian people have decided to join the British revolution and reject their Danish overlords. We will break the chains that have bound us for many years!;;;;;;;;;;;;;;;;;;;;x
+REV118.D;The Northumbrian people have decided to start a Celtic revolution and reject their Danish overlords. We will break the chains that have bound us for many years!;;;;;;;;;;;;;;;;;;;;x
+REV118.A;Glory to the revolution!;;;;;;;;;;;;;;;;;;;;x
 REV19.A;Glory to Britain!;;;;;;;;;;;;;;;;;;;;x
 REV19.T;Northumbria offers help;;;;;;;;;;;;;;;;;;;;x
 REV19.D;The people of Northumbria have decided to join our just revolt against Denmark. We will use any help we can get to ensure our freedom and the well-being of the British people.;;;;;;;;;;;;;;;;;;;;x
 REV20.T;Brittany declares independence;;;;;;;;;;;;;;;;;;;;x
 REV20.D;The governor appointed to rule in our stead has taken advantage of the revolts happening in Britain and declared independence. We cannot do anything, as we are too busy fending off the British insurance.;;;;;;;;;;;;;;;;;;;;x
-REV20.A;We will get them... one day;;;;;;;;;;;;;;;;;;;;x
+REV20.A;We will get them!.. one day.;;;;;;;;;;;;;;;;;;;;x
 REV21.T;Normandy declares independence;;;;;;;;;;;;;;;;;;;;x
 REV22.T;Burgundy takes over Norwegian colonies in France;;;;;;;;;;;;;;;;;;;;x
 REV22.D;The Burgundian military has noticed our temporary weakness and marched into our territories in France. It seems that they have completely gained control over Lille in this short period of time.;;;;;;;;;;;;;;;;;;;;x
 REV23.T;Workers revolt in Vinland;;;;;;;;;;;;;;;;;;;;x
 REV23.D;An echo has went through Vinland after we have increased the tarrifs. The workers there have revolted and created a new, revolutionary state and declared their independence from us. We have to embark on our ships and protect the integrity of our country.;;;;;;;;;;;;;;;;;;;;x
-REV23.A;North America will remain Scandinavian!;;;;;;;;;;;;;;;;;;;;x
+REV23.A1;North America will remain Scandinavian!;;;;;;;;;;;;;;;;;;;;x
+REV23.A2;Onwards, to Vinland!;;;;;;;;;;;;;;;;;;;;x
+REV23.A2;Onwards, to Vestlandet!;;;;;;;;;;;;;;;;;;;;x
+REV24.T;Conscripts revolt in Vinland;;;;;;;;;;;;;;;;;;;;x
+REV24.D;An echo has went through Vinland after we have increased the conscription. The fresh conscripts and officers there have revolted and created a new, revolutionary state and declared their independence from us. We have to embark on our ships and protect the integrity of our country.;;;;;;;;;;;;;;;;;;;;x
+REV25.T;Chains broken!;;;;;;;;;;;;;;;;;;;;x
+REV25.D;After years of oppression, we're finally free from the Old World. However, the Old World doesn't think so. We have to establish a new democratic government, effective enough to fend off the imperialists.;;;;;;;;;;;;;;;;;;;;x
+REV25.A;Glory to the revolution!;;;;;;;;;;;;;;;;;;;;x
+REV26.A2;Onwards, to Karlant!;;;;;;;;;;;;;;;;;;;;x
+REV26.A3;Onwards, to New Sjaelland!;;;;;;;;;;;;;;;;;;;;x
+REV26.A4;Onwards, to the commune!;;;;;;;;;;;;;;;;;;;;x
+REV28.A2;Onwards, to Newfoundland!;;;;;;;;;;;;;;;;;;;;x
+REV28.A3;Onwards, to Kuba!;;;;;;;;;;;;;;;;;;;;x
+REV29.T;"But what about us?..";;;;;;;;;;;;;;;;;;;;x
+REV29.D;A wave of outrage swept through North America after we've published a decree de-facto recognising independence of their Brittanian holdings. And now Americans threaten us with a revolution.;;;;;;;;;;;;;;;;;;;;x
+REV29.A1;None of this!;;;;;;;;;;;;;;;;;;;;x
+REV29.A2;Fine, whatever. Just leave me alone with my tea.;;;;;;;;;;;;;;;;;;;;x
+REV32.T;Anglo rebels defeated!;;;;;;;;;;;;;;;;;;;;x
+REV32.D;Now, onto keeping our promises.;;;;;;;;;;;;;;;;;;;;x
+REV32.A1;You've fought well, Northumbria!;;;;;;;;;;;;;;;;;;;;x
+REV32.A2;Ha-ha... no.;;;;;;;;;;;;;;;;;;;;x
+REV33.T;We didn't have a choice;;;;;;;;;;;;;;;;;;;;x
+REV33.D;Those pesky isalnders have wiped our armies and driven us out of "their" islands. Our only choice was to sign a humiliating peace treay just to stop the suffering of our own citizens.;;;;;;;;;;;;;;;;;;;;x
+REV33.A;I guess I'll go cry in a corner.;;;;;;;;;;;;;;;;;;;;x
+REV36.T;Danish ships in dry docks seized!;;;;;;;;;;;;;;;;;;;;x
+REV36.D;Scandinavians, running away, left some of their precious toys, and now we're in control of a small incomplete navy.;;;;;;;;;;;;;;;;;;;;x
+REV36.A;The revolution is yielding its first fruits!;;;;;;;;;;;;;;;;;;;;x
+REV37.T;Swedish ships in dry docks seized!;;;;;;;;;;;;;;;;;;;;x
+REV38.T;Norwegian ships in dry docks seized!;;;;;;;;;;;;;;;;;;;;x
+REV112.T;Revolution succeeds!;;;;;;;;;;;;;;;;;;;;x
+REV112.D;After years of colonial rule, we're finally free. To the glory of the revolution!;;;;;;;;;;;;;;;;;;;;x
+REV112.A;Cheers!;;;;;;;;;;;;;;;;;;;;x
+REV40.T;Fate of American separatists;;;;;;;;;;;;;;;;;;;;x
+REV40.D;Separatists in the middle of the continent have been defeated. Now we must decide their role in our country. However, some of their lands were previously Danish. Not like we're going to give them away though...;;;;;;;;;;;;;;;;;;;;x
+REV45.D;Separatists in the middle of the continent have been defeated. Now we must decide their role in our country. However, some of their lands were previously Norwegian. Not like we're going to give them away though...;;;;;;;;;;;;;;;;;;;;x
 riots_bri_big;Riots;;;;;;;;;;;;;;;;;;;;x
 riots_bri_small;Riots;;;;;;;;;;;;;;;;;;;;x
 increased_taxes_overlord;Increased taxes;;;;;;;;;;;;;;;;;;;;x
@@ -81,7 +120,7 @@ VEN07.T;Fate of Croatia;;;;;;;;;;;;;;;;;;;;x
 VEN06.A;Joining their rebellion against Austria, we did promise them freedom from Hapsburgian rule in exchange for alliance and some contributions, and the deal was signed. However, what we did not promise was total freedom from our rule, oh no. Croatian army is victorious but weak, and we are in a position to quickly come and take everything.;;;;;;;;;;;;;;;;;;;;x
 VEN07.A;They will get angry. Who asked though?;;;;;;;;;;;;;;;;;;;;x
 conquer_tun_title;Conquer Tunis;;;;;;;;;;;;;;;;;;;;x
-conquer_tun_desc;Venice needs to become a leading force in the Mediterranean. To show our dominance, we will broaden our coastline and acquire a new colony in North Africa. Tunis will be the first step in our lengthy journey!;;;;;;;;;;;;;;;;;;;;x
+conquer_tun_desc;Our country needs to become a leading force in the Mediterranean. To show our dominance, we will broaden our coastline and acquire a new colony in North Africa. Tunis will be the first step in our lengthy journey!;;;;;;;;;;;;;;;;;;;;x
 annex_java_title;End the Rajasa dynasty;;;;;;;;;;;;;;;;;;;;x
 annex_java_desc;Following a local uprising in our country, which has long held Java in its sphere of influence, we will formally depose the Royal House and annex the island.;;;;;;;;;;;;;;;;;;;;x
 become_greece_title;Relocate to Greece;;;;;;;;;;;;;;;;;;;;x
@@ -99,7 +138,7 @@ ports_in_east_asia_desc;Our navy has grown very strong and can compete with the 
 naval_dominance_title;Venetian global dominance;;;;;;;;;;;;;;;;;;;;x
 naval_dominance_desc;Over the past years, the Venetian navy has grown substantially. We possess a large fleet capable of beating anyone who dares to challenge us. We have finally achieved the dream of naval dominance in Europe.;;;;;;;;;;;;;;;;;;;;x
 invade_croatia_title;The first decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
-invade_croatia_desc;The threat of an Austrian invasion is looming. We need to expand our military and protect our borders, and our first target will be our neighbour, Crotia, whom we will easily be able to conquer.;;;;;;;;;;;;;;;;;;;;x
+invade_croatia_desc;The threat of an Austrian invasion is looming. We need to expand our military and protect our borders, and our first target will be our neighbour, Croatia, whom we will easily be able to conquer. ;;;;;;;;;;;;;;;;;;;;x
 invade_croatia_puppet_title;The first decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
 invade_croatia_puppet_desc;Austrian army has recently arrived in Zagreb and forced the Croatian government to capitulate and submit to Austrian rule. Unacceptable! Austria will expand near our borders no more! By supporting Croatian separatists, we can destabilise the Hapsburgs and gain some power ourselves.;;;;;;;;;;;;;;;;;;;;x
 invade_serbia_title;The second decree of d'Angelo;;;;;;;;;;;;;;;;;;;;x
@@ -118,7 +157,7 @@ protect_ethnic_minorities_title;Protect ethnic minorities;;;;;;;;;;;;;;;;;;;;x
 protect_ethnic_minorities_desc;Austria unjustly controls many lands inhabited by people of many ethnicities, many of which were discriminated against in there. It is our divine right to protect these people and give them safety and protection that they deserve.;;;;;;;;;;;;;;;;;;;;x
 invade_savoy_title;Invade Savoy;;;;;;;;;;;;;;;;;;;;x
 invade_savoy_desc;Savoy is a land inhabited by many Italian people. We need to make sure they live in safety, and we aren't sure if Savoy can provide that to them. To protect our people, we will enter Savoy and take these territories by force.;;;;;;;;;;;;;;;;;;;;x
-meddle_with_south_germany_title;Intervene with South German affairs;;;;;;;;;;;;;;;;;;;;x
+meddle_with_south_germany_title;Intervene in South German affairs;;;;;;;;;;;;;;;;;;;;x
 meddle_with_south_germany_desc;Austria may no longer be a looming disaster to our nation, but they are still a considerable threat. We need to make sure our country will keep safe from anything that might threaten our country, and to do that we will intervene in South Germany.;;;;;;;;;;;;;;;;;;;;x
 subjugate_aus_title;Subjugate Austria;;;;;;;;;;;;;;;;;;;;x
 subjugate_aus_desc;Austria is no longer in a position to threaten us, and we might as well use this opportunity to expand our territories to the north.;;;;;;;;;;;;;;;;;;;;x
@@ -140,3 +179,5 @@ industrial_powerhouse_modif;Industrial powerhouse;;;;;;;;;;;;;;;;;;;;x
 industrial_powerhouse_modif_desc;Venetian industry is the most sprawling industry in the world. No country comes even close to our numbers!;;;;;;;;;;;;;;;;;;;;x
 tourist_attraction;Best tourist destination of this yea;;;;;;;;;;;;;;;;;;;;x
 tourist_attraction_desc;Over the years, the city of Venice has proven to be a very attractive destination for tourists, and is growing very quickly.;;;;;;;;;;;;;;;;;;;;x
+form_italy_ven_title;Avanti Italia!;Avanti Italia !;Avanti Italia!;;Avanti Italia!;;;;;;;;;x;;;;
+form_italy_ven_desc;By establishing a dominant position on the Italian peninsula, we can secure a national homeland for our people by proclaiming ourselves the motive power of a unified Italian state.;Gr歊e ?l'彋ablissement d'une position dominante sur la p幯insule italienne, nous formerons une patrie pour notre peuple en nous proclamant la force motrice d'un 尒at italien unifi?;Durch die Absicherung einer dominanten Position auf der italienischen Halbinsel k霵nen wir unserem Volk eine nationale Heimat geben, indem wir uns als treibende Kraft f eine vereinigte italienische Nation proklamieren.;;Al establecer una posici鏮 dominante en la pen璯sula italiana, podemos garantizarle a nuestro pueblo una patria nacional con fronteras seguras y convertirnos en el germen de un estado italiano unificado.;;;;;;;;;x;;;;

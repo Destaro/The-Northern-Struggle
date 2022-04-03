@@ -1,0 +1,58 @@
+
+leader = {
+	name = "Bekir"
+	date = 1813.1.1
+	type = land
+	personality = aggressive
+	background = cavalry_school
+	prestige = 0.2
+}
+
+leader = {
+	name = "Osman Pasha"
+	date = 1814.1.1
+	type = land
+	personality = poet
+	background = cursed_luck
+	prestige = 0.1
+}
+
+army = {
+	name = "Sultan's Army"
+	location = 873
+	regiment = {
+		name = "1. Regiment"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name = "2. Regiment"
+		type = infantry
+		home = 866
+	}
+	regiment = {
+		name = "3. Regiment"
+		type = infantry
+		home = 874
+	}
+	regiment = {
+		name = "4. Regiment"
+		type = artillery
+		home = 875
+	}
+	regiment = {
+		name = "1. Militia"
+		type = irregular
+		home = 873
+	}
+	regiment = {
+		name = "2. Militia"
+		type = irregular
+		home = 875
+	}
+	regiment = {
+		name = "3. Militia"
+		type = irregular
+		home = 895
+	}
+}

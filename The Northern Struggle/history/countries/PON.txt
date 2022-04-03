@@ -48,7 +48,7 @@ school_reforms = no_schools
 #========================= T E C H N O L O G I E S =========================
 
 post_napoleonic_thought = 1
-strategic_mobility = 0
+strategic_mobility = 1
 point_defense_system = 0
 deep_defense_system = 0
 infiltration = 0
@@ -65,7 +65,7 @@ iron_breech_loaded_artillery = 0
 steel_breech_loaded_artillery = 0
 indirect_artillery_fire = 0
 heavy_armament_dunno = 0
-military_staff_system = 0
+military_staff_system = 1
 military_plans = 0
 military_statistics = 0
 military_logistics = 0
@@ -119,7 +119,7 @@ private_bank_money_bill_printing = 0
 central_bank_money_bill_printing = 0
 modern_central_bank_system = 0
 market_determined_exchange_rates = 0
-early_classical_theory_and_critique = 0
+early_classical_theory_and_critique = 1
 late_classical_theory = 0
 collectivist_theory = 0
 the_historical_theory = 0

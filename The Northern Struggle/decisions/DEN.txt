@@ -22,4 +22,28 @@ political_decisions = {
 			set_country_flag = danish_constitutionalism
 		}
 	}
+	
+	secure_anatolian_stab = {
+		potential = {
+			tag = DEN
+			exists = PON
+			any_owned = { egion = EGY_843 }
+			NOT = { has_global_flag = den_invest }
+		}
+		
+		allow = {
+			money = 50000
+		}
+		
+		effect = {
+			treasury = -50000
+			relation = {
+				who = PON
+				value = 100
+			}
+			PON = { country_event = 15009 }
+			set_global_flag = den_invest
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

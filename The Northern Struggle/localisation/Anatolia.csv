@@ -1,0 +1,82 @@
+
+approach_bulgaria_title;Approach Bulgaria;;;;;;;;;;;;;;;;;;;;x
+approach_bulgaria_desc;Over the Bosporus lie the lands of our Slavic friends. We could be able to strike a deal with them about some of their coastal cities.;;;;;;;;;;;;;;;;;;;;x
+approach_venice_title;Approach Venice;;;;;;;;;;;;;;;;;;;;x
+approach_venice_desc;Another country who owns a significant portion of the Aegean coast is the Venetian Republic. If we want to increase our influence over the Aegean, we should negotiate with them about some major cities they own.;;;;;;;;;;;;;;;;;;;;x
+aegean_trade_title;Aegean domination;;;;;;;;;;;;;;;;;;;;x
+aegean_trade_desc;After acquiring the most prized posessions in the Aegean, our traders can finally enjoy little to none competition over our new home sea.;;;;;;;;;;;;;;;;;;;;x
+negotiate_greeks_title;Negotiate with the Greeks;;;;;;;;;;;;;;;;;;;;x
+negotiate_greeks_desc;Ever since the presence of Byzantians over these lands, the Greeks have composed a large portion of our population. Surely, now they deserve equal rights with our Antian citizens?;;;;;;;;;;;;;;;;;;;;x
+greek_shipbuilding_title;Greek shipbuilding;;;;;;;;;;;;;;;;;;;;x
+greek_shipbuilding_desc;Ancient Greeks and their descendants have always been famous for the quality of their navies and the power of the weapons. It's time to bring back the old shipbuilding traditions!;;;;;;;;;;;;;;;;;;;;x
+fortify_pontus_title;Fortify Pontus;;;;;;;;;;;;;;;;;;;;x
+fortify_pontus_desc;Turks are close! Way too close. We should probably fortify out borders and draw plans to prepare against thier onslaught.;;;;;;;;;;;;;;;;;;;;x
+thalassa_mas_title;Thalassa Mas;;;;;;;;;;;;;;;;;;;;x
+thalassa_mas_desc;Our control over the Black sea is near absolute. Just like the Romans a long time ago, a new tradition should be established - one of calling it Our Sea.;;;;;;;;;;;;;;;;;;;;x
+return_to_greece_title;Return to Greece;;;;;;;;;;;;;;;;;;;;x
+return_to_greece_desc;By establishing a dominant position on the Greek peninsula, we can secure independence for all the Greek people by proclaiming ourselves the motive power of a unified Megali state.;;;;;;;;;;;;;;;;;;;;x
+form_rum_title;Form Rum;;;;;;;;;;;;;;;;;;;;x
+form_rum_desc;By establishing a dominant position on the Anatolian peninsula, we can secure a national homeland for our people by proclaiming ourselves the motive power of a unified Turkish state.;;;;;;;;;;;;;;;;;;;;x
+expansion_kon_title;Mustafa's Plans;;;;;;;;;;;;;;;;;;;;x
+expansion_kon_desc;Today, our leader Mustafa I announced his plans for a greater Ruman state. Sure, they might threaten some of our neighbors, but that's essential for safety and prosperity of our - and their - people.;;;;;;;;;;;;;;;;;;;;x
+cross_the_straight_title;Cross the Straight;;;;;;;;;;;;;;;;;;;;x
+cross_the_straight_desc;Constantinopole, no matter the consequences, has to become a rightful Turkish clay!;;;;;;;;;;;;;;;;;;;;x
+first_expansion_gal_title;Abdul-Selim's Plans;;;;;;;;;;;;;;;;;;;;x
+first_expansion_gal_desc;Today, our leader Abdul-Selim V announced his plans for a greater Ruman state. Sure, they might threaten some of our neighbors, but that's essential for safety and prosperity of our - and their - people.;;;;;;;;;;;;;;;;;;;;x
+second_expansion_gal_title;Greater Rum;;;;;;;;;;;;;;;;;;;;x
+second_expansion_gal_desc;Middle East has hot had a dominant power securing all its internal affairs for quite a while now, and we're the only ones in a position to change that.;;;;;;;;;;;;;;;;;;;;x
+secure_anatolian_stab_title;Secure Anatolian stability;;;;;;;;;;;;;;;;;;;;x
+secure_anatolian_stab_desc;In the past years, all that has been heard from Anatolian peninsula is the idea of unification. If that ever happens, our colonies might be in trouble. To secure stability, we should support Pontus, a coastal Greek state with no such ideas inside.;;;;;;;;;;;;;;;;;;;;x
+ANA01.T;Svetlan's regency;;;;;;;;;;;;;;;;;;;;x
+ANA01.D;Previous monarch of Antia, Svetlan II Hvalicek, has passed away in 1834 under mysterious circumstances, leaving the throne temporarily vacant with his only son and heir Svetlan III under a regency of a council. Until Svetlan is of legal age, the country might not be ruled as efficiently.;;;;;;;;;;;;;;;;;;;;x
+ANA01.A;God bless him!;;;;;;;;;;;;;;;;;;;;x
+ANA02.T;Svetlan III Hvalicek's Regency Ends;;;;;;;;;;;;;;;;;;;;x
+ANA02.D;Today, our new monarch finally turned 17, a legal age for Antian monarchs to be coronated. With his regency ending, our country can finally experience a reign of a wise and powerful ruler.;;;;;;;;;;;;;;;;;;;;x
+ANA02.A;Here's to a prosperous time!;;;;;;;;;;;;;;;;;;;;x
+ANA03.T;Antian envoy;;;;;;;;;;;;;;;;;;;;x
+ANA03.D;An envoy from Antia has arrived to us with a deal. Our countries have been close for a very long time, not only geographically and politically, but also culturally, and they're expecting us to sell them some of our Bosphoric posessions, including Constantinopole, for a fair price.;;;;;;;;;;;;;;;;;;;;x
+ANA03.A1;Anything for a friend!;;;;;;;;;;;;;;;;;;;;x
+ANA03.A2;Hah! No.;;;;;;;;;;;;;;;;;;;;x
+ANA04.D;An envoy from Antia has arrived to us with a deal. Our countries have been close for a very long time, and they're expecting us to sell them some of our Aegean posessions, including Athens, for a fair price.;;;;;;;;;;;;;;;;;;;;x
+ANA05.T;Bulgaria accepts;;;;;;;;;;;;;;;;;;;;x
+ANA05.D;Our envoy arrived from Sofia with good news: Bulgaria accepted our deal! Now the process of moving governments shall start, and from now on Constantinopole will have Antian flag waving over it.;;;;;;;;;;;;;;;;;;;;x
+ANA05.A;Great!;;;;;;;;;;;;;;;;;;;;x
+ANA06.T;Bulgaria denies;;;;;;;;;;;;;;;;;;;;x
+ANA06.D;Our envoy arrived from Sofia with bad news: Bulgaria denied our offer!;;;;;;;;;;;;;;;;;;;;x
+ANA06.A;Anything for a friend, they said. Ah well.;;;;;;;;;;;;;;;;;;;;x
+ANA07.T;Venice accepts;;;;;;;;;;;;;;;;;;;;x
+ANA07.D;Our envoy arrived from Venice with good news: Venetian Republic accepted our deal! Now the process of moving governments shall start, and from now on Athens will have Antian flag waving over it.;;;;;;;;;;;;;;;;;;;;x
+ANA08.T;Venice denies;;;;;;;;;;;;;;;;;;;;x
+ANA08.D;Our envoy arrived from Venice with bad news: Venetian Republic denied our offer!;;;;;;;;;;;;;;;;;;;;x
+ANA09.T;Danish investments;;;;;;;;;;;;;;;;;;;;x
+ANA09.D;Danes arrived to us with a generous donation. All they want in return is an alliance in order to keep us stable to keep Anatolia disunited so that no one would come to take their colonies.;;;;;;;;;;;;;;;;;;;;x
+ANA09.A1;Why thank you!;;;;;;;;;;;;;;;;;;;;x
+ANA09.A2;That's a great offer, but no. We can survive on our own. Money is good enough.;;;;;;;;;;;;;;;;;;;;x
+ANA101.T;Our investments in Pontus seized!;;;;;;;;;;;;;;;;;;;;x
+ANA101.D;The Greeks were unable to hold on thier own, and were steamrolled by a new rising Anatolian power. This means that when Anatolia is finally unified, our Aegean posessions will be under a threat of a new level. There's still something we can do, however.;;;;;;;;;;;;;;;;;;;;x
+ANA101.A;Prepare the navy!;;;;;;;;;;;;;;;;;;;;x
+ANA11.T;Danish have come for revenge;;;;;;;;;;;;;;;;;;;;x
+ANA11.D;In recent years, Denmark has been very active in the politics of Anatolia, and now that we've conquered their Pontian candidate, they do seem quite angry.;;;;;;;;;;;;;;;;;;;;x
+ANA11.A;Alright, come then.;;;;;;;;;;;;;;;;;;;;x
+ANA12.T;Turkish War of Unification;;;;;;;;;;;;;;;;;;;;x
+ANA12.D;The idea of a unified Turkish state have been floating around since the collapse of the Seljuk Empire. After centuries of internal and international struggle, only two candidates for that title are left - Sultanate of Konya and Galatian Kingdom, ruled by the Denizide dynasty. This war will decide the future of Anatolia and Turkish identity.;;;;;;;;;;;;;;;;;;;;x
+ANA12.A;To victory!;;;;;;;;;;;;;;;;;;;;x
+ANA13.T;Galatian victory;;;;;;;;;;;;;;;;;;;;x
+ANA13.D;After years of gruesome wars, finally, only one Turkish state remains, led by the dynasty of Denizides. Today, our leader Abdul-Selim V was coronated as the Sultan of all turks, and our people can finally enjoy a time of stability.;;;;;;;;;;;;;;;;;;;;x
+ANA13.A;To a better future!;;;;;;;;;;;;;;;;;;;;x
+ANA14.T;Konyan victory;;;;;;;;;;;;;;;;;;;;x
+ANA14.D;After years of gruesome wars, finally, only one Turkish state remains, led by Mustafa I, today being coronated as the Sultan of all turks and taking a royal name of Anadolu. Finally, our people can enjoy a time of stability.;;;;;;;;;;;;;;;;;;;;x
+ani_regency;Regency;;;;;;;;;;;;;;;;;;;;x
+ani_regency_desc;For some more time, Svetlan III is going to be a regent under a council. Until he's of age, the country might not be ruled as efficiently.;;;;;;;;;;;;;;;;;;;;x
+aegean_trade_port;Trade port;;;;;;;;;;;;;;;;;;;;x
+aegean_trade_port_desc;We've established control over the Aegean, and now our traders can roam freely, bringing riches to our capital.;;;;;;;;;;;;;;;;;;;;x
+greek_ships_pro;Greek shipbuilding;;;;;;;;;;;;;;;;;;;;x
+greek_ships_pro_desc;The tradition of quality Greek ships lives on.;;;;;;;;;;;;;;;;;;;;x
+greek_ships_cou;Greek shipbuilding;;;;;;;;;;;;;;;;;;;;x
+greek_ships_cou_desc;The tradition of quality Greek ships lives on.;;;;;;;;;;;;;;;;;;;;x
+turk_death_war;Turkish War of Unification;;;;;;;;;;;;;;;;;;;;x
+turk_death_war_desc;Our people are united against our only Turkish neighbor in a death war.;;;;;;;;;;;;;;;;;;;;x
+abdul-selim_v;Abdul-Selim V;;;;;;;;;;;;;;;;;;;;x
+abdul-selim_v_desc;Abdul-Selim V, Galatian monarch of Denizide dynasty, is a patriot and a jingoist.;;;;;;;;;;;;;;;;;;;;x
+mustafa_i;Mustafa I;;;;;;;;;;;;;;;;;;;;x
+mustafa_i_desc;Mustafa I, Konyan sultan, has ideas of a creating a stronger Turkish state not by conquest, but by westernization and industrialization.;;;;;;;;;;;;;;;;;;;;x

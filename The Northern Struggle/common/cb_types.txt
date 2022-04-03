@@ -1208,7 +1208,7 @@ make_puppet = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
-		NOT = { number_of_states = 4 }
+		NOT = { number_of_states = 7 }
 		is_greater_power = no
 		is_vassal = no
 	}
@@ -1733,7 +1733,7 @@ install_communist_gov_cb = {
 	months = 12
 	crisis = no
 
-	badboy_factor = 1000
+	badboy_factor = 1
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -1811,7 +1811,7 @@ uninstall_communist_gov_cb = {
 	# so they can revert those countries government.
 	constructing_cb = no
 
-	badboy_factor = 0
+	badboy_factor = 1
 	prestige_factor = 1
 	peace_cost_factor = 5
 	penalty_factor = 1

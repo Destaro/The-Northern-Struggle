@@ -75,6 +75,7 @@ annex_dzg = {
             is_vassal = no
 		}
 		allow = {
+		nationalism_n_imperialism = 1
 			war = no
 			owns = 546 
 			owns = 680
@@ -85,7 +86,7 @@ annex_dzg = {
 		
 		effect = {
         set_country_flag = ann_dzg
-		badboy = 3
+		badboy = 5
 		inherit = DZG
         	}		
 
@@ -109,6 +110,7 @@ conq_brg = {
 			} 
 		
 		effect = {
+		badboy = 5
         set_country_flag = conq_brg
 		 war = {
 			target = BRG
@@ -141,6 +143,7 @@ conq_pru = {
 			} 
 		
 		effect = {
+		badboy = 10
         set_country_flag = conq_pru
 		 war = {
 			target = PRU

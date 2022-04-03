@@ -21,10 +21,7 @@ form_can_new = {
 							owner = {
 								in_sphere = THIS
 							}
-						}
-						NOT = {
-							culture = dano_canadian
-						}
+						}					
 					}
 				}
 			}

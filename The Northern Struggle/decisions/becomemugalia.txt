@@ -1,0 +1,55 @@
+political_decisions = {
+
+Become_the_mughals = {
+		
+		potential = {
+			tag = AFG
+			NOT = {
+				exists = MUG
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			MUG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = MUG
+			any_owned = {
+				limit = {
+					is_core = HND
+				}
+				add_core = MUG
+				}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

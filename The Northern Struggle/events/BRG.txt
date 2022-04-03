@@ -49,7 +49,7 @@ country_event = {
 	629 = { change_province_name = "Pilsen" }
 	626 = { change_province_name = "Koniggratz" }
 	632 = { change_province_name = "Olmutz" }
-	689 = { change_province_name = "Tschechisch" }	
+	689 = { change_province_name = "Teschen" }	
 	badboy = 5	
 	ai_chance = { factor = 50 }
 			}		

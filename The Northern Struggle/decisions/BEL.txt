@@ -17,13 +17,13 @@ political_decisions = {
 		
 		effect = {
 			1987 = {
-				change_province_name = "cringeville"
+				change_province_name = "Cringeville"
 			}		
 			1982 = {
-				change_province_name = "epicville"
+				change_province_name = "Epicville"
 			}
 			1996 = {
-				change_province_name = "gamerville"
+				change_province_name = "Gamerville"
 			}
 			prestige = 10
 			set_global_flag = congo_renamed

@@ -720,6 +720,26 @@ LUS_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 LUS_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 LUS_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 LUS_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ANI_ADJ;Antian;;;;;;;;;;;;x;
+ANI;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_proletarian_dictatorship;Antian Peoples Republic;Antian Peoples Republic;Antian Peoples Republic;;;;;;;;;;;x;
+ANI_presidential_dictatorship;Antian Federation;Antian Federation;Antian Federation;;;;;;;;;;;x;
+ANI_bourgeois_dictatorship;Republic of Antia;Republic of Antia;Republic of Antia;;;;;;;;;;;x;
+ANI_fascist_dictatorship;National Republic of Antia;National Republic of Antia;National Republic of Antia;;;;;;;;;;;x;
+ANI_absolute_monarchy;Kingdom of Antia;Kingdom of Antia;Kingdom of Antia;;;;;;;;;;;x;
+ANI_prussian_constitutionalism;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_hms_government;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_democracy;Antian Republic;Antian Republic;Antian Republic;;;;;;;;;;;x;
+ANI_conservative_97;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;x;
+ANI_liberal_83;Antian Party;Antian Party;Antian Party;;;;;;;;;;;x;
+ANI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ANI_socialist_95;Platform for Justice;Platform for Justice;Platform for Justice;;;;;;;;;;;x;
+ANI_reactionary_83;Young Antian Party;Young Antian Party;Young Antian Party;;;;;;;;;;;x;
+ANI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ANI_communist_96;Narodna Stranka ta Antia;Narodna Stranka ta Antia;Narodna Stranka ta Antia;;;;;;;;;;;x;
+ANI_fascist_92;All-Slavic Unification Party;All-Slavic Unification Party;All-Slavic Unification Party;;;;;;;;;;;x;
+ANI_communist_92;Communist Party;Communist Party;Communist Party;;;;;;;;;;;x;
+antian;Antian;;;;;;;;;;;x
 CHN;Chin State;;;;;;;;;;;x
 CHN_ADJ;Chin;;;;;;;;;;;x
 PIY;Pinya Empire;;;;;;;;;;;x
@@ -738,3 +758,75 @@ MEX_absolute_monarchy;Nueva Espana;Empire du Mexique;Mexikanisches Kaiserreich;;
 MEX_prussian_constitutionalism;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mexico;;;;;;;;;x
 MEX_hms_government;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mexico;;;;;;;;;x
 TRE;Padania;Padania;Padania;;;;;;;;;;;x;
+GAL_ADJ;Galatian;Galatian;Galatian;;;;;;;;;;;x;
+GAL;Galatia;Galatia;Galatia;;;;;;;;;;;x;
+GAL_proletarian_dictatorship;Central Anatolian Commune;Central Anatolian Commune;Central Anatolian Commune;;;;;;;;;;;x;
+GAL_presidential_dictatorship;Galatia;Galatia;Galatia;;;;;;;;;;;x;
+GAL_bourgeois_dictatorship;Galatian Republic;Galatian Republic;Galatian Republic;;;;;;;;;;;x;
+GAL_fascist_dictatorship;New Safavid Empire;New Safavid Empire;New Safavid Empire;;;;;;;;;;;x;
+GAL_absolute_monarchy;Denizides;Denizides;Denizides;;;;;;;;;;;x;
+GAL_prussian_constitutionalism;Galatia;Galatia;Galatia;;;;;;;;;;;x;
+GAL_hms_government;Galatia;Galatia;Galatia;;;;;;;;;;;x;
+GAL_democracy;Galatia;Galatia;Galatia;;;;;;;;;;;x;
+GAL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+GAL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+GAL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+GAL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+GAL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+GAL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+GAL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+GAL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+GAL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ANI_ADJ;Antian;Antian;Antian;;;;;;;;;;;x;
+ANI;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_proletarian_dictatorship;Antian Peoples Republic;Antian Peoples Republic;Antian Peoples Republic;;;;;;;;;;;x;
+ANI_presidential_dictatorship;Antian Federation;Antian Federation;Antian Federation;;;;;;;;;;;x;
+ANI_bourgeois_dictatorship;Republic of Antia;Republic of Antia;Republic of Antia;;;;;;;;;;;x;
+ANI_fascist_dictatorship;National Republic of Antia;National Republic of Antia;National Republic of Antia;;;;;;;;;;;x;
+ANI_absolute_monarchy;Kingdom of Antia;Kingdom of Antia;Kingdom of Antia;;;;;;;;;;;x;
+ANI_prussian_constitutionalism;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_hms_government;Antia;Antia;Antia;;;;;;;;;;;x;
+ANI_democracy;Antian Republic;Antian Republic;Antian Republic;;;;;;;;;;;x;
+ANI_conservative_97;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;x;
+ANI_liberal_83;Antian Party;Antian Party;Antian Party;;;;;;;;;;;x;
+ANI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ANI_socialist_95;Platform for Justice;Platform for Justice;Platform for Justice;;;;;;;;;;;x;
+ANI_reactionary_83;Young Antian Party;Young Antian Party;Young Antian Party;;;;;;;;;;;x;
+ANI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ANI_communist_96;Narodna Stranka ta Antia;Narodna Stranka ta Antia;Narodna Stranka ta Antia;;;;;;;;;;;x;
+ANI_fascist_92;All-Slavic Unification Party;All-Slavic Unification Party;All-Slavic Unification Party;;;;;;;;;;;x;
+ANI_communist_92;Communist Party;Communist Party;Communist Party;;;;;;;;;;;x;
+KON_ADJ;Konyan;Konyan;Konyan;;;;;;;;;;;x;
+KON;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_proletarian_dictatorship;Anatolian Republic;Anatolian Republic;Anatolian Republic;;;;;;;;;;;x;
+KON_presidential_dictatorship;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_bourgeois_dictatorship;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_fascist_dictatorship;Seljuk Empire;Seljuk Empire;Seljuk Empire;;;;;;;;;;;x;
+KON_absolute_monarchy;Sultanate of Konya;Sultanate of Konya;Sultanate of Konya;;;;;;;;;;;x;
+KON_prussian_constitutionalism;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_hms_government;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_democracy;Konya;Konya;Konya;;;;;;;;;;;x;
+KON_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+KON_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+KON_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+KON_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+KON_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+KON_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+KON_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+KON_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+KON_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+TUR;Rum;;;;;;;;;;;;;;;;x;;;;
+TUR_ADJ;Ruman;;;;;;;;;;;;;;;;x;;;;
+TUR_reactionary;Janitschars;Janitschars;Janitscharen;;Janitschars;;;;;;;;;x;;;;
+TUR_conservative;Imperial Party;Parti imp?ial;Kaiserliche Partei;;Partido Imperial;;;;;;;;;x;;;;
+TUR_liberal;Young Turk Party;Parti de la jeunesse turque;Jungt?kenpartei;;Partido de los J?enes Turcos;;;;;;;;;x;;;;
+TUR_socialist;Kurdish Party;Parti kurde;Kurdenpartei;;Partido Kurdo;;;;;;;;;x;;;;
+TUR_communist;Revolutionary Party;Parti r?olutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x;;;;
+TUR_liberal_2;People's Union;Union populaire;Volksunion;;Uni? Popular;;;;;;;;;x;;;;
+TUR_socialist_2;Democratic Front;Front d?ocratique;Demokratische Front;;Frente Democr?ico;;;;;;;;;x;;;;
+TUR_anarcho_liberal;Radical Party;Parti radical;Radikale Partei;;Partido Radical;;;;;;;;;x;;;;
+TUR_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;
+TUR_democracy;Rum;;;;;;;;;;;;;;;;x
+TUR_democracy_ADJ;Ruman;;;;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship;Rum;;;;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship_ADJ;Ruman;;;;;;;;;;;;;;;;x

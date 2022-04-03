@@ -30,7 +30,9 @@ embrace_koreans = {
 
 potential = {
 tag = JAP 
-NOT = { exists = KOR }
+NOT = { 
+exists = KOR 
+  has_country_flag = accept_kor        }
 }
 
 allow = {
@@ -43,6 +45,8 @@ nationalism_n_imperialism = 1
 }
 
 effect = {
+
+set_country_flag = accept_kor
 
 add_accepted_culture = korean
 
@@ -98,47 +102,7 @@ KOR = { all_core = { add_core = THIS } }
 }
 
 
-core_phil = {
 
-potential = {
-tag = JAP 
-NOT = { OR = {   
-has_country_flag = cor_phil
- 
-exists = PHI }  
-
-}
-
-}
-
-
-
-allow = {
-
-PHI = { all_core = { owned_by = THIS } }
-
-is_greater_power = yes
-
-nationalism_n_imperialism = 1
-
-prestige = 40
-}
-
-effect = { 
-
-badboy = 5
-
-set_country_flag = cor_phil
-
-prestige = 20
-
-PHIL = { all_core = { add_core = THIS } }
-
-}
-
-
-
-}
 
 
 

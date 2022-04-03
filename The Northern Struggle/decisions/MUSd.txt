@@ -76,15 +76,20 @@ exps_UBD = {
 			tag = MUS
 			tag = RUS }
 			NOT = { has_country_flag = eks_ubd }
+			
+	NOT = { has_global_flag = pru_ubd }
+	   
             is_vassal = no
 			UBD = { vassal_of = THIS }
 		}
 		allow = {
+		state_n_government = 1
             owns = 360
 			owns = 361
 			owns = 698 }
 		
 		effect = {
+		badboy = 3
 		set_country_flag = eks_ubd
         any_owned = {
 		limit = {
@@ -92,7 +97,8 @@ exps_UBD = {
 			    }      
 	secede_province = UBD
 					
-                }	} 			
+                }
+            } 			
 		
 }
 
@@ -156,7 +162,7 @@ ally_ukr = {
 		}
 		allow = {
 			war = no
-            #RUT = { in_sphere = MUS } 
+            RUT = { in_sphere = MUS } 
 			is_greater_power = yes
             CHR = { exists = no }			}
 		     
@@ -177,26 +183,28 @@ conq_krym = {
 		    OR = {
 			tag = MUS
 			tag = RUS }
-			NOT = { has_country_flag = kry_con }
+		NOT = { exists = CHR exists = RUT has_country_flag = kry_con }
             is_vassal = no
             OR = { RUT = { vassal_of = MUS } 
 			owns = 958 }
 		}
 		allow = {
+		is_greater_power = yes
+		
 			war = no
             CRI = { is_vassal = no
 			NOT = { alliance_with = THIS
                     in_sphere = THIS }  }		}
 		     
 		effect = { 
-		badboy = -5
+		badboy = 5
 		war = {
 			target = CRI
 			attacker_goal = {
 				casus_belli = conquest
 			}
 			defender_goal = {
-			casus_belli = status_quo
+			casus_belli = humiliation
 			}
 			}
         
@@ -214,13 +222,16 @@ conq_lit = {
             CHR = { exists = no }
 		}
 		allow = {
+		is_greater_power = yes
+		
 			war = no
             LIT = { is_vassal = no
 			NOT = { alliance_with = MUS
-                    in_sphere = MUS		}  }		}
+                    in_sphere = MUS		}  }		
+        }
 		     
 		effect = { 
-		badboy = -5
+		badboy = 5
 		war = {
 			target = LIT
 			attacker_goal = {
@@ -247,12 +258,13 @@ forem_rus = {
 			war = no
             CHR = { exists = no }
 			LIT = { exists = no }
-			#RUT = { vassal_of = MUS }
+			RUT = { vassal_of = MUS }
 			owns = 994
 			owns = 718
             			}
 		     
-		effect = { 
+		effect = {
+		badboy = 7
 		inherit = RUT
 		change_tag = RUS
 		add_accepted_culture = ukrainian
@@ -265,10 +277,11 @@ forem_rus = {
 				}
 				add_core = RUS
 				}
-		set_country_flag = rsh_frm }
+		set_country_flag = rsh_frm 
+	             	}
        
 		
-}
+              }
 		
         } 
                 	

@@ -2,13 +2,9 @@ owner = AUS
 controller = AUS
 add_core = AUS
 add_core = SWI
-add_core = PRU
 add_core = SGF
 trade_goods = coal
 life_rating = 40
 
-1857.1.1 = {
-	remove_core = PRU
-}
 
 add_core = LOT

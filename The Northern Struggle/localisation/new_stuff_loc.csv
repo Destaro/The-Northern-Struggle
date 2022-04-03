@@ -12,6 +12,7 @@ Breton;Brezhoneg;;;;;;;;;;;;x
 Vastsvenskar;Västsvenskar;;;;;;;;;;;;x
 Karolean;Karolinsk;;;;;;;;;;;;x
 welsh;Cymri;;;;;;;;;;;;x
+provencal;Provençal;;;;;;;;;;;;x
 ;;;;;;;;;;;;;x
 IRQ;Iraq;Iraq;Irak;;Irak;;;;;;;;;x
 IRQ_ADJ;Iraqi;Iraquien;Irakisch;;iraquí;;;;;;;;;x
@@ -54,3 +55,49 @@ EGY_prussian_constitutionalism_ADJ;Fatimid;;;;;;;;;;;;x
 EGY_absolute_monarchy_ADJ;Fatimid;;;;;;;;;;;;x
 EGY_hms_government_ADJ;Fatimid;;;;;;;;;;;;x
 EGY_ADJ;Egyptian;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+PAN;Panjab;Pendjab;Pundschab;;Punjab;;;;;;;;;x;;;;
+PAN_ADJ;Panjabi;Penjabi;Pundschabisch;;Panjab?;;;;;;;;x;;;;
+PAN_conservative;Royal Faction;Faction royale;K?igsfraktion;;Facci? Real;;;;;;;;;x;;;;
+PAN_liberal;The Liberal Faction;Faction lib?ale;Die liberale Fraktion;;La Facci? Liberal;;;;;;;;;x;;;;
+PAN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facci? Nacionalista;;;;;;;;;x;;;;
+PAN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facci? Radical;;;;;;;;;x;;;;
+PAN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facci? Socialista;;;;;;;;;x;;;;
+PAN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
+PAN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+HDS;Hindûstan;Hindûstan;Hindûstan;;Hindûstan;;;;;;;;;x;;;;
+HDS_ADJ;Hind;Hind;Hind;;Hind;;;;;;;;x;;;;
+HDS_conservative;Royal Faction;Faction royale;K?igsfraktion;;Facci? Real;;;;;;;;;x;;;;
+HDS_liberal;The Liberal Faction;Faction lib?ale;Die liberale Fraktion;;La Facci? Liberal;;;;;;;;;x;;;;
+HDS_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facci? Nacionalista;;;;;;;;;x;;;;
+HDS_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facci? Radical;;;;;;;;;x;;;;
+HDS_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facci? Socialista;;;;;;;;;x;;;;
+HDS_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
+HDS_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;
+;;;;;;;;;;;;;x
+WLS;Cymru;;;;;;;;;;;;;x
+WLS_ADJ;Cymraeg;;;;;;;;;;;;;x
+WLS_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
+WLS_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
+WLS_socialist;Plaid Cymru;;;;;;;;;;;;;x
+WLS_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;x
+WLS_fascist;Meibion Glyndwr;;;;;;;;;;;;;x
+WLS_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x
+WLS_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+czech;Bémiskha;Bémiskha;Bémiskha;;Bémiskha;;;;;;;;;x;;;;
+slovak;Felvidékiek;Felvidékiek;Felvidékiek;;Felvidékiek;;;;;;;;;x;;;;
+silesian;Slesišc;;;;;;;;;;;;x
+saxisk;Saksisk;;;;;;;;;;;;x
+CZH;Wendiškarike;Wendiška Républik;Wendiška Républik;;Wendiška Républik;;;;;;;;;x
+CZH_ADJ;Wendiška;Wendiška;Wendiška;;Wendiška;;;;;;;;;x
+CZH_absolute_monarchy;Wendiškarike;;;;;;;;;;;;x
+CZH_prussian_constitutionalism;Wendiškarike;;;;;;;;;;;;x
+CZH_hms_government;Wendiškarike;;;;;;;;;;;;x
+CZH_fascist;WSNP;WSNP;WSNP;;WSNP;;;;;;;;;x
+CZH_socialist;WSSD;WSSD;WSSD;;WSSD;;;;;;;;;x
+CZH_conservative;WCP;WCP;WCP;;WCP;;;;;;;;;x
+CZH_liberal;WNLCP;WNLCP;WNLCP;;WNLCP;;;;;;;;;x
+CZH_communist;WSAP;WSAP;WSAP;;WSAP;;;;;;;;;x
+CZH_reactionary;CsND;CsND;CsND;;CsND;;;;;;;;;x

@@ -1,7 +1,6 @@
 owner = ISR
 controller = ISR
 
-add_core = TUR
 trade_goods = wool
 life_rating = 35
 

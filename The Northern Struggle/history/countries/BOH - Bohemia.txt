@@ -1,7 +1,7 @@
 capital = 625
 primary_culture = czech
-culture = slovak
-culture = north_german
+culture = silesian
+culture = saxisk
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

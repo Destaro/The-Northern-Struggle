@@ -5,6 +5,8 @@ country_event = {
 	
 	trigger = { 
 	tag = MUS
+  year = 1850
+  war = no
 	}
 	
 	fire_only_once = yes 

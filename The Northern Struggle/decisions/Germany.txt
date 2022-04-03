@@ -504,4 +504,245 @@ set_country_flag = bgu_cored
 			set_global_flag = ruhr_boom_has_happened
 		}
 	}
+
+
+
+form_south_german_confederation = {
+		potential = {
+			is_greater_power = yes
+			primary_culture = south_german
+			NOT = {
+				exists = SGF
+				exists = GER
+			        tag = KUK
+					has_country_flag = aus_dnb
+			}
+		}	
+		allow = {
+		state_n_governmemt = 1
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							province_id = 370
+							province_id = 371
+							province_id = 410
+							province_id = 409
+							province_id = 412
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						NOT = {
+							culture = south_german
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+                        add_accepted_culture = swiss
+			any_country = {
+				limit = {
+					primary_culture = south_german
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GER
+				}
+				add_core = SGF
+			}
+			change_tag = SGF
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+form_north_german_confederation = {
+		potential = {
+			is_greater_power = yes
+			primary_culture = north_german
+			NOT = {
+				exists = GER
+				exists = NGF
+			}
+		}	
+		allow = {
+			state_n_governmemt = 1
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						NOT = {
+							culture = north_german
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_german
+						tag = SCH 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GER
+				}
+				add_core = NGF
+			}			
+			change_tag = NGF
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+form_germany = {
+		news = yes
+		news_desc_long = "form_germany_NEWS_LONG"
+		news_desc_medium = "form_germany_NEWS_MEDIUM"
+		news_desc_short = "form_germany_NEWS_SHORT"
+		potential = {
+			is_culture_group = germanic
+			NOT = {
+				exists = GER
+			}
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+			prestige = 45
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = GER
+			add_accepted_culture = north_german
+			add_accepted_culture = south_german
+			any_country = {
+				limit = {
+					is_culture_group = germanic
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+reichsland_elsass = {
+		potential = {
+			OR = {
+				tag = PRU
+				tag = GER
+				tag = NGF
+                                tag = AUS
+			}
+			owns = 410
+			owns = 409
+			owns = 412
+			NOT = {
+				has_global_flag = germany_has_renamed_elsass
+			}
+		}
+		
+		allow = {
+			prestige = 10
+		}
+		
+		effect = {
+			410 = {
+				change_province_name = "Kolmar"
+			}
+			409 = {
+				change_province_name = "Straßburg"
+				state_scope = {
+					change_region_name = "Elsaß-Lothringen"
+				}
+			}
+			prestige = 5
+			set_global_flag = germany_has_renamed_elsass
+		}
+	}
+	
+	restore_alsace = {
+		potential = {
+			tag = FRA
+			has_global_flag = germany_has_renamed_elsass
+			owns = 410
+			owns = 409
+			owns = 412
+		}
+		
+		allow = {
+			prestige = 10
+		}
+		
+		effect = {
+			410 = {
+				change_province_name = "Colmar"
+			}
+			409 = {
+				change_province_name = "Strasbourg"
+				state_scope = {
+					change_region_name = "Alsace-Lorraine"
+				}
+			}
+			prestige = 10
+			clr_global_flag = germany_has_renamed_elsass
+		}
+	}
+
+
+
+
 }

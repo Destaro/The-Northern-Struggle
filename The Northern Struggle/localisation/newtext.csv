@@ -90,8 +90,6 @@ ENG_proletarian_dictatorship;The Worker's Commonwealth;Commonwealth des ouvriers
 ENG_proletarian_dictatorship_ADJ;British;Britannique;Britisch;;de Gran Bretaña;;;;;;;;;x
 BOH_democracy;Czech Republic;République tchèque;Tschechische Republik;;República Checa;;;;;;;;;x
 BOH_democracy_ADJ;Czech;Tchèque;Tschechisch;;checa;;;;;;;;;x
-TUR_democracy;Turkey;Turquie;Türkei;;Turquía;;;;;;;;;x
-TUR_democracy_ADJ;Turkish;Turc;Türkisch;;turca;;;;;;;;;x
 KUK_democracy;The Danubian Confederation;Confédération du Danube;Die Donau-Konföderation;;La Confederación del Danubio;;;;;;;;;x
 KUK_democracy_ADJ;Danubian;Danubien;Donau-;;danubiana;;;;;;;;;x
 BAV_proletarian_dictatorship;Bavarian Räterepublik;Räterepublik bavaroise;Bayerische Räterepublik;;República Autogestionada de Baviera;;;;;;;;;x
@@ -344,14 +342,6 @@ POP_DETAIL_LIFENEEDS;Life Needs;Besoins vitaux;Lebensbedürfnisse;;Necesidades vi
 POP_DETAIL_EVERYDAYNEEDS;Everyday Needs;Besoins quotidiens;Alltagsbedürfnisse;;Necesidades diarias;;;;;;;;;x
 POP_DETAIL_LUXUARYNEEDS;Luxury Needs;Besoins de luxe;Luxusbedürfnisse;;Necesidades lujo;;;;;;;;;x
 CLICK_FOR_DETAILS;Click for more details.;Cliquez pour obtenir plus de détails.;Klicken Sie für weitere Details.;;Haz clic para más detalles.;;;;;;;;;x
-CZH;Czechoslovakia;Tchécoslovaquie;Tschechoslowakei;;Checoslovaquia;;;;;;;;;x
-CZH_ADJ;Czechoslovakian;Tchécoslovaquien;Tschechoslowakisch;;checoslovaca;;;;;;;;;x
-CZH_fascist;CNSP;CNSP;CNSP;;CNSP;;;;;;;;;x
-CZH_socialist;CSSD;CSSD;CSSD;;CSSD;;;;;;;;;x
-CZH_conservative;CSL;CSL;CSL;;CSL;;;;;;;;;x
-CZH_liberal;RSZML;RSZML;RSZML;;RSZML;;;;;;;;;x
-CZH_communist;KSC;KSC;KSC;;KSC;;;;;;;;;x
-CZH_reactionary;CsND;CsND;CsND;;CsND;;;;;;;;;x
 CZH_anarcho_liberal;Ceska strana libertarianismus;Ceska strana libertarianismus;Ceska Strana Libertarianismus;;Ceska strana libertarianismus;;;;;;;;;x
 YUG;Yugoslavia;Yougoslavie;Jugoslawien;;Yugoslavia;;;;;;;;;x
 YUG_ADJ;Yugoslavian;Yougoslavien;Jugoslawisch;;yugoslava;;;;;;;;;x
