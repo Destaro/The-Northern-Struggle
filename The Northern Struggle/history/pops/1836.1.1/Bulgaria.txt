@@ -137,6 +137,35 @@
 		religion = jewish
 		size = 975
 	}
+	aristocrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 1450
+	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
+	}
 }
 #Vidin (124000/31000 POPS)
 810 = {
@@ -198,6 +227,30 @@
 		culture = sephardic
 		religion = jewish
 		size = 245
+	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
 	}
 }
 #Ruse (188000/47000 POPS)
@@ -261,6 +314,30 @@
 		religion = jewish
 		size = 740
 	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
+	}
 }
 #Pleven (196000/49000 POPS)
 812 = {
@@ -310,6 +387,30 @@
 		culture = bulgarian
 		religion = orthodox
 		size = 37650
+	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
 	}
 }
 #Shumen (144000/36000 POPS)
@@ -361,6 +462,30 @@
 		religion = orthodox
 		size = 23000
 	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
+	}
 }
 #Varna (220000/55000 POPS)
 814 = {
@@ -410,6 +535,30 @@
 		culture = bulgarian
 		religion = orthodox
 		size = 35875
+	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
 	}
 }
 #Rumelia Region (396000)
@@ -529,6 +678,30 @@
 		religion = jewish
 		size = 740
 	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
+	}
 }
 #Stara Zagora (80000/20000 POPS)
 816 = {
@@ -602,6 +775,30 @@
 		culture = bulgarian
 		religion = orthodox
 		size = 1850
+	}
+
+	bureaucrats = {
+		culture = varangoi
+		religion = orthodox
+		size = 400
+	}
+
+	officers = {
+		culture = varangoi
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = varangoi
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = varangoi
+		religion = orthodox
+		size = 7000
 	}
 }
 #Burgas (196000/49000 POPS)

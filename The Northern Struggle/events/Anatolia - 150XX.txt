@@ -310,7 +310,7 @@ country_event = {
 country_event = {
 	id = 15013
 	name = "ANA13.T"
-	desc = "ADA13.D"
+	desc = "ANA13.D"
 	
 	trigger = {
 		tag = GAL
@@ -340,7 +340,7 @@ country_event = {
 country_event = {
 	id = 15014
 	name = "ANA14.T"
-	desc = "ADA14.D"
+	desc = "ANA14.D"
 	
 	trigger = {
 		tag = KON

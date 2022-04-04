@@ -1,6 +1,6 @@
 owner = DZG
 controller = DZG
-add_core = LIT
+add_core = CPL
 add_core = DZG
 add_core = POL
 

@@ -87,7 +87,7 @@ WLS_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x
 WLS_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;x
 czech;Bémiskha;Bémiskha;Bémiskha;;Bémiskha;;;;;;;;;x;;;;
-slovak;Felvidékiek;Felvidékiek;Felvidékiek;;Felvidékiek;;;;;;;;;x;;;;
+slovak;Felvidékians;Felvidékians;Felvidékians;;Felvidékians;;;;;;;;;x;;;;
 silesian;Slesišc;;;;;;;;;;;;x
 saxisk;Saksisk;;;;;;;;;;;;x
 CZH;Wendiškarike;Wendiška Républik;Wendiška Républik;;Wendiška Républik;;;;;;;;;x
@@ -95,9 +95,16 @@ CZH_ADJ;Wendiška;Wendiška;Wendiška;;Wendiška;;;;;;;;;x
 CZH_absolute_monarchy;Wendiškarike;;;;;;;;;;;;x
 CZH_prussian_constitutionalism;Wendiškarike;;;;;;;;;;;;x
 CZH_hms_government;Wendiškarike;;;;;;;;;;;;x
-CZH_fascist;WSNP;WSNP;WSNP;;WSNP;;;;;;;;;x
-CZH_socialist;WSSD;WSSD;WSSD;;WSSD;;;;;;;;;x
-CZH_conservative;WCP;WCP;WCP;;WCP;;;;;;;;;x
-CZH_liberal;WNLCP;WNLCP;WNLCP;;WNLCP;;;;;;;;;x
-CZH_communist;WSAP;WSAP;WSAP;;WSAP;;;;;;;;;x
+CZH_fascist;CNSP;CNSP;CNSP;;CNSP;;;;;;;;;x
+CZH_socialist;CSSD;CSSD;CSSD;;CSSD;;;;;;;;;x
+CZH_conservative;CSL;CSL;CSL;;CSL;;;;;;;;;x
+CZH_liberal;RSZML;RSZML;RSZML;;RSZML;;;;;;;;;x
+CZH_communist;KSC;KSC;KSC;;KSC;;;;;;;;;x
 CZH_reactionary;CsND;CsND;CsND;;CsND;;;;;;;;;x
+;;;;;;;;;;;;;x
+CPL_absolute_monarchy;Masovia;;;;;;;;;;;;x
+CPL_hms_government;Masovia;;;;;;;;;;;;x
+CPL_prussian_constitutionalism;Masovia;;;;;;;;;;;;x
+CPL_democracy;Masovia;;;;;;;;;;;;x
+CPL;Masovia;Masovia;Masovia;;Masovia;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_ADJ;Masovian;Masovian;Masovian;;Masovian;;;;;;;;;;x;;;;;;;;;;;;;;

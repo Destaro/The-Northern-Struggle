@@ -276,84 +276,105 @@ political_decisions = {
 	}
 
 invade_savoy_provence = {
-potential = {  OR = {
-tag = PRV  tag = FRA } 
-NOT = { OR = { has_country_flag = sav_inv exists = ITA }
-         }
-}
+	potential = {  
+		OR = {
+			tag = PRV 
+			tag = FRA 
+		} 
+		NOT = {
+			OR = { has_country_flag = sav_inv 
+			exists = ITA }
+        }
+	}
 
-allow = {
-war = no
-prestige = 40 
-state_n_government = 1
-is_greater_power = yes
-military_score = 40
-}
+	allow = {
+		war = no
+		prestige = 40 
+		state_n_government = 1
+		is_greater_power = yes
+		military_score = 40
+	}
 
-effect = { 
-set_country_flag = sav_inv
-badboy = 5
-casus_belli = { 
-target = SAR
-type = conquest_any
-months = 12
-                         }
-                }
-       }
+	effect = { 
+		set_country_flag = sav_inv
+		badboy = 5
+		casus_belli = { 
+		target = SAR
+		type = conquest_any
+		months = 12
+        }
+    }
+       
+}
 
 
 
 
 claim_catalonia = {
-potential = {
-OR = { tag = PRV tag = FRA }
-NOT = {  OR  = { exists = CAT
- exists = AGO exists = IBR
-owns = 498  
-has_country_flag = cat_war }
-            }
-}
+	potential = {
+		OR = { 
+		tag = PRV
+		tag = FRA }
+		NOT = {  
+			OR  = { 
+				exists = CAT
+				exists = AGO
+				exists = IBR
+				owns = 498  
+				has_country_flag = cat_war 
+			}
+		}
+	}
 
-allow = {
-is_greater_power = yes
-prestige = 50
-war = no
-SPA = { is_greater_power = no }
-}
+	allow = {
+		is_greater_power = yes
+		prestige = 50
+		war = no
+		SPA = { is_greater_power = no }
+	}
 
-effect = {
-set_country_flag = cat_war
-badboy = 7
-war = { 	
-	target = SPA			
- attacker_goal = { 			
-	casus_belli = acquire_state state_province_id = 498 				 			} 			defender_goal = { 			
-casus_belli = humiliation 			} 
-	                    		} 
+	effect = {
+		set_country_flag = cat_war
+		badboy = 7
+		war = { 	
+			target = SPA			
+			attacker_goal = { 			
+			casus_belli = acquire_state state_province_id = 498 	} 
+			defender_goal = { 			
+			casus_belli = humiliation 	} 
+	    } 
   
-             }
-       }
+    }
+}
 
 
 
 integrate_cat = {
-potential = { OR = {
-tag = FRA tag = PRV  
-owns = 498 }
-NOT = { exists = CAT exists = AGO  has_country_flag = aragone   }
-         }
-allow = {
-is_greater_power = yes
-war = no
- CAT = { all_core = { owned_by = THIS } }
+	potential = { 
+		OR = {
+			tag = FRA
+			tag = PRV 
+		}  
+		owns = 498 
+		NOT = { 
+		exists = CAT
+		exists = AGO  
+		has_country_flag = aragone }
+    }
+
+	allow = {
+		is_greater_power = yes
+		war = no
+		CAT = { all_core = { owned_by = THIS } }
+	}
+
+	effect = {
+		badboy = 10
+		prestige = 20
+		add_accepted_culture = catalan
+		CAT = { all_core = { add_core = THIS } }
+		set_country_flag = aragone
+	}
 }
 
-effect = {
-badboy = 10
-prestige = 20
-add_accepted_culture = catalan
-CAT = { all_core = { add_core = THIS } }
-set_country_flag = aragone
-                            }
-             }
 }
