@@ -692,15 +692,6 @@ WST_absolute_monarchy;Kingdom Of Westphalia;Kingdom Of Westphalia;Kingdom Of Wes
 WST_prussian_constitutionalism;Westphala;Westphala;Westphala;;;;;;;;;;;x;
 WST_hms_government;Westphalia;Westphalia;Westphalia;;;;;;;;;;;x;
 WST_democracy;Republic Of Westphalia;Republic Of Westphalia;Republic Of Westphalia;;;;;;;;;;;x;
-WST_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-WST_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
-WST_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
-WST_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
-WST_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
-WST_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
-WST_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
-WST_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
-WST_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 LUS_ADJ;Lusofonic;Lusofonic;Lusofonic;;;;;;;;;;;x;
 LUS;Luson Empire;Luson Empire;Luson Empire;;;;;;;;;;;x;
 LUS_proletarian_dictatorship;Luson Peoples Republic;Luson Peoples Republic;Luson Peoples Republic;;;;;;;;;;;x;
@@ -758,6 +749,17 @@ MEX_absolute_monarchy;Nueva Espana;Empire du Mexique;Mexikanisches Kaiserreich;;
 MEX_prussian_constitutionalism;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mexico;;;;;;;;;x
 MEX_hms_government;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mexico;;;;;;;;;x
 TRE;Padania;Padania;Padania;;;;;;;;;;;x;
+WST_liberal;Liberale Partei;Liberale Partei;Liberale Partei;;;;;;;;;;;x;
+WST_liberal_2;Liberale Partei;Liberale Partei;Liberale Partei;;;;;;;;;;;x;
+WST_liberal_3;Liberale Partei;Liberale Partei;Liberale Partei;;;;;;;;;;;x;
+WST_conservative;Konservative Partei;Konservative Partei;Konservative Partei;;;;;;;;;;;x;
+WST_conservative_2;Konservative Partei;Konservative Partei;Konservative Partei;;;;;;;;;;;x;
+WST_conservative_3;Konservative Partei;Konservative Partei;Konservative Partei;;;;;;;;;;;x;
+WST_socialist;Westfälische Volkspartei;Westfälische Volkspartei;Westfälische Volkspartei;;;;;;;;;;;x;
+WST_reactionary;Westfälische Vaterlandspartei;Westfälische Vaterlandspartei;Westfälische Vaterlandspartei;;;;;;;;;;;x;
+WST_anarcho_liberal;Radikale Partei;Radikale Partei;Radikale Partei;;;;;;;;;;;x;
+WST_communist;Kommunistische Arbeiter-Partei Deutschlands;Kommunistische Arbeiter-Partei Deutschlands;Kommunistische Arbeiter-Partei Deutschlands;;;;;;;;;;;x;
+WST_fascist;Nationaldemokratische Partei Deutschlands;Nationaldemokratische Partei Deutschlands;Nationaldemokratische Partei Deutschlands;;;;;;;;;;;x;
 GAL_ADJ;Galatian;Galatian;Galatian;;;;;;;;;;;x;
 GAL;Galatia;Galatia;Galatia;;;;;;;;;;;x;
 GAL_proletarian_dictatorship;Central Anatolian Commune;Central Anatolian Commune;Central Anatolian Commune;;;;;;;;;;;x;
