@@ -2198,7 +2198,6 @@ latin_american_cultures = {
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
-    union = GCO
 }
 
 african_diaspora_cultures = {
