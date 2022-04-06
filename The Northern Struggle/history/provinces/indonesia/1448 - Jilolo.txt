@@ -1,5 +1,0 @@
-owner = NOR
-controller = NOR
-trade_goods = fish
-life_rating = 30
-colonial = 1

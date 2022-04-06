@@ -1,10 +1,0 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core = CAL
-trade_goods = fruit
-life_rating = 40
-
-	naval_base = 1
-	fort = 1
-add_core = TEX

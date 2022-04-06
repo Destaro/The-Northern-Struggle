@@ -1,14 +1,0 @@
-owner = NEW
-controller = NEW
-add_core = USA
-trade_goods = cotton
-life_rating = 35
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-}
-1861.1.1 = { railroad = 3 }
-
-
-add_core = NEW

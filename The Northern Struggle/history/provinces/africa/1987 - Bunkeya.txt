@@ -1,7 +1,0 @@
-owner = ORA
-controller = ORA
-add_core = CNG
-trade_goods = grain
-life_rating = 15
-
-add_core = ORA

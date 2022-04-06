@@ -1,6 +1,0 @@
-owner = BAL
-controller = BAL
-trade_goods = timber
-life_rating = 30
-colonial = 2
-add_core = BAL

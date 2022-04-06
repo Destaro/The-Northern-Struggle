@@ -1,8 +1,0 @@
-owner = RUT
-controller = RUT
-add_core = RUT
-add_core = UKR
-add_core = LIT
-add_core = PLC
-trade_goods = cattle
-life_rating = 35

@@ -1,7 +1,0 @@
-owner = FIN
-controller = FIN
-add_core = VNZ
-add_core = CUB
-trade_goods = cotton
-life_rating = 35
-colonial = 2

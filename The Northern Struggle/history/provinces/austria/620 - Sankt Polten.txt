@@ -1,9 +1,0 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = SGF 
-trade_goods = coal
-life_rating = 35
-railroad = 2 
-
-add_core = GER

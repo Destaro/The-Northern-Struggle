@@ -1,7 +1,0 @@
-owner = NAL
-controller = NAL
-trade_goods = wool
-life_rating = 30
-
-add_core = NAL
-add_core = SAF

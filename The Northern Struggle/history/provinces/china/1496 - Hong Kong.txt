@@ -1,9 +1,0 @@
-owner = DEN
-controller = DEN
-add_core = CHI
-colonial = 2
-trade_goods = tea
-life_rating = 32
-fort = 1
-naval_base = 1
-

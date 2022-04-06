@@ -1,7 +1,0 @@
-owner = KZK
-controller = KZK
-
-trade_goods = coal
-life_rating = 35
-
-add_core = KZK

@@ -1,7 +1,0 @@
-owner = GAL
-controller = GAL
-add_core = GAL
-add_core = TUR
-add_core = PON
-trade_goods = wool
-life_rating = 35

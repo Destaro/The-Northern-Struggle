@@ -1,7 +1,0 @@
-owner = ALD
-controller = ALD
-add_core = MOR
-trade_goods = fish
-life_rating = 30
-
-add_core = ALD

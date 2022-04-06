@@ -1,9 +1,0 @@
-owner = VEN
-controller = VEN
-add_core = YEM
-trade_goods = fish
-life_rating = 35
-colonial = 2
-add_core = NEJ
-add_core = OMA
-naval_base = 1

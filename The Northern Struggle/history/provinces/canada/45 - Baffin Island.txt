@@ -1,6 +1,0 @@
-owner = NOR
-controller = NOR
-add_core = CAN
-trade_goods = fish
-life_rating = 25
-colonial = 2

@@ -1,7 +1,0 @@
-owner = YNN
-controller = YNN
-add_core = YNN
-add_core = PIY
-trade_goods = timber
-life_rating = 35
-

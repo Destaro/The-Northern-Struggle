@@ -1,8 +1,0 @@
-owner = ANI
-controller = ANI
-add_core = ANI
-add_core = TUR
-add_core = YUG
-trade_goods = fruit
-life_rating = 35
-add_core = PON

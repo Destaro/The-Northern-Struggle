@@ -1,8 +1,0 @@
-owner = PRV
-controller = PRV
-add_core = FRA
-trade_goods = timber
-life_rating = 31
-
-add_core = PRV
-

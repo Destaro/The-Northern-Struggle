@@ -1,7 +1,0 @@
-owner = KRL
-controller = KRL
-add_core = USA
-trade_goods = sulphur
-life_rating = 35
-
-add_core = KRL

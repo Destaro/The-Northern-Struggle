@@ -1,6 +1,0 @@
-owner = FIN
-controller = FIN
-add_core = NZL
-trade_goods = cattle
-life_rating = 30
-colonial = 2

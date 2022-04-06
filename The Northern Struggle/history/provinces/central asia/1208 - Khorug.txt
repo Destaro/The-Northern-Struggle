@@ -1,7 +1,0 @@
-owner = AFG
-controller = AFG
-add_core = KOK
-trade_goods = cattle
-life_rating = 35
-
-add_core = AFG

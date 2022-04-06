@@ -1,8 +1,0 @@
-owner = ARM
-controller = ARM
-
-trade_goods = fruit
-life_rating = 35
-
-add_core = ARM
-add_core = IRQ

@@ -1,8 +1,0 @@
-owner = ARM
-controller = ARM
-add_core = PER
-add_core = AZB
-trade_goods = cotton
-life_rating = 35
-
-add_core = ARM

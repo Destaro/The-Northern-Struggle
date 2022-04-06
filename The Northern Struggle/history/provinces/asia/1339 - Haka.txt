@@ -1,7 +1,0 @@
-owner = CHN
-controller = CHN
-add_core = CHN
-add_core = PIY
-trade_goods = tropical_wood
-life_rating = 35
-fort = 1

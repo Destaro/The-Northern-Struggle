@@ -1,5 +1,0 @@
-trade_goods = fish
-life_rating = 25
-owner = KOK
-controller = KOK
-add_core = KOK

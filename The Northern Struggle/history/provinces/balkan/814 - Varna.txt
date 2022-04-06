@@ -1,6 +1,0 @@
-owner = BUL
-controller = BUL
-add_core = BUL
-add_core = YUG
-trade_goods = cotton
-life_rating = 35

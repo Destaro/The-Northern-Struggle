@@ -1,6 +1,0 @@
-owner = SAR
-controller = SAR
-add_core = CUB
-trade_goods = cotton
-life_rating = 35
-colonial = 2

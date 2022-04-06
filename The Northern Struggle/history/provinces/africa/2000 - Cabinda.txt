@@ -1,6 +1,0 @@
-owner = SAR
-	controller = SAR
-colonial = 2
-add_core = CNG
-trade_goods = fruit
-life_rating = 15

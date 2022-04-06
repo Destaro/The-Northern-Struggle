@@ -1,8 +1,0 @@
-owner = KRL
-controller = KRL
-add_core = USA 
-add_core = CHE
-trade_goods = grain
-life_rating = 35
-
-add_core = KRL

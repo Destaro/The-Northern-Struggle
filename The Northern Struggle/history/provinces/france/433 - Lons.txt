@@ -1,9 +1,0 @@
-owner = BGU
-controller = BGU
-add_core = FRA
-add_core = LUX
-trade_goods = grain
-life_rating = 35
-
-add_core = BGU
-add_core = LOT

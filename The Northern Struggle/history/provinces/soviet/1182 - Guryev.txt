@@ -1,9 +1,0 @@
-owner = KZK
-controller = KZK
-add_core = RUS
-trade_goods = wool
-life_rating = 35
-
-add_core = KZK
-add_core = MUS
-add_core = TAR

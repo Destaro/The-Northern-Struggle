@@ -1,7 +1,0 @@
-owner = SPA
-controller = SPA
-add_core = CUB
-trade_goods = tobacco
-naval_base = 1
-life_rating = 35
-colonial = 2

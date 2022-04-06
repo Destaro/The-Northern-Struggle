@@ -1,9 +1,0 @@
-owner = ARG
-controller = ARG
-add_core = BOL
-trade_goods = iron
-life_rating = 30
-
-add_core = ARG
-add_core = PEU
-add_core = GCO
