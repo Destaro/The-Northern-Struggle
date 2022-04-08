@@ -289,7 +289,8 @@ country_event = {
 			tag = GAL
 			tag = KON
 		}
-		NOT = { has_country_flag = tur_war}
+		NOT = { has_country_flag = tur_war }
+		NOT = { has_country_flag = tur_war_started }
 	}
 	
 	mean_time_to_happen = { days = 1 }
@@ -298,6 +299,7 @@ country_event = {
 		name = "ANA12.A"
 		
 		set_country_flag = tur_war
+		set_country_flag = tur_war_started
 		treasury = 10000
 		add_country_modifier = {
 			name = turk_death_war

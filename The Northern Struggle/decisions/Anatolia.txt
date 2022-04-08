@@ -267,10 +267,58 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			change_tag = TUR
+			RUM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+					secede_province = THIS
+				}
+			}
 			set_country_flag = tur_formed
 		}
 		ai_will_do = { factor = 1 }
 	}
+	
+	recruit_western_janissarries = {
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = janissaries_recruited }
+		}
+		allow = {
+			military_statistics = 1
+		}
+		effect = {
+			add_accepted_culture = antian
+			any_pop = {
+				limit = {
+					has_pop_culture = turkish
+				}
+				militancy = 1
+				consciousness = 2
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = antian
+					type = soldiers
+				}
+				militancy = -1
+				move_issue_percentage = { 
+					from = pro_military
+					to = jingoism
+					value = 0.1
+				}
+			}
+			set_country_flag = janissaries_recruited
+		}
+	}
+	
+	# city_of_the_straight = {
 	
 	expansion_kon = {
 		potential = {

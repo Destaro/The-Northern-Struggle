@@ -886,6 +886,11 @@ pan_nationalist_rebels = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
 			factor = 0
 		}
+		
+		modifier = {
+			NOT = { year = 1850 }
+			factor = 0
+		}
 	
 		modifier = {
 			war = yes

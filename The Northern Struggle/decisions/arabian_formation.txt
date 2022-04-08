@@ -9,8 +9,8 @@ political_decisions = {
 		}
 		
 		allow = {
-			OR = {
-				AND = {
+			OR = { 
+				AND = { 
 					is_greater_power = yes
 					any_neighbor_country = {
 						in_sphere = this
@@ -20,14 +20,13 @@ political_decisions = {
 				}
 				AND = {
 					tag = NEJ
-					HDJ = {
-						all_core = {
+					HDJ = { 
+						all_core = { 
 							owned_by = THIS 
 						} 
 					}
 				}
 			}
-			natonalism_n_imperialism = 1
 		}
 		effect = {
 			prestige = 20
