@@ -53,6 +53,7 @@ ANI = "countries/ANI.txt"
 KON = "countries/KON.txt"
 GAL = "countries/GAL.txt"
 CPL = "countries/Masovia.txt"
+NEM = "countries/NEM.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

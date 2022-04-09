@@ -292,6 +292,11 @@ political_decisions = {
 		}
 		allow = {
 			military_statistics = 1
+<<<<<<< Updated upstream
+=======
+			owns = 869
+			NOT = { exists = ANI }
+>>>>>>> Stashed changes
 		}
 		effect = {
 			add_accepted_culture = antian
@@ -318,7 +323,31 @@ political_decisions = {
 		}
 	}
 	
+<<<<<<< Updated upstream
 	# city_of_the_straight = {
+=======
+	integrate_constantinopole = {
+		potential = {
+			tag = TUR
+			has_country_flag = straight_crossed
+			NOT = { has_country_flag = constantinopole_integrated }
+		}
+		allow = {
+			war = no
+			owns = 860
+		}
+		effect = {
+			capital = 860
+			add_accepted_culture = rimski
+			860 = {
+				add_province_modifier = {
+					name = worlds_desire
+					duration = -1
+				}
+			}
+		}
+	}
+>>>>>>> Stashed changes
 	
 	expansion_kon = {
 		potential = {

@@ -1,4 +1,4 @@
-
+;;;;;;;;;;;;;;;;;;;;x
 approach_bulgaria_title;Approach Bulgaria;;;;;;;;;;;;;;;;;;;;x
 approach_bulgaria_desc;Over the Bosporus lie the lands of our Slavic friends. We could be able to strike a deal with them about some of their coastal cities.;;;;;;;;;;;;;;;;;;;;x
 approach_venice_title;Approach Venice;;;;;;;;;;;;;;;;;;;;x
@@ -27,6 +27,10 @@ second_expansion_gal_title;Greater Rum;;;;;;;;;;;;;;;;;;;;x
 second_expansion_gal_desc;Middle East has hot had a dominant power securing all its internal affairs for quite a while now, and we're the only ones in a position to change that.;;;;;;;;;;;;;;;;;;;;x
 secure_anatolian_stab_title;Secure Anatolian stability;;;;;;;;;;;;;;;;;;;;x
 secure_anatolian_stab_desc;In the past years, all that has been heard from Anatolian peninsula is the idea of unification. If that ever happens, our colonies might be in trouble. To secure stability, we should support Pontus, a coastal Greek state with no such ideas inside.;;;;;;;;;;;;;;;;;;;;x
+recruit_western_janissarries_title;Recruit western janissarries;;;;;;;;;;;;;;;;;;;;;x
+recruit_western_janissarries_desc;Our army is in a horrible state and is in desparate need of reinforcements. In order to make up for our lack in manpower, we will conscript the Janissarries from the newly conquered western territories of our country - they will, however, have to receive political rights.;;;;;;;;;;;;;;;;;;;;;x
+integrate_constantinopole_title;The City of World's Desire;;;;;;;;;;;;;;;;;;;;;x
+integrate_constantinopole_desc;The city of Constantinople has been considered one of the most important European cities for many centuries. To show our benevolence and dominance in the region, we will relocate our capital there and grant privileges to its residents.;;;;;;;;;;;;;;;;;;;;;x
 ANA01.T;Svetlan's regency;;;;;;;;;;;;;;;;;;;;x
 ANA01.D;Previous monarch of Antia, Svetlan II Hvalicek, has passed away in 1834 under mysterious circumstances, leaving the throne temporarily vacant with his only son and heir Svetlan III under a regency of a council. Until Svetlan is of legal age, the country might not be ruled as efficiently.;;;;;;;;;;;;;;;;;;;;x
 ANA01.A;God bless him!;;;;;;;;;;;;;;;;;;;;x
@@ -80,3 +84,5 @@ abdul-selim_v;Abdul-Selim V;;;;;;;;;;;;;;;;;;;;x
 abdul-selim_v_desc;Abdul-Selim V, Galatian monarch of Denizide dynasty, is a patriot and a jingoist.;;;;;;;;;;;;;;;;;;;;x
 mustafa_i;Mustafa I;;;;;;;;;;;;;;;;;;;;x
 mustafa_i_desc;Mustafa I, Konyan sultan, has ideas of a creating a stronger Turkish state not by conquest, but by westernization and industrialization.;;;;;;;;;;;;;;;;;;;;x
+worlds_desire;The City of World's Desire;;;;;;;;;;;;;;;;;;;;x
+worlds_desire_desc;With Ruman rule, Constantinopole is now yet again a city of the world's desire!;;;;;;;;;;;;;;;;;;;;x

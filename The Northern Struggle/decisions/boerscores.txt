@@ -1,0 +1,41 @@
+political_decisions = {
+
+	core_boers = {
+		potential = {
+		OR = { tag = TRN tag = ORA }
+		NOT = { has_country_flag = cor_bor}
+    }
+
+	allow = {
+		TRN = { all_core = { owned_by = THIS } }
+		ORA = { all_core = { owned_by = THIS } }
+	}
+
+	effect = {
+		TRN = { all_core = { add_core = THIS } }
+		ORA = { all_core = { add_core = THIS } }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

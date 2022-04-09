@@ -235,7 +235,7 @@ owns = 473
 		allow = {
 nationalism_n_imperialism = 1
 			war = no
-			prestige 40
+			prestige = 40
 is_greater_power = yes
 
 AGO = {all_core = {
@@ -293,7 +293,7 @@ owns = 473
             owns = 765
 empiricism = 1
 			war = no
-			prestige 60
+			prestige = 60
 is_greater_power = yes
 
 AGO = {all_core = {
