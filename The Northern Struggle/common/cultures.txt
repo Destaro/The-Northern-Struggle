@@ -234,33 +234,6 @@ scandinavian = {
 		
 		radicalism = 5
 	}
-
-rimski = {
-		color = {70 140 120}
-		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
-		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
-		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
-		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
-		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
-		}
-
-		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
-		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
-		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
-		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
-		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
-		}
-		radicalism = 10
-	}
-varangoi = { 
-		color = { 100 133 193}
-		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
-		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
-		
-		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
-		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
-	}
-
 	sami = {
 		color = { 60 180 110}
 		first_names = {
@@ -990,6 +963,31 @@ levantine = {
 		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
 		Sassoon Sebag
 		}
+	}
+varangoi = { 
+		color = { 100 133 193}
+		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
+		
+		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
+		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
+	}
+rimski = {
+		color = {70 140 120}
+		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
+		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
+		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
+		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
+		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
+		}
+
+		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
+		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
+		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		}
+		radicalism = 10
 	}
 }
 

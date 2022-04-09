@@ -3,5 +3,6 @@ controller = BUL
 add_core = BUL
 add_core = SER
 add_core = ALB
+add_core = YUG
 trade_goods = fruit
 life_rating = 10

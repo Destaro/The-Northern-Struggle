@@ -1,4 +1,4 @@
-capital = 703
+capital = 951
 primary_culture = polish
 culture = slovak
 religion = catholic

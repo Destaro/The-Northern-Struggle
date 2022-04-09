@@ -20,7 +20,6 @@ political_decisions = {
 		set_country_flag = swedish_pomerania
 		prestige = 40
 		add_accepted_culture = north_german
-		add_core = 692
 		add_core = 691
 		add_core = 690
 		add_core = 550

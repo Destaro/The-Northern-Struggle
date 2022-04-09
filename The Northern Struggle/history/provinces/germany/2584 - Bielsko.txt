@@ -1,8 +1,9 @@
-owner = KRA
-controller = KRA
-add_core = KRA
-add_core = POL
-add_core = PLC
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = PRU
+add_core = GER
+add_core = BRG
 trade_goods = coal
 life_rating = 40
 1861.1.1 = { railroad = 2 }
