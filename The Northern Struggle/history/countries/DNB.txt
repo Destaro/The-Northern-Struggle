@@ -5,7 +5,7 @@
 capital = 657
 primary_culture = hungarian
 culture = romanian
-culture = serbian
+culture = serb
 religion = catholic
 government = absolute_monarchy
 plurality = 25

@@ -11,7 +11,6 @@ AUS_danube = {
 		}
 		
 		allow = {
-			natonalism_n_imperialism = 1
 			prestige = 30
 			war = no
 			HUN = { vassal_of = AUS }

@@ -157,6 +157,7 @@ conquest = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		# only one state or unciv
 		NOT = { number_of_states = 5 }
 		OR = {
@@ -273,6 +274,7 @@ take_capital = {
     can_use = {
 		
         NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
         number_of_states = 2 # annex if you want their last state
         any_owned_province = {
             not = { is_core = THIS }
@@ -388,6 +390,7 @@ add_to_sphere = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		this = { is_greater_power = yes }
 		is_greater_power = no
 		is_independant = yes
@@ -433,6 +436,7 @@ take_from_sphere = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		this = { is_greater_power = yes }
 		is_greater_power = yes
 	}
@@ -487,6 +491,7 @@ acquire_core_state = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
 			is_core = THIS
@@ -540,6 +545,7 @@ annex_core_country = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		any_owned_province = {
 			is_core = THIS
 		}
@@ -645,6 +651,7 @@ acquire_state = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
 			not = { is_core = THIS }
@@ -719,6 +726,7 @@ place_in_the_sun = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		any_owned_province = {
 			is_colonial = yes
 		}	
@@ -814,6 +822,7 @@ cut_down_to_size = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		is_disarmed = no
 	}
 	
@@ -890,6 +899,7 @@ free_peoples = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 	}
 
 	# THIS - us
@@ -999,6 +1009,7 @@ liberate_country = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 	}
 
 	# THIS - us
@@ -1109,6 +1120,7 @@ dismantle_forts = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 	}
 
 	# THIS - us
@@ -1160,6 +1172,7 @@ release_puppet = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		num_of_vassals_no_substates = 1
 	}
 	
@@ -1208,6 +1221,7 @@ make_puppet = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		NOT = { number_of_states = 7 }
 		is_greater_power = no
 		is_vassal = no
@@ -1319,6 +1333,7 @@ humiliate = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		has_recently_lost_war = no
 	}	
 	on_add = {
@@ -1359,6 +1374,7 @@ demand_concession_casus_belli = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
+		NOT = { has_country_flag = tur_war }
 		THIS = {
 			civilized = yes
 		}
@@ -1748,6 +1764,7 @@ install_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = { has_country_flag = tur_war }
 		THIS = {
 			# If actor is a great power
 			is_greater_power = yes
@@ -1826,6 +1843,7 @@ uninstall_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = { has_country_flag = tur_war }
 		THIS = {
 			# If actor ruling party is not communist
 			NOT = {

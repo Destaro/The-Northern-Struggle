@@ -1,0 +1,52 @@
+political_decisions = {
+
+	form_germany = {
+		news = yes
+		news_desc_long = "form_germany_NEWS_LONG"
+		news_desc_medium = "form_germany_NEWS_MEDIUM"
+		news_desc_short = "form_germany_NEWS_SHORT"
+		potential = {
+			tag = CZH
+			NOT = {
+				exists = GER
+                exists = NEM
+			}
+		}
+		
+		allow = {
+			is_greater_power = yes
+			prestige = 45
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = GER
+			add_accepted_culture = north_german
+			add_accepted_culture = south_german
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+            add_accepted_culture = hungarian
+			any_country = {
+				limit = {
+					is_culture_group = germanic
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -27,7 +27,7 @@ communist = 0
 liberal = 0
 anarcho_liberal = 0
 }
-slavery = yes_slavery
+slavery = no_slavery
 vote_franschise = none_voting
 upper_house_composition = party_appointed
 voting_system = first_past_the_post

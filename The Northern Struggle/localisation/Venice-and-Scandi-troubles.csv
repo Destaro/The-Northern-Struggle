@@ -1,4 +1,4 @@
-
+;;;;;;;;;;;;;;;;;;;;x
 REV01.T;Cultural tensions in the British isles;;;;;;;;;;;;;;;;;;;;x
 REV01.D;The settlement of the British isles by Scandinavian settlers has brought unwanted consequences. The locals are in dismay and are starting to organise revolts against their overlords. We are nearing the zenith of their unrest, and only time will tell what happens next.;;;;;;;;;;;;;;;;;;;;x
 REV01.A;Concerning;;;;;;;;;;;;;;;;;;;;x
@@ -100,7 +100,7 @@ VEN01.T;The death of a Doge;;;;;;;;;;;;;;;;;;;;x
 VEN01.D;This morning, our Doge, Giovanni Morosini, has passed away in his bed. The nation mourns his death, as he was a beloved ruler who took care of his people. Now, we need to prepare to elect a new Doge who will lead our nation through these tough times.;;;;;;;;;;;;;;;;;;;;x
 VEN01.A;May he rest in Heaven;;;;;;;;;;;;;;;;;;;;x
 VEN02.T;The Great Council of Venice;;;;;;;;;;;;;;;;;;;;x
-VEN02.D;The Great Council has launched an emergency meeting, where after a convoluted process 3 pure-blooded candidates for the title of the Doge were chosen: Alessandro Pagnozzi, coming from a wealthy merchant family, with a grand idea of dominating the seas, Gianni d'Angelo, a higher-up in the army and a staunch militarist, and young Giuseppe Garibaldi, commonly called "The Italian" for his nationalistic ideas. The Council is now deciding on who the best person to lead the country in the future will be.;;;;;;;;;;;;;;;;;;;;x
+VEN02.D;The Great Council has launched an emergency meeting, where after a convoluted process 3 pure-blooded candidates for the title of the Doge were chosen: Alessandro Pagnozzi, coming from a wealthy merchant family, with a grand idea of dominating the seas, Gianni d'Angelo, a higher-up in the army and a staunch militarist, and young Giuseppe Garibaldi, commonly called "The Italian" for his nationalistic ideas. The Council is now deciding on who the best person to lead the country in the future will be.\n\nWith Pagnozzi, you can create a trade empire and acquire ports and colonies all over the Mediterranian,\nwith d'Angelo, you can establish your dominance over Balkans and turn into a land empire,\nand with Garibaldi, you can strike against the Austrian menace and form Italy, hypothetically a very powerful state.;;;;;;;;;;;;;;;;;;;;x
 VEN02.A1;Pagnozzi wins;;;;;;;;;;;;;;;;;;;;x
 VEN02.A2;d'Angelo wins;;;;;;;;;;;;;;;;;;;;x
 VEN02.A3;Garibaldi wins;;;;;;;;;;;;;;;;;;;;x
