@@ -858,20 +858,6 @@ PROV857;Famagusta;Famagusta;Famagusta;;Famagusta;;;;;;;;;x;;;;
 PROV858;Brysis;Brysis;Brysis;;Brysis;;;;;;;;;x;;;;
 PROV859;Kallipoli;Dardanelles;Galipol;;Kal√≠poli;;;;;;;;;x;;;;
 PROV860;Constantinople;Constantinople;Konstantinopel;;Konstantinopel;;;;;;;;;x;;;;
-<<<<<<< Updated upstream
-PROV861;√úsk√ºdar;√úsk√ºdar;Uskudar;;Usk√ºdar;;;;;;;;;x;;;;
-PROV862;Izmit;Izmit;Izmit;;Yzmit;;;;;;;;;x;;;;
-PROV863;Bursa;Bursa;Bursa;;Bursa;;;;;;;;;x;;;;
-PROV864;Balikesir;Balikesir;Balikesir;;Balikesir;;;;;;;;;x;;;;
-PROV865;Canakkale;Canakkale;Canakkale;;Canakkale;;;;;;;;;x;;;;
-PROV866;Afyon;Afyon;Afyon;;Afyon;;;;;;;;;x;;;;
-PROV867;K√ºtahya;K√ºtahya;Kutahya;;Kutahya;;;;;;;;;x;;;;
-PROV868;Eskishehir;Eskishehir;Eskishehir;;Eskishehir;;;;;;;;;x;;;;
-PROV869;Izmir;Izmir;Izmir;;Izmir;;;;;;;;;x;;;;
-PROV870;Manisa;Manisa;Manisa;;Manisa;;;;;;;;;x;;;;
-PROV871;Denizli;Denizli;Denizli;;Denizli;;;;;;;;;x;;;;
-PROV872;Mugla;Mugla;Mugla;;Mugla;;;;;;;;;x;;;;
-=======
 PROV861;Chrysopolis;Chrysopolis;Chrysopolis;;Chrysopolis;;;;;;;;;x;;;;
 PROV862;Nicomedia;Nicomedia;Nicomedia;;Nicomedia;;;;;;;;;x;;;;
 PROV863;Pruöa;Pruöa;Pruöa;;Pruöa;;;;;;;;;x;;;;
@@ -884,7 +870,6 @@ PROV869;émir;émir;émir;;émir;;;;;;;;;x;;;;
 PROV870;Majnita;Majnita;Majnita;;Majnita;;;;;;;;;x;;;;
 PROV871;Hierapolis;Hierapolis;Hierapolis;;Hierapolis;;;;;;;;;x;;;;
 PROV872;Caria;Caria;Caria;;Caria;;;;;;;;;x;;;;
->>>>>>> Stashed changes
 PROV873;Konya;Konya;Konya;;Konya;;;;;;;;;x;;;;
 PROV874;Burdur;Burdur;Burdur;;Burdur;;;;;;;;;x;;;;
 PROV875;Antalya;Antalya;Antalya;;Antalya;;;;;;;;;x;;;;
@@ -892,7 +877,7 @@ PROV876;Ankara;Ankara;Ankara;;Ankara;;;;;;;;;x;;;;
 PROV877;Amasya;Amasya;Amasya;;Amasya;;;;;;;;;x;;;;
 PROV878;Kayseri;Kayseri;Kayseri;;Kayseri;;;;;;;;;x;;;;
 PROV879;Sivas;Sivas;Sivas;;Sivas;;;;;;;;;x;;;;
-PROV880;Kastamonu;Kastamonu;Kastamonu;;Kastamonu;;;;;;;;;x;;;;
+PROV880;Timonion;Timonion;Timonion;;Timonion;;;;;;;;;x;;;;
 PROV881;Poli;Poli;Poli;;Poli;;;;;;;;;x;;;;
 PROV882;Trabzon;Trabzon;Trabzon;;Trabzon;;;;;;;;;x;;;;
 PROV883;Sinop;Sinop;Sinop;;Sinop;;;;;;;;;x;;;;
