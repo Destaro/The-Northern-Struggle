@@ -17,7 +17,7 @@ country_event = {
 		}
 	}
 		
-    option = { 
+    option = {
 	name = "REVLT1.A" 
     set_country_flag = sca_crash
 	set_country_flag = bri_revolt
@@ -313,7 +313,7 @@ country_event = {
     }
 }
 
-country_event = { 
+country_event = {
 	id = 101200 #revolution
 	title = "REVLT6.T"
 	desc = "REVLT6.D"
@@ -354,23 +354,4 @@ country_event = {
 		 remove_province_modifier = english_presence
 }
 }
-
-
-			
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
+}

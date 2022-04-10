@@ -1,7 +1,7 @@
 # Antian regency
 country_event = {
 	id = 15001
-	name = "ANA01.T"
+	title = "ANA01.T"
 	desc = "ANA01.D"
 	
 	trigger = { tag = ANI }
@@ -23,7 +23,7 @@ country_event = {
 # Svetlan III Hvalicek's regency ends
 country_event = {
 	id = 15002
-	name = "ANA02.T"
+	title = "ANA02.T"
 	desc = "ANA02.D"
 	
 	trigger = {
@@ -48,7 +48,7 @@ country_event = {
 # ANI approaches BUL
 country_event = {
 	id = 15003
-	name = "ANA03.T"
+	title = "ANA03.T"
 	desc = "ANA03.D"
 	
 	is_triggered_only = yes
@@ -86,7 +86,7 @@ country_event = {
 # ANI approaches VEN
 country_event = {
 	id = 15004
-	name = "ANA03.T"
+	title = "ANA03.T"
 	desc = "ANA04.D"
 	
 	is_triggered_only = yes
@@ -129,7 +129,7 @@ country_event = {
 # BUL accepts from ANI
 country_event = {
 	id = 15005
-	name = "ANA05.T"
+	title = "ANA05.T"
 	desc = "ANA05.D"
 	
 	is_triggered_only = yes
@@ -143,7 +143,7 @@ country_event = {
 # BUL denies ANI
 country_event = {
 	id = 15006
-	name = "ANA06.T"
+	title = "ANA06.T"
 	desc = "ANA06.D"
 	
 	is_triggered_only = yes
@@ -160,7 +160,7 @@ country_event = {
 # VEN accepts from ANI
 country_event = {
 	id = 15007
-	name = "ANA07.T"
+	title = "ANA07.T"
 	desc = "ANA07.D"
 	
 	is_triggered_only = yes
@@ -174,7 +174,7 @@ country_event = {
 # VEN denies ANI
 country_event = {
 	id = 15008
-	name = "ANA08.T"
+	title = "ANA08.T"
 	desc = "ANA08.D"
 	
 	is_triggered_only = yes
@@ -191,7 +191,7 @@ country_event = {
 # PON gets Danish aid
 country_event = {
 	id = 15009
-	name = "ANA09.T"
+	title = "ANA09.T"
 	desc = "ANA09.D"
 	
 	is_triggered_only = yes
@@ -237,7 +237,7 @@ country_event = {
 # Danish investments in Pontus seized
 country_event = {
 	id = 150101
-	name = "ANA101.T"
+	title = "ANA101.T"
 	desc = "ANA101.D"
 	
 	trigger = {
@@ -262,7 +262,7 @@ country_event = {
 # DEN gets CB on Pontus aggressor
 country_event = {
 	id = 15011
-	name = "ANA11.T"
+	title = "ANA11.T"
 	desc = "ANA11.D"
 	
 	is_triggered_only = yes
@@ -281,7 +281,7 @@ country_event = {
 # Turkish war setup
 country_event = {
 	id = 15012
-	name = "ANA12.T"
+	title = "ANA12.T"
 	desc = "ANA12.D"
 	
 	trigger = {
@@ -311,7 +311,7 @@ country_event = {
 # GAL wins
 country_event = {
 	id = 15013
-	name = "ANA13.T"
+	title = "ANA13.T"
 	desc = "ANA13.D"
 	
 	trigger = {
@@ -341,7 +341,7 @@ country_event = {
 # KON wins
 country_event = {
 	id = 15014
-	name = "ANA14.T"
+	title = "ANA14.T"
 	desc = "ANA14.D"
 	
 	trigger = {

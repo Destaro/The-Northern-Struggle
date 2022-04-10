@@ -267,7 +267,7 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			change_tag = TUR
-			RUM = {
+			TUR = {
 				all_core = {
 					OR = {
 						OR = {
@@ -292,11 +292,8 @@ political_decisions = {
 		}
 		allow = {
 			military_statistics = 1
-<<<<<<< Updated upstream
-=======
 			owns = 869
 			NOT = { exists = ANI }
->>>>>>> Stashed changes
 		}
 		effect = {
 			add_accepted_culture = antian
@@ -323,9 +320,6 @@ political_decisions = {
 		}
 	}
 	
-<<<<<<< Updated upstream
-	# city_of_the_straight = {
-=======
 	integrate_constantinopole = {
 		potential = {
 			tag = TUR
@@ -347,7 +341,6 @@ political_decisions = {
 			}
 		}
 	}
->>>>>>> Stashed changes
 	
 	expansion_kon = {
 		potential = {

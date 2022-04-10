@@ -242,7 +242,7 @@ mus_plan = {
 		          remove_accepted_culture = byelorussian
 		add_country_modifier = { name = german_protectorate duration = -1 }  }
 		1036 = { change_province_name = Hajitarhan}
-		1040 = { change_province_name = Aq tobe}
+		1040 = { change_province_name = "Aq tobe" }
 		1038 = { change_province_name = Janauzak }
 		1043 = { change_province_name = Byzay}
 		1044 = { change_province_name = Orenbor}
@@ -270,7 +270,7 @@ mus_plan = {
 		998 = { change_province_name = Hurtig} 
 		1000 = { change_province_name = Altfen} 
 		999 = { change_province_name = Rsheu} 
-		1007 = { change_province_name = Gross Luken} 
+		1007 = { change_province_name = "Gross Luken"} 
 		943 = { change_province_name = Smolenau} 
 		1008 = { change_province_name = Moskau} 
 		1010 = { change_province_name = Morastigen} 

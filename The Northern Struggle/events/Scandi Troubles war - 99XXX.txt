@@ -962,7 +962,7 @@ country_event = {
 	trigger = {
 		tag = NOR
 		has_global_flag = sco_revolt
-		has_country_modifier = increased_taxes
+		has_country_modifier = increased_taxes_overlord
 	}
 	fire_only_once = yes
 	
@@ -1294,7 +1294,7 @@ country_event = {
 	trigger = {
 		tag = NOR
 		has_global_flag = sco_revolt
-		has_country_modifier = increased_conscription
+		has_country_modifier = increased_conscription_overlord
 	}
 	fire_only_once = yes
 	

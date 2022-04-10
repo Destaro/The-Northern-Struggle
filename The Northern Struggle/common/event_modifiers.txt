@@ -999,3 +999,9 @@ mustafa_i = {
 	research_points_modifier = 0.1
 	factory_owner_cost = -0.2
 }
+
+worlds_desire = {
+	icon = 15
+	immigrant_attract = 0.1
+	population_growth = 0.001
+}

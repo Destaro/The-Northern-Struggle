@@ -225,26 +225,26 @@ set_country_flag = dzg_out
          }
   }
   
-   = { 
-  potential = { 
-  tag = CZH 
-  NOT = { has_country_flag = invade_dzg_wend }
-  }
-  allow = {
-  is_greater_power = yes
-  war = no
-  CZH = { all_core = { owned_by =  THIS } }
-          }
-        effect = {
-        set_country_flag = invade_dzg_wend
-        badboy = 5
-     casus_belli = {
- target = DZG
- type = conquest_any
- months = 12 
-                     }
-             }
-    }
+   # = {
+  # potential = {
+  # tag = CZH 
+  # NOT = { has_country_flag = invade_dzg_wend }
+  # }
+  # allow = {
+  # is_greater_power = yes
+  # war = no
+  # CZH = { all_core = { owned_by =  THIS } }
+          # }
+        # effect = {
+        # set_country_flag = invade_dzg_wend
+        # badboy = 5
+     # casus_belli = {
+ # target = DZG
+ # type = conquest_any
+ # months = 12 
+                     # }
+             # }
+    # }
         
 integrate_hun = {
 potential = { tag = CZH 

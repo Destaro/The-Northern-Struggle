@@ -91,7 +91,7 @@ political_decisions = {
 			tag = AUS
 			NOT = { has_country_flag = boh_war }
             is_vassal = no
-		NOT = { BOH = is_vassal = yes }
+		NOT = { BOH = { is_vassal = yes } }
 			HUN = { vassal_of = AUS }
 		}
 		allow = {

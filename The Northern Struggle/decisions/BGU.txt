@@ -3,7 +3,7 @@ political_decisions = {
 		potential = { OR = { 
 			tag = BGU  tag = FRA
     }
-			NOT = { OR { exists = LUX
+			NOT = { OR = { exists = LUX
 				has_country_flag = rhein_cor
 			}
 }
