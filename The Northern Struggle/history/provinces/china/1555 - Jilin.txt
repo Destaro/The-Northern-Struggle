@@ -1,5 +1,5 @@
-owner = MGL
-controller = MGL
+owner = MCK
+controller = MCK
 add_core = MGL
 add_core = MCK
 trade_goods = iron

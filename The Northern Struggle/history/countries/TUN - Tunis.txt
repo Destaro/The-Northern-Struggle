@@ -1,6 +1,6 @@
 capital = 1725
-primary_culture = maghrebi
-religion = sunni
+primary_culture = punic
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

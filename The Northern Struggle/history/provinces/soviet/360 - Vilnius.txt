@@ -1,8 +1,6 @@
 owner = LIT
 controller = LIT
 add_core = LIT
-add_core = POL
-
 add_core = PLC
 add_core = UBD
 trade_goods = grain

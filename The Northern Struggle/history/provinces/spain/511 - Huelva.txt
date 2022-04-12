@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = BRA
+controller = BRA
+add_core = BRA
 add_core = SPA
 trade_goods = grain
 life_rating = 35

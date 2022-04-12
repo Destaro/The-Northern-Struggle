@@ -13,6 +13,15 @@ Vastsvenskar;Västsvenskar;;;;;;;;;;;;x
 Karolean;Karolinsk;;;;;;;;;;;;x
 welsh;Cymri;;;;;;;;;;;;x
 provencal;Provençal;;;;;;;;;;;;x
+vandalic;Vandalo;;;;;;;;;;;;x
+scythian;Alani;;;;;;;;;;;;x
+iberian_scythian;Alanos;;;;;;;;;;;;x
+iassic;Iasi;;;;;;;;;;;;x
+punic;Qarthadashtit;;;;;;;;;;;;x
+phoenecoberber;Tingait;;;;;;;;;;;;x
+eastern_germanic;Eastern Germanic;;;;;;;;;;;;;;;;;;;;;;;;x
+scythian_group;Scythic;;;;;;;;;;;;;;;;;;;;;;;;x
+semitic_group;Western Semitic;;;;;;;;;;;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;x
 IRQ;Iraq;Iraq;Irak;;Irak;;;;;;;;;x
 IRQ_ADJ;Iraqi;Iraquien;Irakisch;;iraquí;;;;;;;;;x
@@ -108,3 +117,29 @@ CPL_prussian_constitutionalism;Masovia;;;;;;;;;;;;x
 CPL_democracy;Masovia;;;;;;;;;;;;x
 CPL;Masovia;Masovia;Masovia;;Masovia;;;;;;;;;;x;;;;;;;;;;;;;;
 CPL_ADJ;Masovian;Masovian;Masovian;;Masovian;;;;;;;;;;x;;;;;;;;;;;;;;
+;;;;;;;;;;;;;x
+BRA;Vandalica;Vandalica;Vandalica;;Vandalica;;;;;;;;;x;;;;
+BRA_ADJ;Vandal;Vandal;Vandal;;Vandal;;;;;;;;;x;;;;
+BRA_liberal;Partij af Freihals;Partij af Freihals;Partij af Freihals;;Partij af Freihals;;;;;;;;;x;;;;
+BRA_conservative;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+BRA_liberal_2;Partij af Freihals;Partij af Freihals;Partij af Freihals;;Partij af Freihals;;;;;;;;;x;;;;
+BRA_liberal_3;Freisinnige Partei;Freisinnige Partei;Freisinnige Partei;;Freisinnige Partei;;;;;;;;;x;;;;
+BRA_socialist;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+BRA_socialist_2;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+BRA_socialist_3;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+BRA_reactionary;Partij af Reaktioners;Partij af Reaktioners;Partij af Reaktioners;;Partij af Reaktioners;;;;;;;;;x;;;;
+BRA_conservative_2;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+BRA_conservative_3;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+BRA_anarcho_liberal;Partij af Radikals;Partij af Radikals;Partij af Radikals;;Partij af Radikals;;;;;;;;;x;;;;
+BRA_communist;Vandalthiuda Radikals;Vandalthiuda Radikals;Vandalthiuda Radikals;;Vandalthiuda Radikals;;;;;;;;;x;;;;
+BRA_fascist;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;;Fraujinassus af Vandalthiuda;;;;;;;;;x;;;;
+;;;;;;;;;;;;;x
+TUN;Carthage;Qart-Hadašt;Qart-Hadašt;;Qart-Hadašt;;;;;;;;;x;;;;
+TUN_ADJ;Carthaginian;Qarthadashtit;Qarthadashtit;;Qarthadashtit;;;;;;;;;x;;;;
+TUN_conservative;House of Barca;House of Barca;House of Barca;;House of Barca;;;;;;;;;x;;;;
+TUN_liberal;Liberal Party of Carthage;Liberal Party of Carthage;Liberal Party of Carthage;;Liberal Party of Carthage;;;;;;;;;x;;;;
+TUN_reactionary;House of Barca;House of Barca;House of Barca;;House of Barca;;;;;;;;;x;;;;
+TUN_anarcho_liberal;Radical Party of Carthage;Radical Party of Carthage;Radical Party of Carthage;;Radical Party of Carthage;;;;;;;;;x;;;;
+TUN_socialist;The Carthaginian People's Party;The Carthaginian People's Party;The Carthaginian People's Party;;The Carthaginian People's Party;;;;;;;;;x;;;;
+TUN_communist;The Carthaginian People's Vangard;The Carthaginian People's Vangard;The Carthaginian People's Vangard;;The Carthaginian People's Vangard;;;;;;;;;x;;;;
+TUN_fascist;Carthaginian Nationalist Party;Carthaginian Nationalist Party;Carthaginian Nationalist Party;;Carthaginian Nationalist Party;;;;;;;;;x;;;;

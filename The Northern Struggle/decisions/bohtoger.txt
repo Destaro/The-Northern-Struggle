@@ -111,7 +111,6 @@ become_wendiska = {
     owns = 685
     owns = 690
     owns = 691
-    owns = 692
     owns = 699
     owns = 700
     owns = 701

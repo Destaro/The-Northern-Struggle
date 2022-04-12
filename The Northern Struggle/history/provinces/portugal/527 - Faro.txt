@@ -1,6 +1,7 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = BRA
+controller = BRA
+add_core = BRA
+add_core = SPA
 trade_goods = fruit
 life_rating = 35
 

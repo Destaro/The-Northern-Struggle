@@ -1,8 +1,7 @@
-owner = KRA
-controller = KRA
-add_core = KRA
-#add_core = UKR
+owner = MOL
+controller = MOL
 add_core = MOL
+#add_core = UKR
 add_core = RUT
 add_core = ROM
 trade_goods = fruit
