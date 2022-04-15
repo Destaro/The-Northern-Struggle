@@ -1409,37 +1409,36 @@
 	}
 }
 #Timimoun (16000/4000 POPS)
-1720 = {
+1720  = {
 	aristocrats = {
-		culture = tuareg
-		religion = catholic
-		size = 50
+		culture = berber
+		religion = sunni
+		size = 10
 	}
 
 	clergymen = {
-		culture = tuareg
-		religion = catholic
-		size = 30
+		culture = berber
+		religion = sunni
+		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
-		religion = catholic
-		size = 70
-	}
-
-	soldiers = {
-		culture = tuareg
-		religion = catholic
+		culture = berber
+		religion = sunni
 		size = 50
 	}
 
-	farmers = {
-		culture = tuareg
-		religion = catholic
-		size = 3800
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 15
 	}
 
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 900
+	}
 }
 #Hoggar Region (40000)
 #uncolonized in 1836
@@ -1510,63 +1509,86 @@
 #Tamanrasset (16000/4000 POPS)
 1724 = {
 	aristocrats = {
-		culture = berber
+		culture = punic
 		religion = catholic
-		size = 25
+		size = 500
+	}
+
+	officers = {
+		culture = punic
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = punic
+		religion = catholic
+		size = 100
 	}
 
 	clergymen = {
-		culture = berber
+		culture = punic
 		religion = catholic
-		size = 20
+		size = 500
 	}
 
 	artisans = {
-		culture = berber
+		culture = punic
 		religion = catholic
-		size = 80
+		size = 2250
 	}
 
 	soldiers = {
-		culture = berber
+		culture = punic
 		religion = catholic
-		size = 25
+		size = 4000
 	}
 
 	farmers = {
-		culture = berber
+		culture = punic
 		religion = catholic
-		size = 1850
+		size = 37550
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = phoenecoberber
 		religion = catholic
-		size = 25
+		size = 100
+	}
+
+	officers = {
+		culture = phoenecoberber
+		religion = catholic
+		size = 50
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = phoenecoberber
 		religion = catholic
-		size = 15
+		size = 100
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = phoenecoberber
 		religion = catholic
-		size = 35
+		size = 350
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = phoenecoberber
 		religion = catholic
-		size = 25
+		size = 150
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = phoenecoberber
 		religion = catholic
-		size = 1900
+		size = 9250
 	}
 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 400
+	}
 }

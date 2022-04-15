@@ -881,31 +881,31 @@
 #Ghat (16000/4000 POPS)
 1743 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = catholic
 		size = 900
 	}
@@ -941,7 +941,7 @@
 	}
 
 	slaves = {
-		culture = phoenecoberber
+		culture = tuareg
 		religion = animist
 		size = 1100
 	}
