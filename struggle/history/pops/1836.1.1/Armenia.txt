@@ -61,6 +61,74 @@
 		religion = jewish
 		size = 200
 	}
+	
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 300
+	}
+}
+#Erivan (128000/32000 POPS)
+3321 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 10
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox
+		size = 25
+	}
+
+	officers = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 125
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 125
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 11850
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
 
 	aristocrats = {
 		culture = azerbaijani
@@ -114,6 +182,74 @@
 		culture = kurdish
 		religion = yazidi
 		size = 1000
+	}
+	
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 300
+	}
+}
+#Erivan (128000/32000 POPS)
+3322 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 10
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox
+		size = 25
+	}
+
+	officers = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 125
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 125
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 11850
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 200
 	}
 	
 	farmers = {

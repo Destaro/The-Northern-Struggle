@@ -1,5 +1,9 @@
 ### Canada & the Far North
 
+#GEO_3287 = { } 
+
+ALN_1056 = { 1056 1054 1091 3310 3311 3292 } #Ossetia
+
 USA_1 = { 1 2 3 4 5 2599 2630 2631 } #Alaska
 
 #ENG_6 = { 6 7 } #Yukon
@@ -32,17 +36,17 @@ ENG_74 = { 74 75 76 77 2625 } #Newfoundland
 
 USA_78 = { 78 79 80 } #Washington
 
-USA_81 = { 81 82 83 } #Oregon
+USA_81 = { 81 83 } #Oregon
 
-MEX_85 = { 89 84 85 86 87 88 90 104 } #California
+MEX_85 = { 89 84 85 86 87 88 104 } #California
 
-USA_91 = { 91 92 93 } #Idaho
+USA_91 = { 92 93 } #Idaho
 
-MEX_94 = { 94 96 95 } #Nevada
+MEX_94 = { 94 96 95 82 91 98 } #Nevada
 
-MEX_97 = { 97 98 99 } #Utah
+MEX_97 = { 97 99 101 } #Utah
 
-MEX_100 = { 100 101 102 } #Arizona
+MEX_100 = { 100 102 } #Arizona
 
 MEX_103 = { 105 2148 2662 128 } #New Mexico
 
@@ -64,7 +68,7 @@ USA_129 = { 131 130 } #Oklahoma
 
 TEX_132 = { 133 43 132 134 135 136 137 138 129 } #Texas
 
-USA_139 = { 139 140 141 142 } #Louisiana
+USA_139 = { 139 140 141 142 194 } #Louisiana
 
 USA_144 = { 143 144 145 } #Arkansas
 
@@ -88,7 +92,7 @@ USA_185 = { 184 185 186 187 } #Kentucky
 
 USA_188 = { 188 189 191 190 } #Tennessee
 
-USA_194 = { 194 192 193 } #Mississippi
+USA_194 = { 192 193 } #Mississippi
 
 USA_196 = { 195 196 197 } #Alabama
 
@@ -164,11 +168,11 @@ SWE_329 = { 329 328 327 323 330 } #Goteburg
 
 SWE_334 = { 334 332 331 333 335 } #Malmo
 
-RUS_336 = { 336 337 338 342 } #Northern Finland
+RUS_336 = { 336 337 338 342 3296 } #Northern Finland
 
-RUS_343 = { 343 344 341 340 } #Helsinki
+RUS_343 = { 343 344 341 340 339 } #Helsinki
 
-RUS_345 = { 345 346 347 348 } #Turku
+RUS_345 = { 345 346 347 348 3297 } #Turku
 
 DEN_367 = { 367 366 368 2557 } #Jylland
 
@@ -345,7 +349,7 @@ AUS_654 = { 654 661 651 2533 660 } #Northern Transylvania
 
 AUS_657 = { 657 659 647 655 656 } #Southern Transylvania
 
-AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
+AUS_702 = { 703 704 705 714 3319 3320 } #Galicia-Lodomeria
 
 AUS_662 = { 702 951 952 953} #East Galicia
 
@@ -415,9 +419,9 @@ TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
 
 TUR_806 = { 806 807 1780 } #Northern Macedonia
 
-TUR_809 = { 815 817 808 816 } #Eastern Rumelia
+TUR_809 = { 809 815 817 808 816 } #Eastern Rumelia
 
-TUR_810 = { 809 810 811 812 813 814 } #Bulgaria
+TUR_810 = { 810 811 812 813 814 } #Bulgaria
 
 TUR_823 = { 823 829 830 } #Eastern Macedonia
 
@@ -448,13 +452,13 @@ TUR_876 = { 876 877 878 868 } #Ankara
 
 TUR_880 = { 880 881 883 } #Kastamonu
 
-TUR_882 = { 882 884 879 888 } #Trabizond
+TUR_882 = { 882 884 879 888 889 } #Trabizond
 
 TUR_885 = { 885 886 1096 } #Kars
 
 TUR_890 = { 890 891 887 } #Van
 
-TUR_893 = { 893 889 899 892 2414 3281 } #Diyarbakir
+TUR_893 = { 893 899 892 2414 3281 } #Diyarbakir
 
 TUR_894 = { 894 896 898 895 900 } #Adana
 
@@ -474,11 +478,11 @@ TUR_931 = { 926 927 929 934 } #Baghdad
 
 TUR_935 = { 935 932 933 930 } #Basra
 
-RUS_1090 = { 1090 1093 1091 1092 1094 1095 3274 } #Georgia
+RUS_1090 = { 1090 1093 1092 1094 1095 3274 3290 3291 3293 3289 1099 } #Georgia
 
-RUS_1098 = { 1098 1099 1100 1101 } #Armenia
+RUS_1098 = { 1098 1100 1101 3321 3322 } #Armenia
 
-RUS_1102 = { 1102 1105 1106 1104 1107 1103 } #Azerbaijan
+RUS_1102 = { 1102 1105 1106 3288 1104 1107 3287 3294 } #Azerbaijan
 
 PER_1112 = { 1108 1109 1110 1111 1112 } #Tabriz
 
@@ -531,7 +535,7 @@ RUS_354 = { 354 355 356 357 358 359 } #Latvia
 
 RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
-RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
+RUS_339 = { 984 995 988 2587 983 982 } #Karelia
 
 RUS_706 = { 706 708 709 710 717 712 } #Masovia
 
@@ -551,7 +555,7 @@ RUS_959 = { 955 956 957 } #Volyn
 
 RUS_964 = { 967 966 964 } #Crimea
 
-RUS_968 = { 968 969 954 } #Transnistria
+RUS_968 = { 968 969 954 3298 } #Transnistria
 
 RUS_973 = { 976 973 975 965 } #Kherson-Zaporizhia
 
@@ -561,7 +565,7 @@ RUS_977 = { 977 1017 1018 1019 } #Kursk
 
 RUS_978 = { 978 962 963 980 974 } #Kharkov
 
-RUS_979 = { 979 1047 1046 1045 } #Don Host Oblast
+RUS_979 = { 979 1047 1046 1045 1048 3317 3318 } #Don Host Oblast
 
 RUS_981 = { 981 985 2588 } #Arkhangelsk
 
@@ -583,11 +587,11 @@ RUS_1026 = { 1026 2689 1029 1031 2700 } #Perm
 
 RUS_1037 = { 1037 1038 1025 1021 } #Tartaria
 
-RUS_1041 = { 1041 1036 1040 1039 } #Astrakhan
+RUS_1041 = { 1041 1036 1040 1039 3301 } #Astrakhan
 
-RUS_1048 = { 1048 1049 1050 1051 1056 } #Circassia
+RUS_1048 = { 1049 1050 1051 3302 3303 3312 3313 3314 3315 3316 } #Circassia
 
-RUS_1052 = { 1052 1053 1054 1055 1057 } #North Caucasia
+RUS_1052 = { 1052 1053 1055 1057 3295 3300 3304 3305 3306 3307 3308 3309 3299 1103 } #North Caucasia
 
 RUS_1060 = { 1060 1044 1042 1034 1043 1035 } #Samara
 
@@ -891,17 +895,17 @@ ALD_1704 = { 1704 1705 1706 1707 1703 } #Oran
 
 ALD_1708 = { 1708 1710 1702 } #Constantine
 
-ALD_1713 = { 1713 1715 1711 1712 } #North Central Sahara
+ALD_1713 = { 1713 1715 1712 1719 } #North Central Sahara
 
 #ALD_1714 = { 1714 1716 1717 1720 } #West Sahara / Saoura
 
-ALD_1718 = { 1720 1718 1719 1721 1722 1716 1717 } #Sahara
+ALD_1718 = { 1720 1718 1721 1722 1716 1717 } #Sahara
 
-TUN_1726 = { 1725 1726 1727 1728 1729 1730 } #Tunisia
+TUN_1726 = { 1725 1726 1727 1728 1729 1730 1711 } #Tunisia
 
-TRI_1731 = { 1731 1733 1734 1732 1744 1740 1741 1742 } #Tripolitania
+TRI_1731 = { 1731 1733 1734 1732 1744 1740 1741 1742 1735 } #Tripolitania
 
-TRI_1735 = { 1735 1736 1737 1738 2585 } #Cyrenaica
+TRI_1735 = { 1736 1737 1738 2585 } #Cyrenaica
 
 #TRI_1740 = { 1740 1741 1742 1743 } #Fezzan
 
@@ -1104,7 +1108,7 @@ MAD_2121 = { 2121 2115 2120 2119 } #North Madagascar
 
 ### Mexico
 
-MEX_2138 = { 2137 2138 2139 2140 2141 } #Sonora
+MEX_2138 = { 2137 2138 2139 2140 2141 90 } #Sonora
 
 MEX_2142 = { 2142 2143 2144 2145 } #Chihuahua
 
@@ -1241,15 +1245,15 @@ CHL_2327 = { 2329 2327 2330 2331 2328 } #Los Rios
 
 CHL_2332 = { 2332 2333 2334 2335 2336 } #Araucania
 
-ARG_2355 = { 2348 2355 2353 2354 2350 2351 2352 2349 } #Buenos Aires
+ARG_2355 = { 2348 2355 2353 2354 2350 2351 2352 2349 2363 } #Buenos Aires
 
-ARG_2363 = { 2362 2363 2361 } #Santa Fe
+ARG_2363 = { 2362 2361 } #Santa Fe
 
 ARG_2360 = { 2360 2359 2357 2358 2554 2356 } #Entre Rios
 
-ARG_2368 = { 2368 2372 2371 2369 2370 2315 1714 } #Jujuy
+ARG_2368 = { 2368 2372 2371 2369 2370 2315 1714 2374 } #Jujuy
 
-ARG_2374 = { 2374 2375 2385 2386 2387 2388 } #Catamarca
+ARG_2374 = { 2375 2385 2386 2387 2388 } #Catamarca
 
 ARG_2377 = { 2364 2365 2366 2367 } #Chaco
 

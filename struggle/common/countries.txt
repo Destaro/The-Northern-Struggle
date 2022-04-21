@@ -17,6 +17,8 @@ ACA		="countries/Acadia.txt"
 VIC 	="countries/Nationalist France.txt"
 BOR		="countries/The Kingdom of France.txt"
 
+###TNS NEW NATIONS###
+ALN             ="countries/Alania.txt"
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
 ADO		= "countries/Andorra.txt"

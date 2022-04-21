@@ -1,5 +1,7 @@
-owner = RUS
-controller = RUS
+owner = ALN
+controller = ALN
+add_core = ALN
+add_core = GEO
 add_core = CHY
 trade_goods = wool
 life_rating = 35

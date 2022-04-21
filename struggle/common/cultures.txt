@@ -3095,3 +3095,111 @@ southern_african = {
 		}
 	}
 }
+
+eastern_germanic = {
+	leader = european
+	unit = EuropeanGC
+	vandalic = {
+		color = {84 73 71}
+		first_names = 
+		{ 
+		  Isarnus Fahlawills Fanawills Gibowills Theudowills Gundiharjis Anafunds Anahardus Aldifuns Althja 
+		  Frankamers Anamunds Ananunths Andiharjis Andiriks Anditheus Ansiwins Ansigardis Ansiharjis Ansleuba
+          Ansemundus Ansiwigs Ansila Ansilins Ansilhardus Anstigards Anstiharjis Antihadus Aringos Arila Araberhts
+          Arawulfs Arbibalths Arbiwins Arbiwulfs Argings Argibauds Argiwarjands Armawis Arningos Bainwalds Balafridus
+          Baldisins Baldamos Baldareths Baltharjis Bards Barnafridus Barnagards Barnaharjis Barnahilds Gaiseric 
+		  Huneric Gunthamund Thrasamund Hilderiks Gelimer Gunderiks Godigisel Theudoriks
+		}
+			
+		last_names = { Amalungs "af Bastetani" "af Baltharingos" "af Batelanta" Bardsungs "af Korþuva" "af Kadisþen" "af Kappel" Hasdinger }
+	}
+}
+
+scythian_group = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	
+	scythian = {
+		color = {74 161 88}
+		first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	iberian_scythian = {
+		color = {80 120 80}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	iassic = {
+		color = {80 120 80}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+}
+semitic_group = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	punic = {
+		color = { 113 55 200 }
+		first_names = { 
+		  Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal
+		Ummashtart Melqartshama Batnoam Urumilki Yehomilk Yadamilk Baaliaton Barekbaal Gerbaal Gerimilki Khiletzbaal Tabnit Yutpan Zimrida
+		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba
+		}
+		last_names = { Abbarid Adonibaal Ahirom Baalhannid Baalid Barca Bodona Bostara Chelbesid Eshbaalid Eugorid Hannid
+		Hiramid Mago Mattanid Metallid Milkiramid Philosirid Gisgo Gerbalid Hammid Eugarid Mashhid Ummashid 
+		}
+	}
+	phoenecoberber = {
+		color = { 135 170 222 }
+		first_names = { 
+		  Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal
+		Ummashtart Melqartshama Batnoam Urumilki Yehomilk Yadamilk Baaliaton Barekbaal Gerbaal Gerimilki Khiletzbaal Tabnit Yutpan Zimrida
+		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba
+		}
+		last_names = { Abbarid Adonibaal Ahirom Baalhannid Baalid Barca Bodona Bostara Chelbesid Eshbaalid Eugorid Hannid
+		Hiramid Mago Mattanid Metallid Milkiramid Philosirid Gisgo Gerbalid Hammid Eugarid Mashhid Ummashid 
+		}
+	}
+}

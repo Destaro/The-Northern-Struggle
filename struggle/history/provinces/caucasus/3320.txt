@@ -1,0 +1,8 @@
+owner = AUS
+controller = AUS
+add_core = GLM
+add_core = POL
+add_core = UKR
+trade_goods = Coal
+life_rating = 35
+colonial = 2

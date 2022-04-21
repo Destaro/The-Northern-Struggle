@@ -2523,48 +2523,6 @@
 #Kars (408000/102000 POPS)
 885 = {
 	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 600
-	}
-
-	bureaucrats = {
-		culture = turkish
-		religion = sunni
-		size = 200
-	}
-
-	officers = {
-		culture = turkish
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 500
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 2500
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 700
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 45350
-	}
-	
-	aristocrats = {
 		culture = armenian
 		religion = orthodox
 		size = 110
@@ -2647,69 +2605,9 @@
 		religion = sunni
 		size = 450
 	}
-
-	officers = {
-		culture = kurdish
-		religion = sunni
-		size = 110
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = sunni
-		size = 275
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = sunni
-		size = 19950
-	}
 }
 #Ardahan (448000/112000 POPS)
 886 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 650
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 425
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 2150
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 575
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 39200
-	}
-	
 	soldiers = {
 		culture = armenian
 		religion = orthodox
@@ -2756,36 +2654,6 @@
 		culture = greek
 		religion = orthodox
 		size = 5000
-	}
-	
-	aristocrats = {
-		culture = kurdish
-		religion = sunni
-		size = 550
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = sunni
-		size = 375
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = sunni
-		size = 1950
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = sunni
-		size = 575
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = sunni
-		size = 35550
 	}
 	
 	farmers = {

@@ -121,6 +121,8 @@ political_decisions = {
 			}
 			816 = { change_province_name = "Beroe" }
 			817 = { change_province_name = "Pyrgos" }
+			809 = { change_province_name = "Serdonpolis" }
+			814 = { change_province_name = "Odessos" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -151,6 +153,8 @@ political_decisions = {
 			}
 			816 = { change_province_name = "Eski Zagra" }
 			817 = { change_province_name = "Burgaz" }
+			809 = { change_province_name = "Sofiya" }
+			814 = { change_province_name = "Varna" }
 			
 		}
 		ai_will_do = { factor = 1 }
