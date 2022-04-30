@@ -1,7 +1,7 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = TEX
+controller = TEX
 add_core = TEX
+add_core = MEX
 trade_goods = sulphur
 life_rating = 35
 colonial = 2

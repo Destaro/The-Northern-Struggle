@@ -1,0 +1,7 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+add_core = TAI
+trade_goods = cattle
+colonial = 2
+life_rating = 35

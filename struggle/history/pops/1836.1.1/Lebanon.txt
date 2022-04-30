@@ -88,25 +88,25 @@
 	
 	aristocrats = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 100
 	}
 	
 	clergymen = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 100
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 200
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 3725
 	}
 }
@@ -218,25 +218,25 @@
 	
 	aristocrats = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 50
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 100
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 200
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 3625
 	}
 

@@ -1,5 +1,5 @@
-owner = SPU
-controller = SPU
+owner = PBC
+controller = PBC
 add_core = SPU
 add_core = PEU
 trade_goods = wool
@@ -10,3 +10,7 @@ life_rating = 15
 	controller = CHL
 	remove_core = SPU
 }
+
+
+
+add_core = BOL

@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = MGL
+controller = MGL
+add_core = MGL
 add_core = BRY
 add_core = SIB
 trade_goods = coal

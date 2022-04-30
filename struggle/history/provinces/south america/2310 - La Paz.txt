@@ -1,6 +1,6 @@
 owner = PBC
 controller = PBC
-add_core = BOL
+
 trade_goods = cattle
 life_rating = 35
 terrain = lapaz
@@ -8,3 +8,5 @@ terrain = lapaz
 	owner = BOL
 	controller = BOL
 }
+
+add_core = BOL

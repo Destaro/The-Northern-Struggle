@@ -53,87 +53,39 @@
 #Andorra (228000/37000 POPS)
 3252 = {
 	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 5
-	}
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 10
-	}
-	
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 150
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 150
-	}
-	
-	aristocrats = {
 		culture = catalan
 		religion = catholic
-		size = 150
+		size = 700
 	}
+
 	clergymen = {
-		culture = catalan
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = catalan
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size= 50
-
-	}
-
-	farmers = {
-		culture = catalan
+		culture = occitan
 		religion = catholic
 		size = 450
 	}
 
-	aristocrats = {
-		culture = catalan
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
-
 	artisans = {
 		culture = catalan
 		religion = catholic
-		size = 50
+		size = 4500
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = occitan
 		religion = catholic
-		size= 50
-
+		size = 1000
 	}
 
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 400
+		size = 50000
+	}
+
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 12050
 	}
 }
 

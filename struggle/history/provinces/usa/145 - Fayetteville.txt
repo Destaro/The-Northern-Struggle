@@ -1,6 +1,4 @@
-owner = USA
-controller = USA 
-add_core = USA 
+owner = LSTcontroller = LSTadd_core = LST
 trade_goods = timber
 life_rating = 35
 colonial = 2

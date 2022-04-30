@@ -1,4 +1,6 @@
-add_core = COL
+owner = DES
+controller = DES
+add_core = DES
 trade_goods = timber
 life_rating = 20
 colonial = 1

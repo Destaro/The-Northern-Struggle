@@ -3,68 +3,68 @@
 #Tunis (488000/122000 POPS) 
 1725 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 2350
 	}
 
 	bureaucrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 350
 	}
 
 	officers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 325
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1200
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 10000
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 10000
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 7500
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 3000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1000
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 76425
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 5000
 	}
 
@@ -95,38 +95,38 @@
 #Bizerte (268000/67000 POPS) 
 1726 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1250
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 675
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 3250
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 58575
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 2000
 	}
 
@@ -139,76 +139,76 @@
 #Gafsa (112000/28000 POPS) 
 1727 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 450
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 275
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1250
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 22025
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 3000
 	}
 }
 #Kairouan (228000/57000 POPS) 
 1728 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 875
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 400
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 2250
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 40225
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 12000
 	}
 
@@ -227,76 +227,76 @@
 #Tozeur (96000/24000 POPS) 
 1729 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 350
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 200
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 950
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 17300
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 5000
 	}
 }
 #Gabes (200000/50000 POPS) 
 1730 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 900
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 400
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 2275
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 40825
 	}
 
 	slaves = {
 		culture = berber
-		religion = sunni
+		religion = punic_church
 		size = 4000
 	}
 	

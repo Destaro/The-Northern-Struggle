@@ -1,12 +1,11 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = SYR
+owner = ASY
+controller = ASY
 add_core = ASY
+add_core = SYR
 trade_goods = grain
 life_rating = 35
 terrain = dryhills
 1861.1.1 = {
-	controller = TUR 
-	owner = TUR
+	controller = ASY 
+	owner = ASY
 }

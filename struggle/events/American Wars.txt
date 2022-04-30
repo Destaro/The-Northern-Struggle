@@ -15,13 +15,11 @@ country_event = {
 		name = "EVT44122OPTA"
 		prestige = 10
 		250 = { add_core = THIS secede_province = THIS }
-		158 = { add_core = USA secede_province = USA }
-		250 = { remove_core = CAN }
 		158 = { remove_core = CAN }
 		250 = { remove_core = QUE }
 		69 = { remove_core = NEN }
 		relation = { who = ENG value = 100 }
-		ai_chance = { factor = 95 }
+		ai_chance = { factor = 0.05 }
 	}
 
 	option = {
@@ -31,7 +29,6 @@ country_event = {
 		250 = { add_core = THIS }
 		249 = { add_core = THIS }
 		69 = { add_core = THIS }
-		158 = { add_core = USA }
 		158 = { add_core = ENG }
 		250 = { add_core = ENG }
 		249 = { add_core = ENG }
@@ -47,9 +44,7 @@ country_event = {
 			who = ENG
 			value = -200
 		}
-		ai_chance = {
-			factor = 0.05
-		}
+		ai_chance = { factor = 95 }
 	}
 }
 

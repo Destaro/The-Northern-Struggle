@@ -161,3 +161,19 @@ french_bourbon = {
 	duration = 48
 	appoint_ruling_party = yes
 }
+
+#used for specific puppets
+autonomous_dependency = {
+	#which ideology of parties.
+	liberal = yes
+	anarcho_liberal = yes
+	social_liberal = yes
+	market_liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	communist = yes
+	fascist = yes
+	election = no
+	appoint_ruling_party = yes
+}

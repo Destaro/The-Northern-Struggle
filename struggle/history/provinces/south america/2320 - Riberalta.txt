@@ -1,6 +1,7 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+
 trade_goods = timber
 life_rating = 25
 1860.1.1 = {

@@ -1,7 +1,7 @@
-name = "Ottoman Restoration of Tripoli"
+name = "Southern Roman reconquest of the Libyan Provinces"
 
 1835.10.2 = {
-	add_attacker = TUR
+	add_attacker = TUN
 	add_defender = TRI
 	
 	# actor
@@ -11,19 +11,19 @@ name = "Ottoman Restoration of Tripoli"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = establish_protectorate_casus_belli
-		actor = TUR
+		actor = TUN
 		receiver = TRI
 	}
 	
 	war_goal = {
 		casus_belli = status_quo
 		actor = TRI
-		receiver = TUR
+		receiver = TUN
 	}
 
 }
 
 1836.6.6 = {
-	rem_attacker = TUR
+	rem_attacker = TUN
 	rem_defender = TRI
 }

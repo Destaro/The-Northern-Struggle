@@ -1,7 +1,7 @@
 capital = 1725
-primary_culture = maghrebi
-culture = berber
-religion = sunni
+primary_culture = punic
+culture = phoenecoberber
+religion = punic_church
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

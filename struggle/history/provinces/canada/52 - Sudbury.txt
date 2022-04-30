@@ -1,6 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = VIN
+controller = VIN
+
 trade_goods = iron
 life_rating = 30
 colonial = 2
+
+add_core = VIN

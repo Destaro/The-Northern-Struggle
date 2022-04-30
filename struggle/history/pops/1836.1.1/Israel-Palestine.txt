@@ -1,6 +1,6 @@
 #Bayrut Region (52000)  #see Lebanon.txt for balance of region
 #under the rule of Egypt in 1836
-#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = assyrian 
 916 = {
 	aristocrats = {
 		culture = mashriqi
@@ -52,19 +52,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 200
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 3750
 	}
 
@@ -244,19 +244,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 875
 	}
 }

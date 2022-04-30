@@ -1,7 +1,6 @@
-owner = TEX
-controller = TEX
-add_core = TEX
-add_core = MEX
+owner = LST
+controller = LST
+add_core = LST
 trade_goods = cattle
 life_rating = 35
 

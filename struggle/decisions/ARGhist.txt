@@ -147,13 +147,6 @@ political_decisions = {
 				tag = VLP
 			}
 			OR = {
-				2362 = { empty = yes }
-				2364 = { empty = yes }
-				2365 = { empty = yes }
-				2372 = { empty = yes }
-				2377 = { empty = yes }
-			}
-			OR = {
 				owns = 2356 #Corrientes
 				owns = 2361	#Sancti Spiritu
 			}
@@ -172,7 +165,7 @@ political_decisions = {
 			prestige = 3
 			random_owned = {
 				limit = {
-					2362 = { empty = yes }
+					2362 = { empty = no }
 					2361 = { empty = no }
 					2356 = { empty = no }
 				}
@@ -185,7 +178,7 @@ political_decisions = {
 			}
 			random_owned = {
 				limit = {
-					2364 = { empty = yes }
+					2364 = { empty = no }
 					2362 = { empty = no }
 					2356 = { empty = no }
 				}
@@ -199,7 +192,7 @@ political_decisions = {
 				
 			random_owned = {
 				limit = {
-					2365 = { empty = yes }
+					2365 = { empty = no }
 					2362 = { empty = no }
 					2364 = { empty = no }
 				}
@@ -213,7 +206,7 @@ political_decisions = {
 				
 			random_owned = {
 				limit = {
-					2377 = { empty = yes }
+					2377 = { empty = no }
 					2362 = { empty = no }
 					2365 = { empty = no }
 				}
@@ -227,7 +220,7 @@ political_decisions = {
 				
 			random_owned = {
 				limit = {
-					2372 = { empty = yes }
+					2372 = { empty = no }
 					2377 = { empty = no }
 					2365 = { empty = no }
 				}
@@ -246,8 +239,6 @@ political_decisions = {
 		picture = argentina_chile_border_treaty
 		potential = {
 			OR = {
-				tag = ARG
-				tag = ARC
 				tag = LPL
 			}
 			has_country_flag = conquest_of_the_desert
@@ -341,8 +332,6 @@ political_decisions = {
 		picture = buenos_aires_capital
 		potential = {
 			OR = {
-				tag = ARC
-				tag = ARG
 				tag = VLP
 			}
 			owns = 2348
@@ -492,8 +481,6 @@ political_decisions = {
 		picture = conquest_of_the_chaco
 		potential = {
 			OR = {
-				tag = ARC
-				tag = ARG
 				tag = LPL
 			}
 			NOT = { has_country_flag = claimed_argentinian_chaco }
@@ -519,7 +506,6 @@ political_decisions = {
 			2372 = { add_core = THIS }
 			2366 = { add_core = THIS }
 			2367 = { add_core = THIS }
-			2554 = { add_core = THIS }
 		}
 		ai_will_do = { factor = 1 }
 	}

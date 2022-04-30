@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = CHE
+controller = CHE
+add_core = CHE
 trade_goods = grain
 life_rating = 35
 colonial = 2
@@ -8,6 +8,6 @@ colonial = 2
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = MEX
+	remove_core = CHE
 	colonial = 0
 }

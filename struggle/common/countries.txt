@@ -18,7 +18,12 @@ VIC 	="countries/Nationalist France.txt"
 BOR		="countries/The Kingdom of France.txt"
 
 ###TNS NEW NATIONS###
-ALN             ="countries/Alania.txt"
+ALN = "countries/Alania.txt"
+LST = "countries/Lusitania.txt"
+VND = "countries/Vandalica.txt"
+VIN	= "countries/Vinland.txt"
+KNT	= "countries/Karlant.txt"
+
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
 ADO		= "countries/Andorra.txt"

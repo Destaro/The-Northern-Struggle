@@ -3311,7 +3311,7 @@
 #Carcassone (276000/69000 POPS)
 463 = {
 	aristocrats = {
-		culture = french
+		culture = catalan
 		religion = catholic
 		size = 700
 	}
@@ -3323,7 +3323,7 @@
 	}
 
 	artisans = {
-		culture = french
+		culture = catalan
 		religion = catholic
 		size = 4500
 	}
@@ -3335,13 +3335,13 @@
 	}
 
 	farmers = {
-		culture = occitan
+		culture = catalan
 		religion = catholic
 		size = 50000
 	}
 
 	farmers = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 12050
 	}

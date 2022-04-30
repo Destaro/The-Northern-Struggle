@@ -1,9 +1,7 @@
-owner = CRT
-
-controller = CRT
-
+owner = LPL
+controller = LPL
+add_core = LPL
 add_core = CRT
-add_core = ARC
 
 trade_goods = fruit
 life_rating = 31

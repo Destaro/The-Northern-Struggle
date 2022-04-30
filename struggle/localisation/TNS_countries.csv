@@ -1,10 +1,23 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+zoroastrian_country;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;	
+zoroastrian;Mazdayasna;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+assyrian_country;Syriac Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+punic_church_country;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+punic_church;Carthaginian Church;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+autonomous_dependency;Autonomous Dependency;;;;;;;;;;;;;
+autonomous_dependency_ruler;Governor;;;;;;;;;;;;;
 ;;;;;;x;;;;
-vandalic;Vandalo;;;;;;;;;;;;x
-scythian;Alani;;;;;;;;;;;;x
+vandalic;Wandali;;;;;;;;;;;;x
+vinlander;Vinlander;;;;;;;;;;;;x
+sjaellander;Ny Sjællander;;;;;;;;;;;;x
+karolean;Caroliner;;;;;;;;;;;;x
+platinier;Þiuderikslantir;;;;;;;;;;;;x
+scythian;Skiftæ;;;;;;;;;;;;x
 iberian_scythian;Alanos;;;;;;;;;;;;x
 iassic;Iasi;;;;;;;;;;;;x
 punic;Qarthadashtit;;;;;;;;;;;;x
+lusitanian;Lusitano;;;;;;;;;;;;x
+leonese;Leonês;;;;;;;;;;;;x
 phoenecoberber;Tingait;;;;;;;;;;;;x
 eastern_germanic;Eastern Germanic;;;;;;;;;;;;;;;;;;;;;;;;x
 scythian_group;Scythic;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -12,3 +25,110 @@ semitic_group;Western Semitic;;;;;;;;;;;;;;;;;;;;;;;;x
 ;;;;;;x;;;;
 ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+;;;;;;x;;;;
+ALD;Numidia;Numidia;Numidia;;Numidia;;;;;;;;;x;;
+ALD_ADJ;Numidian;Numidian;Numidian;;Numidian;;;;;;;;;x;;;;
+ALD_conservative;Bey Faction;Faction Bey;Bey-Fraktion;;Facci? bey;;;;;;;;;x;;;;
+ALD_reactionary;Amir Faction;Faction Amir;Amir-Fraktion;;Facci? Amir;;;;;;;;;x;;;;
+ALD_liberal;Conceil G??al;Conseil g??al;Conseil G??al;;Conceil G??al;;;;;;;;;x;;;;
+ALD_liberal_2;Jeunesse Alg?ienne;Jeunesse alg?ienne;Jeunesse Alg?ienne;;Jeunesse Alg?ienne;;;;;;;;;x;;;;
+ALD_liberal_3;The Liberal Faction;Faction lib?ale;Die liberale Fraktion;;La facci? liberal;;;;;;;;;x;;;;
+ALD_reactionary_2;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La facci? nacionalista;;;;;;;;;x;;;;
+ALD_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La facci? radical;;;;;;;;;x;;;;
+ALD_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La facci? socialista;;;;;;;;;x;;;;
+ALD_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La facci? comunista;;;;;;;;;x;;;;
+ALD_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La facci? fascista;;;;;;;;;x;;;;
+;;;;;;x;;;;
+MOR;Mauretania;Mauretania;Mauretania;;Mauretania;;;;;;;;;x;;;;
+MOR_ADJ;Mauretanian;Mauretanian;Mauretanian;;Mauretanian?;;;;;;;;x;;;;
+MOR_conservative;Royal Faction;Faction royale;K?igsfraktion;;Facci? Real;;;;;;;;;x;;;;
+MOR_liberal;The Liberal Faction;Faction lib?ale;Die liberale Fraktion;;La Facci? Liberal;;;;;;;;;x;;;;
+MOR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facci? Nacionalista;;;;;;;;;x;;;;
+MOR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facci? Radical;;;;;;;;;x;;;;
+MOR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facci? Socialista;;;;;;;;;x;;;;
+MOR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
+MOR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;
+;;;;;;x;;;;
+LST;Lusitânia;Lusitanie;Lusitânia;;;;;;;;;;;
+LST_ADJ;Lusitano;Lusitanien;Lusitano;;;;;;;;;;;
+LST_conservative_1;Converxencia Nacionalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_conservative_3;Unidade Popular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_liberal_2;Solidaridad Lusiatana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_liberal_3;Partido Demócrata Cristián;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_socialist_1;Partido Lusitano do Proletariado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_socialist_2;Union do Povo Lusitano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_reactionary_2;Vangarda Nazonalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_anarcho_liberal_2;Patronal Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_communist_1;Espazo Comunista Lusitano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_fascist_2;Falanxe;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;x;;;;
+VND;Vandalica;Vandalica;Vandalica;;Vandalica;;;;;;;;;x;;;;
+VND_ADJ;Vandal;Vandal;Vandal;;Vandal;;;;;;;;;x;;;;
+VND_liberal;Partij af Freihals;Partij af Freihals;Partij af Freihals;;Partij af Freihals;;;;;;;;;x;;;;
+VND_conservative;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+VND_liberal_2;Partij af Freihals;Partij af Freihals;Partij af Freihals;;Partij af Freihals;;;;;;;;;x;;;;
+VND_liberal_3;Freisinnige Partei;Freisinnige Partei;Freisinnige Partei;;Freisinnige Partei;;;;;;;;;x;;;;
+VND_socialist;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+VND_socialist_2;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+VND_socialist_3;Vandalthiuda;Vandalthiuda;Vandalthiuda;;Vandalthiuda;;;;;;;;;x;;;;
+VND_reactionary;Partij af Reaktioners;Partij af Reaktioners;Partij af Reaktioners;;Partij af Reaktioners;;;;;;;;;x;;;;
+VND_conservative_2;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+VND_conservative_3;Partij af Freideins;Partij af Freideins;Partij af Freideins;;Partij af Freideins;;;;;;;;;x;;;;
+VND_anarcho_liberal;Partij af Radikals;Partij af Radikals;Partij af Radikals;;Partij af Radikals;;;;;;;;;x;;;;
+VND_communist;Vandalthiuda Radikals;Vandalthiuda Radikals;Vandalthiuda Radikals;;Vandalthiuda Radikals;;;;;;;;;x;;;;
+VND_fascist;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;;Fraujinassus af Vandalthiuda;;;;;;;;;x;;;;
+;;;;;;x;;;;
+VIN;Vinland;Vinland;Vinland;;;;;;;;;;;
+VIN_autonomous_dependency;Crown Colony of Vinland;;;;;;;;;;;;;
+VIN_ADJ;Vinlandic;Vinlandais;Vinländisch;;;;;;;;;;;
+VIN_reactionary_1;Rikets Samhald;;;;;;;;;;;;;
+VIN_reactionary_2;Tradisjonens Vaktarar;;;;;;;;;;;;;
+VIN_reactionary_3;Kristeleg Folkeparti;;;;;;;;;;;;;
+VIN_conservative_1;Føderalistane;;;;;;;;;;;;;
+VIN_conservative_2;Nordiske Folks Parti;;;;;;;;;;;;;
+VIN_conservative_3;Fedrelandslaget;;;;;;;;;;;;;
+VIN_liberal_1;Sønene av Patriotane;;;;;;;;;;;;;
+VIN_liberal_2;Venstre;;;;;;;;;;;;;
+VIN_liberal_3;Høgre;;;;;;;;;;;;;
+VIN_anarcho_liberal_1;Søndergaards Fylgjare;;;;;;;;;;;;;
+VIN_anarcho_liberal_2;Revolusjonens Bødlar;;;;;;;;;;;;;
+VIN_anarcho_liberal_3;Skarp­rettarane;;;;;;;;;;;;;
+VIN_communist_1;Raudt;;;;;;;;;;;;;
+VIN_communist_2;Arbeidarpartiet;;;;;;;;;;;;;
+VIN_fascist;Leifs Vikingar;;;;;;;;;;;;;
+VIN_social_liberal;Venstre;;;;;;;;;;;;;
+VIN_socialist_1;Arbeidarpartiet;;;;;;;;;;;;;
+VIN_socialist_2;Raudt;;;;;;;;;;;;
+VIN_market_liberal_1;Samfunnspartiet;;;;;;;;;;;;;
+VIN_market_liberal_2;Framstegspartiet;;;;;;;;;;;;;
+;;;;;;x;;;;
+NEN;Ny Sjælland;Ny Sjælland;Ny Sjælland;;Ny Sjælland;;;;;;;;;x;;;;
+NEN_ADJ;Ny-Sjællænder;Ny-Sjællænder;Ny-Sjællænder;;Ny-Sjællænder;;;;;;;;;x;;;;
+NEN_liberal;Sønene av Patriotane;;;;;;;;;;;;;
+NEN_conservative;Føderalistane;;;;;;;;;;;;;
+NEN_liberal_2;Venstre;;;;;;;;;;;;;
+NEN_socialist;Arbeidarpartiet;;;;;;;;;;;;;
+NEN_reactionary;Rikets Samhald;;;;;;;;;;;;;
+NEN_anarcho_liberal;Søndergaards Fylgjare;;;;;;;;;;;;;
+NEN_communist;Raudt;;;;;;;;;;;;;
+NEN_fascist;Leifs Vikingar;;;;;;;;;;;;;
+;;;;;;x;;;;
+KNT_ADJ;Karolean;Karolean;Karolean;;;;;;;;;;;x;
+KNT;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_proletarian_dictatorship;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_presidential_dictatorship;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_bourgeois_dictatorship;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_fascist_dictatorship;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_absolute_monarchy;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_prussian_constitutionalism;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_hms_government;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KNT_democracy;Karlant;Karlant;Karlant;;;;;;;;;;;x;
+KRL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+KRL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+KRL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+KRL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+KRL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+KRL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+KRL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+KRL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+KRL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;

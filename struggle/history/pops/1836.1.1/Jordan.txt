@@ -88,13 +88,13 @@
 	
 	clergymen = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 100
 	}
 	
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = assyrian
 		size = 390
 	}
 }

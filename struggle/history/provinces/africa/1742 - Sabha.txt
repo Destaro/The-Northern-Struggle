@@ -1,3 +1,5 @@
+owner = 
+controller = 
 add_core = TRI
 trade_goods = wool
 life_rating = 5

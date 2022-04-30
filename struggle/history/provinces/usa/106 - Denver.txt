@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = UNB
+controller = UNB
+add_core = UNB
 colonial = 2
 trade_goods = cattle
 life_rating = 35

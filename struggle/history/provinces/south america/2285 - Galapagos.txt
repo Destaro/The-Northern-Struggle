@@ -1,5 +1,6 @@
-owner = ECU
-controller = ECU
+owner = LST
+controller = LST
+add_core = LST
 add_core = ECU
 trade_goods = fish
 life_rating = 30

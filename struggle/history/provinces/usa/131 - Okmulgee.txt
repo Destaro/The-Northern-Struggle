@@ -1,4 +1,6 @@
-owner = USA
+owner = CHE
+controller = CHE
+add_core = CHE
 colonial = 2
 trade_goods = grain
 life_rating = 35

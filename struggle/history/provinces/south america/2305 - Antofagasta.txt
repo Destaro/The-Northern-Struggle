@@ -1,6 +1,6 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = LPL
+controller = LPL
+add_core = LPL
 trade_goods = wool
 terrain = new_world_desert
 life_rating = 15
@@ -9,3 +9,4 @@ naval_base = 1
 	owner = CHL
 	controller = CHL
 }
+

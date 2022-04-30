@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = VND
+controller = VND
+add_core = VND
+add_core = SPA
 #terrain = urban
 trade_goods = fish
 life_rating = 35

@@ -148,9 +148,15 @@ UKR_anarcho_liberal;Ukrainian Radical Party;;;;;;;;;;;;;x;;;;
 UKR_socialist;Ukrainian Social Democratic Labour Party;;;;;;;;;;;;;x;;;;
 UKR_communist;Ukrainian Communist Party;;;;;;;;;;;;;x;;;;
 UKR_fascist;Organization of Ukrainian Nationalists;;;;;;;;;;;;;x;;;;
-TUN;Tunisia;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUN_absolute_monarchy;Tunis;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUN_prussian_constitutionalism;Tunis;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN;Carthage;Qart-Hadašt;Qart-Hadašt;;Qart-Hadašt;;;;;;;;;x;;;;
+TUN_ADJ;Carthaginian;Qarthadashtit;Qarthadashtit;;Qarthadashtit;;;;;;;;;x;;;;
+TUN_conservative;House of Barca;House of Barca;House of Barca;;House of Barca;;;;;;;;;x;;;;
+TUN_liberal;Liberal Party of Carthage;Liberal Party of Carthage;Liberal Party of Carthage;;Liberal Party of Carthage;;;;;;;;;x;;;;
+TUN_reactionary;House of Barca;House of Barca;House of Barca;;House of Barca;;;;;;;;;x;;;;
+TUN_anarcho_liberal;Radical Party of Carthage;Radical Party of Carthage;Radical Party of Carthage;;Radical Party of Carthage;;;;;;;;;x;;;;
+TUN_socialist;The Carthaginian People's Party;The Carthaginian People's Party;The Carthaginian People's Party;;The Carthaginian People's Party;;;;;;;;;x;;;;
+TUN_communist;The Carthaginian People's Vangard;The Carthaginian People's Vangard;The Carthaginian People's Vangard;;The Carthaginian People's Vangard;;;;;;;;;x;;;;
+TUN_fascist;Carthaginian Nationalist Party;Carthaginian Nationalist Party;Carthaginian Nationalist Party;;Carthaginian Nationalist Party;;;;;;;;;x;;;;
 ALB_communist;Partia e Punës e Shqipërisë;;;;;;;;;;;;x
 ALB_fascist;Partia Fashiste e Shqipërisë;;;;;;;;;;;;x
 ALB_conservative;Lëvizja Legalitetit;;;;;;;;;;;;x
@@ -434,11 +440,16 @@ BRZ_prussian_constitutionalism;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRZ_hms_government;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 BRZ_dominion;The Kingdom of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 BRZ_colonial_company;Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
-ARC;Argentina;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_democracy;Argentine Confederation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_presidential_dictatorship;Argentine Confederation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_proletarian_dictatorship;Communist Federation of Argentina;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_ADJ;Argentinian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC;Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_democracy;Freijstat Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_presidential_dictatorship;Freijstat Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_proletarian_dictatorship;Þiuderikslantir Volkstatt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_ADJ;Þiuderikslantir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARG;Þule af Amerikka;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARG_democracy;Freijstat Þule;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARG_presidential_dictatorship;Freijstat Þule;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARG_proletarian_dictatorship;Þiuderikslantir Þule;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_ADJ;Þulian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 CRT;Corrientes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 CRT_ADJ;Entrerriano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 DAR_absolute_monarchy;Sultanate of Darfur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,

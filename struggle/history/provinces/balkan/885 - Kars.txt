@@ -2,6 +2,6 @@ owner = TCA
 controller = TCA
 add_core = TCA
 add_core = ARM
-add_core = KDS
+add_core = GEO
 trade_goods = iron
 life_rating = 35

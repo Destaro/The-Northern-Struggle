@@ -1,6 +1,5 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = JAP
+controller = JAP
 add_core = CAL
 trade_goods = fruit
 life_rating = 35
@@ -10,6 +9,6 @@ colonial = 2
 	controller = USA
 	owner = USA
 	add_core = USA
-	remove_core = MEX
+	remove_core = JAP
 	colonial = 0
 }

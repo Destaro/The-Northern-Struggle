@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = RPL
+controller = RPL
+add_core = COL
 trade_goods = cattle
 life_rating = 35
 colonial = 2
