@@ -34,10 +34,7 @@ add_accepted_culture = basque
 
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = catalan
-						 
-					}
+					primary_culture = catalan
 					in_sphere = THIS
 					NOT = {
 						tag = THIS

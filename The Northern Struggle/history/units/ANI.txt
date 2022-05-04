@@ -12,13 +12,18 @@ home = 869
 }
 regiment = {
 name = "Regiment 2"
-type = artillery
+type = infantry
 home = 863
 }
 regiment = {
 name = "Regiment 3"
-type = artillery
+type = infantry
 home = 861
+}
+regiment = {
+name = "Regiment 4"
+type = infantry
+home = 881
 }
 }
 

@@ -99,7 +99,7 @@ political_decisions = {
 				has_country_flag = merina_monarchy_is_over
 			}
 			exists = MAD
-			MAD = {AI = yes}
+			MAD = { ai = yes }
 		OR = {	tag = SWE tag = POL tag = NOR tag = DEN tag = OMA tag = SPA   tag = PLC tag = NGF tag = GER tag = JAP }
 		}
 		

@@ -47,7 +47,7 @@ russif_WePOL = {
                 }
 			move_pop = 369
             }           
-		any_owned_province = {
+		any_owned = {
 		limit = {
                  is_core = PRU
 				 NOT = { is_core = POL }
@@ -118,7 +118,7 @@ conq_brg = {
 				casus_belli = conquest
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
       
 			}
 			}
@@ -151,7 +151,7 @@ conq_pru = {
 				casus_belli = conquest_any
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
       
 			}
 			}

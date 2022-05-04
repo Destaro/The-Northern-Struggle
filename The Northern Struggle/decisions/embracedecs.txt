@@ -59,11 +59,9 @@ NOT = { has_country_flag = emb_ire }
          allow = { 
 			IRE = { all_core = {
 			OR = {
-				OR = {
-					owned_by = THIS
-					owner = {
-					in_sphere = THIS
-					}
+				owned_by = THIS
+				owner = {
+				in_sphere = THIS
 				}
 			}
 		}
@@ -93,11 +91,9 @@ NOT = { has_country_flag = emb_sco }
 			SCO = {	
 			all_core = {
 			OR = {
-				OR = {
-				owned_by = THIS
-				owner = {
-				in_sphere = THIS
-							}
+			owned_by = THIS
+			owner = {
+			in_sphere = THIS
 						}
 					}
 				}

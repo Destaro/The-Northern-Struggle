@@ -24,7 +24,6 @@ country_event = {
 				}
 		    }
 	        militancy = 2
-			prestige = 1
 		}
 		SWE = { country_event = 99002 }
         NOR = { country_event = 99002 }
@@ -183,7 +182,7 @@ country_event = {
 		}
 		remove_accepted_culture = british
 		remove_accepted_culture = Angleseren
-		add_accepted_culture = scottish
+		add_accepted_culture = Scottish
 		add_accepted_culture = welsh
 		set_global_flag = ntu_celtic
 		ai_chance = { factor = 10 }

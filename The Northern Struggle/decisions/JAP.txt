@@ -1,109 +1,110 @@
 political_decisions = {
+
 	annex_korea = {
 		potential = {
 			tag = JAP
-		 KOR = { is_vassal_of = THIS }
-     NOT = { has_country_flag = kor_annexed }
+			KOR = { is_our_vassal = THIS }
+			NOT = { has_country_flag = kor_annexed }
 		}
 		
 		allow = {
-			KOR = { civilized = yes }
-state_n_government = 1
-
-is_greater_power = yes
-
-prestige = 40
+			OR = {
+				KOR = { civilized = yes }
+				year = 1890
+			}
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+			prestige = 40
 		}
 		
 		effect = {
 			prestige = 20
 			inherit = KOR
-      
-badboy = 5
-      
-set_country_flag = kor_annexed
+			badboy = 5
+			set_country_flag = kor_annexed
 		}
 	}
 
+	embrace_koreans = {
+		potential = {
+			tag = JAP 
+			NOT = { 
+				exists = KOR 
+				has_country_flag = accept_kor
+			}
+		}
 
-embrace_koreans = {
+		allow = {
+			KOR = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+		}
 
-potential = {
-tag = JAP 
-NOT = { 
-exists = KOR 
-  has_country_flag = accept_kor        }
-}
+		effect = {
+			set_country_flag = accept_kor
+			add_accepted_culture = korean
+			prestige = 15
+		}
+	}
 
-allow = {
- KOR = { all_core = { owned_by = THIS } }
+	core_korea = {
 
-is_greater_power = yes
+		potential = {
+			tag = JAP 
+			NOT = {
+				OR = { 
+					has_country_flag = cor_kor
+					exists = KOR
+				}  
+			}
+		}
 
-nationalism_n_imperialism = 1
+		allow = {
+			KOR = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+			prestige = 60
+		}
 
-}
+		effect = {
+			badboy = 10
+			set_country_flag = cor_kor
+			prestige = 20
+			KOR = { all_core = { add_core = THIS } }
+		}
+	}
 
-effect = {
+	core_philipines = {
+		potential = { 
+			tag = JAP
+			is_greater_power = yes
+			NOT = { has_country_flag = core_philipines }
+        }
+		
+		allow = {
+			war = no
+			owns = 1456
+			owns = 1462
+			owns = 1463
+			owns = 2565
+			owns = 1460
+			owns = 1461
+			owns = 1458
+			owns = 1455
+	    }
 
-set_country_flag = accept_kor
-
-add_accepted_culture = korean
-
-badboy = 5
-
-prestige = 15
-}
-}
-
-
-
-
-core_korea = {
-
-potential = {
-tag = JAP 
-NOT = { OR = {   
-has_country_flag = cor_kor
- 
-exists = KOR }  
-
-}
-
-}
-
-
-
-allow = {
-
-KOR = { all_core = { owned_by = THIS } }
-
-is_greater_power = yes
-
-revolution_n_counterrevolution = 1
-
-prestige = 60
-}
-
-effect = { 
-
-badboy = 10
-
-set_country_flag = cor_kor
-
-prestige = 20
-
-KOR = { all_core = { add_core = THIS } }
-
-}
-
-
-
-}
-
-
-
-
-
-
+        effect = {
+			set_country_flag = core_philipines
+			prestige = 10
+			badboy = 5
+			add_core = 1456
+			add_core = 1462
+			add_core = 1463
+			add_core = 2565
+			add_core = 1460
+			add_core = 1461
+			add_core = 1458
+			add_core = 1455
+		}
+	}
 }

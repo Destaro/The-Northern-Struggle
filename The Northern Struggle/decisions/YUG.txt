@@ -11,13 +11,9 @@ political_decisions = {
             prestige = 45
 			YUG = {
 				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
 					}
 				}
 			}
@@ -41,6 +37,7 @@ political_decisions = {
 			add_accepted_culture = croat
             add_accepted_culture = bulgarian 
             add_accepted_culture = albanian
+			add_accepted_culture = antian
 			change_tag = YUG
 			any_country = {
 				limit = {
@@ -87,7 +84,7 @@ political_decisions = {
 	yug_core_greece = {
 		potential = {
 			tag = YUG
-			has_accepted_culture = greek
+			accepted_culture = greek
 			NOT = { has_country_flag = greece_cored }
 		}
 		allow = {

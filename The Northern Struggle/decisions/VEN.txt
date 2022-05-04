@@ -95,7 +95,7 @@ political_decisions = {
 			money = 10000
 		}
 		effect = {
-			treausry = -10000
+			treasury = -10000
 			any_owned = {
 				limit = { port = yes }
 				add_province_modifier = {
@@ -646,7 +646,7 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 		}
 		effect = {
-			infamy = 7
+			badboy = 7
 			casus_belli = {
 				target = AUS
 				type = cut_down_to_size

@@ -1,4 +1,3 @@
-
 political_decisions = {
 
 	form_arabia = {
@@ -38,7 +37,11 @@ political_decisions = {
 				add_core = ARA
 			}
 			change_tag = ARA
-			OUT = { add_core = IRQ }
+			IRQ = {
+				all_core = {
+					add_core = OUT
+				}
+			}
 			random_country = {
 				limit = {
 					is_culture_group = THIS

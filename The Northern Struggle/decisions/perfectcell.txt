@@ -40,7 +40,7 @@ add_accepted_culture = Breton
 				limit = {
 					OR = {
 						is_culture_group = british
-NOT = { ENG }
+NOT = { tag = ENG }
 						tag = BRT
 tag = IRE
 tag = SCO

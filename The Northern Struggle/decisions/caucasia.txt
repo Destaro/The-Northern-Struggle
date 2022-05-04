@@ -17,48 +17,33 @@ tag = GEO
 			war = no
 			ARM = {
 				all_core = {
-					OR = {
 						OR = {
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
 							}
 						}
-						
-							
-						
-					}
 				}
 			}
 GEO = {
 				all_core = {
-					OR = {
 						OR = {
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
 							}
 						}
-						
-							
-						
-					}
 				}
 			}
 
 AZB = {
 				all_core = {
-					OR = {
 						OR = {
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
 							}
 						}
-						
-							
-						
-					}
 				}
 			}
 
@@ -69,7 +54,7 @@ AZB = {
 			any_country = {
 				limit = {
 					OR = {
-						primary_culture = armenain
+						primary_culture = armenian
 						primary_culture = georgian
             primary_culture = azerbaijani
 					}

@@ -34,7 +34,7 @@ tag = ANT
 		
 		effect = {
 			prestige = 40
-add_accepted_culture = ashkhenazi
+add_accepted_culture = ashkenazi
 			any_country = {
 				limit = {
 					OR = {

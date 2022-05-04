@@ -1,0 +1,90 @@
+political_decisions = {
+
+	claim_all_peru_lpl = {
+        potential = {
+			tag = LPL
+			NOT = { has_country_flag = claim_peru_lpl }
+        }
+		
+		allow = { 
+			war = no
+			PEU = { all_core = { owned_by = THIS } }
+			ARC = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+		}
+		
+		effect = {
+			prestige = 10
+			add_accepted_culture = south_andean
+			set_country_flag = claim_peru_lpl
+			badboy = 5
+			PEU = { all_core = { add_core = THIS } }
+        }
+	}
+
+	accept_the_brazilians = {
+		potential = { 
+			tag = LPL
+			NOT = { has_country_flag = accept_the_brazilians }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 2467
+			owns = 2464
+			owns = 2465
+			owns = 2466
+			owns = 2463
+			owns = 2461
+			owns = 2457
+			owns = 2458
+			owns = 2460
+			owns = 2462
+			owns = 2459
+		}
+
+		effect = {
+			set_country_flag = accept_the_brazilians
+			prestige = 10
+			add_accepted_culture = brazilian
+		}
+	}
+
+	embrace_the_natives = {
+		potential = {
+			tag = LPL
+			has_country_flag = accept_the_brazilians
+			NOT = { has_country_flag = embrace_the_natives }				   
+		}
+		
+		allow = {
+			revolution_n_counterrevolution = 1
+			ARC = { all_core = { owned_by = THIS } }
+			PEU = { all_core = { owned_by = THIS } }
+		}
+			
+		effect = {
+			add_accepted_culture = guarani
+			add_accepted_culture = aimara
+			add_accepted_culture = patagonian
+		}
+	}
+			
+	claim_the_vandalos = {
+		potential = {
+			tag = LPL 
+			NOT = { has_country_flag = claim_the_vandalos }
+		}
+				
+		allow = { 
+			ARC = { all_core = { owned_by = THIS } }
+			NOT = { exists = ARC }
+		}
+		
+		effect = {
+			set_country_flag = claim_the_vandalos
+			prestige = 15
+			ARC = { all_core = { add_core = THIS } }
+		}
+	}
+}

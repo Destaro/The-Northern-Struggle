@@ -267,15 +267,11 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			change_tag = TUR
-			RUM = {
+			TUR = {
 				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
 					}
 					secede_province = THIS
 				}
@@ -292,11 +288,8 @@ political_decisions = {
 		}
 		allow = {
 			military_statistics = 1
-<<<<<<< Updated upstream
-=======
 			owns = 869
 			NOT = { exists = ANI }
->>>>>>> Stashed changes
 		}
 		effect = {
 			add_accepted_culture = antian
@@ -313,19 +306,16 @@ political_decisions = {
 					type = soldiers
 				}
 				militancy = -1
-				move_issue_percentage = { 
-					from = pro_military
-					to = jingoism
-					value = 0.1
-				}
+			}
+			move_issue_percentage = {
+				from = pro_military
+				to = jingoism
+				value = 0.1
 			}
 			set_country_flag = janissaries_recruited
 		}
 	}
 	
-<<<<<<< Updated upstream
-	# city_of_the_straight = {
-=======
 	integrate_constantinopole = {
 		potential = {
 			tag = TUR
@@ -347,7 +337,6 @@ political_decisions = {
 			}
 		}
 	}
->>>>>>> Stashed changes
 	
 	expansion_kon = {
 		potential = {

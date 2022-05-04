@@ -27,7 +27,7 @@ political_decisions = {
 		potential = {
 			tag = DEN
 			exists = PON
-			any_owned = { egion = EGY_843 }
+			owns = 846
 			NOT = { has_global_flag = den_invest }
 		}
 		

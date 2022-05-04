@@ -16,7 +16,7 @@ political_decisions = {
 		effect = {
         inherit = FIN
 		badboy = 5
-		ny_owned = {
+		any_owned = {
 		limit = {
                  is_core = FIN
 			    }      
@@ -204,7 +204,7 @@ conq_krym = {
 				casus_belli = conquest
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
         

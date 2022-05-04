@@ -35,11 +35,13 @@ form_eranshahr = {
 #FORM BYZANTIUM
 form_bizantium = {
 		potential = {
-		tag = BUL
-		tag = GRE
-		tag = PON
-		NOT = { has_country_flag = byzantium_formed }
-	}
+			OR = {
+				tag = BUL
+				tag = GRE
+				tag = PON
+			}
+			NOT = { has_country_flag = byzantium_formed }
+		}
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1

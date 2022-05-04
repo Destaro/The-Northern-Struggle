@@ -76,11 +76,10 @@ country_event = {
 	option = {
 		name = "REV33.A"
 		
-		any_core = {
-			limit = {
-				is_core = ENG
+		ENG = {
+			any_core = {
+				remove_core = DEN
 			}
-			remove_core = DEN
 		}
 		clr_global_flag = eng_revolt
 	}
@@ -115,17 +114,15 @@ country_event = {
 	option = {
 		name = "REV33.A"
 		
-		any_core = {
-			limit = {
-				is_core = IRE
+		IRE = {
+			any_core = {
+				remove_core = SWE
 			}
-			remove_core = SWE
 		}
-		any_core = {
-			limit = {
-				is_core = WAL
+		WAL = {
+			any_core = {
+				remove_core = SWE
 			}
-			remove_core = SWE
 		}
 		clr_global_flag = ire_revolt
 	}
@@ -151,11 +148,10 @@ country_event = {
 	option = {
 		name = "REV33.A"
 		
-		any_core = {
-			limit = {
-				is_core = SCO
+		SCO = {
+			any_core = {
+				remove_core = NOR
 			}
-			remove_core = NOR
 		}
 		clr_global_flag = sco_revolt
 	}

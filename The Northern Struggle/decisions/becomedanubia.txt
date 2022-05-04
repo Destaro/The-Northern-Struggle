@@ -32,8 +32,8 @@ add_accepted_culture
  = bosniak
 add_accepted_culture = slovak
 
-add_accepted_culture = croatian
-add_accepted_culture = serbian
+add_accepted_culture = croat
+add_accepted_culture = serb
 			any_owned = {
 				limit = {
 					is_core = SIE

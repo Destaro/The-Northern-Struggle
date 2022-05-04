@@ -341,7 +341,7 @@ claim_catalonia = {
 			attacker_goal = { 			
 			casus_belli = acquire_state state_province_id = 498 	} 
 			defender_goal = { 			
-			casus_belli = humiliation 	} 
+			casus_belli = humiliate 	} 
 	    } 
   
     }

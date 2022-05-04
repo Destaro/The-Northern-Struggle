@@ -1,13 +1,12 @@
 political_decisions = {
 
-AUS_danube = {
-		
+	AUS_danube = {
 		potential = {
 			tag = AUS
 			NOT = {
 				exists = DNB
+				has_country_flag = aus_dnb
 			}
-			has_country_flag = aus_dnb
 		}
 		
 		allow = {
@@ -18,35 +17,26 @@ AUS_danube = {
 			owns = 626
             owns = 625 
 			OR = {
-			AND = { owns = 771
-                     }
-			AND = { CRO = { vassal_of = AUS } }		 
- 		    
-			AND = { HUN = {owns = 771 }
-                     }
-					 }
-			OR = {
-			AND = { owns = 657
-                     }
-			AND = { SIE = { vassal_of = AUS 
-			                owns = 657 } }		 
- 		    
-			AND = { HUN = {owns = 657 }
-                     }
-					 }		
-					 
+				owns = 771
+				CRO = { vassal_of = AUS }
 			}
-		
-		
+			OR = {
+				owns = 657
+				SIE = {
+					vassal_of = AUS 
+			        owns = 657
+				}
+			}
+		}
 		
 		effect = {
 			prestige = 20
 			change_tag = DNB
-	add_accepted_culture = hungarian
- add_accepted_culture = croatian
- add_accepted_culture = romanian
-add_accepted_culture = slovak
-   		inherit = HUN
+			add_accepted_culture = hungarian
+			add_accepted_culture = croat
+			add_accepted_culture = romanian
+			add_accepted_culture = slovak
+			inherit = HUN
 			inherit = KRA
 			inherit = SIE
 			inherit = CRO
@@ -55,8 +45,8 @@ add_accepted_culture = slovak
 					is_core = AUS
 				}
 				add_core = DNB
-				}
-			
+			}
+			set_country_flag = aus_dnb
 		}
 		ai_will_do = {
 			factor = 1

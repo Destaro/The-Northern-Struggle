@@ -39,7 +39,7 @@ political_decisions = {
    potential = {
    tag = UCA 
    NOT = { OR = { 
-UCA = is_vassal = yes 
+UCA = { is_vassal = yes }
 exists = PNM }  
 }
   }
