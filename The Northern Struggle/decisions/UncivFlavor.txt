@@ -229,7 +229,7 @@ political_decisions = {
 			prestige = 30
 			civilized = yes
 war = no 
-NOT = { ARA = EXISTS}
+NOT = { exists = ARA }
 
 		}
 		

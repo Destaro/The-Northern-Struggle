@@ -519,7 +519,7 @@ form_south_german_confederation = {
 			}
 		}	
 		allow = {
-		state_n_governmemt = 1
+		state_n_government = 1
 			war = no
 			GER = {
 				all_core = {
@@ -581,7 +581,7 @@ form_north_german_confederation = {
 			}
 		}	
 		allow = {
-			state_n_governmemt = 1
+			state_n_government = 1
 			war = no
 			GER = {
 				all_core = {

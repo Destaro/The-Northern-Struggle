@@ -16,12 +16,10 @@ form_can_new = {
 			CAN = {
 				all_core = {
 					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}					
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
 				}
 			}

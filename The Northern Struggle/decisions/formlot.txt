@@ -1,23 +1,19 @@
 political_decisions = {
 
-form_lotharingia = {
+	form_lotharingia = {
 		
-		potential = { 
-OR = {
-tag = SAR
-			tag = BGU
-
-tag = MEL
-tag = AVR
-tag = SAR
-tag = PRV
-tag = ITA
-tag = SIC
-}
-
-			NOT = {
-				exists = LOT
+		potential = {
+			OR = {
+				tag = SAR
+				tag = BGU
+				tag = MEL
+				tag = AVR
+				tag = PRV
+				tag = ITA
+				tag = SIC
 			}
+
+			NOT = { exists = LOT }
 		}
 		
 		allow = {
@@ -42,25 +38,24 @@ tag = SIC
 				limit = {
 					OR = {
 						primary_culture = north_italian
-primary_culture = provencal
-
+						primary_culture = provencal
+						primary_culture = flemish
+						primary_culture = wallonian
 						tag = BGU
-tag = LUX
-primary_culture = flemish
-primary_culture = wallonian
-add_accepted_culture = north_italian
-add_accepted_culture = french
-add_accepted_culture = wallonian
-add_accepted_culture = flemish
-add_accepted_culture = provencal
-					}
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
+						tag = LUX
 					}
 				}
-				annex_to = THIS
+				add_accepted_culture = north_italian
+				add_accepted_culture = french
+				add_accepted_culture = wallonian
+				add_accepted_culture = flemish
+				add_accepted_culture = provencal
+				in_sphere = THIS
+				NOT = {
+					tag = THIS
+				}
 			}
+			annex_to = THIS
 			any_owned = {
 				limit = {
 					is_core = FRA
@@ -106,7 +101,7 @@ has_country_flag = lux_lot
 		}
 		
 		effect = {
-set_country_tag = lux_lot
+set_country_flag = lux_lot
 			prestige = 40
 			any_country = {
 				limit = {
@@ -118,11 +113,11 @@ primary_culture = provencal
 tag = LUX
 primary_culture = flemish
 primary_culture = wallonian
-add_accepted_culture = north_italian
-add_accepted_culture = french
-add_accepted_culture = wallonian
-add_accepted_culture = flemish
-add_accepted_culture = provencal
+accepted_culture = north_italian
+accepted_culture = french
+accepted_culture = wallonian
+accepted_culture = flemish
+accepted_culture = provencal
 					}
 					in_sphere = THIS
 					NOT = {

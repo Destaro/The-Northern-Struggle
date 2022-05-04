@@ -179,8 +179,8 @@ effect = {
 				}
 				add_core = PRU
 				} }	
-		}
-		badboy = -5			 
+		badboy = -5	
+		}		 
 			}
 
 }	

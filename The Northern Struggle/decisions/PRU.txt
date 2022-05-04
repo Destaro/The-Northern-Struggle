@@ -246,7 +246,7 @@ ukr_conq = {
 				casus_belli = conquest_any
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
 		badboy = 5	
@@ -280,7 +280,7 @@ chr_conq = {
 				casus_belli = conquest_any
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
 		badboy = 5	
@@ -311,7 +311,7 @@ cry_conq = {
 				casus_belli = conquest_any
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
 		badboy = 5	
@@ -384,7 +384,7 @@ fin_conq = {
 				state_province_id = 349
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
         set_country_flag = war_fin
@@ -419,7 +419,7 @@ suo_conq = {
 				state_province_id = 994
 			}
 			defender_goal = {
-			casus_belli = humiliation
+			casus_belli = humiliate
 			}
 			}
         set_country_flag = war_suo

@@ -394,16 +394,9 @@ form_luson = {
 			war = no
 			BRZ = {
 				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-							
-						
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
 					}
 				}
 			}
@@ -415,10 +408,7 @@ add_accepted_culture = afro_brazilian
 			prestige = 35
 			any_country = {
 				limit = {
-					OR = {
-						
-						tag = BRZ
-					}
+					tag = BRZ
 					in_sphere = THIS
 					NOT = {
 						tag = THIS

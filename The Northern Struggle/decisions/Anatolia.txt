@@ -269,13 +269,9 @@ political_decisions = {
 			change_tag = TUR
 			TUR = {
 				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
 					}
 					secede_province = THIS
 				}
@@ -310,11 +306,11 @@ political_decisions = {
 					type = soldiers
 				}
 				militancy = -1
-				move_issue_percentage = { 
-					from = pro_military
-					to = jingoism
-					value = 0.1
-				}
+			}
+			move_issue_percentage = {
+				from = pro_military
+				to = jingoism
+				value = 0.1
 			}
 			set_country_flag = janissaries_recruited
 		}

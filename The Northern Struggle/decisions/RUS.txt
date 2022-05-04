@@ -93,7 +93,7 @@ pol_pibre = {
 				is_core = POL }
 				 } 
             
-           add_casus_belli = {
+			casus_belli = {
                     target = THIS
                     type = liberate_country
                     country = POL

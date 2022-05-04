@@ -10,13 +10,13 @@ country_event = {
     release_vassal = BOH
 	AUS = { inherit = BOH
     badboy = 10	}
-	money = 50000
+	treasury = 50000
 	ai_chance = { factor = 100 }
 	}
 	
 	option = {
 	name = "AUSx.A" 
-	AUS = { money = 50000 }
+	AUS = { treasury = 50000 }
 	ai_chance = { factor = 0 }
 	}
 	

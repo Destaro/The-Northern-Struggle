@@ -70,8 +70,16 @@ core_BOH = {
 			OR = {
 				BOH = { vassal_of = AUS }
 				AND = {
-					owns = AUS_625 
-					owns = AUS_626
+					owns = 625
+					owns = 626
+					owns = 627
+					owns = 628
+					owns = 629
+					owns = 630
+					owns = 631
+					owns = 632
+					owns = 688
+					owns = 689
 				}
 			}
 		}
@@ -128,7 +136,7 @@ become_wendiska = {
     add_accepted_culture = slovak
     add_accepted_culture = czech
     add_accepted_culture = silesian
-    add_accepted_culture = sorbian
+    add_accepted_culture = Sorbian
     add_accepted_culture = saxisk
     inherit = BRG
     change_tag = CZH
@@ -162,10 +170,8 @@ become_wendiska = {
     add_core = 544
     add_core = 549
     add_core = 550
-    add_core =551 
+    add_core = 551 
     add_core = 552
-    add_core = 553
-    add_core = 555
     add_core = 557
     }
 }
@@ -208,22 +214,23 @@ prestige = 20
 }
 
 
-core_dzg_wend = {
-potential = { tag = CZH 
-NOT = { has_country_tag = cor_dzg }
-has_country_flag = invade_dzg
-}
-alllow = {
-DZG = { all_core = { owned_by = THIS } }
-is_greater_power = yes
-war = no
-          }
-effect = {
-DZG = { all_core = { add_core = THIS } }
-set_country_flag = cor_dzg
-set_country_flag = dzg_out
-         }
-  }
+	core_dzg_wend = {
+		potential = {
+			tag = CZH 
+			NOT = { has_country_flag = cor_dzg }
+			has_country_flag = invade_dzg
+		}
+		allow = {
+			DZG = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		effect = {
+			DZG = { all_core = { add_core = THIS } }
+			set_country_flag = cor_dzg
+			set_country_flag = dzg_out
+		}
+	}
   
    # = {
   # potential = {
@@ -266,7 +273,7 @@ prestige = 10
     }
 
 accept_magyars = { 
-potential = { tag = CZE 
+potential = { tag = CZH 
 has_country_flag = int_hun
 NOT = { has_country_flag = accept_hun 
 exists = HUN }

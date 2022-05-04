@@ -32,13 +32,7 @@ tag = DZG
 			prestige = 20
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = polish
-
-
-			
-
-					}
+					primary_culture = polish
 					in_sphere = THIS
 					NOT = {
 						tag = THIS
