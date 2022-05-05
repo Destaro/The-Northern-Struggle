@@ -96,7 +96,6 @@ pol_pibre = {
 			casus_belli = {
                     target = THIS
                     type = liberate_country
-                    country = POL
                     months = 200
                 } } }
           	} 					

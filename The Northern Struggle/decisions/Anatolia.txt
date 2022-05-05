@@ -148,7 +148,7 @@ political_decisions = {
 		}
 		allow = {
 			money = 10000
-			point_defence_system = 1
+			point_defense_system = 1
 		}
 		effect = {
 			any_owned = { fort = 1 }
@@ -269,9 +269,11 @@ political_decisions = {
 			change_tag = TUR
 			TUR = {
 				all_core = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+					limit = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
 					secede_province = THIS
 				}

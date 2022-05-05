@@ -16,9 +16,11 @@ form_saf_new = {
 			war = no
 			SAF = {
 				all_core = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
 				}
 			}

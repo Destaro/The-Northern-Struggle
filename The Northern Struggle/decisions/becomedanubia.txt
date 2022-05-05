@@ -9,7 +9,7 @@ Become_danubia = {
 		}
 		
 		allow = {
-			natonalism_n_imperialism = 1
+			nationalism_n_imperialism = 1
 			prestige = 30
 			war = no
 			SIE = {

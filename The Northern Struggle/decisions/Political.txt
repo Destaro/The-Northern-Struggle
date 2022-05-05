@@ -72,7 +72,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			treasury = 1000
+			money = 1000
 			modern_central_bank_system = 1
 		}
 		

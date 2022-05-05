@@ -1,6 +1,6 @@
 political_decisions = {
 
-buy_boh = {
+	buy_boh = {
 		potential = {
 			tag = AUS
 			NOT = { has_country_flag = bog_bym }
@@ -13,16 +13,11 @@ buy_boh = {
 			money = 50000
 		}
 		effect = {
-        set_country_flag = bog_bym
-		PRU = { country_event = 170160 }
-		BRG = { country_event = 170160 }
-
-}
-
-}
-
-
-
+			set_country_flag = bog_bym
+			PRU = { country_event = 170160 }
+			BRG = { country_event = 170160 }
+		}
+	}
 
 # form_union_nation = {
 		# potential = {

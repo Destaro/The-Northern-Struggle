@@ -2,14 +2,13 @@ political_decisions = {
 
 	claim_all_peru_lpl = {
         potential = {
-			tag = LPL
+			tag = ARG
 			NOT = { has_country_flag = claim_peru_lpl }
         }
 		
 		allow = { 
 			war = no
 			PEU = { all_core = { owned_by = THIS } }
-			ARC = { all_core = { owned_by = THIS } }
 			is_greater_power = yes
 		}
 		
@@ -24,7 +23,7 @@ political_decisions = {
 
 	accept_the_brazilians = {
 		potential = { 
-			tag = LPL
+			tag = ARG
 			NOT = { has_country_flag = accept_the_brazilians }
 		}
 
@@ -52,14 +51,13 @@ political_decisions = {
 
 	embrace_the_natives = {
 		potential = {
-			tag = LPL
+			tag = ARG
 			has_country_flag = accept_the_brazilians
 			NOT = { has_country_flag = embrace_the_natives }				   
 		}
 		
 		allow = {
 			revolution_n_counterrevolution = 1
-			ARC = { all_core = { owned_by = THIS } }
 			PEU = { all_core = { owned_by = THIS } }
 		}
 			
@@ -67,24 +65,6 @@ political_decisions = {
 			add_accepted_culture = guarani
 			add_accepted_culture = aimara
 			add_accepted_culture = patagonian
-		}
-	}
-			
-	claim_the_vandalos = {
-		potential = {
-			tag = LPL 
-			NOT = { has_country_flag = claim_the_vandalos }
-		}
-				
-		allow = { 
-			ARC = { all_core = { owned_by = THIS } }
-			NOT = { exists = ARC }
-		}
-		
-		effect = {
-			set_country_flag = claim_the_vandalos
-			prestige = 15
-			ARC = { all_core = { add_core = THIS } }
 		}
 	}
 }

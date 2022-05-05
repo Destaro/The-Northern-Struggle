@@ -285,7 +285,7 @@ potential = {
 			
 tag = RHE
 		
- BGU = { is_vassal_of = THIS }
+ BGU = { is_our_vassal = THIS }
   
    NOT = { has_country_flag = bgu_annexed }
 	
