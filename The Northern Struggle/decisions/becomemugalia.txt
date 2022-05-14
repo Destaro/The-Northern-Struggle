@@ -1,6 +1,6 @@
 political_decisions = {
 
-Become_the_mughals = {
+	Become_the_mughals = {
 		
 		potential = {
 			tag = AFG
@@ -32,24 +32,10 @@ Become_the_mughals = {
 					is_core = HND
 				}
 				add_core = MUG
-				}
-			
+			}
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

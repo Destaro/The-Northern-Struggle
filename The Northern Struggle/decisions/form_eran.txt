@@ -1,6 +1,6 @@
 political_decisions = {
 #UNIFY ERAN
-form_eranshahr = {
+	form_eranshahr = {
 		picture = khosrow_the_great
 		potential = {
 				tag = PER
@@ -33,7 +33,7 @@ form_eranshahr = {
 		}
 	}
 #FORM BYZANTIUM
-form_bizantium = {
+	form_bizantium = {
 		potential = {
 			OR = {
 				tag = BUL

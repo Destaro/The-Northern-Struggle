@@ -5,12 +5,12 @@ form_can_new = {
 			OR = {
 			primary_culture = nordic_canadian
                         primary_culture = dano_canadian
-}
+			}
 			NOT = {
 				exists = CAN
 				
 			}
-		}	
+		}
 		allow = {
 			war = no
 			CAN = {
@@ -53,16 +53,4 @@ form_can_new = {
 			factor = 1
 		}
 	}
-
-
-
-
-
-
-
-
-
-
-
-
 }

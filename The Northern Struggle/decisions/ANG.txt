@@ -1,63 +1,57 @@
 political_decisions = {
+    ang_cores = {
+        potential = {
+            tag = ANG
+            NOT = { has_country_flag = ang_cor }
+            is_vassal = no
+        }
+        allow = { war = no }
+        effect = {
+            447 = { add_core = ANG }
+            FRA_458 = { add_core = ANG }
+            FRA_455 = { add_core = ANG }
+            FRA_448 = { add_core = ANG }
+            FRA_442 = { add_core = ANG }
+            FRA_467 = { add_core = ANG }
+            badboy = 5
+            set_country_flag = ang_cor
+        }
+    }
 
-ang_cores = { 
-
-potential = {
-			tag = ANG
-			NOT = { has_country_flag = ang_cor }
-			is_vassal = no
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-		447 = {add_core = ANG }
-		FRA_458 = {	add_core = ANG }
-		FRA_455 = {add_core = ANG }
-		FRA_448 = {add_core = ANG }
-		FRA_442 = {add_core = ANG }
-		FRA_467 = {	add_core = ANG }
-		badboy = 5
-        set_country_flag = ang_cor
-	
-		
-}
-}
-
-invade_scotland_ang = {
-		potential = {
-			tag = ANG
-			NOT = { has_country_flag = sco_war }
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 291 
-       owns = 292
-       owns = 293
-       owns = 295
-	   owns = 280 
-       owns = 281
-       owns = 282
-       owns = 283
-       owns = 277
-       owns = 278
-       owns = 279
-       owns = 285
-		}
-		effect = {
-        relation = { who = SCO value = -400 }
-		relation = { who = NOR value = -400 }
-		ENG_271 = {
-		add_core = ENG }
-		ENG_266 = {
-		add_core = ENG }
-		badboy = 5
-        set_country_flag = sco_war
-		
-}
-}
-
-
-
+    invade_scotland_ang = {
+        potential = {
+            tag = ANG
+            NOT = { has_country_flag = sco_war }
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 291
+            owns = 292
+            owns = 293
+            owns = 295
+            owns = 280
+            owns = 281
+            owns = 282
+            owns = 283
+            owns = 277
+            owns = 278
+            owns = 279
+            owns = 285
+        }
+        effect = {
+            relation = {
+                who = SCO
+                value = -400
+            }
+            relation = {
+                who = NOR
+                value = -400
+            }
+            ENG_271 = { add_core = ENG }
+            ENG_266 = { add_core = ENG }
+            badboy = 5
+            set_country_flag = sco_war
+        }
+    }
 }

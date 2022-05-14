@@ -1060,7 +1060,7 @@ province_event = {
 				value = 30
 			}
 		}
-		 add_country_modifier = {
+		add_country_modifier = {
 			name = recent_safari
 			duration = 365
 		}

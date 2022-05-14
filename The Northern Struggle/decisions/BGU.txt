@@ -1,162 +1,181 @@
 political_decisions = {
-	integrate_rhein = {
-		potential = { OR = { 
-			tag = BGU  tag = FRA
+    integrate_rhein = {
+        potential = {
+            OR = {
+                tag = BGU
+                tag = FRA
+            }
+            NOT = {
+                OR = {
+                    exists = LUX
+                    has_country_flag = rhein_cor
+                }
+            }
+        }
+
+        allow = {
+            nationalism_n_imperialism = 1
+            LUX = { all_core = { owned_by = THIS } }
+            war = no
+            prestige = 50
+        }
+
+        effect = {
+            prestige = 15
+            set_country_flag = rhein_cor
+            LUX = { all_core = { add_core = THIS } }
+            badboy = 10
+        }
     }
-			NOT = { OR = { exists = LUX
-				has_country_flag = rhein_cor
-			}
-}
-		}
-		
-		allow = {
-			 nationalism_n_imperialism = 1
-     LUX = { all_core = { owned_by = THIS } }
-      war = no
-       prestige = 50
-		}
-		
-		effect = {
-			prestige = 15
-			set_country_flag = rhein_cor
-      LUX = { all_core = { add_core = THIS } }
-      badboy = 10
-		}
-	}
 
-
-the_final_lux = {
-potential = { 
-OR = { tag = FRA tag = BGU }
-NOT = {
-has_country_flag = bye_luxi
- LUX = { all_core = { owned_by = THIS } }
+    the_final_lux = {
+        potential = {
+            OR = {
+                tag = FRA
+                tag = BGU
             }
-     }
-allow = { 
-is_greater_power = yes 
-war = no
-BGU = {  all_core = { owned_by = THIS } }
-}
-effect = {
-set_country_flag = bye_luxi
-badboy = 5
-casus_belli = {
- target = LUX
- type = conquest_any
- months = 12 
-                     }
-           }
-}
-
-normandy_is_cringe = {
-potential = { 
-OR = { tag = ORL tag = BGU }
-NOT = {
-has_country_flag = bye_normie
- NDY = { is_vassal = yes }
+            NOT = {
+                has_country_flag = bye_luxi
+                LUX = { all_core = { owned_by = THIS }  }
             }
-     }
-allow = { 
-is_greater_power = yes 
-war = no
-NDY = {  is_vassal = no }
- NOT = { exists = BRT }
-NOT = { 
-ORL = { all_core = { owned_by = ORL }   } 
-}
-}
-effect = {
-set_country_flag = bye_normie
-badboy = 10
-casus_belli = {
- target = NDY
- type = conquest_any
- months = 6
-                     }
-           }
-}
+        }
+        allow = {
+            is_greater_power = yes
+            war = no
+            BGU = { all_core = { owned_by = THIS } }
+        }
+        effect = {
+            set_country_flag = bye_luxi
+            badboy = 5
+            casus_belli = {
+                target = LUX
+                type = conquest_any
+                months = 12
+            }
+        }
+    }
+
+    normandy_is_cringe = {
+        potential = {
+            OR = {
+                tag = ORL
+                tag = BGU
+            }
+            NOT = {
+                has_country_flag = bye_normie
+                NDY = { is_vassal = yes }
+            }
+        }
+        allow = {
+            is_greater_power = yes
+            war = no
+            NDY = { is_vassal = no }
+            NOT = { exists = BRT }
+            NOT = {
+                ORL = {
+                    all_core = { owned_by = ORL }
+                }
+            }
+        }
+        effect = {
+            set_country_flag = bye_normie
+            badboy = 10
+            casus_belli = {
+                target = NDY
+                type = conquest_any
+                months = 6
+            }
+        }
+    }
 
 
-integrate_net = {
-		potential = { 
-OR = {  tag = BGU  tag = FRA   }
-			NOT = { OR = { exists = NET
-				has_country_flag = net_cor
-	                       		}
-                    }
-		}
-		
-		allow = {
-			 state_n_government = 1
-     NET = { all_core = { owned_by = THIS } }
-      war = no
-       
-		}
-		
-		effect = {
-			prestige = 10
-			set_country_flag = net_cor
-      NET = { all_core = { add_core = THIS } }
-      badboy = 5
-		}
-	}
+    integrate_net = {
+        potential = {
+            OR = {
+                tag = BGU
+                tag = FRA
+            }
+            NOT = {
+                OR = {
+                    exists = NET
+                    has_country_flag = net_cor
+                }
+            }
+        }
 
-accept_net = {
-	potential = { OR = { 	tag = BGU
-  tag = FRA               }
-			NOT = { OR = { exists = NET
-				has_country_flag = net_accepted
-		                    	}
-                  }
-		}
-		
-		allow = {
-			 nationalism_n_imperialism = 1
-     NET = { all_core = { owned_by = THIS } }
-      war = no
-       NOT = { exists = LUX }
-		}
-		
-		effect = {
-			prestige = 10
-			set_country_flag = net_accepted
-      add_accepted_culture = dutch
-      badboy = 5
-		}
-	}
+        allow = {
+            state_n_government = 1
+            NET = { all_core = { owned_by = THIS } }
+            war = no
+        }
 
-integrate_swi = {
-		potential = { 
-OR = { 	tag = BGU  tag = FRA }
-			NOT = { 
-OR = { exists = SWI
-				has_country_flag = swi_cor }
-		               
-                  }
-		}
-		
-		allow = {
-			nationalism_n_imperialism = 1
-			 
-     owns = 605
-     owns = 607
-     owns = 608
-     owns = 609
-      war = no
-       
-		}
-		
-		effect = {
-			prestige = 10
-			set_country_flag = swi_cor
-      add_core = 605
-      add_core = 607
-      add_core = 608
-      add_core = 609
-      
-		}
-	}
+        effect = {
+            prestige = 10
+            set_country_flag = net_cor
+            NET = { all_core = { add_core = THIS } }
+            badboy = 5
+        }
+    }
 
+    accept_net = {
+        potential = {
+            OR = {
+                tag = BGU
+                tag = FRA
+            }
+            NOT = {
+                OR = {
+                    exists = NET
+                    has_country_flag = net_accepted
+                }
+            }
+        }
 
+        allow = {
+            nationalism_n_imperialism = 1
+            NET = { all_core = { owned_by = THIS } }
+            war = no
+            NOT = { exists = LUX }
+        }
+
+        effect = {
+            prestige = 10
+            set_country_flag = net_accepted
+            add_accepted_culture = dutch
+            badboy = 5
+        }
+    }
+
+    integrate_swi = {
+        potential = {
+            OR = {
+                tag = BGU
+                tag = FRA
+            }
+            NOT = {
+                OR = {
+                    exists = SWI
+                    has_country_flag = swi_cor
+                }
+            }
+        }
+
+        allow = {
+            nationalism_n_imperialism = 1
+            owns = 605
+            owns = 607
+            owns = 608
+            owns = 609
+            war = no
+        }
+
+        effect = {
+            prestige = 10
+            set_country_flag = swi_cor
+            add_core = 605
+            add_core = 607
+            add_core = 608
+            add_core = 609
+        }
+    }
 }

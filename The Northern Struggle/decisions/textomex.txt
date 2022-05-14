@@ -1,56 +1,32 @@
 political_decisions = {
+    Become_mexico = {
+        potential = {
+            tag = TEX
+            NOT = { exists = MEX }
+        }
 
-Become_mexico = {
-		
-		potential = {
-			tag = TEX
-			NOT = {
-				exists = MEX
-			}
-		}
-		
-		allow = {
-			prestige = 25
-			war = no
-			TEX = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-owner = {
-							in_sphere = THIS
-						}
-						
-					}
-				}
-			}
-		}
-		
-		effect = {
-add_accepted_culture = mayan
-			prestige = 20
-			change_tag = MEX
-			any_owned = {
-				limit = {
-					is_core = MEX
-				}
-				add_core = MEX
-				}
-			
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
+        allow = {
+            prestige = 25
+            war = no
+            TEX = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                    }
+                }
+            }
+        }
 
-
-
-
-
-
-
-
-
-
-
-
+        effect = {
+            add_accepted_culture = mayan
+            prestige = 20
+            change_tag = MEX
+            any_owned = {
+                limit = { is_core = MEX }
+                add_core = MEX
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
 }

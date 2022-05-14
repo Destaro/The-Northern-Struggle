@@ -1,341 +1,294 @@
-country_event = { 
-	id = 110000 #decision
-	title = "AUS1.T"
-	desc = "AUS1.D"
-	
-	trigger = { 
-  tag = AUS
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS1.A" 
-	set_country_flag = aus_sgf
-    ai_chance = { factor = 50 }	
-	}
-	
-	option = { 
-	name = "AUS1a.A" 
-	set_country_flag = aus_dnb
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	country_event = { 
-	id = 120000 #hun
-	title = "AUS2.T"
-	desc = "AUS2.D"
-	
-	trigger = { 
-    tag = AUS
-	HUN = { vassal_of = AUS }
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS2.A" 
-	639 = { secede_province = HUN }
-	623 = { secede_province = HUN }
-	HUN = {
-	add_accepted_culture = south_german }
-	set_country_flag = aus_mag
-    ai_chance = { factor = 50 }	
-	}
-	
-	option = { 
-	name = "AUS2a.A" 
-	any_pop = {
-            limit = {
-                has_pop_culture = hungarian
-            }
+country_event = {
+    id = 110000 #decision
+    title = "AUS1.T"
+    desc = "AUS1.D"
+
+    trigger = { tag = AUS }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "AUS1.A"
+        set_country_flag = aus_sgf
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "AUS1a.A"
+        set_country_flag = aus_dnb
+        ai_chance = { factor = 50 }
+    }
+}
+
+country_event = {
+    id = 120000 #hun
+    title = "AUS2.T"
+    desc = "AUS2.D"
+
+    trigger = {
+        tag = AUS
+        HUN = { vassal_of = AUS }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "AUS2.A"
+        639 = { secede_province = HUN }
+        623 = { secede_province = HUN }
+        HUN = { add_accepted_culture = south_german }
+        set_country_flag = aus_mag
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "AUS2a.A"
+        any_pop = {
+            limit = { has_pop_culture = hungarian }
             consciousness = 2
-			militancy = 6
+            militancy = 6
         }
-	set_country_flag = aus_amg
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	country_event = { 
-	id = 130000 #hun
-	title = "AUS3.T"
-	desc = "AUS3.D"
-	
-	trigger = { 
-    tag = AUS
-	CRO = { vassal_of = AUS }
-	CRO = {
-	owns = 791
-    owns = 783
-    owns = 771	}
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS3.A" 
-	HUN = { inherit = CRO }
-	any_pop = {
-            limit = {
-                has_pop_culture = slovene
-            }
+        set_country_flag = aus_amg
+        ai_chance = { factor = 50 }
+    }
+}
+
+country_event = {
+    id = 130000 #hun
+    title = "AUS3.T"
+    desc = "AUS3.D"
+
+    trigger = {
+        tag = AUS
+        CRO = { vassal_of = AUS }
+        CRO = {
+            owns = 791
+            owns = 783
+            owns = 771
+        }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "AUS3.A"
+        HUN = { inherit = CRO }
+        any_pop = {
+            limit = { has_pop_culture = slovene }
             consciousness = 2
-			militancy = 6
+            militancy = 6
         }
-	set_country_flag = aus_asl
-    ai_chance = { factor = 50 }	
-	}
-	
-	option = { 
-	name = "AUS3a.A" 
-	add_accepted_culture = slovene
-	CRO = { add_accepted_culture = serb
-	        add_accepted_culture = bosniak }
-	set_country_flag = aus_slo
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	country_event = { 
-	id = 140000 #hun
-	title = "AUS4.T"
-	desc = "AUS4.D"
-	
-	trigger = { 
-    tag = AUS
-	SIE = { vassal_of = AUS }
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 10
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS4.A" 
-	HUN = { inherit = SIE }
-	set_country_flag = aus_arm
-    ai_chance = { factor = 50 }	
-	}
-	
-	option = { 
-	name = "AUS4a.A" 
-	SIE = { add_accepted_culture - north_german }
-	set_country_flag = aus_rom
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	country_event = { 
-	id = 150000 #hun
-	title = "AUS5.T"
-	desc = "AUS5.D"
-	
-	trigger = { 
-    tag = AUS
-	SIE = { vassal_of = AUS }
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS5.A" 
-	SIE = { country_event = 100001 }
-    ai_chance = { factor = 90 }	
-	}
-	
-	option = { 
-	name = "AUS5a.A" 
-	badboy = 10
-    ai_chance = { factor = 10 }	
-	}
-	}
-	
-	country_event = { 
-	id = 160000 #hun
-	title = "AUS6.T"
-	desc = "AUS6.D"
-	
-	trigger = { 
-    tag = AUS
-	owns = 625 }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS6.A" 
-	any_pop = {
+        set_country_flag = aus_asl
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "AUS3a.A"
+        add_accepted_culture = slovene
+        CRO = {
+            add_accepted_culture = serb
+            add_accepted_culture = bosniak
+        }
+        set_country_flag = aus_slo
+        ai_chance = { factor = 50 }
+    }
+}
+
+country_event = {
+    id = 140000 #hun
+    title = "AUS4.T"
+    desc = "AUS4.D"
+
+    trigger = {
+        tag = AUS
+        SIE = { vassal_of = AUS }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 10 }
+
+    option = {
+        name = "AUS4.A"
+        HUN = { inherit = SIE }
+        set_country_flag = aus_arm
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "AUS4a.A"
+        SIE = {
+            add_accepted_culture = north_german
+        }
+        set_country_flag = aus_rom
+        ai_chance = { factor = 50 }
+    }
+}
+
+country_event = {
+    id = 150000 #hun
+    title = "AUS5.T"
+    desc = "AUS5.D"
+
+    trigger = {
+        tag = AUS
+        SIE = { vassal_of = AUS }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = {  days = 1 }
+
+    option = {
+        name = "AUS5.A"
+        SIE = { country_event = 100001 }
+        ai_chance = { factor = 90 }
+    }
+
+    option = {
+        name = "AUS5a.A"
+        badboy = 10
+        ai_chance = { factor = 10 }
+    }
+}
+
+country_event = {
+    id = 160000 #hun
+    title = "AUS6.T"
+    desc = "AUS6.D"
+
+    trigger = {
+        tag = AUS
+        owns = 625
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "AUS6.A"
+        any_pop = {
             limit = {
                 has_pop_culture = czech
-				type = aristocrats
+                type = aristocrats
             }
-             reduce_pop = 0.9
+            reduce_pop = 0.9
         }
-		any_owned = {
-		limit = {
-                is_core = BOH
+        any_owned = {
+            limit = { is_core = BOH }
+            add_province_modifier = {
+                name = aristocrats_killed
+                duration = 1000
             }
-	 add_province_modifier = {
-				
-                    name = aristocrats_killed
-                    duration = 1000
-                }	}
-    ai_chance = { factor = 50 }	
-	set_country_flag = aus_acz
-	}
-	
-	option = { 
-	name = "AUS6a.A" 
-	set_country_flag = aus_czh
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	country_event = { 
-	id = 170000 #hun
-	title = "AUS7.T"
-	desc = "AUS7.D"
-	
-	trigger = { 
-    tag = AUS
-	KRA = { vassal_of = AUS }
-	 }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS6.A" 
-	KRA = { add_accepted_culture = ukrainian }
-	set_country_flag = aus_ukp
-	 ai_chance = { factor = 25 }	
-	}
-	
-	option = { 
-	name = "AUS6a.A" 
-	set_country_flag = aus_pld
-    ai_chance = { factor = 25 }	
-	} 
-	
-	option = { 
-	name = "AUS6b.A" 
-	KRA = {  primary_culture = ukrainian }
-	set_country_flag = aus_ukr
-	 ai_chance = { factor = 25 }	
-	}
-	
-	option = { 
-	name = "AUS6c.A" 
-	set_country_flag = aus_suc
-    ai_chance = { factor = 25 }	
-	}
-	}
-	
-	country_event = { 
-	id = 110003 #hun
-	title = "AUS7.T"
-	desc = "AUS7.D"
-	
-	trigger = { 
-    tag = AUS
-	year = 1840
-	owns = 606
-    owns = 605	}
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 30
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "AUS7.A" 
-	any_owned = {
-	limit = { is_core = SWI }
-	remove_core = AUS }
-	2568 = { secede_province = VEN }
-	609 = { secede_province = SAR }
-	608 = { secede_province = BGU }
-	607 = { secede_province = BGU }
-	any_owned = {
-	limit = { is_core = SWI }
-	secede_province = SWI }
-    ai_chance = { factor = 90 }	
-	
-	}
-	
-	option = { 
-	name = "AUS7a.A" 
-	2568 = { secede_province = VEN }
-	609 = { secede_province = SAR }
-	608 = { secede_province = BGU }
-	607 = { secede_province = BGU }
-	any_owned = {
-	limit = { is_core = SWI }
-	secede_province = SWI }
-	war = {
-			target = SWI
-			attacker_goal = {
-				casus_belli = conquest
-			}
-			defender_goal = {
-			casus_belli = status_quo
-			}
-			}
-		badboy = 10
-    ai_chance = { factor = 50 }	
-	}
-	}
-	
-	
-	
+        }
+        ai_chance = { factor = 50 }
+        set_country_flag = aus_acz
+    }
+
+    option = {
+        name = "AUS6a.A"
+        set_country_flag = aus_czh
+        ai_chance = { factor = 50 }
+    }
+}
+
+country_event = {
+    id = 170000 #hun
+    title = "AUS7.T"
+    desc = "AUS7.D"
+
+    trigger = {
+        tag = AUS
+        KRA = { vassal_of = AUS }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "AUS6.A"
+        KRA = { add_accepted_culture = ukrainian }
+        set_country_flag = aus_ukp
+        ai_chance = { factor = 25 }
+    }
+
+    option = {
+        name = "AUS6a.A"
+        set_country_flag = aus_pld
+        ai_chance = { factor = 25 }
+    }
+
+    option = {
+        name = "AUS6b.A"
+        KRA = { primary_culture = ukrainian }
+        set_country_flag = aus_ukr
+        ai_chance = { factor = 25 }
+    }
+
+    option = {
+        name = "AUS6c.A"
+        set_country_flag = aus_suc
+        ai_chance = { factor = 25 }
+    }
+}
+
+country_event = {
+    id = 170001 #hun
+    title = "AUS7.T"
+    desc = "AUS7.D"
+
+    trigger = {
+        tag = AUS
+        year = 1840
+        owns = 606
+        owns = 605
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 30 }
+
+    option = {
+        name = "AUS7.A"
+        any_owned = {
+            limit = { is_core = SWI }
+            remove_core = AUS
+        }
+        2568 = { secede_province = VEN }
+        609 = { secede_province = SAR }
+        608 = { secede_province = BGU }
+        607 = { secede_province = BGU }
+        any_owned = {
+            limit = { is_core = SWI }
+            secede_province = SWI
+        }
+        ai_chance = { factor = 90 }
+    }
+
+    option = {
+        name = "AUS7a.A"
+        2568 = { secede_province = VEN }
+        609 = { secede_province = SAR }
+        608 = { secede_province = BGU }
+        607 = { secede_province = BGU }
+        any_owned = {
+            limit = { is_core = SWI }
+            secede_province = SWI
+        }
+        war = {
+            target = SWI
+            attacker_goal = { casus_belli = conquest }
+            defender_goal = { casus_belli = status_quo }
+        }
+        badboy = 10
+        ai_chance = { factor = 50 }
+    }
+}

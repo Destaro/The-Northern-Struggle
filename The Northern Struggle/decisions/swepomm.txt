@@ -1,29 +1,29 @@
 political_decisions = {
-	integrate_pomerania_germans = {
-		potential = {
-			OR = {
-			tag = SWE
-			tag = SCA
-			tag = SFN
-			}
-			owns = 548
-			state_n_government = 1
-			NOT = { has_country_flag = swedish_pomerania }
-			}
-		
-		allow = {
-		war = no
-		is_greater_power = yes
-		}
-		
-		effect = {
-		set_country_flag = swedish_pomerania
-		prestige = 40
-		add_accepted_culture = north_german
-		add_core = 692
-		add_core = 691
-		add_core = 690
-		add_core = 550
-		}
-	}
+    integrate_pomerania_germans = {
+        potential = {
+            OR = {
+                tag = SWE
+                tag = SCA
+                tag = SFN
+            }
+            owns = 548
+            state_n_government = 1
+            NOT = { has_country_flag = swedish_pomerania }
+        }
+
+        allow = {
+            war = no
+            is_greater_power = yes
+        }
+
+        effect = {
+            set_country_flag = swedish_pomerania
+            prestige = 40
+            add_accepted_culture = north_german
+            add_core = 692
+            add_core = 691
+            add_core = 690
+            add_core = 550
+        }
+    }
 }

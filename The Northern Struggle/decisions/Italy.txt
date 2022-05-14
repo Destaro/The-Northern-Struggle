@@ -274,7 +274,7 @@ political_decisions = {
 		}
 	}
 
-form_italy = {
+	form_italy = {
 		news = yes
 		news_desc_long = "form_italy_NEWS_LONG"
 		news_desc_medium = "form_italy_NEWS_MEDIUM"

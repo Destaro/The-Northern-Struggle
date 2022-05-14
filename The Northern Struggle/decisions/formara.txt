@@ -31,7 +31,7 @@ form_aragon = {
 		effect = {
 			prestige = 15
 add_accepted_culture = basque
-
+remove_accepted_culture = spanish
 			any_country = {
 				limit = {
 					primary_culture = catalan

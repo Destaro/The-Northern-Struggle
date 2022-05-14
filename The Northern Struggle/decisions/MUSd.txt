@@ -1,299 +1,286 @@
 political_decisions = {
-
-	integrate_FIN = {
-		potential = {
-		OR = {
-			tag = MUS
-			tag = RUS }
-			NOT = { has_country_flag = int_fin }
+    integrate_FIN = {
+        potential = {
+            OR = {
+                tag = MUS
+                tag = RUS
+            }
+            NOT = { has_country_flag = int_fin }
             is_vassal = no
-			FIN = { vassal_of = THIS }
-		}
-		allow = {
-			war = no
-			nationalism_n_imperialism = 1 }
-		
-		effect = {
-        inherit = FIN
-		badboy = 5
-		any_owned = {
-		limit = {
-                 is_core = FIN
-			    }      
-	 add_province_modifier = {
-				
+            FIN = { vassal_of = THIS }
+        }
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            inherit = FIN
+            badboy = 5
+            any_owned = {
+                limit = { is_core = FIN }
+                add_province_modifier = {
                     name = RUS_assimilation
                     duration = 20000
-					
-                }	}
-        set_country_flag = int_fin
-		
-} 
-}
-
-integrate_UBD = {
-		potential = {
-		OR = {
-			tag = MUS
-			tag = RUS }
-			NOT = { has_country_flag = int_ubd }
-            is_vassal = no
-			UBD = { vassal_of = THIS }
-		}
-		allow = {
-			war = no
-			state_n_government = 1
-            UBD = { owns = 353
-            owns = 354
-            owns = 360	
-            owns = 361
-            owns = 349 } }
-		
-		effect = {
-        inherit = UBD
-		badboy = 5
-        set_country_flag = int_ubd
-		360 = { change_province_name = "Vilna" }	
-		361 = { change_province_name = "Kovno" }	
-		363 = { change_province_name = "Ponevezh" }	
-		362 = { change_province_name = "Mariyampole" }	
-		364 = { change_province_name = "Shavli" }	
-		365 = { change_province_name = "Ostrov'" }
-        any_owned = {
-		limit = {
-                 is_core = UBD
-			    }      
-	    secede_province = THIS
-					
-                }	} 			
-		
-}
-
-
-exps_UBD = {
-		potential = {
-		OR = {
-			tag = MUS
-			tag = RUS }
-			NOT = { has_country_flag = eks_ubd }
-			
-	NOT = { has_global_flag = pru_ubd }
-	   
-            is_vassal = no
-			UBD = { vassal_of = THIS }
-		}
-		allow = {
-		state_n_government = 1
-            owns = 360
-			owns = 361
-			owns = 698 }
-		
-		effect = {
-		badboy = 3
-		set_country_flag = eks_ubd
-        any_owned = {
-		limit = {
-                 is_core = UBD
-			    }      
-	secede_province = UBD
-					
                 }
-            } 			
-		
-}
-
-
-buy_osel = {
-		potential = {
-		OR = {
-			tag = MUS
-			tag = RUS }
-			NOT = { has_country_flag = buy_osl }
-            is_vassal = no
-			UBD = { vassal_of = THIS }
-			SWE = { owns = 353 }
-		}
-		allow = {
-			war = no
-            money = 50000  }
-		
-		effect = {
-        SWE = { country_event = 666004 }
-        set_country_flag = buy_osl
-		
-}
-}
-
-rtr_chr = {
-		potential = {
-			tag = MUS
-			NOT = { has_country_flag = anx_chr }
-            is_vassal = no
-            owns = 994
-		}
-		allow = {
-			war = no
-            CHR = { is_vassal = no
-			NOT = { alliance_with = MUS
-                    in_sphere = MUS		}  } }
-		
-		effect = { war = {
-			target = CHR
-			attacker_goal = {
-				casus_belli = annex_core_country
-			}
-			defender_goal = {
-			casus_belli = status_quo
-			}
-			}
-			set_country_flag = anx_chr
-       
-		
-}
-}
-
-
-ally_ukr = {
-		potential = {
-			tag = MUS
-			NOT = { has_country_flag = rut_sph }
-            is_vassal = no
-            owns = 994
-		}
-		allow = {
-			war = no
-            RUT = { in_sphere = MUS } 
-			is_greater_power = yes
-            CHR = { exists = no }			}
-		     
-		effect = { 
-		create_vassal = RUT
-		badboy = 10
-		980 = {change_province_name = "Lugansk"}
-        
-			
-			set_country_flag = rut_sph }
-       
-		
-}
-
-
-conq_krym = {
-		potential = {
-		    OR = {
-			tag = MUS
-			tag = RUS }
-		NOT = { exists = CHR exists = RUT has_country_flag = kry_con }
-            is_vassal = no
-            OR = { RUT = { vassal_of = MUS } 
-			owns = 958 }
-		}
-		allow = {
-		is_greater_power = yes
-		
-			war = no
-            CRI = { is_vassal = no
-			NOT = { alliance_with = THIS
-                    in_sphere = THIS }  }		}
-		     
-		effect = { 
-		badboy = 5
-		war = {
-			target = CRI
-			attacker_goal = {
-				casus_belli = conquest
-			}
-			defender_goal = {
-			casus_belli = humiliate
-			}
-			}
-        
-			
-			set_country_flag = kry_con }
-       
-		
-}
-
-conq_lit = {
-		potential = {
-			tag = MUS
-			NOT = { has_country_flag = lit_con }
-            is_vassal = no
-            CHR = { exists = no }
-		}
-		allow = {
-		is_greater_power = yes
-		
-			war = no
-            LIT = { is_vassal = no
-			NOT = { alliance_with = MUS
-                    in_sphere = MUS		}  }		
+            }
+            set_country_flag = int_fin
         }
-		     
-		effect = { 
-		badboy = 5
-		war = {
-			target = LIT
-			attacker_goal = {
-				casus_belli = conquest
-			}
-			defender_goal = {
-			casus_belli = status_quo
-			}
-			}
-        
-			
-			set_country_flag = lit_con }
-       
-		
-}
+    }
 
-forem_rus = {
-		potential = {
-			tag = MUS
-			NOT = { has_country_flag = rsh_frm }
+    integrate_UBD = {
+        potential = {
+            OR = {
+                tag = MUS
+                tag = RUS
+            }
+            NOT = { has_country_flag = int_ubd }
             is_vassal = no
-		}
-		allow = {
-			war = no
+            UBD = { vassal_of = THIS }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+            UBD = {
+                owns = 353
+                owns = 354
+                owns = 360
+                owns = 361
+                owns = 349
+            }
+        }
+
+        effect = {
+            inherit = UBD
+            badboy = 5
+            set_country_flag = int_ubd
+            360 = { change_province_name = "Vilna" }
+            361 = { change_province_name = "Kovno" }
+            363 = { change_province_name = "Ponevezh" }
+            362 = { change_province_name = "Mariyampole" }
+            364 = { change_province_name = "Shavli" }
+            365 = { change_province_name = "Ostrov'" }
+            any_owned = {
+                limit = { is_core = UBD }
+                secede_province = THIS
+            }
+        }
+    }
+
+
+    exps_UBD = {
+        potential = {
+            OR = {
+                tag = MUS
+                tag = RUS
+            }
+            NOT = { has_country_flag = eks_ubd }
+
+            NOT = { has_global_flag = pru_ubd }
+
+            is_vassal = no
+            UBD = { vassal_of = THIS }
+        }
+        allow = {
+            state_n_government = 1
+            owns = 360
+            owns = 361
+            owns = 698
+        }
+
+        effect = {
+            badboy = 3
+            set_country_flag = eks_ubd
+            any_owned = {
+                limit = { is_core = UBD }
+                secede_province = UBD
+            }
+        }
+    }
+
+    buy_osel = {
+        potential = {
+            OR = {
+                tag = MUS
+                tag = RUS
+            }
+            NOT = { has_country_flag = buy_osl }
+            is_vassal = no
+            UBD = { vassal_of = THIS }
+            SWE = { owns = 353 }
+        }
+        allow = {
+            war = no
+            money = 50000
+        }
+
+        effect = {
+            SWE = { country_event = 666004 }
+            set_country_flag = buy_osl
+        }
+    }
+
+    rtr_chr = {
+        potential = {
+            tag = MUS
+            NOT = { has_country_flag = anx_chr }
+            is_vassal = no
+            owns = 994
+        }
+        allow = {
+            war = no
+            CHR = {
+                is_vassal = no
+                NOT = {
+                    alliance_with = MUS
+                    in_sphere = MUS
+                }
+            }
+        }
+
+        effect = {
+            war = {
+                target = CHR
+                attacker_goal = { casus_belli = annex_core_country }
+                defender_goal = { casus_belli = status_quo }
+            }
+            set_country_flag = anx_chr
+        }
+    }
+
+
+    ally_ukr = {
+        potential = {
+            tag = MUS
+            NOT = { has_country_flag = rut_sph }
+            is_vassal = no
+            owns = 994
+        }
+        allow = {
+            war = no
+            RUT = { in_sphere = MUS }
+            is_greater_power = yes
             CHR = { exists = no }
-			LIT = { exists = no }
-			RUT = { vassal_of = MUS }
-			owns = 994
-			owns = 718
-            			}
-		     
-		effect = {
-		badboy = 7
-		inherit = RUT
-		change_tag = RUS
-		add_accepted_culture = ukrainian
-		any_owned = {
-				limit = {
-					OR = { 
-					is_core = MUS
-       				is_core = RUT
-                    is_core = BYE }
-				}
-				add_core = RUS
-				}
-		set_country_flag = rsh_frm 
-	             	}
-       
-		
-              }
-		
-        } 
-                	
-        
-			
-					  
-		  
+        }
+
+        effect = {
+            create_vassal = RUT
+            badboy = 10
+            980 = { change_province_name = "Lugansk" }
 
 
+            set_country_flag = rut_sph
+        }
+    }
 
 
+    conq_krym = {
+        potential = {
+            OR = {
+                tag = MUS
+                tag = RUS
+            }
+            NOT = {
+                exists = CHR
+                exists = RUT
+                has_country_flag = kry_con
+            }
+            is_vassal = no
+            OR = {
+                RUT = { vassal_of = MUS }
+                owns = 958
+            }
+        }
+        allow = {
+            is_greater_power = yes
+
+            war = no
+            CRI = {
+                is_vassal = no
+                NOT = {
+                    alliance_with = THIS
+                    in_sphere = THIS
+                }
+            }
+        }
+
+        effect = {
+            badboy = 5
+            war = {
+                target = CRI
+                attacker_goal = { casus_belli = conquest }
+                defender_goal = { casus_belli = humiliate }
+            }
 
 
+            set_country_flag = kry_con
+        }
+    }
+
+    conq_lit = {
+        potential = {
+            tag = MUS
+            NOT = { has_country_flag = lit_con }
+            is_vassal = no
+            CHR = { exists = no }
+        }
+        allow = {
+            is_greater_power = yes
+
+            war = no
+            LIT = {
+                is_vassal = no
+                NOT = {
+                    alliance_with = MUS
+                    in_sphere = MUS
+                }
+            }
+        }
+
+        effect = {
+            badboy = 5
+            war = {
+                target = LIT
+                attacker_goal = { casus_belli = conquest }
+                defender_goal = { casus_belli = status_quo }
+            }
 
 
+            set_country_flag = lit_con
+        }
+    }
+
+    forem_rus = {
+        potential = {
+            tag = MUS
+            NOT = { has_country_flag = rsh_frm }
+            is_vassal = no
+        }
+        allow = {
+            war = no
+            CHR = { exists = no }
+            LIT = { exists = no }
+            RUT = { vassal_of = MUS }
+            owns = 994
+            owns = 718
+        }
+
+        effect = {
+            badboy = 7
+            inherit = RUT
+            change_tag = RUS
+            add_accepted_culture = ukrainian
+            any_owned = {
+                limit = {
+                    OR = {
+                        is_core = MUS
+                        is_core = RUT
+                        is_core = BYE
+                    }
+                }
+                add_core = RUS
+            }
+            set_country_flag = rsh_frm
+        }
+    }
+}

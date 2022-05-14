@@ -1,173 +1,146 @@
-country_event = { 
-	id = 102500 #Vassal_war
-	title = "ENG4.T"
-	desc = "ENG4.D"
-	
-	trigger = { 
-  tag = NTU
-  NTU = {
-     vassal_of = DEN }
-	 
-	 
-	  ENG = { owns = 291 
-       owns = 292
-       owns = 293
-       owns = 295 
-	   exists = yes
-	   }
-	   }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 10
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "ENG4.A" 
-	ENG = {
-	inherit = NTU }
-    ai_chance = { factor = 80 }	
-	}
-	
-	option = { 
-	name = "ENG4a.A" 
-	any_pop = {
+country_event = {
+    id = 102500 #Vassal_war
+    title = "ENG4.T"
+    desc = "ENG4.D"
+
+    trigger = {
+        tag = NTU
+        NTU = { vassal_of = DEN }
+
+
+        ENG = {
+            owns = 291
+            owns = 292
+            owns = 293
+            owns = 295
+            exists = yes
+        }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 10 }
+
+    option = {
+        name = "ENG4.A"
+        ENG = { inherit = NTU }
+        ai_chance = { factor = 80 }
+    }
+
+    option = {
+        name = "ENG4a.A"
+        any_pop = {
             limit = {
                 is_primary_culture = yes
                 is_accepted_culture = yes
             }
             consciousness = 2
-			militancy = 1
+            militancy = 1
         }
-		relation = { who = ENG value = -200 }
-    ai_chance = { factor = 20 }	
-	}
-	}
-	
-	country_event = { 
-	id = 102600 #Triumph
-	title = "ENG5.T"
-	desc = "ENG5.D"
-	
-	trigger = { 
-  OR = { 
-	AND = { tag = ENG }
-	AND = { tag = SCO }
-	AND = { tag = IRE }
-	}
-  is_vassal = no 
-  war = no }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "ENG5.A" 
-any_pop = {
+        relation = {
+            who = ENG
+            value = -200
+        }
+        ai_chance = { factor = 20 }
+    }
+}
+
+country_event = {
+    id = 102600 #Triumph
+    title = "ENG5.T"
+    desc = "ENG5.D"
+
+    trigger = {
+        OR = {
+            tag = ENG
+            tag = SCO
+            tag = IRE
+        }
+        is_vassal = no
+        war = no
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "ENG5.A"
+        any_pop = {
             limit = {
                 is_primary_culture = yes
                 is_accepted_culture = yes
             }
-			militancy = -5
+            militancy = -5
         }
-		prestige = 50
-	}
-	}
-	
-	country_event = { 
-	id = 102700 #Scotland
-	title = "ENG6.T"
-	desc = "ENG6.D"
-	
-	trigger = { 
-  tag = ENG
-  owns = 269
-  owns = 268
-  }
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "ENG6.A" 
-add_accepted_culture = Scottish
-	any_pop = {
+        prestige = 50
+    }
+}
+
+country_event = {
+    id = 102700 #Scotland
+    title = "ENG6.T"
+    desc = "ENG6.D"
+
+    trigger = {
+        tag = ENG
+        owns = 269
+        owns = 268
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "ENG6.A"
+        add_accepted_culture = Scottish
+        any_pop = {
             limit = {
                 is_primary_culture = yes
                 is_accepted_culture = yes
             }
             consciousness = 2
         }
-		ai_chance = { factor = 50 }	
-	}
-	
-	option = { 
-	name = "ENG6a.A" 
-	any_pop = {
-            limit = {
-                has_pop_culture = Scottish
-            }
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "ENG6a.A"
+        any_pop = {
+            limit = { has_pop_culture = Scottish }
             consciousness = 2
-			militancy = 5 
-			}
-			any_owned = { limit = { is_core = SCO }
+            militancy = 5
+        }
+        any_owned = {
+            limit = { is_core = SCO }
             add_province_modifier = {
                 name = SCO_settle
                 duration = 3650
-                }
             }
-			ai_chance = { factor = 50 }	
-        
-	}
+        }
+        ai_chance = { factor = 50 }
+    }
 }
 
-country_event = { 
-	id = 102800 #Decision
-	title = "ENG7.T"
-	desc = "ENG7.D"
-	
+country_event = {
+    id = 102800 #Decision
+    title = "ENG7.T"
+    desc = "ENG7.D"
+
     is_triggered_only = yes
-	
-	fire_only_once = yes 
-		
-    option = { 
-	name = "ENG7.A" 
-    set_country_flag = eng_britannia
-	ai_chance = { factor = 50 }	
-        }	
-	
-	option = { 
-	name = "ENG7a.A" 
-	set_country_flag = eng_angevin  
-	ai_chance = { factor = 50 }	
-	}
-}
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+    fire_only_once = yes
+
+    option = {
+        name = "ENG7.A"
+        set_country_flag = eng_britannia
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "ENG7a.A"
+        set_country_flag = eng_angevin
+        ai_chance = { factor = 50 }
+    }
+}

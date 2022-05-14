@@ -1,199 +1,181 @@
-country_event = { 
-	id = 666006
-	title = "RUS1.T"
-	desc = "RUS1.D"
-	
-	is_triggered_only = yes
-		
-    option = { 
-	name = "RUS1.A" 
-    prestige = 25		
-	ai_chance = { factor = 100 }
-			}
-			}
-			
-country_event = { 
-	id = 666007
-	title = "RUS2.T"
-	desc = "RUS2.D"
-	
-	trigger = { 
-	has_global_flag = rus_pns
-	NOT = { tag = RUS }
-	}
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1 
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "RUS2.A" 
-    any_pop = {
+country_event = {
+    id = 666016
+    title = "RUS1.T"
+    desc = "RUS1.D"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "RUS1.A"
+        prestige = 25
+        ai_chance = { factor = 100 }
+    }
+}
+
+country_event = {
+    id = 666007
+    title = "RUS2.T"
+    desc = "RUS2.D"
+
+    trigger = {
+        has_global_flag = rus_pns
+        NOT = { tag = RUS }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "RUS2.A"
+        any_pop = {
             limit = {
                 OR = {
                     is_culture_group = east_slavic
-                    is_culture_group = west_slavic
-					is_culture_group = south_slavic
+                    is_culture_group = polish_culture_group
+                    is_culture_group = south_slavic
                 }
             }
             consciousness = 2
-			militancy = 1
+            militancy = 1
         }
-	ai_chance = { factor = 100 }
-			}
-			}
+        ai_chance = { factor = 100 }
+    }
+}
 
-country_event = { 
-	id = 666008
-	title = "RUS3.T"
-	desc = "RUS3.D"
-	
-	is_triggered_only = yes
-		
-    option = { 
-	name = "RUS3.A" 
-    any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 695 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_region 
-                    state_province_id = 695
-                    months = 200
-                } } 
-		any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 697 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_state 
-                    state_province_id = 697
-                    months = 200
-                } }
-		any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 680 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_state 
-                    state_province_id = 680
-                    months = 200
-                } }
-		any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 679 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_state 
-                    state_province_id = 679
-                    months = 200
-                } }
-		any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 546 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_state 
-                    state_province_id = 546
-                    months = 200
-                } }
-		any_country = {
-            limit = {
-                exists = yes
-                any_owned_province = {
-				province_id = 681 }
-				 } 
-            
-           add_casus_belli = {
-                    target = THIS
-                    type = acquire_state 
-                    state_province_id = 681
-                    months = 200
-                } }
-	ai_chance = { factor = 100 }
-			}
-			}			
+country_event = {
+    id = 666008
+    title = "RUS3.T"
+    desc = "RUS3.D"
 
-country_event = { 
-	id = 666009 
-	title = "RUS4.T"
-	desc = "RUS4.D"
-	
-	trigger = { 
-	OR = {
-	tag = BOH
-	tag = CZE }
-	vassal_of = RUS
-    RUS = { has_country_flag = rsf_wpf }
-	}
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	days = 1 
-	modifier = {  
-	factor = 1
-		}
-	}
-		
-    option = { 
-	name = "RUS4.A" 
-	any_owned = {
+    is_triggered_only = yes
+
+    option = {
+        name = "RUS3.A"
+        any_country = {
             limit = {
-                is_core = BRG
+                exists = yes
+                owns = 695
             }
-            secede_province = RUS
-        }	
-	ai_chance = { factor = 100 }
-			}
-			}					
-country_event = { 
-	id = 666010
-	title = "RUS5.T"
-	desc = "RUS5.D"
-	
-	is_triggered_only = yes
-		
-    option = { 
-	name = "RUS5.A" 
-	set_country_flag = pol_int
-    prestige = 10
-    any_pop = {
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 695
+                months = 200
+            }
+        }
+        any_country = {
             limit = {
-                  culture = polish
-                }      
+                exists = yes
+                owns = 697
+            }
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 697
+                months = 200
+            }
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                owns = 680
+            }
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 680
+                months = 200
+            }
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                owns = 679
+            }
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 679
+                months = 200
+            }
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                owns = 546
+            }
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 546
+                months = 200
+            }
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                owns = 681
+            }
+
+            add_casus_belli = {
+                target = THIS
+                type = acquire_state
+                state_province_id = 681
+                months = 200
+            }
+        }
+        ai_chance = { factor = 100 }
+    }
+}
+
+country_event = {
+    id = 666009
+    title = "RUS4.T"
+    desc = "RUS4.D"
+
+    trigger = {
+        OR = {
+            tag = BOH
+            tag = CZH
+        }
+        vassal_of = RUS
+        RUS = { has_country_flag = rsf_wpf }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "RUS4.A"
+        any_owned = {
+            limit = { is_core = BRG }
+            secede_province = RUS
+        }
+        ai_chance = { factor = 100 }
+    }
+}
+country_event = {
+    id = 666010
+    title = "RUS5.T"
+    desc = "RUS5.D"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "RUS5.A"
+        set_country_flag = pol_int
+        prestige = 10
+        any_pop = {
+            limit = { culture = polish }
             militancy = 2
-        }	
-	ai_chance = { factor = 100 }
-			}
-			}			
-				
-				
-			
-		
-			
+        }
+        ai_chance = { factor = 100 }
+    }
+}

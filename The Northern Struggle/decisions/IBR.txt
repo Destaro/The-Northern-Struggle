@@ -1,78 +1,57 @@
 political_decisions = {
+    Become_iberia = {
+        potential = {
+            OR = {
+                tag = SPA
 
-Become_iberia = {
-		
-		potential = {
-			
-                    OR = { tag = SPA 
-                       
-                       tag = POR
-tag = CAT 
-tag = AGO}
+                tag = POR
+                tag = CAT
+                tag = AGO
+            }
 
-			NOT = {
-				exists = IBR
-			}
-		}
-		
-		allow = {
-			prestige = 45
-			war = no
-state_n_government = 1
-			IBR = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 20
-                        
-add_accepted_culture = spanish
-add_accepted_culture = catalan
-add_accepted_culture = Galician
-add_accepted_culture = portuguese
-add_accepted_culture = basque 
-			any_country = {
-				limit = {
-					is_culture_group = iberian
-                                        
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			any_owned = {
-				limit = {
-					is_core = POR
-                                        is_core = SPA
-				}
-				add_core = IBR
-			}
-			change_tag = IBR
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
+            NOT = { exists = IBR }
+        }
 
+        allow = {
+            prestige = 45
+            war = no
+            state_n_government = 1
+            IBR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                    }
+                }
+            }
+        }
 
+        effect = {
+            prestige = 20
 
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = Galician
+            add_accepted_culture = portuguese
+            add_accepted_culture = basque
+            any_country = {
+                limit = {
+                    is_culture_group = iberian
 
-
-
-
-
-
-
-
-
+                    in_sphere = THIS
+                    NOT = { tag = THIS }
+                }
+                annex_to = THIS
+            }
+            any_owned = {
+                limit = {
+                    is_core = POR
+                    is_core = SPA
+                }
+                add_core = IBR
+            }
+            change_tag = IBR
+        }
+        ai_will_do = { factor = 1 }
+    }
 }

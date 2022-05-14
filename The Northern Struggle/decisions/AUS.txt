@@ -83,8 +83,8 @@ political_decisions = {
 				}
 			}
 			set_country_flag = mag_war
+		}
 	}
-}
 
 	invade_BOH = {
 		potential = {
@@ -283,6 +283,4 @@ political_decisions = {
 			set_country_flag = kra_war
 		}
 	}
-
-	
 }

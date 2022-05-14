@@ -1,23 +1,24 @@
 political_decisions = {
-
-integrate_pol = {
-		potential = {
-			tag = RUS
-			NOT = { has_country_flag = int_pol }
-			has_country_flag = rsf_pol
-			POL = { vassal_of = RUS }			
-		}
-		allow = {
-			war = no
-			POL = { NOT = { has_country_modifier = expl_pru } }
-			 }
-		effect = { 
-		RUS = { country_event = 666010 }
-		set_country_flag = int_pol
-		inherit = POL
-        badboy = 10
-        add_accepted_culture = polish
-        add_accepted_culture = czech }
-          	}				
-
+    integrate_pol = {
+        potential = {
+            tag = RUS
+            NOT = { has_country_flag = int_pol }
+            has_country_flag = rsf_pol
+            POL = { vassal_of = RUS }
+        }
+        allow = {
+            war = no
+            POL = {
+                NOT = { has_country_modifier = expl_pru }
+            }
+        }
+        effect = {
+            RUS = { country_event = 666010 }
+            set_country_flag = int_pol
+            inherit = POL
+            badboy = 10
+            add_accepted_culture = polish
+            add_accepted_culture = czech
+        }
+    }
 }

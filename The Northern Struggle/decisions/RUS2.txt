@@ -1,64 +1,67 @@
-political_decisions = {		
+political_decisions = {
+    russ_poa = {
+        potential = {
+            tag = RUS
+            NOT = { has_country_flag = rsf_pol }
+            has_global_flag = rus_pns
+        }
+        allow = {
+            war = no
+            POL = {
+                owns = 703
+                owns = 682
+                owns = 690
+            }
+        }
+        effect = {
+            set_country_flag = rsf_pol
+            badboy = 10
+            POL = {
+                any_owned = {
+                    limit = { is_core = PRU }
+                    add_province_modifier = {
+                        name = poll_expell
+                        duration = 10
+                    }
+                }
+            }
+            POL = {
+                add_country_modifier = {
+                    name = expl_pru
+                    duration = 10
+                }
+                add_accepted_culture = czech
+            }
+            any_pop = {
+                limit = { culture = polish }
 
-   russ_poa = {
-		potential = {
-			tag = RUS
-			NOT = { has_country_flag = rsf_pol }
-			has_global_flag = rus_pns
-		}
-		allow = {
-			war = no
-			POL = { owns = 703 
-			owns = 682 
-			owns = 690 }
-			 }
-	    effect = { 
-		set_country_flag = rsf_pol
-		badboy = 10
-		POL = {
-		any_owned = { limit = { is_core = PRU }
-            add_province_modifier = {
-                name = poll_expell
-                duration = 10
-                }
-            } }
-		POL = { add_country_modifier = {
-                name = expl_pru
-                duration = 10 } 
-		add_accepted_culture = czech }
-		any_pop = {
-            limit = {
-                  culture = polish
-                }
-            
-            move_pop = 682
-        }		
-		719 = { change_province_name = "Belostok" }	
-		706 = { change_province_name = "Varshava" }	
-		716 = { change_province_name = "Keltsy" }	
-		712 = { change_province_name = "Lod'" }	
-		711 = { change_province_name = "Sedlec" }	
-		956 = { change_province_name = "Rovno" }	
-		952 = { change_province_name = "Ternopol" }
-		955 = { change_province_name = "Proskurov" }
-		705 = { change_province_name = "Peremyshl" }
-		704 = { change_province_name = "Novyi Sanch" }
-		714 = { change_province_name = "Tarnuv" }
-		703 = { change_province_name = "Krakov" }
-		710 = { change_province_name = "Skernevitse" }
-		707 = { change_province_name = "Suvalki" }
-		685 = { change_province_name = "Alexandrogrud" }
-		684 = { change_province_name = "Opole" }
-		682 = { change_province_name = "Breslavl" }
-		683 = { change_province_name = "Legnitsa" }
-		699 = { change_province_name = "Poznan" }
-		700 = { change_province_name = "Bydgoshch" }
-		696 = { change_province_name = "Olshtyn" }
-		693 = { change_province_name = "Elblong" }
-		690 = { change_province_name = "Gdansk" }
-		691 = { change_province_name = "Tuholya" }
-		692 = { change_province_name = "Valch" } 
-		}
-        	} 				
-		
+                move_pop = 682
+            }
+            719 = { change_province_name = "Belostok" }
+            706 = { change_province_name = "Varshava" }
+            716 = { change_province_name = "Keltsy" }
+            712 = { change_province_name = "Lod'" }
+            711 = { change_province_name = "Sedlec" }
+            956 = { change_province_name = "Rovno" }
+            952 = { change_province_name = "Ternopol" }
+            955 = { change_province_name = "Proskurov" }
+            705 = { change_province_name = "Peremyshl" }
+            704 = { change_province_name = "Novyi Sanch" }
+            714 = { change_province_name = "Tarnuv" }
+            703 = { change_province_name = "Krakov" }
+            710 = { change_province_name = "Skernevitse" }
+            707 = { change_province_name = "Suvalki" }
+            685 = { change_province_name = "Alexandrogrud" }
+            684 = { change_province_name = "Opole" }
+            682 = { change_province_name = "Breslavl" }
+            683 = { change_province_name = "Legnitsa" }
+            699 = { change_province_name = "Poznan" }
+            700 = { change_province_name = "Bydgoshch" }
+            696 = { change_province_name = "Olshtyn" }
+            693 = { change_province_name = "Elblong" }
+            690 = { change_province_name = "Gdansk" }
+            691 = { change_province_name = "Tuholya" }
+            692 = { change_province_name = "Valch" }
+        }
+    }
 }

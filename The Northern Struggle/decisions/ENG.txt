@@ -1,274 +1,244 @@
 political_decisions = {
+    found_the_bbc = {
+        potential = {
+            tag = ENG
+            year = 1900
+            NOT = { has_country_flag = we_are_live_from_london }
+        }
 
-found_the_bbc = {
-		potential = {
-			tag = ENG
-			year = 1900
-			NOT = {
-				has_country_flag = we_are_live_from_london
-			}
-		}
+        allow = { invention = national_radio_networks }
 
-		allow = {
-			invention = national_radio_networks
-		}
+        effect = {
+            any_country = {
+                relation = {
+                    who = THIS
+                    value = 5
+                }
+            }
+            any_pop = { militancy = -0.5 }
+            prestige = 10
+            set_country_flag = we_are_live_from_london
+        }
+    }
 
-		effect = {
-			any_country = {
-				relation = {
-					who = THIS
-					value = 5
-				}
-			}
-			any_pop = {
-				militancy = -0.5
-			}
-			prestige = 10
-			set_country_flag = we_are_live_from_london
-		}
-	}
+    eng_decision = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = eng_decided }
+        }
+        allow = {
+            war = no
+            is_vassal = no
+        }
+        effect = {
+            ENG = {
+                country_event = {
+                    id = 102800
+                    days = 0
+                }
+            }
+            set_country_flag = eng_decided
+        }
+    }
 
-eng_decision = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = eng_decided }
-		}
-		allow = {
-			war = no
-			is_vassal = no
-		}
-		effect = {
-ENG = {
-				country_event = { id=102800 days=0 }
-			}
-        set_country_flag = eng_decided
-		
+    invade_scotland = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = sco_war }
+            has_country_flag = eng_britannia
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 291
+            owns = 292
+            owns = 293
+            owns = 295
+            owns = 280
+            owns = 281
+            owns = 282
+            owns = 283
+            owns = 277
+            owns = 278
+            owns = 279
+            owns = 285
+        }
+        effect = {
+            relation = {
+                who = SCO
+                value = -400
+            }
+            relation = {
+                who = NOR
+                value = -400
+            }
+            ENG_271 = { add_core = ENG }
+            ENG_266 = { add_core = ENG }
+            badboy = 5
+            set_country_flag = sco_war
+        }
+    }
+
+    invade_ireland = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = ire_war }
+            has_country_flag = eng_britannia
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 269
+            owns = 268
+        }
+        effect = {
+            relation = {
+                who = IRE
+                value = -400
+            }
+            relation = {
+                who = SWE
+                value = -400
+            }
+            ENG_254 = { add_core = ENG }
+            ENG_263 = { add_core = ENG }
+            ENG_260 = { add_core = ENG }
+            badboy = 5
+            set_country_flag = ire_war
+        }
+    }
+
+    invade_norman = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = nor_war }
+            has_country_flag = eng_angevin
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 291
+            owns = 292
+            owns = 293
+            owns = 295
+            owns = 280
+            owns = 281
+            owns = 282
+            owns = 283
+            owns = 277
+            owns = 278
+            owns = 279
+            owns = 285
+            NDY = {
+                exists = yes
+                is_vassal = no
+            }
+        }
+        effect = {
+            war = {
+                target = NDY
+                attacker_goal = { casus_belli = conquest }
+                defender_goal = { casus_belli = status_quo }
+            }
+            badboy = 5
+            set_country_flag = nor_war
+        }
+    }
+
+    invade_orlean = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = orl_war }
+            has_country_flag = eng_angevin
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 425
+            ORL = {
+                exists = yes
+                is_vassal = no
+            }
+            NOT = {
+                alliance_with = ENG
+                in_sphere = ENG
+            }
+        }
+        effect = {
+            war = {
+                target = ORL
+                attacker_goal = { casus_belli = make_puppet }
+                defender_goal = {
+                    casus_belli = acquire_substate_region
+                    state_province_id = 425
+                }
+            }
+            badboy = 5
+            set_country_flag = orl_war
+        }
+    }
+
+    invade_BGU = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = bgu_war }
+            has_country_flag = eng_angevin
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 425
+            ORL = { vassal_of = ENG }
+            BGU = {
+                NOT = {
+                    alliance_with = ENG
+                    in_sphere = ENG
+                }
+            }
+        }
+        effect = {
+            war = {
+                target = BGU
+                attacker_goal = { casus_belli = make_puppet }
+                defender_goal = {
+                    casus_belli = acquire_substate_region
+                    state_province_id = 425
+                }
+            }
+            badboy = 5
+            set_country_flag = bgu_war
+        }
+    }
+
+    invade_PRV = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = prv_war }
+            has_country_flag = eng_angevin
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            owns = 425
+            ORL = { vassal_of = ENG }
+            PRV = {
+                NOT = {
+                    alliance_with = ENG
+                    in_sphere = ENG
+                }
+            }
+        }
+        effect = {
+            war = {
+                target = PRV
+                attacker_goal = { casus_belli = make_puppet }
+                defender_goal = {
+                    casus_belli = acquire_substate_region
+                    state_province_id = 425
+                }
+            }
+            badboy = 5
+            set_country_flag = prv_war
+        }
+    }
 }
-}
-
-	invade_scotland = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = sco_war }
-			has_country_flag = eng_britannia
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 291 
-       owns = 292
-       owns = 293
-       owns = 295
-	   owns = 280 
-       owns = 281
-       owns = 282
-       owns = 283
-       owns = 277
-       owns = 278
-       owns = 279
-       owns = 285
-		}
-		effect = {
-        relation = { who = SCO value = -400 }
-		relation = { who = NOR value = -400 }
-		ENG_271 = {
-		add_core = ENG }
-		ENG_266 = {
-		add_core = ENG }
-		badboy = 5
-        set_country_flag = sco_war
-		
-}
-}
-
-invade_ireland = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = ire_war }
-			has_country_flag = eng_britannia
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 269
-       owns = 268
-		}
-		effect = {
-        relation = { who = IRE value = -400 }
-		relation = { who = SWE value = -400 }
-		ENG_254 = {
-		add_core = ENG }
-		ENG_263 = {
-		add_core = ENG }
-		ENG_260 = {
-		add_core = ENG }
-		badboy = 5
-        set_country_flag = ire_war
-		
-}
-}
-
-invade_norman = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = nor_war }
-			has_country_flag = eng_angevin
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 291 
-       owns = 292
-       owns = 293
-       owns = 295
-	   owns = 280 
-       owns = 281
-       owns = 282
-       owns = 283
-       owns = 277
-       owns = 278
-       owns = 279
-       owns = 285
-	   NDY = { 
-			exists = yes 
-			is_vassal = no }
-		}
-		effect = {
-         war = {
-			target = NDY
-			attacker_goal = {
-				casus_belli = conquest
-			}
-			defender_goal = {
-			casus_belli = status_quo
-			}
-			}
-		badboy = 5
-        set_country_flag = nor_war
-		
-}
-}
-
-invade_orlean = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = orl_war }
-			has_country_flag = eng_angevin
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 425
-	   ORL = { 
-			exists = yes 
-			is_vassal = no }
-			NOT = { alliance_with = ENG
-                    in_sphere = ENG			}
-		}
-		effect = {
-         war = {
-			target = ORL
-			attacker_goal = {
-				casus_belli = make_puppet
-			}
-			defender_goal = {
-			casus_belli = acquire_substate_region
-			state_province_id = 425
-			}
-			}
-		badboy = 5
-        set_country_flag = orl_war
-		
-}
-}
-
-invade_BGU = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = bgu_war }
-			has_country_flag = eng_angevin
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 425
-	   ORL = { 
-			vassal_of = ENG }
-			BGU = { NOT = { alliance_with = ENG
-                            in_sphere = ENG			} }
-		}
-		effect = {
-         war = {
-			target = BGU
-			attacker_goal = {
-				casus_belli = make_puppet
-			}
-			defender_goal = {
-			casus_belli = acquire_substate_region
-			state_province_id = 425
-			}
-			}
-		badboy = 5
-        set_country_flag = bgu_war
-		
-}
-}
-
-invade_PRV = {
-		potential = {
-			tag = ENG
-			NOT = { has_country_flag = prv_war }
-			has_country_flag = eng_angevin
-		}
-		allow = {
-			war = no
-			is_vassal = no
-       owns = 425
-	   ORL = { 
-			vassal_of = ENG }
-			PRV = { NOT = { alliance_with = ENG
-                            in_sphere = ENG			} }
-		}
-		effect = {
-         war = {
-			target = PRV
-			attacker_goal = {
-				casus_belli = make_puppet
-			}
-			defender_goal = {
-			casus_belli = acquire_substate_region
-			state_province_id = 425
-			}
-			}
-		badboy = 5
-        set_country_flag = prv_war
-		
-}
-}
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
