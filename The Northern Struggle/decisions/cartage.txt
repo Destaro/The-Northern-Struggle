@@ -1,0 +1,120 @@
+political_decisions = {
+	
+	centralize_the_empire = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = centralize_the_empire }
+			   MOR = { vassal_of = THIS }
+			   ALD = { vassal_of = THIS }
+			   }
+	      
+		  allow = {
+		  war = no
+	          civilized = yes
+			  ALD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			MOR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+	       
+		   
+	      }
+		  
+		  effect = {
+		  set_country_flag = centralize_the_empire
+		  inherit = MOR
+		  inherit = ALD
+		  prestige = 30
+		  badboy = -1
+		             	  
+				}
+		  }
+		  
+		  core_egypt = {
+		  potential = {
+		  civilized = yes
+		  tag = TUN
+		  NOT = { has_country_flag = core_egypt }
+		  }
+		  allow = {
+		  war = no
+		  owns = 1746
+		  owns = 1750
+		  owns = 1753
+		  owns = 1760
+		  owns = 1762
+		  owns = 1767
+		  }
+		  effect = {
+		  prestige = 15
+		  EGY_1746 = { add_core = THIS }
+		  EGY_1750 = { add_core = THIS }
+		  EGY_1753 = { add_core = THIS }
+		  EGY_1762 = { add_core = THIS }
+		  EGY_1771 = { add_core = THIS }
+		  badboy = 5
+		       set_country_flag = core_egypt
+			   }
+		  
+		     }
+			 
+		reclaim_the_italian_islands = {
+		  
+		  potential = {
+		  civilized = yes
+		  tag = TUN
+		  NOT = { has_country_flag = reclaim_the_italian_islands }
+		  }
+		
+		allow = {
+		war = no
+		owns = 763
+		owns = 765
+		is_greater_power = yes
+		     }
+		
+		effect = {
+		set_country_flag = reclaim_the_italian_islands
+		prestige = 10
+		badboy = 2
+		add_core = 473
+		add_core = 763
+		add_core = 764
+		add_core = 765
+		add_core = 762
+		add_core = 766
+		    } 
+		
+		}
+	 
+	 
+	 }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
