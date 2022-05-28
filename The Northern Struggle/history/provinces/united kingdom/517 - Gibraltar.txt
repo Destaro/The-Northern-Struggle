@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = TUN
+controller = TUN
+add_core = TUN
+add_core = BRA
 trade_goods = fish
 life_rating = 35
 colonial = 2

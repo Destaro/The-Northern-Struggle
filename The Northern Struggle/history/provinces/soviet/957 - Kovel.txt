@@ -1,5 +1,6 @@
-owner = LIT
-controller = LIT
+owner = KRA
+controller = KRA
+add_core = KRA
 add_core = LIT
 add_core = UKR
 add_core = POL

@@ -1,4 +1,4 @@
-capital = 1735
+capital = 1739
 primary_culture = maghrebi
 culture = bedouin
 culture = teda

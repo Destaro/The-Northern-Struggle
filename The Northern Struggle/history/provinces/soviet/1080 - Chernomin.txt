@@ -1,5 +1,5 @@
 owner = JAP
 controller = JAP
-
+add_core = MCK
 trade_goods = cattle
 life_rating = 35

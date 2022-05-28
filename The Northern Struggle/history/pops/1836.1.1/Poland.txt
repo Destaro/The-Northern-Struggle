@@ -987,59 +987,96 @@
 }
 #Deutsche Krone (128000/32000 POPS) 
 692 = {
-	aristocrats = {
-		culture = north_german
-		religion = protestant
-		size = 625
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 175  
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 1250
-	}
-
-	soldiers = {
-		culture = north_german
-		religion = protestant
-		size = 1300  
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 21650
-	}
-
-	clergymen = {
+	aristocrats = { 
 		culture = polish
 		religion = catholic
-		size = 50
+		size = 655
 	}
 
-	artisans = {
+	artisans = { 
 		culture = polish
 		religion = catholic
-		size = 350
+		size = 7900
 	}
 
-	soldiers = {
+	bureaucrats = { 
 		culture = polish
 		religion = catholic
-		size = 75  
+		size = 170
 	}
 
-	farmers = {
+	clergymen = { 
 		culture = polish
 		religion = catholic
-		size = 6625
+		size = 333
 	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 10419
+	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 24312
+	}
+
+	soldiers = { 
+		culture = polish
+		religion = catholic
+		size = 450
+	}
+
+	farmers = { 
+		culture = ashkenazi
+		religion = jewish
+		size = 5688
+	}
+
+	farmers = { 
+		culture = ashkenazi
+		religion = jewish
+		size = 13272
+	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 22752
+	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 53088
+	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 3792
+	}
+
+	farmers = { 
+		culture = polish
+		religion = catholic
+		size = 8848
+	}
+
+	farmers = { 
+		culture = hungarian
+		religion = catholic
+		size = 1896
+	}
+
+	farmers = { 
+		culture = hungarian
+		religion = catholic
+		size = 4424
+	}
+
 }
 #Elbing (148000/37000 POPS) 
 693 = {
