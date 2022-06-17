@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = POI
+controller = POI
+add_core = POI
+add_core = ORL
 trade_goods = cattle
 life_rating = 30
 #state_building = {
@@ -16,3 +17,5 @@ life_rating = 30
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = FRC

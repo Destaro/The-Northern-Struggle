@@ -80,7 +80,7 @@ political_decisions = {
 			prestige = 2
 			badboy = -5
 			815 = {
-				change_province_name = "Plovdiv" 
+				change_province_name = "Kardžali" 
 				state_scope = {
 					change_region_name = "Southern Bulgaria"
 				}
@@ -89,7 +89,6 @@ political_decisions = {
 			817 = { change_province_name = "Burgas" }
 			RUM = {
 				all_core = {
-					remove_core = RUM
 					remove_core = TUR
 				}
 			}
@@ -114,7 +113,7 @@ political_decisions = {
 			clr_global_flag = bulgaria_rename_rumelia
 			prestige = 2
 			815 = {
-				change_province_name = "Philippopolis" 
+				change_province_name = "Kártzali" 
 				state_scope = {
 					change_region_name = "Northern Thrace"
 				}
@@ -146,7 +145,7 @@ political_decisions = {
 			clr_global_flag = bulgaria_rename_rumelia
 			clr_global_flag = greek_rename_rumelia
 			815 = {
-				change_province_name = "Filibe" 
+				change_province_name = "Kircaali" 
 				state_scope = {
 					change_region_name = "Eastern Rumelia"
 				}
@@ -168,6 +167,10 @@ political_decisions = {
 				AND = { 
 					owns = 824
 					NOT = { has_global_flag = greek_rename_epirus_824 }
+				}
+				AND = { 
+					owns = 825
+					NOT = { has_global_flag = greek_rename_epirus_825 }
 				}
 				AND = {
 					owns = 853
@@ -191,6 +194,14 @@ political_decisions = {
 			}
 			random_owned = {
 				limit = {
+					province_id = 825
+				}
+				825 = { change_province_name = "Arta" }
+				set_global_flag = greek_rename_epirus_825
+				clr_global_flag = albania_rename_epirus_825
+			}
+			random_owned = {
+				limit = {
 					province_id = 853
 				}
 				853 = { change_province_name = "Argyrokastro" }
@@ -211,6 +222,10 @@ political_decisions = {
 					owns = 824
 					NOT = { has_global_flag = albanian_rename_epirus_824 }
 				}
+				AND = { 
+					owns = 825
+					NOT = { has_global_flag = albania_rename_epirus_825 }
+				}
 				AND = {
 					owns = 853
 					NOT = { has_global_flag = albanian_rename_epirus_853 }
@@ -227,15 +242,23 @@ political_decisions = {
 				limit = {
 					province_id = 824
 				}
-				824 = { change_province_name = "Janina" }
+				824 = { change_province_name = "Janinë" }
 				set_global_flag = albanian_rename_epirus_824
 				clr_global_flag = greek_rename_epirus_824
 			}
 			random_owned = {
 				limit = {
+					province_id = 825
+				}
+				825 = { change_province_name = "Artë" }
+				set_global_flag = albania_rename_epirus_825
+				clr_global_flag = greek_rename_epirus_825
+			}
+			random_owned = {
+				limit = {
 					province_id = 853
 				}
-				853 = { change_province_name = "Gjirokaster" }
+				853 = { change_province_name = "Gjirokastër" }
 				set_global_flag = albanian_rename_epirus_853
 				clr_global_flag = greek_rename_epirus_853
 			}
@@ -289,11 +312,13 @@ political_decisions = {
 			805 = {
 				change_province_name = "Thessaloníki" 
 				state_scope = {
-					change_region_name = "Southern Macedonia"
+					change_region_name = "Southern Makedonía"
 				}
 			}
-			820 = { change_province_name = "Grevena" }
+			820 = { change_province_name = "Katerini" }
 			821 = { change_province_name = "Edessa" }
+			3477 = { change_province_name = "Diavata" }
+			3495 = { change_province_name = "Platamónas" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -322,8 +347,10 @@ political_decisions = {
 					change_region_name = "Southern Makedonya"
 				}
 			}
-			820 = { change_province_name = "Gerebena" }
-			821 = { change_province_name = "Vodina" }
+			820 = { change_province_name = "Grebini" }
+			821 = { change_province_name = "Katerini" }
+			3477 = { change_province_name = "Diavata" }
+			3495 = { change_province_name = "Karyandar" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -375,7 +402,7 @@ political_decisions = {
 			823 = {
 				change_province_name = "Kavala" 
 				state_scope = {
-					change_region_name = "Eastern Macedonia"
+					change_region_name = "Eastern Makedonía"
 				}
 			}
 			829 = { change_province_name = "Xánthi" }
@@ -459,14 +486,55 @@ political_decisions = {
 			set_global_flag = greek_rename_n_macedonia
 			clr_global_flag = bulgarian_rename_n_macedonia
 			clr_global_flag = serbian_rename_n_macedonia
+			clr_global_flag = aromanian_rename_n_macedonia
 			806 = {
 				change_province_name = "Skópia" 
 				state_scope = {
-					change_region_name = "Northern Macedonia"
+					change_region_name = "Northern Makedonía"
 				}
 			}
-			807 = { change_province_name = "Monastíri" }
-			1780 = { change_province_name = "Dívre" }
+			807 = { change_province_name = "Boutélion" }
+			819 = { change_province_name = "Ástivos" }
+			1780 = { change_province_name = "Achrida" }
+			849 = { change_province_name = "Dívre" }
+			3471 = { change_province_name = "Vodena" }
+			3476 = { change_province_name = "Nymfaio" }
+			3481 = { change_province_name = "Kroúsevo" }
+			prestige = 2
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	aromanian_rename_n_macedonia = {
+		picture = gtfo
+		potential = {
+			primary_culture = aromanian
+			owns = 806
+			NOT = { has_global_flag = aromanian_rename_n_macedonia }
+		}
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			set_global_flag = aromanian_rename_n_macedonia
+			clr_global_flag = bulgarian_rename_n_macedonia
+			clr_global_flag = serbian_rename_n_macedonia
+			clr_global_flag = greek_rename_n_macedonia
+			806 = {
+				change_province_name = "Scopia" 
+				state_scope = {
+					change_region_name = "Machidunia di Aratsile"
+				}
+			}
+			807 = { change_province_name = "Bituli" }
+			819 = { change_province_name = "Shtip" }
+			1780 = { change_province_name = "Ohãrda" }
+			849 = { change_province_name = "Debar" }
+			3471 = { change_province_name = "Vudena" }
+			3476 = { change_province_name = "Nevesca" }
+			3481 = { change_province_name = "Crushuva" }
 			prestige = 2
 		}
 		ai_will_do = { factor = 1 }
@@ -488,6 +556,7 @@ political_decisions = {
 			set_global_flag = bulgarian_rename_n_macedonia
 			clr_global_flag = greek_rename_n_macedonia
 			clr_global_flag = serbian_rename_n_macedonia
+			clr_global_flag = aromanian_rename_n_macedonia
 			806 = {
 				change_province_name = "Skopje" 
 				state_scope = {
@@ -495,7 +564,9 @@ political_decisions = {
 				}
 			}
 			807 = { change_province_name = "Bitola" }
-			1780 = { change_province_name = "Debar" }
+			819 = { change_province_name = "Štip" }
+			1780 = { change_province_name = "Ohrid" }
+			849 = { change_province_name = "Debar" }
 			prestige = 2
 		}
 		ai_will_do = { factor = 1 }
@@ -517,6 +588,7 @@ political_decisions = {
 			set_global_flag = serbian_rename_n_macedonia
 			clr_global_flag = greek_rename_n_macedonia
 			clr_global_flag = bulgarian_rename_n_macedonia
+			clr_global_flag = aromanian_rename_n_macedonia
 			806 = {
 				change_province_name = "Skoplje" 
 				state_scope = {
@@ -524,7 +596,9 @@ political_decisions = {
 				}
 			}
 			807 = { change_province_name = "Bitolj" }
-			1780 = { change_province_name = "Debar" }
+			819 = { change_province_name = "Shtip" }
+			1780 = { change_province_name = "Ohrid" }
+			849 = { change_province_name = "Debar" }
 			prestige = 2
 		}
 		ai_will_do = { factor = 1 }
@@ -539,6 +613,7 @@ political_decisions = {
 				has_global_flag = greek_rename_n_macedonia
 				has_global_flag = bulgarian_rename_n_macedonia
 				has_global_flag = serbian_rename_n_macedonia
+				has_global_flag = aromanian_rename_n_macedonia
 			}
 		}
 		
@@ -550,6 +625,7 @@ political_decisions = {
 			clr_global_flag = greek_rename_n_macedonia
 			clr_global_flag = bulgarian_rename_n_macedonia
 			clr_global_flag = serbian_rename_n_macedonia
+			clr_global_flag = aromanian_rename_n_macedonia
 			806 = {
 				change_province_name = "Üsküb" 
 				state_scope = {
@@ -557,7 +633,9 @@ political_decisions = {
 				}
 			}
 			807 = { change_province_name = "Manastir" }
-			1780 = { change_province_name = "Debre" }
+			819 = { change_province_name = "Istip" }
+			1780 = { change_province_name = "Ohri" }
+			849 = { change_province_name = "Debre" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -647,32 +725,32 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	rumelia_unite_with_bulgaria = {
-		picture = gtfo
-		potential = {
-			tag = RUM
-			NOT = { has_country_flag = rumelia_unite_with_bulgaria }
-		}
-		
-		allow = {
-			OR = {
-				is_vassal = no
-				AND = { 
-					BUL = { war_with = TUR }
-					TUR = { 
-						ai = yes 
-						is_greater_power = no
-					}
-				}
-			}
-		}
-		
-		effect = {
-			set_country_flag = rumelia_unite_with_bulgaria
-			any_owned = { secede_province = BUL }
-		}
-		ai_will_do = { factor = 1 }
-	}
+#	rumelia_unite_with_bulgaria = {
+#		picture = gtfo
+#		potential = {
+#			tag = RUM
+#			NOT = { has_country_flag = rumelia_unite_with_bulgaria }
+#		}
+#		
+#		allow = {
+#			OR = {
+#				is_vassal = no
+#				AND = { 
+#					BUL = { war_with = TUR }
+#					TUR = { 
+#						ai = yes 
+#						is_greater_power = no
+#					}
+#				}
+#			}
+#		}
+#		
+#		effect = {
+#			set_country_flag = rumelia_unite_with_bulgaria
+#			any_owned = { secede_province = BUL }
+#		}
+#		ai_will_do = { factor = 1 }
+#	}
 	
 	turkification = {
 		picture = turkification

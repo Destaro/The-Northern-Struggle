@@ -1,6 +1,8 @@
-owner = XIN
-controller = XIN
-add_core = CHI
+owner = AFG
+controller = AFG
+add_core = AFG
+add_core = BDK
+add_core = TAJ
 add_core = XIN
 trade_goods = cotton
 life_rating = 32

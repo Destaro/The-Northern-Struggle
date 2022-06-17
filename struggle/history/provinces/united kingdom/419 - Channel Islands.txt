@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = NDY
+controller = NDY
+add_core = NDY
+add_core = ORL
 trade_goods = fish
 life_rating = 35
 terrain = small_island

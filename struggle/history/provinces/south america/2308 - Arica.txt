@@ -1,5 +1,5 @@
-owner = PBC
-controller = PBC
+owner = VOP
+controller = VOP
 add_core = SPU
 add_core = PEU
 trade_goods = wool
@@ -14,3 +14,4 @@ life_rating = 15
 
 
 add_core = BOL
+add_core = VOP

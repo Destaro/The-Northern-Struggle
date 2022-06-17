@@ -3,7 +3,7 @@ BUK = {
 }
 
 leader = {
-	name = "Muhammad Shah"
+	name = "Zartosht Shah"
 	date = 1834.1.1
 	type = land
 	personality = charismatic
@@ -11,7 +11,7 @@ leader = {
 }
 
 leader = {
-	name = "Aziz Khan Mukri"
+	name = "Anushirvan Ghobad"
 	date = 1836.1.1
 	type = land
 	personality = romantic 
@@ -19,7 +19,7 @@ leader = {
 }
 
 leader = {
-	name = "Hajj Mirza Aqasi"
+	name = "Goshtasb Khudayar"
 	date = 1835.6.1
 	type = land
 	personality = deeply_religious 
@@ -46,11 +46,6 @@ army = {
 		type = cavalry
 		home = 1125
 	}
-}
-
-army = {
-	location = 1136 #Bushire
-	name = "Southern Army"
 	regiment = {
 		name= "2. Nezam-Atlin"
 		type = cavalry
@@ -68,12 +63,6 @@ army = {
 		type = irregular
 		home = 1122
 	}
-	
-}
-
-army = {
-	name = "Nezam-e Jadid"
-	location = 1108 #Tabriz
 	regiment = {
 		name= "1. Nezam"
 		type = infantry
@@ -97,6 +86,4 @@ army = {
 		type = infantry
 		home = 1141
 	}
-
-
 }

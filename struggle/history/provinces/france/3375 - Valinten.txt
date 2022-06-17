@@ -1,0 +1,12 @@
+owner = WLL
+controller = WLL
+add_core = WLL
+add_core = BEL
+trade_goods = fish
+life_rating = 30
+naval_base = 1
+1861.1.1 = { 
+	railroad = 3
+}
+
+add_core = FRC

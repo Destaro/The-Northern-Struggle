@@ -1023,31 +1023,31 @@
 #Massa (164000/41000 POPS)
 740 = {
 	aristocrats = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 36700
 	}

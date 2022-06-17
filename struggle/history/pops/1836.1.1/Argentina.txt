@@ -53,31 +53,31 @@
 #Junin (56000/14000 POPS)
 2349 = {
 	aristocrats = {
-		culture = platinier
+		culture = platinean
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = platinier
+		culture = platinean
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = platinier
+		culture = platinean
 		religion = catholic
 		size = 5100
 	}
 
 	soldiers = {
-		culture = platinier
+		culture = platinean
 		religion = catholic
 		size = 4000
 	}
 
 	farmers = {
-		culture = platinier
+		culture = platinean
 		religion = catholic
 		size = 25550
 	}
@@ -147,14 +147,14 @@
 #Trenque Lanquen (12000/9000 POPS)
 2353 = {
 	clergymen = {
-		culture = platinean
+		culture = platinier
 		religion = catholic
 		size = 25
 	}
 
 
 	farmers = {
-		culture = platinean
+		culture = platinier
 		religion = catholic
 		size = 900
 	}

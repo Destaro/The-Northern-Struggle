@@ -1,1 +1,1 @@
-owner = TCAcontroller = TCAadd_core = AZBadd_core = TCAtrade_goods = grainlife_rating = 35
+owner = PERcontroller = PERadd_core = PERadd_core = TTNterrain = montane_foresttrade_goods = grainlife_rating = 35

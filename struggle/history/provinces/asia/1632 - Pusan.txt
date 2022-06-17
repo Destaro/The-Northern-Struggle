@@ -1,6 +1,7 @@
-owner = KOR
-controller = KOR
+owner = JAP
+controller = JAP
 add_core = KOR
 trade_goods = grain
 life_rating = 31
+colonial = 2
 terrain = pusan

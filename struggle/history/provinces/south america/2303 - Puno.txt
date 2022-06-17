@@ -1,5 +1,5 @@
-owner = SPU
-controller = SPU
+owner = VOP
+controller = VOP
 add_core = SPU
 add_core = PEU
 trade_goods = iron
@@ -9,3 +9,5 @@ life_rating = 35
 	controller = PEU
 	remove_core = SPU
 }
+
+add_core = VOP

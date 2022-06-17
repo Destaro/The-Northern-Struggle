@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = KRT
+controller = KRT
+add_core = KRT
 add_core = PNB
 trade_goods = cotton
 terrain = savanna

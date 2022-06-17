@@ -1,5 +1,8 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = BRB
+controller = BRB
+add_core = BRB
+add_core = BEL
 trade_goods = coal
 life_rating = 35
+
+add_core = FRC

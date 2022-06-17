@@ -1,5 +1,6 @@
-owner = GUI
-controller = GUI
+owner = DAI
+controller = DAI
+add_core = DAI
 add_core = CHI
 add_core = GUI
 trade_goods = tea

@@ -243,11 +243,6 @@ army = {
 army = {
 	name = "II. Armee"
 	location = 702
-	regiment = {
-		name= "1.6. Infanteriedivision"
-		type = infantry
-		home = 627
-	}
 
 	regiment = {
 		name= "2.6. Infanteriedivision"

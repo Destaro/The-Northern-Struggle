@@ -1,0 +1,6 @@
+owner = KHR
+controller = KHR
+add_core = KHR
+terrain = dry_mountains
+trade_goods = opium
+life_rating = 15

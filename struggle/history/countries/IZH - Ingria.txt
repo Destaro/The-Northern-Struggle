@@ -1,9 +1,10 @@
 capital = 996
-primary_culture = finnish #izhorian
+primary_culture = swedish
+culture = finnish #izhorian
 culture = estonian
 culture = ugrian
 religion = orthodox
-government = democracy
+government = autonomous_dependency
 plurality = 0.5
 nationalvalue = nv_equality
 literacy = 0.6

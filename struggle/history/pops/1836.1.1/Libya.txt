@@ -95,70 +95,71 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 50
+		culture = punic
+		religion = punic_church
+		size = 65
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 150
+		culture = punic
+		religion = punic_church
+		size = 200
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = punic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1725
+		culture = bedouin
+		religion = punic_church
+		size = 2650
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 75
+		culture = phoenecoberber
+		religion = punic_church
+		size = 40
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 250
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = phoenecoberber
+		religion = punic_church
 		size = 50
 	}
 
+	artisans = {
+		culture = phoenecoberber
+		religion = punic_church
+		size = 150
+	}
+
+	soldiers = {
+		culture = phoenecoberber
+		religion = punic_church
+		size = 1120
+	}
+
 	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 4550
+		culture = phoenecoberber
+		religion = punic_church
+		size = 1800
 	}
 
 	slaves = {
-		culture = forest_bantu
-		religion = animist
-		size = 2000
+		culture = berber
+		religion = punic_church
+		size = 3100
 	}
+
 }
 #Misratah (84000/21000 POPS)
 1733 = {
@@ -876,69 +877,68 @@
 #Ghadamis - Now Sabha (24000/6000 POPS)
 1744 = {
 	aristocrats = {
-		culture = punic
-		religion = punic_church
-		size = 65
+		culture = maghrebi
+		religion = sunni
+		size = 50
 	}
 
 	clergymen = {
-		culture = punic
-		religion = punic_church
+		culture = maghrebi
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = punic
-		religion = punic_church
-		size = 200
-	}
-
-	soldiers = {
-		culture = punic
-		religion = punic_church
-		size = 1100
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = punic_church
-		size = 2650
-	}
-
-	aristocrats = {
-		culture = phoenecoberber
-		religion = punic_church
-		size = 40
-	}
-
-	clergymen = {
-		culture = phoenecoberber
-		religion = punic_church
-		size = 50
-	}
-
-	artisans = {
-		culture = phoenecoberber
-		religion = punic_church
+		culture = maghrebi
+		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = phoenecoberber
-		religion = punic_church
-		size = 1120
+		culture = maghrebi
+		religion = sunni
+		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
-		religion = punic_church
-		size = 1800
+		culture = maghrebi
+		religion = sunni
+		size = 1725
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4550
 	}
 
 	slaves = {
-		culture = berber
-		religion = punic_church
-		size = 3100
+		culture = forest_bantu
+		religion = animist
+		size = 2000
 	}
-
 }

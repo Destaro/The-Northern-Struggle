@@ -1,8 +1,8 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = DAI
+controller = DAI
+add_core = DAI
 add_core = CHI
-add_core = GNG
+add_core = GXI
 trade_goods = precious_goods
 life_rating = 35
 terrain = macao

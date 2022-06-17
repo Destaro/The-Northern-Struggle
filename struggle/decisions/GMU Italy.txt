@@ -167,13 +167,12 @@ political_decisions = {
 		}
 	}
 	
+	
+	
 	italian_trentino = {
 		picture = "italian_trentino"
 		potential = {
-			OR = {
-				primary_culture = north_italian
-				primary_culture = south_italian
-			}
+			is_culture_group = italian
 			owns = 734 #Trient
 			owns = 735 #Bozen
 
@@ -183,20 +182,23 @@ political_decisions = {
 		}
 		
 		allow = {
-			revolution_n_counterrevolution = 1
+			NOT = { has_global_flag = italy_has_renamed_trentino }
 		}
 		
 		effect = {
 			734 = {
 				change_province_name = "Trento"
-			}
-			735 = {
-				change_province_name = "Bolzano"
+				state_scope = { 
+				change_region_name = "Basso Tirolo" 
+					}
+				}
+			735 = { change_province_name = "Bolzano" }
+			612 = { change_province_name = "O Enoponte"
 				state_scope = {
-					change_region_name = "Trentino Alto-Adige"
+					change_region_name = "Alta Tirolo"
 				}
 			}
-
+			615 = { change_province_name = "Lienza" }
 			prestige = 5
 			set_global_flag = italy_has_renamed_trentino
 		}
@@ -215,7 +217,6 @@ political_decisions = {
 			}
 			has_global_flag = italy_has_renamed_trentino
 			owns = 734 #Trient
-			owns = 735 #Bozen
 		}
 		
 		allow = {
@@ -223,11 +224,11 @@ political_decisions = {
 		}
 		
 		effect = {
-			734 = {
-				change_province_name = "Trient"
-			}
 			735 = {
 				change_province_name = "Bozen"
+				}
+			734 = {
+				change_province_name = "Trient"
 				state_scope = {
 					change_region_name = "Südtirol"
 				}

@@ -1,5 +1,5 @@
-owner = LHJ
-controller = LHJ
+owner = HDJ
+controller = HDJ
 add_core = KTH
 add_core = MHR
 add_core = FDL
@@ -13,3 +13,5 @@ terrain = aden
 	controller = ENG
 	naval_base = 1 
 }
+
+add_core = HDJ

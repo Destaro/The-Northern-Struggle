@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = FLA
+controller = FLA
+add_core = FLA
+add_core = BEL
 trade_goods = iron
 life_rating = 30
 terrain = lille
@@ -17,3 +18,5 @@ terrain = lille
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = FRC

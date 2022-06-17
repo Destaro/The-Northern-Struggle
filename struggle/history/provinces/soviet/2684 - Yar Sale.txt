@@ -1,12 +1,11 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = URA
+owner = SIB
+controller = SIB
+add_core = SIB
 trade_goods = timber
 life_rating = 10
 colonial = 2
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = SIB
+	controller = SIB
 	colonial = 2
 }

@@ -1,7 +1,8 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = ALB
+owner = EPI
+controller = EPI
 add_core = GRE
+add_core = EPI
+add_core = ALB
+add_core = RUM
 trade_goods = cattle
 life_rating = 35

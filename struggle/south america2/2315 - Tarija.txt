@@ -1,0 +1,11 @@
+owner = LPL
+controller = LPL
+add_core = LPL
+
+trade_goods = wool
+life_rating = 35
+1861.1.1 = {
+	owner = BOL
+	controller = BOL
+	remove_core = ARC
+}

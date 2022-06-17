@@ -827,7 +827,7 @@ country_event = {
 		set_country_flag = emperor_meiji
 		remove_country_modifier = kobu_gattai
 		any_country = {
-			limit = { substate_of = TKG }
+			limit = { is = JAP }
 			country_event = 97631
 		}
 	}
@@ -1552,7 +1552,7 @@ country_event = {
 			duration = 1825
 		}
 		ai_chance = {
-			factor = 100
+			factor = 60
 		}
 	}
 	
@@ -1582,7 +1582,55 @@ country_event = {
 			duration = 1825
 		}
 		ai_chance = {
-			factor = 0
+			factor = 10
+		}
+	}
+	option = {
+		name = "EVT97648OPTC"
+		set_country_flag = capital_in_the_east
+		capital = 1655
+		1655 = {
+			add_province_modifier = {
+				name = gateway_to_harbor
+				duration = 14600
+			}
+			add_province_modifier = {
+				name = small_baby_boom
+				duration = 14600
+			}
+			add_province_modifier = {
+				name = baby_boom
+				duration = 1825
+			}
+			change_province_name = "Keishi"
+			life_rating = 8
+		}
+		1649 = {
+			add_province_modifier = {
+				name = gateway_to_harbor
+				duration = 14600
+			}
+			add_province_modifier = {
+				name = small_baby_boom
+				duration = 14600
+			}
+			add_province_modifier = {
+				name = baby_boom
+				duration = 1825
+			}
+			change_province_name = "Tokyo"
+			life_rating = 8
+		}
+		add_country_modifier = {
+			name = global_baby_boom_small
+			duration = 5475
+		}
+		add_country_modifier = {
+			name = global_baby_boom
+			duration = 1825
+		}
+		ai_chance = {
+			factor = 30
 		}
 	}
 }

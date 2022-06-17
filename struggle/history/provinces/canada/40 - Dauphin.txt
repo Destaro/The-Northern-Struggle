@@ -1,6 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+owner = VIN
+controller = VIN
+add_core = VIN
 add_core = MTC
 colonial = 2
 trade_goods = timber

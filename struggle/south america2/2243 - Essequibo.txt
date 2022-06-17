@@ -1,0 +1,8 @@
+owner = GCO
+controller = GCO
+add_core = GCO
+add_core = VNZ
+trade_goods = fruit
+terrain = new_world_jungle
+life_rating = 31
+colonial = 2

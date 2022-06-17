@@ -38,6 +38,8 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+decision = polish_renamed_galicia
+decision = east_galicia_rename_polish
 
 ruling_party = POL_conservative
 upper_house = {

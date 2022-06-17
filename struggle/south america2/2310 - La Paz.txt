@@ -1,0 +1,12 @@
+owner = PBC
+controller = PBC
+
+trade_goods = cattle
+life_rating = 35
+terrain = lapaz
+1860.1.1 = {
+	owner = BOL
+	controller = BOL
+}
+
+add_core = BOL

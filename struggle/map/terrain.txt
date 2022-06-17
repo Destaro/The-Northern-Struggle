@@ -3121,6 +3121,32 @@ categories =  {
 		combat_width = -0.33
 	}
 	
+	dry_forest = {
+		movement_cost = 1.2
+		defence = 1
+		color = { 91 223 45 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 6
+		combat_width = -0.20
+	}
+	
+	dry_mountains = {
+        movement_cost = 1.5
+        defence = 3
+        color = { 68 20 6 }
+        farm_rgo_size = -0.2
+        farm_rgo_eff = -0.0
+        mine_rgo_size = 0.1
+        mine_rgo_eff = 0.0
+        supply_limit = 2
+        min_build_railroad = 3
+
+        combat_width = -0.6
+    }
+	
 	marsh = {
 		movement_cost = 1.4
 		attrition = 1
@@ -3176,6 +3202,20 @@ categories =  {
 		
 		combat_width = -0.6
 		attrition = 2
+	}
+	
+	farmlandhills = {
+		movement_cost = 1.2
+		defence = 1
+		color = { 135 70 0 }
+		farm_rgo_size = 0.15
+		farm_rgo_eff = 0.15
+		mine_rgo_size = 0.05
+		mine_rgo_eff = 0.0
+		immigrant_attract = 0.05
+		supply_limit = 10
+		min_build_railroad = 1
+		combat_width = -0.33
 	}
 	
 	montane_forest = {

@@ -498,7 +498,7 @@ country_event = {
 			LSK = { primary_culture = anglo_canadian }
 			LSK = { government = democracy }
 		}
-		FROM = {
+		RUS = {
 			remove_accepted_culture = alaskan
 			any_owned = {
 				limit = { continent = north_america }
@@ -514,6 +514,7 @@ country_event = {
 				3 = { change_province_name = "Kenai" }
 				4 = { change_province_name = "Kodiak" }
 				5 = { change_province_name = "Dutch Harbor" }
+				7 = { change_province_name = "Dawson" }
 				2599 = { change_province_name = "Fairbanks" }
 				2630 = { change_province_name = "Tok" }
 				2631 = { change_province_name = "Unalakleet" }
@@ -527,6 +528,7 @@ country_event = {
 				3 = { change_province_name = "Ankarejji" }
 				4 = { change_province_name = "Yakutato" }
 				5 = { change_province_name = "Yunirasuka" }
+				7 = { change_province_name = "Doson" }
 				2631 = { change_province_name = "Beseru" }
 				2599 = { change_province_name = "Feabankusu" }
 				2630 = { change_province_name = "Howaitohosu" }

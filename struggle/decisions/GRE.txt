@@ -161,7 +161,7 @@ political_decisions = {
 			set_country_flag = claim_pontus
 			badboy = 3
 			PNT = {
-				all_core = { add_core = THIS remove_core = PNT }
+				all_core = { add_core = THIS } #remove_core = PNT
 			}
 			any_pop = {
 				limit = { has_pop_culture = greek }
@@ -180,6 +180,7 @@ political_decisions = {
 		potential = {
 			primary_culture = greek
 			NOT = { tag = GRE }
+			NOT = { tag = BYZ }
 			exists = GRE
 			NOT = { has_country_flag = unite_with_greece }
 		}

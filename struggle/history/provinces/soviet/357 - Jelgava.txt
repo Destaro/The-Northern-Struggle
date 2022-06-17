@@ -1,7 +1,5 @@
-owner = UBD
-controller = UBD
-add_core = UBD
-add_core = RUS
-add_core = LAT
+owner = CUR
+controller = CUR
+add_core = CUR
 trade_goods = cattle
 life_rating = 35

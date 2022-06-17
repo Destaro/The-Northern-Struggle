@@ -1,7 +1,6 @@
-owner = HAN
-controller = HAN
-add_core = HAN
-add_core = GER
+owner = FRI
+controller = FRI
+add_core = FRI
 trade_goods = fish
 life_rating = 40
 1861.1.1 = { railroad = 3 }

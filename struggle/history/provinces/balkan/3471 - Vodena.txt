@@ -1,0 +1,9 @@
+owner = AOM
+controller = AOM
+add_core = GRE
+add_core = RUM
+add_core = AOM
+add_core = BUL
+add_core = MCD
+trade_goods = silk
+life_rating = 35

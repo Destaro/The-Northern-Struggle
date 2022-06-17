@@ -1,0 +1,49 @@
+# Ullah Millet
+vassal = {
+	first = RUM
+	second = AOM
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Epir
+vassal = {
+	first = RUM
+	second = EPI
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Sark-i Rumeli Viyaleti
+vassal = {
+	first = RUM
+	second = BUL
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Ellinikí Dimokratía
+vassal = {
+	first = RUM
+	second = GRE
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Vilâyet-i Arnavid
+vassal = {
+	first = RUM
+	second = ALB
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Vilâyet-i Arnavid
+vassal = {
+	first = RUM
+	second = SER
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+# Despotatul Dobrogei
+vassal = {
+	first = RUM
+	second = DBJ
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}

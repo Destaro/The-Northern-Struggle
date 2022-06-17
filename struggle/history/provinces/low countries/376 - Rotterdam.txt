@@ -8,3 +8,5 @@ terrain = rotterdam
 	railroad = 1
 	naval_base = 3
 }
+
+add_core = FRC

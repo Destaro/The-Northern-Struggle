@@ -348,106 +348,18 @@
 		size = 300
 	}
 }
-#Monastir Region (384000) #see Greece.txt for balance of region 
-#under the rule of Ottoman Empire in 1836
-#Florina (116000/29000 POPS) #now part of Greece
-819 = {
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 300
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 300
-	}
-	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 500
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 33100
-	}
-	
-	soldiers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 150
-	}
-
-	clergymen = {
-		culture = bulgarian
-		religion = orthodox
-		size = 200
-	}
-
-	artisans = {
-		culture = bulgarian
-		religion = orthodox
-		size = 200
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 4800
-	}
-
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 475
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 800
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 300
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 2325
-	}
-	
-	farmers = {
-		culture = greek
-		religion = sunni
-		size = 7000
-	}
-}
 #Grevena (140000/35000 POPS) #now part of Greece
 820 = {
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 300
+		size = 100
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 850
+		size = 650
 	}
 	
 	soldiers = {
@@ -459,36 +371,90 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 41550
+		size = 15000
 	}
-
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 350
-	}
-
+	
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = tosk
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = tosk
+		religion = orthodox
+		size = 250
+	}
+	
+	soldiers = {
+		culture = tosk
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = tosk
+		religion = orthodox
+		size = 4000
+	}
+	
+	clergymen = {
+		culture = tosk
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = tosk
+		religion = orthodox
+		size = 50
+	}
+	
+	soldiers = {
+		culture = tosk
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = tosk
+		religion = orthodox
+		size = 6550
+	}
+
+	aristocrats = {
+		culture = aromanian
+		religion = orthodox
+		size = 350
+	}
+
+	clergymen = {
+		culture = aromanian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = aromanian
+		religion = orthodox
 		size = 900
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 350
+		culture = aromanian
+		religion = orthodox
+		size = 3350
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = aromanian
+		religion = orthodox
+		size = 15325
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
 		size = 325
 	}
 }
@@ -576,92 +542,98 @@
 #under the rule of Ottoman Empire in 1836
 #Janina (504000/126000 POPS)
 824 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 125
-	}
-
-	bureaucrats = {
-		culture = turkish
-		religion = sunni
-		size = 125
-	}
-
-	officers = {
-		culture = turkish
-		religion = sunni
-		size = 250
+    aristocrats = {
+		culture = tosk
+		religion = orthodox
+		size = 2600
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 100
+		culture = tosk
+		religion = orthodox
+		size = 125
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 500
+		culture = tosk
+		religion = orthodox
+		size = 1100
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = tosk
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = tosk
+		religion = orthodox
+		size = 8075
+	}
+
+	clergymen = {
+		culture = tosk
+		religion = orthodox
 		size = 150
 	}
-	
+
+	artisans = {
+		culture = tosk
+		religion = orthodox
+		size = 250
+	}
+
 	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 200
+		culture = tosk
+		religion = orthodox
+		size = 15600
 	}
 
 	aristocrats = {
-		culture = albanian
+		culture = tosk
 		religion = sunni
 		size = 2600
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = albanian
+		culture = tosk
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = tosk
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = sunni
 		size = 8075
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 15600
 	}

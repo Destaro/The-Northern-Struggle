@@ -1,0 +1,8 @@
+owner = ARC
+controller = ARC
+
+trade_goods = grain
+life_rating = 35
+terrain = santiago
+
+add_core = ARC

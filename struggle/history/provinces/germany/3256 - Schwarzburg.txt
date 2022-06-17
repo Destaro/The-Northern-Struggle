@@ -1,6 +1,6 @@
-owner = SWG
-controller = SWG
-add_core = SWG
+owner = BDB
+controller = BDB
+add_core = BDB
 add_core = GER
 trade_goods = timber
 life_rating = 35

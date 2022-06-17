@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
+owner = VNS
+controller = VNS
 add_core = MEX
 trade_goods = grain
 life_rating = 30
@@ -13,3 +13,5 @@ colonial = 2
 	remove_core = MEX
 	colonial = 0
 }
+
+add_core = VNS

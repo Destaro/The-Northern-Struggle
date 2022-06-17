@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = WLL
+controller = WLL
+add_core = WLL
+add_core = BEL
 trade_goods = coal
 life_rating = 30
 #state_building = {
@@ -26,3 +27,5 @@ life_rating = 30
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = FRC

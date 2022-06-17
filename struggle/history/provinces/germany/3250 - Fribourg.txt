@@ -1,6 +1,8 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = BRG
+controller = BRG
+add_core = BRG
+add_core = FRC
+terrain = farmlands
 trade_goods = cattle
 life_rating = 32
 1861.1.1 = { railroad = 3 }

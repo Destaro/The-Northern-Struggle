@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
+owner = VNS
+controller = VNS
 add_core = MEX
 trade_goods = iron
 life_rating = 35
@@ -11,3 +11,5 @@ colonial = 2
 	add_core = CSA
 	remove_core = MEX
 }
+
+add_core = VNS

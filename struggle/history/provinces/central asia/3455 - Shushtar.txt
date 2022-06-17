@@ -1,0 +1,8 @@
+owner = ZND
+controller = ZND
+add_core = ZND
+add_core = KHZ
+add_core = IRQ
+terrain = dryhills
+trade_goods = cotton
+life_rating = 35

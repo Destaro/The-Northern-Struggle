@@ -1,7 +1,5 @@
-owner = KAL
-controller = KAL
-add_core = KAL
-add_core = BLC
-add_core = HND
+owner = KHT
+controller = KHT
+add_core = KHT
 trade_goods = wool
 life_rating = 35

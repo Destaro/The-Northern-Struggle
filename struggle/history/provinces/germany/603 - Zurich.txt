@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = BAD
+controller = BAD
+add_core = BAD
 trade_goods = iron
 life_rating = 34
 terrain = zurich

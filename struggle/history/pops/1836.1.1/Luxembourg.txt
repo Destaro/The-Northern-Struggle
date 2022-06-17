@@ -1,89 +1,373 @@
 #Luxembourg (172000)
 #In personal union with Netherlands in 1836
+#Liege (212000/53000 POPS)
+395 = {
+	aristocrats = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 500
+	}
+
+	clerks = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1100
+	}
+	
+	craftsmen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 4000
+	}
+
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 3100
+	}
+
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 29800
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 1250
+	}
+}
+#Spa - Eupen-Malmedy (144000/36000 POPS)
+396 = {
+	aristocrats = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 8375
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 2175
+	}
+
+}
 #Luxembourg (172000/43000 POPS)
 397 = {
 	aristocrats = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 17900
 	}
 	
 	craftsmen = {
-		culture = north_german
+		culture = rhine_frankish
 		religion = catholic
 		size = 20
 	}
 
 	aristocrats = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 250
 	}
 
 	officers = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = french
+		culture = rhine_frankish
 		religion = catholic
 		size = 20375
+	}
+
+}
+#Arlon (172000/43000 POPS)
+398 = {
+	aristocrats = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1350
+	}
+
+	soldiers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1100
+	}
+
+	craftsmen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 20425
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 250
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 4200
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 600
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 8500
+	}
+
+}
+#Diedenhofen (172000/43000 POPS)
+3376 = {
+	aristocrats = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1350
+	}
+
+	soldiers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1100
+	}
+
+	craftsmen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 20425
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 250
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 4200
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 600
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 8500
+	}
+
+}
+#Diedenhofen (172000/43000 POPS)
+3377 = {
+	aristocrats = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1350
+	}
+
+	soldiers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 1100
+	}
+
+	craftsmen = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 20425
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 250
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = catholic
+		size = 4200
+	}
+	
+	artisans = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 600
+	}
+	
+	farmers = {
+		culture = rhine_frankish
+		religion = protestant
+		size = 8500
 	}
 
 }

@@ -1,5 +1,5 @@
 ;;;;;;;;;;;;;x
-welsh;Welsh;;;;;;;;;;;;;x
+welsh;Briton;;;;;;;;;;;;;x
 scottish;Scottish;;;;;;;;;;;;;x
 wallonian;Walloon;;;;;;;;;;;;x
 montenegrin;Montenegrin;;;;;;;;;;;;;x
@@ -7,11 +7,18 @@ faroese;Faroese;;;;;;;;;;;;;x
 galician;Galician;;;;;;;;;;;;;x
 volga_german;Eastern German;;;;;;;;;;;;;x
 arpitan;Arpitan;;;;;;;;;;;;;x
+old_persian;Pârsîg;;;;;;;;;;;;x
 hanhui;Hui;;;;;;;;;;;;;x
 siebenburger;Transylvanian-Saxon;;;;;;;;;;;;;x
 jerriais;Jerriais;;;;;;;;;;;;;x
 anglo_canadian;Anglo-Canadian;Anglo-canadien;Anglokanadisch;;Anglocanadiense;;;;;;;;;x;;;;
 french_canadian;French-Canadien;Franco-canadien;Frankokanadisch;;Franco-canadiense;;;;;;;;;x;;;;
 anglo_indian;Anglo-Indian;;;;;;;;;;;;;x
-british;English;Britannique;Britisch;;Britå«•ica;;;;;;;;;x;;;;
+british;English;Britannique;Britisch;;Brit?ica;;;;;;;;;x;;;;
 pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;
+;;;;;;;;;;;;;x
+EVTDESC72669;The kingdom of the Franks has long been disunited, but $SPHEREMASTER$ has finally decided that this is no longer the case. Their ruler has been crowned king of the Franks, and our people are clambering onto unite with them.;;;;;;;;;;;;;x
+EVTNAME72669;Francia, Reunited.;;;;;;;;;;;;;x
+EVTOPTA72669;We don't exactly have a choice but to join them..;;;;;;;;;;;;;x
+unite_francia_title;Unite Francia;;;;;;;;;;;;;
+unite_francia_desc;The kingdom of the Franks has not been united since the viking incursions in the 10th century, but we are in the position to take the crown. Delegations will be sent out to the petty kings and dukes of the land with a demand of subjugation. Francorum regnum iterum novum erit.;;;;;;;;;;;;;

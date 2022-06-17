@@ -1,17 +1,9 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-trade_goods = cattle
+owner = JAP
+controller = JAP
+add_core = JAP
+add_core = MCK
+trade_goods = coal
 life_rating = 32
-terrain = mountain
-
-party_loyalty = {
-	ideology = conservative
-	loyalty_value = 1
-}
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 30
-}
+terrain = farmlands
 
 1861.1.1 = { railroad = 1 }

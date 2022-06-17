@@ -1,5 +1,6 @@
 owner = AUS
 controller = AUS
+
 add_core = AUS
 trade_goods = grain
 life_rating = 35
@@ -28,3 +29,5 @@ fort = 1
 		upgrade = yes
 	}
 }
+
+add_core = GER

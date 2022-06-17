@@ -572,7 +572,6 @@ restore_austrian_empire = {
 				is_core = VEN
 				is_core = SLO
 				is_core = SLV
-				is_core = BOH
 				is_core = HUN
 				is_core = GLM
 				region = AUS_771

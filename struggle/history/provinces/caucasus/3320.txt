@@ -1,8 +1,8 @@
-owner = AUS
-controller = AUS
+owner = CPL
+controller = CPL
 add_core = GLM
 add_core = POL
 add_core = UKR
-trade_goods = Coal
+add_core = CPL
+trade_goods = coal
 life_rating = 35
-colonial = 2

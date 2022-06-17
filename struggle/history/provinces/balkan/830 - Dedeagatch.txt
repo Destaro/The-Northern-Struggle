@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = RUM
+controller = RUM
+add_core = RUM
 add_core = GRE
 add_core = BUL
 trade_goods = grain

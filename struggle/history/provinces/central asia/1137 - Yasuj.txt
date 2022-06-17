@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = ZND
+controller = ZND
+add_core = ZND
+terrain = dry_mountains
 trade_goods = fruit
 life_rating = 35

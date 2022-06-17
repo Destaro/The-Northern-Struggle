@@ -541,79 +541,79 @@
 #Eisenstadt (196000/49000 POPS)
 624 = {
 	aristocrats = {
-		culture = south_german
+		culture = pannonian
 		religion = catholic
 		size = 700 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = pannonian
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = south_german
+		culture = pannonian
 		religion = catholic
 		size = 2450
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = pannonian
 		religion = catholic
 		size = 2100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = pannonian
 		religion = catholic
 		size = 40075
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = pannonian
 		religion = catholic
 		size = 60 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = pannonian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = pannonian
 		religion = catholic
 		size = 1025
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = pannonian
 		religion = catholic
 		size = 2765  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = pannonian
 		religion = protestant
 		size = 35 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = pannonian
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = pannonian
 		religion = protestant
 		size = 1025
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = pannonian
 		religion = protestant
 		size = 1790   
 	}

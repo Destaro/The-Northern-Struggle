@@ -1,0 +1,6 @@
+owner = YZD
+controller = YZD
+add_core = YZD
+terrain = dry_mountains
+trade_goods = timber
+life_rating = 35

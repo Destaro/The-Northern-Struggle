@@ -4,43 +4,43 @@
 1700 = {
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 500
 	}
 	
 	officers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 250
 	}
 
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 25
 	}
 
 	artisans = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1500
 	}
 
 	soldiers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 3500
 	}
 
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 12225
 	}
 	
@@ -58,44 +58,44 @@
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 300
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 4500
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 500
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 46200
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 4675
 	}
 
@@ -116,79 +116,79 @@
 1701 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	officers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 875
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 4350
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 77375
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 300
 	}
 
 	officers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 250
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2350
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 350
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 20675
 	}
 
@@ -200,13 +200,13 @@
 	
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1225
 	}
 	
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 100
 	}
 }
@@ -214,74 +214,74 @@
 1702 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 600
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 500
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2400
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 3000
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 5000
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2000
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 30500
 	}
 	
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 40500
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1600
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 12000
 	}
 
@@ -295,61 +295,61 @@
 1703 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 300
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2200
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 27500
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 400
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2200
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2200
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 38500
 	}
 
@@ -360,85 +360,85 @@
 1704 = {
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 125
 	}
 
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1800
 	}
 
 	soldiers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1875
 	}
 	
 	officers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 150
 	}
 
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 2200
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 3100
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 19600
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 125
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 5600
 	}
 
@@ -459,80 +459,80 @@
 1705 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 500
 	}
 
 	officers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 500
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2250
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 3000
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1000
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 55550
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	officers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1000
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 12500
 	}
 
@@ -550,25 +550,25 @@
 	
 	bureaucrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 150
 	}
 	
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 6225
 	}
 	
 	artisans = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 2250
 	}
 	
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 150
 	}
 
@@ -582,61 +582,61 @@
 1706 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 300
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 300
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1500
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 350
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 27550
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 175
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 850
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 12575
 	}
 	
@@ -654,31 +654,31 @@
 	
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 125
 	}
 
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 3200
 	}
 	
 	soldiers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 875
 	}
 	
@@ -692,55 +692,55 @@
 1707 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 3000
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 800
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 6425
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1000
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 10425
 	}
 
@@ -751,74 +751,74 @@
 1709 = {
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 625
 	}
 
 	soldiers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 3200
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 50
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 600
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 150
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 24200
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 10
 	}
 
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2925
 	}
 	
@@ -840,109 +840,109 @@
 1708 = {
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 250
 	}
 
 	farmers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 5200
 	}
 	
 	aristocrats = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 25
 	}
 	
 	clergymen = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 10
 	}
 	
 	soldiers = {
 		culture = punic
-		religion = catholic
+		religion = punic_church
 		size = 1200
 	}
 	
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 250
 	}
 
 	officers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 213
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2200
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 45312
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	officers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2025
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 2200
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 15550
 	}
 
@@ -962,67 +962,67 @@
 1710 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 150
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 150
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 750
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 12000
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 22950
 	}
 
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 500
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 9200
 	}
 
@@ -1033,74 +1033,74 @@
 1711 = {
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 265
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 30
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 2730
 	}
 
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 30
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 70
 	}
 
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 5700
 	}
 
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 1900
 	}
 }
@@ -1108,49 +1108,49 @@
 1712 = {
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 20
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 30
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1850
 	}
 
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 10
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 20
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 70
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 900
 	}
 }
@@ -1158,61 +1158,61 @@
 1713 = {
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 6500
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 11000
 	}
 
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 125
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 125
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 550
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 150
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 9050
 	}
 
@@ -1259,61 +1259,61 @@
 1715 = {
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 600
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 10200
 	}
 
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 125
 	}
 
 	artisans = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 550
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 125
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 10100
 	}
 }
@@ -1321,25 +1321,25 @@
 1716 = {
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 1900
 	}
 }
@@ -1347,26 +1347,26 @@
 1717 = {
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 1900
 	}
 
@@ -1378,153 +1378,188 @@
 	
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 20
 	}
 
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 1850
 	}
 	
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 60
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 1900
 	}
 }
 #Illizi (8000/2000 POPS)
-1719 = {
-	aristocrats = {
-		culture = phoenecoberber
-		religion = sunni
-		size = 25
-	}
+1719 = { #Jibel 
+    clergymen = {
+        culture = punic
+        religion = punic_church
+        size = 35
+    }
 
-	clergymen = {
-		culture = phoenecoberber
-		religion = sunni
-		size = 15
-	}
+    artisans = {
+        culture = punic
+        religion = punic_church
+        size = 720
+    }
 
-
+    farmers = {
+        culture = punic
+        religion = punic_church
+        size = 12440
+    }
+	
 	soldiers = {
-		culture = phoenecoberber
-		religion = sunni
-		size = 60
-	}
+        culture = punic
+        religion = punic_church
+        size = 440
+    }
 
-	farmers = {
-		culture = phoenecoberber
-		religion = sunni
-		size = 1900
-	}
+    clergymen = {
+        culture = punic
+        religion = punic_church
+        size = 40
+    }
+
+    artisans = {
+        culture = punic
+        religion = punic_church
+        size = 480
+    }
+
+    farmers = {
+        culture = punic
+        religion = punic_church
+        size = 18420
+    }
+
+    clergymen = {
+        culture = berber
+        religion = punic_church
+        size = 10
+    }
+
+    artisans = {
+        culture = berber
+        religion = punic_church
+        size = 50
+    }
+
+    farmers = {
+        culture = berber
+        religion = punic_church
+        size = 925
+    }
 }
 #Timimoun (16000/4000 POPS)
 1720 = {
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 75
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 45
 	}
 
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 215
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 5700
 	}
 	
 	aristocrats = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 10
 	}
 
 	clergymen = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 	soldiers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 55
 	}
 
 	farmers = {
 		culture = phoenecoberber
-		religion = sunni
+		religion = punic_church
 		size = 920
 	}
 
 	aristocrats = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 20
 	}
 
 	clergymen = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 40
 	}
 
 	soldiers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 130
 	}
 
 	farmers = {
 		culture = punic
-		religion = sunni
+		religion = punic_church
 		size = 1810
 	}
 
@@ -1535,26 +1570,26 @@
 1721 = {
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 15
 	}
 
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 1900
 	}
 }
@@ -1562,25 +1597,25 @@
 1722 = {
 	aristocrats = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 100
 	}
 
 	soldiers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 50
 	}
 
 	farmers = {
 		culture = tuareg
-		religion = sunni
+		religion = punic_church
 		size = 3800
 	}
 }

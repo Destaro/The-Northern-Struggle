@@ -1,5 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = KHR
+controller = KHR
+add_core = KHR
+terrain = dry_mountains
 trade_goods = fruit
 life_rating = 35

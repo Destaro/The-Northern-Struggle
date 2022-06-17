@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = POI
+controller = POI
+add_core = POI
+add_core = ORL
 trade_goods = fish
 life_rating = 30
 naval_base = 2
@@ -13,3 +14,5 @@ terrain = larochelle
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = FRC

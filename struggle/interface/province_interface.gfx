@@ -347,6 +347,12 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_farmlandhills"
+		texturefile = "gfx\\interface\\terrain_farmlandhills.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_coral_island"
 		texturefile = "gfx\\interface\\terrain_coral_island.tga"
 		norefcount = yes
@@ -1957,6 +1963,18 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_terrainimg_pyatigorsk"
 		texturefile = "gfx\\interface\\terrain_pyatigorsk.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_dry_forest"
+		texturefile = "gfx\\interface\\terrain_dry_forest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_dry_mountains"
+		texturefile = "gfx\\interface\\terrain_dry_mountains.tga"
 		norefcount = yes
 	}
 	

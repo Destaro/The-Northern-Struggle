@@ -3,8 +3,8 @@
 #Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = assyrian 
 916 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = chaldean
+		religion = syriac
 		size = 75
 	}
 
@@ -33,39 +33,39 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 1875
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = assyrian
-		size = 50
+		culture = chaldean
+		religion = syriac
+		size = 500
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = assyrian
+		culture = chaldean
+		religion = syriac
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = assyrian
-		size = 3750
+		culture = chaldean
+		religion = syriac
+		size = 7750
 	}
 
 	clergymen = {
@@ -151,21 +151,21 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 825
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
-		size = 3100
+		size = 10100
 	}
 
 	farmers = {
@@ -189,7 +189,115 @@
 	farmers = {
 		culture = sephardic
 		religion = jewish
-		size = 1175
+		size = 11750
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 5175
+	}
+}
+#Umm Al-Rashrash
+3330 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6425
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 850
+	}
+
+	clergymen = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+	artisans = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+	farmers = {
+		culture = chaldean
+		religion = syriac
+		size = 150
+	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 75
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 350
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2175
 	}
 }
 #Nablus (44000/11000 POPS)
@@ -243,21 +351,27 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = assyrian
+		culture = chaldean
+		religion = syriac
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = assyrian
+		culture = chaldean
+		religion = syriac
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = assyrian
+		culture = chaldean
+		religion = syriac
 		size = 875
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2175
 	}
 }
 #Jaffa (48000/12000 POPS)
@@ -293,19 +407,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 875
 	}
@@ -326,6 +440,12 @@
 		culture = sephardic
 		religion = jewish
 		size = 1675
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2175
 	}
 }
 #Gaza (44000/11000 POPS)
@@ -376,6 +496,12 @@
 		culture = mashriqi
 		religion = orthodox
 		size = 1725
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2175
 	}
 }
 #Beersheba (36000/9000 POPS)
@@ -440,4 +566,152 @@
 		size = 1850
 	}
 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2175
+	}
+
 }
+
+#Golan (44000/11000 POPS)
+3324 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = chaldean
+		religion = syriac
+		size = 4575
+	}
+
+
+	aristocrats = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+	clergymen = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+	artisans = {
+		culture = chaldean
+		religion = syriac
+		size = 150
+	}
+	soldiers = {
+		culture = chaldean
+		religion = syriac
+		size = 200
+	}
+	farmers = {
+		culture = chaldean
+		religion = syriac
+		size = 1000
+	}
+
+	clergymen = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+
+	artisans = {
+		culture = chaldean
+		religion = syriac
+		size = 200
+	}
+
+	farmers = {
+		culture = chaldean
+		religion = syriac
+		size = 3750
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 1850
+	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1925
+	}
+	
+	clergymen = {
+		culture = chaldean
+		religion = syriac
+		size = 75
+	}
+	artisans = {
+		culture = chaldean
+		religion = syriac
+		size = 100
+	}
+	farmers = {
+		culture = chaldean
+		religion = syriac
+		size = 1875
+	}
+	
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 25
+	}
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 100
+	}
+}
+

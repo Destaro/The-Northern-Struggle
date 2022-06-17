@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = YZD
+controller = YZD
+add_core = YZD
+terrain = dry_mountains
 trade_goods = iron
 life_rating = 35

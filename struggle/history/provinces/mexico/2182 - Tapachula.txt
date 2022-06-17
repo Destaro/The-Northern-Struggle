@@ -1,5 +1,5 @@
-owner = UCA
-controller = UCA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = GUA
 add_core = CHP
@@ -12,3 +12,5 @@ life_rating = 30
 	controller = MEX
 	remove_core = UCA
 }
+
+add_core = VNS

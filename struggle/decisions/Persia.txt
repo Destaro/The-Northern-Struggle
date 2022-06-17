@@ -312,6 +312,73 @@ bring_tea_to_iran = {
 		}
 		ai_will_do = { factor = 1 }
 	}
-	
+
+revoke_adhari_autonomy = {
+		picture = persia_map
+		potential = {
+			tag = PER
+			OR = {
+				AND = { 1108 = { owner = { civilized = no } NOT = { owned_by = PER } }  NOT = { has_country_flag = azerbaijan_annexed } }
+				AND = { 1105 = { owner = { civilized = no } NOT = { owned_by = PER } }  NOT = { has_country_flag = shirvan_annexed } }
+			}
+		}
+		
+		allow = {
+			OR = {
+				AND = {
+					1108 = { owner = { vassal_of = THIS } NOT = { owned_by = PER } } #Tabriz
+					OR = {
+					civilized = yes 
+					civilization_progress = 0.7
+					}
+				}
+				AND = {
+					1105 = { owner = { vassal_of = THIS } NOT = { owned_by = PER } } #Ganja
+					OR = {
+					civilized = yes 
+					civilization_progress = 0.55
+					}
+				}
+			}
+		}
+		
+		effect = {
+			random_owned = {
+				limit = {
+					AZB = { vassal_of = PER }
+					PER = {
+					    OR = {
+					       civilization_progress = 0.7
+						   civilized = yes
+						}
+						NOT = { has_country_flag = azerbaijan_annexed }
+						NOT = { owns = 1108 }
+					}	
+				}
+				owner = {
+					set_country_flag = azerbaijan_annexed 
+					inherit = AZB
+				}
+			}
+			random_owned = {
+				limit = {
+					TTN = { vassal_of = PER }
+					PER = {
+					    OR = {
+					       civilization_progress = 0.55
+						   civilized = yes
+						}
+						NOT = { has_country_flag = shirvan_annexed }
+						NOT = { owns = 1105 }
+					}	
+				}
+				owner = {
+					set_country_flag = shirvan_annexed 
+					inherit = TTN
+				}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
 }
 

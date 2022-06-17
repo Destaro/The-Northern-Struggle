@@ -1,7 +1,7 @@
-name = "The War of the Farrapos"
+name = "The Lusophone Insurrection"
 
 1835.10.2 = {
-	add_attacker = BRZ
+	add_attacker = LPL
 	add_defender = RGS
 	
 	# actor
@@ -11,13 +11,13 @@ name = "The War of the Farrapos"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest_any
-		actor = BRZ
+		actor = LPL
 		receiver = RGS
 	}
 
 }
 
 1836.4.21 = {
-	rem_attacker = BRZ
+	rem_attacker = LPL
 	rem_defender = RGS
 }

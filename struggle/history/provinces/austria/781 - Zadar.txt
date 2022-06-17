@@ -1,7 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = CRO
+owner = DLM
+controller = DLM
 add_core = DLM
 terrain = zadar
 trade_goods = fish
 life_rating = 35
+
+add_core = ITA

@@ -1,5 +1,5 @@
-owner = UCA
-controller = UCA
+owner = VNS
+controller = VNS
 add_core = UCA
 add_core = GUA
 trade_goods = wool
@@ -9,3 +9,5 @@ life_rating = 31
 	controller = GUA
 	remove_core = UCA
 }
+
+add_core = VNS

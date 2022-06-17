@@ -1064,6 +1064,38 @@
 		size = 500
 	}
 }
+#Abu Hamed (8000/2000 POPS)
+3340 = {
+	aristocrats = {
+		culture = beja
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = beja
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beja
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = beja
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = beja
+		religion = sunni
+		size = 500
+	}
+}
 #Kordofan Region (524000)
 #under the rule of Egypt in 1836
 #Obeid (180000/45000 POPS)

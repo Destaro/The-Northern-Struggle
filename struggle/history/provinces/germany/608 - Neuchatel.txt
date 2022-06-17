@@ -1,8 +1,7 @@
-owner = NCT
-controller = NCT
-add_core = NCT
-add_core = SWI
-add_core = PRU
+owner = SAR
+controller = SAR
+add_core = SAR
+add_core = ITA
 trade_goods = coal
 life_rating = 32
 
@@ -18,6 +17,6 @@ party_loyalty = {
 1857.1.1 = {
 	owner = SWI
 	controller = SWI
-	remove_core = NCT
+	remove_core = SWI
 	remove_core = PRU
 }

@@ -1,8 +1,8 @@
-owner = ASY
-controller = ASY
-add_core = ASY
-add_core = HTY
+owner = SYR
+controller = SYR
 add_core = SYR
+add_core = ARM
+add_core = KDS
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

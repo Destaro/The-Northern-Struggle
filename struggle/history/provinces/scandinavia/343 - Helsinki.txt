@@ -1,5 +1,5 @@
-owner = FIN
-controller = FIN
+owner = SWE
+controller = SWE
 add_core = FIN
 add_core = SWE
 trade_goods = grain

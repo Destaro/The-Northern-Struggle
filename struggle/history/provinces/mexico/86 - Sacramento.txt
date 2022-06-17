@@ -1,6 +1,6 @@
-owner = DES
-controller = DES
-add_core = DES
+owner = JAP
+controller = JAP
+add_core = CAL
 trade_goods = fruit
 life_rating = 35
 colonial = 2

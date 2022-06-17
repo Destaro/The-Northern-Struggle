@@ -1108,7 +1108,7 @@
 1107;0;112;96;Lankaran;x
 1108;96;80;160;Tabriz;x
 1109;160;16;223;Khvoy;x
-1110;128;176;160;Urumia;x
+1110;128;176;160;Salamis;x
 1111;204;166;63;Mahabad;x
 1112;191;48;223;Ardabil;x
 1113;192;176;224;Rasht;x
@@ -3349,6 +3349,177 @@
 3348;154;80;255;Taiwan Internal Provinces;x
 3349;154;80;182;Taiwan Internal Provinces;x
 3350;154;113;93;Taiwan Internal Provinces;x
+3351;96;0;128;Binhaiban;x
+3352;2;89;251;Amur Delta;x
+3353;2;89;147;Amur River;x
+3354;2;89;109;Amur River;x
+3355;2;62;109;Amur River;x
+3356;2;136;199;Amur River;x
+3357;3;148;181;Amur River;x
+3358;2;28;109;Danube-Delta;x
+3359;2;62;186;Danube River;x
+3360;2;62;163;Danube River;x
+3361;2;62;66;Danube River;x
+3362;2;62;255;Danube River;x
+3363;144;100;255;Serbian State;x
+3364;144;208;120;Sahara;x
+3365;48;171;105;Sahara;x
+3366;48;51;105;Sahara;x
+3367;72;130;35;Sahara;x
+3368;10;10;255;Qarasheher;x
+3369;62;0;62;Calais;x
+3370;101;78;82;Kemijärvi;x
+3371;223;80;117;Dolgan;x
+3372;200;116;200;Aalst;x
+3373;35;0;62;Boon;x
+3374;78;78;78;Hesdin;x
+3375;112;155;32;Valinten;x
+3376;95;16;248;Diedenhofen;x
+3377;94;16;244;Bitburg;x
+3378;87;16;236;Bonn;x
+3379;179;166;166;Maku;x
+3380;105;105;0;Urumia;x
+3381;250;170;170;Maku;x
+3382;0;48;201;Badiyat Ash-Sham;x
+3383;20;250;20;Bebahan;x
+3384;30;250;30;Jahrom;x
+3385;40;250;40;Abadeh;x
+3386;34;50;50;Lar;x
+3387;45;34;132;Dashtestan;x
+3388;45;34;32;Darab;x
+3389;172;172;172;Elam;x
+3390;110;150;10;Najafabad;x
+3391;250;60;160;Parsabad;x
+3392;250;80;80;Soltaniyeh;x
+3393;250;90;90;Astara;x
+3394;250;100;100;Qaen;x
+3395;250;110;110;Tabas;x
+3396;250;120;120;Garmsar;x
+3397;178;178;178;Ganj;x
+3398;182;182;182;Pahreh;x
+3399;145;174;132;Rudbar;x
+3400;45;174;132;Firuzkuh;x
+3401;95;142;22;Damghan;x
+3402;145;14;132;Ardakan;x
+3403;174;174;174;Anar Dareh;x
+3404;176;176;176;Bust;x
+3405;45;134;132;Minab;x
+3406;50;130;130;Abarkuh;x
+3407;25;34;122;Kharan;x
+3408;255;128;128;Zaranj;x
+3409;82;16;236;Zabol;x
+3410;92;16;236;Ghor;x
+3411;250;150;150;Kohistan;x
+3412;245;14;132;Bastam;x
+3413;125;134;122;Ghuryan;x
+3414;184;184;184;Sar-e Pol;x
+3415;250;140;140;Dera Ismail Khan;x
+3416;250;200;110;Sibi;x
+3417;25;134;122;Chishti;x
+3418;45;134;122;Chilas;x
+3419;245;34;222;Wakhan;x
+3420;135;34;122;Murghab;x
+3421;245;34;122;Nuristan;x
+3422;85;114;112;Mahshahr;x
+3423;20;80;20;Kyzylsu;x
+3424;250;50;50;Marand;x
+3425;250;70;70;Miyaneh;x
+3426;51;24;116;Kondoz;x
+3427;85;114;12;Kashmar;x
+3428;45;114;132;Zaveh;x
+3429;64;142;22;Quchan;x
+3430;245;114;32;Nishapur;x
+3431;195;142;22;Turkmensahra;x
+3432;250;200;200;Mishrian;x
+3433;250;210;210;Uzboy;x
+3434;200;40;30;Kara-Kum;x
+3435;93;16;250;Kos;x
+3436;220;144;220;Soran;x
+3437;128;200;96;Solimaniyeh;x
+3438;125;234;222;Erbil;x
+3439;106;106;106;Piranshahr;x
+3440;81;100;232;Hazorasp;x
+3441;100;70;232;Sadag;x
+3442;31;66;163;Panjdeh;x
+3443;45;114;12;Qalat-e Nadiri;x
+3444;64;52;22;Lebap;x
+3445;250;180;180;Sarakhs;x
+3446;191;116;232;Maymana;x
+3447;193;116;240;Nurota;x
+3448;64;112;122;Hissor;x
+3449;164;112;122;Ayni;x
+3450;164;212;122;Gharm;x
+3451;64;52;122;Namagan;x
+3452;35;34;122;Uroteppa;x
+3453;64;12;122;Andijon;x
+3454;120;180;120;Dehloran;x
+3455;25;34;32;Shushtar;x
+3456;125;234;132;Fallujah;x
+3457;125;34;32;Amarra;x
+3458;125;34;132;Jazira;x
+3459;57;128;45;Reqeh;x
+3460;255;144;96;Sinjar;x
+3461;150;20;110;Tuzqala;x
+3462;200;20;110;Taras;x
+3463;20;180;120;Bekbolat;x
+3464;20;80;120;Aqsu;x  
+3465;250;20;110;Dasht-e Ozbeg;x
+3466;48;160;82;Hohenau-Cahnov;x
+3467;240;224;105;Vasvar-Zeleznohrad;x
+3468;244;224;105;Kapuvar-Branahrad
+3469;250;40;230;Kutna Hora;x
+3470;250;20;230;Zlin;x;x
+3471;82;90;20;Vodina;x;x
+3472;86;123;12;Strpce;x;x
+3473;162;90;20;Kastoria;x;x
+3474;219;176;216;Blagojevgrad;x;x
+3475;217;209;102;Novo Brdo;x;x
+3476;93;85;99;Nymfaio - Nevesca;x;x
+3477;93;85;84;Diavata;x;x
+3478;84;67;96;Skopje;x;x
+3479;80;67;96;Petrich;x;x
+3480;100;25;124;Provadia;x;x
+3481;102;83;122;Kruševo - Crushuva;x;x
+3482;97;102;122;Ser;x;x
+3483;80;67;55;Demirhisar - Sidirókastro;x;x
+3484;80;85;96;Plovdiv;x;x
+3485;80;90;113;Kýpsela;x;x
+3486;68;72;81;Sliven;x;x
+3487;84;73;119;Drastar;x;x
+3488;76;107;107;Vratsa;x;x
+3489;173;38;60;Stipon;x;x
+3490;70;79;99;Anchíalos;x;x
+3491;70;79;74;Sozópoli;x;x
+3492;127;93;85;Mangalia;x;x
+3493;127;93;120;Hârsova;x;x
+3494;145;106;137;Babadag;x;x
+3495;69;51;65;Platamónas;x;x
+3496;131;131;131;Ma'rib;x
+3497;250;10;10;Rizini;x
+3498;50;120;10;Gümüshhane;x
+3499;240;240;240;Taman;x
+3500;108;118;183;Perekop;x
+3501;117;36;22;Yevpatoriya;x
+3502;208;183;134;Yalta;x
+3503;208;120;134;Feodosia;x
+3504;250;30;130;Bayburt - Baiberdon;x
+3505;99;99;99;Wadden Islands;x
+3506;71;71;71;Darkaims;x
+3507;76;76;76;Luka;x
+3508;66;66;66;Lynediws;x
+3509;77;77;77;Tylza;x
+3510;85;85;85;Tapiawa;x
+3511;210;250;210;Dobrzyn;x
+3512;228;152;77;Bautzen;x
+3513;212;193;67;Sagan;x
+3514;77;103;125;Guben;x
+3515;105;16;248;Lycksele;x
+3516;105;16;33;Kiruna;x
+3517;104;30;45;Enare;x
+3518;97;119;52;Vêsteni;x
+3519;122;24;50;Garmatia;x
+3520;86;17;36;Taferta;x
+3521;84;33;47;Arazui;x
 ;81;16;232;x
 ;82;16;236;x
 ;83;16;240;x

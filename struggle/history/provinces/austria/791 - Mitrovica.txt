@@ -1,7 +1,7 @@
-owner = AUS
-controller = AUS
+owner = SER
+controller = SER
 add_core = SER
-add_core = HUN
+add_core = CRO
 trade_goods = timber
 life_rating = 35
 1861.1.1 = { railroad = 3 }

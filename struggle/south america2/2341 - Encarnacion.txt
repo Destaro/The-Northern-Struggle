@@ -1,0 +1,4 @@
+owner = RGS
+controller = RGS
+add_core = RGSadd_core = BRZtrade_goods = timber
+life_rating = 31

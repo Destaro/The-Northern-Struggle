@@ -1,6 +1,6 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
+owner = TIB
+controller = TIB
+add_core = TIB
 add_core = LAD
 add_core = KAS
 add_core = HND

@@ -1,4 +1,7 @@
-color = { 56 32 172}
+color = { 56 32 172 }
+colonial_company = { 62  111  110 } 
+dominion = { 62  111  110 } 
+french_bourbon = { 62  111  110 } 
 graphical_culture = Generic
 
 party = {

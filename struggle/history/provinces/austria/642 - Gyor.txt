@@ -1,6 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = HUN
+owner = PNN
+controller = PNN
+
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+
+add_core = PNN

@@ -57,67 +57,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 1550  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 200  
 	}
 
 	officers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 135   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 135  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 135  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 7400   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 85
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 100  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 9725    
 	}
@@ -331,67 +331,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 2712  
 	}
 	
 	bureaucrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 300
 	}
 	
 	officers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 65
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 190 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 16937 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 115  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 950
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 162  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 17712    
 	}
@@ -607,67 +607,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 1875  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 400 
 	}
 
 	officers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 375 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 237  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 300  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 19166  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 200 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 237  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 19762
 	}
@@ -789,7 +789,7 @@
 	}
 	
 	aristocrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 1000
 	}

@@ -1,11 +1,6 @@
-owner = ASY
-controller = ASY
-add_core = ASY
+owner = SYR
+controller = SYR
 add_core = SYR
 trade_goods = grain
 life_rating = 35
 terrain = dryhills
-1861.1.1 = {
-	controller = ASY 
-	owner = ASY
-}

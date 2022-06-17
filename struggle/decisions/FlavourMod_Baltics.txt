@@ -141,6 +141,14 @@ political_decisions = {
 		potential = {
 			OR = {
 				AND = {
+					is_culture_group = scandinavian
+					OR = {
+						AND = { owns = 356 NOT = { has_global_flag = swedish_renamed_daugavpils } }
+						AND = { owns = 354 NOT = { has_global_flag = swedish_renamed_lativa } }
+						
+					}
+				}
+				AND = {
 					is_culture_group = germanic
 					OR = {
 						AND = { owns = 356 NOT = { has_global_flag = german_renamed_daugavpils } }
@@ -184,6 +192,7 @@ political_decisions = {
 				356 = { change_province_name = "Dünaburg"  }
 				owner = { 
 					set_global_flag = german_renamed_daugavpils 
+					clr_global_flag = swedish_renamed_daugavpils 
 					clr_global_flag = latvian_renamed_daugavpils
 					clr_global_flag = russian_renamed_daugavpils
 				}
@@ -195,11 +204,15 @@ political_decisions = {
 						is_culture_group = germanic
 					}
 				}
-				355 = { change_province_name = "Wolmar" }
+				355 = { change_province_name = "Wolmar" 
+					state_scope = {
+						change_region_name = "Livland"
+					}
+				}
 				357 = {
 					change_province_name = "Mitau"
 					state_scope = {
-						change_region_name = "Kurland-Semgallen"
+						change_region_name = "Kurland"
 					}
 				}
 				358 = { change_province_name = "Windau" }
@@ -210,7 +223,50 @@ political_decisions = {
 					clr_global_flag = russian_renamed_lativa 
 				}
 			}
-			
+			###Swedish###
+			random_owned = {
+				limit = {
+					province_id = 356
+					owner = {
+						is_culture_group = scandinavian
+					}
+				}
+				356 = { change_province_name = "Dyneborg"  }
+				owner = { 
+					set_global_flag = swedish_renamed_daugavpils 
+					clr_global_flag = german_renamed_daugavpils 
+					clr_global_flag = latvian_renamed_daugavpils
+					clr_global_flag = russian_renamed_daugavpils
+				}
+			}
+			random_owned = {
+				limit = {
+					province_id = 354
+					owner = {
+						is_culture_group = scandinavian
+					}
+				}
+				355 = { change_province_name = "Rönneborg" 
+					state_scope = {
+						change_region_name = "Livland"
+					}
+				}
+				357 = {
+					change_province_name = "Mitau"
+					state_scope = {
+						change_region_name = "Kurland"
+					}
+				}
+				358 = { change_province_name = "Windau" }
+				359 = { change_province_name = "Libau" }	
+				1006 = { change_province_name = "Pleskoborg" }
+				owner = { 
+					set_global_flag = swedish_renamed_lativa 
+					clr_global_flag = german_renamed_lativa 
+					clr_global_flag = latvian_renamed_lativa 
+					clr_global_flag = russian_renamed_lativa 
+				}
+			}
 			###Latvian###
 			random_owned = {
 				limit = {
@@ -225,6 +281,7 @@ political_decisions = {
 				356 = { change_province_name = "Daugavpils"  }
 				owner = { 
 					set_global_flag = latvian_renamed_daugavpils
+					clr_global_flag = swedish_renamed_daugavpils 
 					clr_global_flag = german_renamed_daugavpils
 					clr_global_flag = russian_renamed_daugavpils
 				}
@@ -236,17 +293,21 @@ political_decisions = {
 						primary_culture = latvian
 					}
 				}
-				355 = { change_province_name = "Valmiera" }
+				355 = { change_province_name = "Valmiera"
+					state_scope = {
+						change_region_name = "Vidzeme"
+					} }
 				357 = {
 					change_province_name = "Jelgava"
 					state_scope = {
-						change_region_name = "Latvijas"
+						change_region_name = "Kurzeme"
 					}
 				}
 				358 = { change_province_name = "Ventspils" }
 				359 = { change_province_name = "Liepaja" }	
 				owner = { 
 					set_global_flag = latvian_renamed_lativa
+					clr_global_flag = swedish_renamed_lativa 
 					clr_global_flag = german_renamed_lativa
 					clr_global_flag = russian_renamed_lativa 
 				}
@@ -263,6 +324,7 @@ political_decisions = {
 				356 = { change_province_name = "Daugavpils"  }
 				owner = { 
 					set_global_flag = russian_renamed_daugavpils
+					clr_global_flag = swedish_renamed_daugavpils 
 					clr_global_flag = german_renamed_daugavpils
 					clr_global_flag = latvian_renamed_daugavpils
 				}
@@ -274,7 +336,11 @@ political_decisions = {
 						is_culture_group = east_slavic
 					}
 				}
-				355 = { change_province_name = "Vol'mar" }
+				355 = { change_province_name = "Vol'mar"
+					state_scope = {
+						change_region_name = "Livlyandiya"
+					}
+				}
 				357 = {
 					change_province_name = "Elgava"
 					state_scope = {
@@ -285,6 +351,7 @@ political_decisions = {
 				359 = { change_province_name = "Liepaja" }	
 				owner = {
 					set_global_flag = russian_renamed_lativa
+					clr_global_flag = swedish_renamed_lativa 
 					clr_global_flag = latvian_renamed_lativa 
 					clr_global_flag = german_renamed_lativa
 				}
@@ -302,18 +369,19 @@ political_decisions = {
 				AND = {
 					OR = {
 						is_culture_group = germanic
-						is_culture_group = scandinavian
 					}
 					owns = 349 NOT = { has_global_flag = german_renamed_estonia }
 				}
 				AND = {
 					OR = {
+						is_culture_group = scandinavian
+					}
+					owns = 349 NOT = { has_global_flag = swedish_renamed_estonia }
+				}
+				AND = {
+					OR = {
 						primary_culture = estonian
 						is_culture_group = baltic
-						AND = {
-							is_culture_group = scandinavian
-							accepted_culture = estonian
-						}
 					}
 					owns = 349 NOT = { has_global_flag = estonian_renamed_estonia }
 				}
@@ -336,7 +404,6 @@ political_decisions = {
 					owner = {
 						OR = {
 							is_culture_group = germanic
-							is_culture_group = scandinavian
 						}
 					}
 				}
@@ -344,7 +411,7 @@ political_decisions = {
 				350 = {
 					change_province_name = "Narwa"
 					state_scope = {
-						change_region_name = "Livland"
+						change_region_name = "Estland"
 					}
 				}
 				351 = { change_province_name = "Pernau" }
@@ -352,38 +419,35 @@ political_decisions = {
 				353 = { change_province_name = "Ösel" }
 				owner = { 
 					set_global_flag = german_renamed_estonia 
-					clr_global_flag = estonian_renamed_estonia 
+					clr_global_flag = swedish_renamed_estonia 
 					clr_global_flag = russian_renamed_estonia 
 				}
 			}
-			
-			###estonian###
+			###Swedish###
 			random_owned = {
 				limit = {
 					province_id = 349
 					owner = {
-						OR = { 
-							primary_culture = estonian
-							is_culture_group = baltic
-							AND = {
-								is_culture_group = scandinavian
-								accepted_culture = estonian
-							}
+						OR = {
+						is_culture_group = scandinavian
 						}
 					}
 				}
-				349 = { change_province_name = "Tallinn" }
+				349 = { change_province_name = "Reval" }
 				350 = {
 					change_province_name = "Narva"
 					state_scope = {
-						change_region_name = "Eesti"
+						change_region_name = "Estland"
 					}
 				}
-				351 = { change_province_name = "Parnu" }
-				352 = { change_province_name = "Tartu" }
-				353 = { change_province_name = "Saaremaa" }
+				351 = { change_province_name = "Pernau" }
+				352 = { change_province_name = "Dorpat" }
+				353 = { change_province_name = "Ösel" }
+				996 = { change_province_name = "Laugas" }
+				997 = { change_province_name = "Ödowa" }
+				994 = { change_province_name = "Nöteborg" }
 				owner = { 
-					set_global_flag = estonian_renamed_estonia
+					set_global_flag = swedish_renamed_estonia 
 					clr_global_flag = german_renamed_estonia
 					clr_global_flag = russian_renamed_estonia 
 				}
@@ -401,7 +465,7 @@ political_decisions = {
 				350 = {
 					change_province_name = "Narva"
 					state_scope = {
-						change_region_name = "Liflyandiya"
+						change_region_name = "Esthlandiya"
 					}
 				}
 				351 = { change_province_name = "Pernov" }
@@ -409,8 +473,8 @@ political_decisions = {
 				353 = { change_province_name = "Ösel" }
 				owner = {
 					set_global_flag = russian_renamed_estonia
-					clr_global_flag = estonian_renamed_estonia 
 					clr_global_flag = german_renamed_estonia
+					clr_global_flag = swedish_renamed_estonia 
 				}
 			}
 		}

@@ -450,122 +450,122 @@ political_decisions = {
 		}
 	}
 	
-	unite_with_croatia = {
-		picture = gtfo
-		potential = {
-			tag = DLM
-			exists = CRO
-			NOT = { has_country_flag = unite_with_croatia }
-		}
-
-		allow = {
-			war = no
-			OR = {
-				is_vassal = no
-				overlord = { is_our_vassal = CRO }
-			}
-			OR = {
-				part_of_sphere = no
-				sphere_owner = { is_sphere_leader_of = CRO }
-			}
-			CRO = {
-				war = no
-				neighbour = THIS
-				OR = {
-					is_vassal = no
-					overlord = { is_our_vassal = DLM }
-				}
-			}
-		}
-
-		effect = {
-			set_country_flag = unite_with_croatia
-			all_core = { remove_core = DLM }
-			random_country = {
-				limit = {
-					tag = CRO
-					THIS = { ai = yes }
-				}
-				inherit = THIS
-			}
-			random_country = {
-				limit = {
-					tag = CRO
-					ai = yes
-					THIS = { ai = no }
-				}
-				THIS = {
-					inherit = CRO
-					random_owned = {
-						limit = { province_id = 771 }
-						owner = { capital = 771 }
-					}
-					change_tag = CRO
-				}	
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				government = fascist_dictatorship
-				CRO = {
-					NOT = { government = fascist_dictatorship }
-				}
-			}
-			modifier = {
-				factor = 0
-				NOT = { government = fascist_dictatorship }
-				CRO = { government = fascist_dictatorship }
-			}
-			modifier = {
-				factor = 0
-				government = proletarian_dictatorship
-				CRO = {
-					NOT = { government = proletarian_dictatorship }
-				}
-			}
-			modifier = {
-				factor = 0
-				NOT = { government = proletarian_dictatorship }
-				CRO = { government = proletarian_dictatorship }
-			}
-			modifier = {
-				factor = 0
-				OR = {
-					government = democracy
-					government = hms_government
-				}
-				CRO = {
-					NOT = {
-						government = democracy
-						government = hms_government
-					}
-				}
-			}
-			modifier = {
-				factor = 0
-				CRO = {
-					OR = {
-						government = democracy
-						government = hms_government
-					}
-				}
-				NOT = {
-					government = democracy
-					government = hms_government
-				}
-			}
-			modifier = {
-				factor = 0
-				OR = {
-					government = presidential_dictatorship
-					government = bourgeois_dictatorship
-				}
-			}
-		}
-	}
+#	unite_with_croatia = {
+#		picture = gtfo
+#		potential = {
+#			tag = DLM
+#			exists = CRO
+#			NOT = { has_country_flag = unite_with_croatia }
+#		}
+#
+#		allow = {
+#			war = no
+#			OR = {
+#				is_vassal = no
+#				overlord = { is_our_vassal = CRO }
+#			}
+#			OR = {
+#				part_of_sphere = no
+#				sphere_owner = { is_sphere_leader_of = CRO }
+#			}
+#			CRO = {
+#				war = no
+#				neighbour = THIS
+#				OR = {
+#					is_vassal = no
+#					overlord = { is_our_vassal = DLM }
+#				}
+#			}
+#		}
+#
+#		effect = {
+#			set_country_flag = unite_with_croatia
+#			all_core = { remove_core = DLM }
+#			random_country = {
+#				limit = {
+#					tag = CRO
+#					THIS = { ai = yes }
+#				}
+#				inherit = THIS
+#			}
+#			random_country = {
+#				limit = {
+#					tag = CRO
+#					ai = yes
+#					THIS = { ai = no }
+#				}
+#				THIS = {
+#					inherit = CRO
+#					random_owned = {
+#						limit = { province_id = 771 }
+#						owner = { capital = 771 }
+#					}
+#					change_tag = CRO
+#				}	
+#			}
+#		}
+#
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				government = fascist_dictatorship
+#				CRO = {
+#					NOT = { government = fascist_dictatorship }
+#				}
+#			}
+#			modifier = {
+#				factor = 0
+#				NOT = { government = fascist_dictatorship }
+#				CRO = { government = fascist_dictatorship }
+#			}
+#			modifier = {
+#				factor = 0
+#				government = proletarian_dictatorship
+#				CRO = {
+#					NOT = { government = proletarian_dictatorship }
+#				}
+#			}
+#			modifier = {
+#				factor = 0
+#				NOT = { government = proletarian_dictatorship }
+#				CRO = { government = proletarian_dictatorship }
+#			}
+#			modifier = {
+#				factor = 0
+#				OR = {
+#					government = democracy
+#					government = hms_government
+#				}
+#				CRO = {
+#					NOT = {
+#						government = democracy
+#						government = hms_government
+#					}
+#				}
+#			}
+#			modifier = {
+#				factor = 0
+#				CRO = {
+#					OR = {
+#						government = democracy
+#						government = hms_government
+#					}
+#				}
+#				NOT = {
+#					government = democracy
+#					government = hms_government
+#				}
+#			}
+#			modifier = {
+#				factor = 0
+#				OR = {
+#					government = presidential_dictatorship
+#					government = bourgeois_dictatorship
+#				}
+#			}
+#		}
+#	}
 
 	form_yugoslavia = {
 		potential = {

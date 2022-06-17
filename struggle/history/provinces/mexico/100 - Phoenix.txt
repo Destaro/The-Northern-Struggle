@@ -1,6 +1,6 @@
-owner = MEX
+owner = VNS
 
-controller = MEX
+controller = VNS
 
 add_core = MEX
 terrain = new_world_semidesert
@@ -14,3 +14,5 @@ life_rating = 35
 	remove_core = MEX
 	colonial = 0
 }
+
+add_core = VNS

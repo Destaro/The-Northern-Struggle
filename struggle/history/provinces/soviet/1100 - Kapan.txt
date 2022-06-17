@@ -1,7 +1,8 @@
-owner = TCA
-controller = TCA
-add_core = ARM
-add_core = AZB
+owner = TTN
+controller = TTN
+add_core = PER
+add_core = TTN
 add_core = TCA
+add_core = ARM
 trade_goods = iron
 life_rating = 35

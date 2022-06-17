@@ -5,11 +5,46 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-
+#Circassian Autonomy
+substate = {
+	first = HUN
+	second = ABK
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+#Greater - Lesser Poland
+substate = {
+	first = POL
+	second = CPL
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+#Greater Poland - Prussy
+substate = {
+	first = POL
+	second = PRD
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+#Ruthene Principality
+substate = {
+	first = LIT
+	second = BYE
+	start_date = 1215.1.1
+	end_date = 1936.1.1
+}
 #Mittelafrika
 substate = {
 	first = GER
 	second = MIT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+#Afghanistan
+substate = {
+	first = AFG
+	second = CRL
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -147,52 +182,12 @@ vassal = {
 	end_date = 1868.1.1
 }
 
-#Persia - Mukriyan
+#Iraq-Banu Ka'ab
 vassal = {
-	first = PER
-	second = MKN
+	first = IRQ
+	second = KHZ
 	start_date = 1836.1.1
-	end_date = 1844.1.1
-}
-
-#Persia - Ardalan
-vassal = {
-	first = PER
-	second = RDL
-	start_date = 1836.1.1
-	end_date = 1844.1.1
-}
-
-#Ottoman - Baban
-vassal = {
-	first = PER
-	second = BNB
-	start_date = 1836.1.1
-	end_date = 1844.1.1
-}
-
-#Ottoman - Bitlis
-vassal = {
-	first = PER
-	second = BTL
-	start_date = 1836.1.1
-	end_date = 1844.1.1
-}
-
-#Ottoman - Bahdinan
-vassal = {
-	first = PER
-	second = BDN
-	start_date = 1836.1.1
-	end_date = 1844.1.1
-}
-
-#Ottoman - Bhotan
-vassal = {
-	first = PER
-	second = BHT
-	start_date = 1836.1.1
-	end_date = 1844.1.1
+	end_date = 1944.1.1
 }
 
 #Netherlands-Tidore Sultanate
@@ -227,10 +222,18 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Russia-Finland
+#Sweden-Finland
 vassal = {
-	first = RUS
+	first = SWE
 	second = FIN
+	start_date = 1815.1.1
+	end_date = 1863.1.1
+}
+
+#Sweden-Novgorod
+vassal = {
+	first = SWE
+	second = NOV
 	start_date = 1815.1.1
 	end_date = 1863.1.1
 }
@@ -320,22 +323,6 @@ vassal = {
 	second = MSK
 	start_date = 1815.11.9
 	end_date = 1936.1.1
-}
-
-#Russia - Baltic Governorate
-substate = {
-	first = RUS
-	second = UBD
-	start_date = 1801.1.1
-	end_date = 1881.1.1
-}
-
-# Egypt-Hedjaz
-vassal = {
-	first = EGY
-	second = HDJ
-	start_date = 1836.1.1
-	end_date = 1840.7.1
 }
 
 #######################
@@ -541,7 +528,7 @@ vassal = {
 
 # Dai Nam-Cambodia
 vassal = {
-	first = DAI
+	first = SIA
 	second = CAM
 	start_date = 1807.1.1
 	end_date = 1863.1.1
@@ -550,7 +537,7 @@ vassal = {
 ##########################China
 #China - Qinghai
 substate = {
-	first = QNG
+	first = MGL
 	second = XBI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -558,7 +545,7 @@ substate = {
 
 #China - Xinjiang
 substate = {
-	first = QNG
+	first = MGL
 	second = XIN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -566,7 +553,7 @@ substate = {
 
 #China - Kashgaria
 vassal = {
-	first = QNG
+	first = MGL
 	second = KML
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -574,63 +561,39 @@ vassal = {
 
 #China - Tannu Tuva
 vassal = {
-	first = QNG
+	first = MGL
 	second = TNT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-#China - Yunnan
-substate = {
-	first = QNG
-	second = YNN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
 #China - Manchuria
 substate = {
-	first = QNG
+	first = JAP
 	second = MCK
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-#China - Guizhou
+#Japan - Coastal Colonization Company
 substate = {
-	first = QNG
-	second = GUI
+	first = JAP
+	second = KAM
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
 #China - Inner Mongolia
 substate = {
-	first = QNG
+	first = MGL
 	second = IMG
 	start_date = 1691.1.1
 	end_date = 1937.1.1
 }
 
-#China/Mongolia
-vassal = {
-	first = QNG
-	second = MGL
-	start_date = 1691.1.1
-	end_date = 1937.1.1
-}
-
-# China/Tibet.
-vassal = {
-	first = QNG
-	second = TIB
-	start_date = 1815.11.9
-	end_date = 1912.1.1
-}
-
 #China/Korea
 vassal = {
-	first = QNG
+	first = JAP
 	second = KOR
 	start_date = 1636.1.1
 	end_date = 1876.1.1
@@ -670,19 +633,19 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-# OE - Romania 
+# Eran-Azerbaijan 
 vassal = {
 	first = PER
-	second = ROM
-	start_date = 1861.1.1
+	second = AZB
+	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
 
-# OE - Hejaz 
+# Eran-Shirvan
 vassal = {
 	first = PER
-	second = HDJ
-	start_date = 1861.1.1
+	second = TTN
+	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
 
@@ -701,3 +664,72 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+# Carthage-Libya
+substate = {
+	first = TUN
+	second = MGH
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+### Spanish Empire ###
+# New Spain
+substate = {
+	first = SPA
+	second = VNS
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# New Granada
+substate = {
+	first = SPA
+	second = VNG
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Viceroyalty Peru
+substate = {
+	first = SPA
+	second = VOP
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+### Swedish Empire ###
+# Livland
+substate = {
+	first = SWE
+	second = LAT
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Estland
+substate = {
+	first = SWE
+	second = EST
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Ingermanland
+substate = {
+	first = SWE
+	second = IZH
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Söder Bretland
+substate = {
+	first = SWE
+	second = BRT
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+### Danish Empire ###
+# Normandy
+#substate = {
+#	first = DEN
+#	second = NDY
+#	start_date = 1800.1.1
+#	end_date = 1936.1.1
+#}
+### Norwegian Empire ###

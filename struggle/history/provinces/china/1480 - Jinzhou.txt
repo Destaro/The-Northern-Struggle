@@ -1,6 +1,7 @@
-owner = MCK
-controller = MCK
+owner = JAP
+controller = JAP
 add_core = CHI
 add_core = MCK
 trade_goods = timber
 life_rating = 32
+colonial = 2

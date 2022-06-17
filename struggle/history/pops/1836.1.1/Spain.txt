@@ -1749,7 +1749,7 @@
 #Cartagena (212000/53000 POPS)
 506 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
@@ -1773,19 +1773,19 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 42375
 	}
@@ -1817,7 +1817,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 21025
 	}
@@ -1849,7 +1849,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 45600
 	}
@@ -1883,7 +1883,7 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
@@ -1907,7 +1907,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 62200
 	}
@@ -1915,31 +1915,31 @@
 #Cordoba (324000/81000 POPS)
 510 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 68500
 	}
@@ -1947,31 +1947,31 @@
 #Huelva (140000/35000 POPS)
 511 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 31375
 	}
@@ -1979,13 +1979,13 @@
 #Cadiz (336000/84000 POPS)
 512 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 850
 	}
@@ -2009,7 +2009,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 64650
 	}
@@ -2019,49 +2019,49 @@
 #Granada (382000/95500 POPS)
 513 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 2750
 	}
 
 	officers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 950
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 72850
 	}
@@ -2069,37 +2069,37 @@
 #Malaga (402000/100500 POPS)
 514 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 2700
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 78400
 	}
@@ -2107,31 +2107,31 @@
 #Almeria (242000/60500 POPS)
 515 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1650
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = iberian_scythian
 		religion = catholic
 		size = 52600
 	}
@@ -2139,13 +2139,13 @@
 #Jaen (270000/67500 POPS)
 516 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 600
 	}
@@ -2163,7 +2163,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 58200
 	}

@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = SIB
+owner = MGL
+controller = MGL
+add_core = MGL
+add_core = BRY
 trade_goods = coal
 life_rating = 35
 colonial = 2

@@ -540,70 +540,70 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 500004
-	title = "EVTNAME500004" #Polish petitions for annexation
-	desc = "EVTDESC500004"
-	picture = "greatpowers"
-	
-	
-	trigger = {
-		ai = yes
-		NOT = { has_country_flag = polish_integration_asked }
-		is_greater_power = no
-		primary_culture = polish
-		war = no
-		OR = {
-			part_of_sphere = no
-			in_sphere = POL
-		 }
-		POL = {
-			NOT = { truce_with = THIS }
-			exists = yes
-			neighbour = THIS 
-			is_vassal = no
-		}
-	}
-		
-	mean_time_to_happen = { months = 6 }
-	
-	option = {
-		name = "EVTOPT500004A"
-		set_country_flag = polish_integration_asked
-		all_core = {
-			add_core = POL
-			remove_core = THIS
-		}
-		annex_to = POL
-		
-		ai_chance = { 
-			factor = 100
-			modifier = {
-				factor = 0
-				OR = {
-					tag = DZG
-					is_secondary_power = yes
-				}
-			}
-		}
-	}
-			
-	option = {
-		name = "EVTOPT500004B"
-		set_country_flag = polish_integration_asked
-		all_core = { add_core = POL }
-		ai_chance = {
-			factor = 0
-			modifier = {
-			factor = 100
-				OR = {
-					tag = DZG
-					is_secondary_power = yes
-					}
-				}
-			}
-		}
-	}
+#country_event = {
+#	id = 500004
+#	title = "EVTNAME500004" #Polish petitions for annexation
+#	desc = "EVTDESC500004"
+#	picture = "greatpowers"
+#	
+#	
+#	trigger = {
+#		ai = yes
+#		NOT = { has_country_flag = polish_integration_asked }
+#		is_greater_power = no
+#		primary_culture = polish
+#		war = no
+#		OR = {
+#			part_of_sphere = no
+#			in_sphere = POL
+#		 }
+#		POL = {
+#			NOT = { truce_with = THIS }
+#			exists = yes
+#			neighbour = THIS 
+#			is_vassal = no
+#		}
+#	}
+#		
+#	mean_time_to_happen = { months = 6 }
+#	
+#	option = {
+#		name = "EVTOPT500004A"
+#		set_country_flag = polish_integration_asked
+#		all_core = {
+#			add_core = POL
+#			remove_core = THIS
+#		}
+#		annex_to = POL
+#		
+#		ai_chance = { 
+#			factor = 100
+#			modifier = {
+#				factor = 0
+#				OR = {
+#					tag = DZG
+#					is_secondary_power = yes
+#				}
+#			}
+#		}
+#	}
+#			
+#	option = {
+#		name = "EVTOPT500004B"
+#		set_country_flag = polish_integration_asked
+#		all_core = { add_core = POL }
+#		ai_chance = {
+#			factor = 0
+#			modifier = {
+#			factor = 100
+#				OR = {
+#					tag = DZG
+#					is_secondary_power = yes
+#					}
+#				}
+#			}
+#		}
+#	}
 	
 country_event = {
 	id = 500005
@@ -626,7 +626,5 @@ country_event = {
 		name = "EVTOPT500005A"
 		PZN = { all_core = { add_core = POL } }
 		PML = { all_core = { add_core = POL } }
-		SLS = { all_core = { add_core = POL } }
-		LUZ = { all_core = { add_core = POL } }
 	}
 }

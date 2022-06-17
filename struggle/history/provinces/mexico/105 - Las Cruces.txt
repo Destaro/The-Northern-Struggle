@@ -4,7 +4,6 @@ add_core = TEX
 add_core = MEX
 trade_goods = cattle
 life_rating = 35
-colonial = 2
 1861.1.1 = {
 	controller = CSA
 	owner = CSA
@@ -13,3 +12,5 @@ colonial = 2
 	remove_core = MEX
 	colonial = 0
 }
+
+add_core = VNS

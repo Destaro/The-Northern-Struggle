@@ -1,7 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
-add_core = GER
+owner = FRI
+controller = FRI
+add_core = FRI
 naval_base = 1
 terrain = wilhelmshaven
 trade_goods = fish

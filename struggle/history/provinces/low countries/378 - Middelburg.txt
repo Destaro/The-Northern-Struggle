@@ -1,5 +1,8 @@
 owner = NET
 controller = NET
 add_core = NET
+add_core = BEL
 trade_goods = fish
 life_rating = 35
+
+add_core = FRC

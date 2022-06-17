@@ -1,6 +1,7 @@
-owner = TCA
-controller = TCA
-add_core = AZB
+owner = PER
+controller = PER
+add_core = PER
+add_core = TTN
 add_core = TCA
 trade_goods = wool
 life_rating = 35

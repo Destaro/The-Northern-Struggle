@@ -603,6 +603,8 @@ political_decisions = {
 		effect = {
 			FRA = { set_country_flag = french_mines_placed }
 			BOR = { set_country_flag = french_mines_placed }
+			ORL = { set_country_flag = french_mines_placed }
+			#FRC = { set_country_flag = french_mines_placed }
 			money = -30000
 			434 = { trade_goods = iron }
 			418 = { trade_goods = iron }

@@ -1,6 +1,10 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = ZND
+controller = ZND
+
+add_core = RDL
 add_core = KDS
+terrain = mountain
 trade_goods = cotton
 life_rating = 35
+
+add_core = ZND

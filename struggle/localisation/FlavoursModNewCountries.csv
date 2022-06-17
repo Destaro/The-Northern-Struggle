@@ -34,8 +34,8 @@ SLS_colonial_company;Schlesien;;;;;;;;;;;;;x,
 SLS_dominion;Schlesien;;;;;;;;;;;;;x,
 PML_colonial_company;Westpreußen;;;;;;;;;;;;;x,
 PML_dominion;Westpreußen;;;;;;;;;;;;;x,
-PZN_colonial_company;Posen;;;;;;;;;;;;;x,
-PZN_dominion;Posen;;;;;;;;;;;;;x,
+PZN_colonial_company;Wielkopolska;;;;;;;;;;;;;x,
+PZN_dominion;Wielkopolska;;;;;;;;;;;;;x,
 POL_colonial_company;Generalgouvernement;;;;;;;;;;;;;x,
 POL_dominion;Generalgouvernement;;;;;;;;;;;;;x,
 BOH_colonial_company;Protektorat Böhmen-Mähren;;;;;;;;;;;;;x,
@@ -82,9 +82,9 @@ SGP_anarcho_liberal;National Union for Democracy and Progress;;;;;;;;;;;;x
 SGP_communist;Singapore Communist Party;;;;;;;;;;;;x
 SGP_fascist;Singapore Fascist Party;;;;;;;;;;;;x
 MLY_colonial_company;The Malayan Union;;;;;;;;;;;;x,
-MLY_dominon;The Malayan Union;;;;;;;;;;;;x,
+MLY_dominion;The Malayan Union;;;;;;;;;;;;x,
 MUG_colonial_company;The Dominion of India;;;;;;;;;;;;x,
-MUG_dominon;The Dominion of India;;;;;;;;;;;;x,
+MUG_dominion;The Dominion of India;;;;;;;;;;;;x,
 RHO_colonial_company;Rhodesia;;;;;;;;;;;;x
 RHO_dominion;Southern Rhodesia;;;;;;;;;;;;x
 NEW_colonial_company;The Newfoundland Colony;;;;;;;;;;;;x
@@ -158,7 +158,8 @@ MCK_absolute_monarchy;Manchukuo;;;;;;;;;x;;;;;;;;
 MCK_prussian_constitutionalism;Manchukuo;;;;;;;;;;;;;x
 MCK_hms_government;Manchukuo;;;;;;;;;;;;;x,
 MCK_colonial_company;Guandong;;;;;;;;;;;;;x,
-TST;Alto Adige;;;;;;;;;x;;;;;;;;
+TST;Tirolo;;;;;;;;;x;;;;;;;;
+TST_ADJ;Tirolese;;;;;;;;;x;;;;;;;;
 TST_colonial_company;Südtirol;;;;;;;;;;;;;;x
 LOM_colonial_company;Lombardo–Venetien;;;;;;;;;;;;;;x
 LOM_dominion;Lombardo–Venetien;;;;;;;;;;;;;;x
@@ -218,7 +219,7 @@ TAI_colonial_company;Takasago;;;;;;;;;;;;;x,
 TAI_dominion;Takasago;;;;;;;;;;;;;x,
 SAF_hms_government;The Union of South Africa;;;;;;;;;;;;;x,
 SAF_colonial_company;The Cape Colony;;;;;;;;;;;;;x,
-SAF_dominon;The Cape Colony;;;;;;;;;;;;;x,
+SAF_dominion;The Cape Colony;;;;;;;;;;;;;x,
 PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x,
 MAD_absolute_monarchy;The Merina Kingdom;;;;;;;;;;;;;x,
 MAD_colonial_company;Protectorat de Madagascar;;;;;;;;;;;;;x,
@@ -234,9 +235,9 @@ UBD_prussian_constitutionalism;The United Baltic Duchy;;;;;;;;;;;;;;;;;;;;;;x;;;
 UBD_hms_government;The United Baltic Duchy;;;;;;;;;;;;;;;;;;;;;;x;;;;
 UBD_democracy;The Baltic Union;;;;;;;;;;;;;x,
 UBD_colonial_company;Baltiyskiy Guberniya;;;;;;;;;;;;;x,
-UBD_dominon;Baltiyskiy Guberniya;;;;;;;;;;;;;x,
+UBD_dominion;Baltiyskiy Guberniya;;;;;;;;;;;;;x,
 HND_colonial_company;The Raj;;;;;;;;;;;;x,
-HND_dominon;The Dominion of India;;;;;;;;;;;;x,
+HND_dominion;The Dominion of India;;;;;;;;;;;;x,
 TCA_colonial_company;Kavkaz Namestnik;;;;;;;;;;;;;x,
 DAI_colonial_company;Indochine;;;;;;;;;;;;;x
 INO_colonial_company;Oost-Indie;;;;;;;;;;;;;x
@@ -248,7 +249,7 @@ ALD_colonial_company;Algerie;;;;;;;;;;;;;x
 ALD_dominion;Algerie;;;;;;;;;;;;;x
 COL_hms_government;The Dominion of Columbia;;;;;;;;;;;;;x
 NMB_colonial_company;Südwestafrika;;;;;;;;;;;;;x
-NMB_dominon;Südwestafrika;;;;;;;;;;;;;x
+NMB_dominion;Südwestafrika;;;;;;;;;;;;;x
 TNZ_colonial_company;Ostafrika;;;;;;;;;;;;;x
 TNZ_dominion;Ostafrika;;;;;;;;;;;;;x
 AUS_absolute_monarchy;The Austrian Empire;;;;;;;;;;;;;x
@@ -430,8 +431,8 @@ SWG;Schwarzburg;;;;;;;;;;;;;x,
 SWG_ADJ;Schwarzburgen;;;;;;;;;;;;;x,
 WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
-RUM;Eastern Rumelia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_ADJ;Eastern Rumelian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM;Dîvân-i Rumili;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_ADJ;Rumeli;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM;Samos;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_ADJ;Greek;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP;The United Principalities;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;

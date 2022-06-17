@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ORL
+controller = ORL
+add_core = ORL
 trade_goods = grain
 life_rating = 30
 terrain = paris
@@ -42,3 +42,5 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = FRC

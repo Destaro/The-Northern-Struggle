@@ -1,6 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = KAL
+controller = KAL
+add_core = KAL
 add_core = BLC
 add_core = MAK
 trade_goods = fish

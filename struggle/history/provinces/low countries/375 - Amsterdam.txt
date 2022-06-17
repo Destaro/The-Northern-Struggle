@@ -26,3 +26,5 @@ naval_base = 2
 		upgrade = yes
 	}
 }
+
+add_core = FRC

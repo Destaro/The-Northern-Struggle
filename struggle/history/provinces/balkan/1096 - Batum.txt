@@ -1,5 +1,5 @@
-owner = MIG
-controller = MIG
+owner = GEO
+controller = GEO
 add_core = MIG
 add_core = GEO
 trade_goods = fish

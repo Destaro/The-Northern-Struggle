@@ -1,7 +1,7 @@
-owner = BEL
-controller = BEL
-add_core = NET
-add_core = BEL
+owner = LUX
+controller = LUX
+add_core = LUX
+add_core = BRG
 trade_goods = coal
 life_rating = 35
 #state_building = {
@@ -20,3 +20,5 @@ life_rating = 35
 	remove_core = BEL
 	railroad = 3
 }
+
+add_core = FRC

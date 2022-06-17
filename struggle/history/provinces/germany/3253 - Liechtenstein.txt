@@ -1,5 +1,6 @@
-owner = LIE
-controller = LIE
-add_core = LIE
+owner = TST
+controller = TST
+add_core = TST
+add_core = ITA
 trade_goods = cattle
-life_rating = 30
+life_rating = 35

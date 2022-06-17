@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = CLC
+controller = CLC
+add_core = CLC
 add_core = CYP
 add_core = GRE
 trade_goods = fruit

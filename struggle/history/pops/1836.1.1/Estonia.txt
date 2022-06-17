@@ -111,37 +111,37 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 425
 	}
 
 	officers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 175
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 	
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
@@ -173,31 +173,31 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 800
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 1100
 	}
@@ -315,25 +315,25 @@
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 1325
 	}

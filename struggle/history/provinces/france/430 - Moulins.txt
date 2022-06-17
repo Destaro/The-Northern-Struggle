@@ -1,5 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BRG
+controller = BRG
+add_core = BRG
 trade_goods = coal
 life_rating = 30
+
+add_core = FRC

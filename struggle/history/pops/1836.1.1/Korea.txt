@@ -655,49 +655,49 @@
 #Pusan (740000/185000 POPS)
 1632 = {
 	aristocrats = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 7400
 	}
 
 	bureaucrats = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 375
 	}
 
 	officers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 425
 	}
 
 	clergymen = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 2800
 	}
 
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 8750
 	}
 	
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 10000
 	}
 	
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 10000
 	}
 
 	soldiers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 8000
 	}
@@ -709,7 +709,7 @@
 	}
 
 	slaves = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 47000
 	}
@@ -801,49 +801,49 @@
 #Kwangju (644000/161000 POPS)
 1635 = {
 	aristocrats = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 10000
 	}
 
 	bureaucrats = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 2100
 	}
 
 	officers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 1350
 	}
 
 	clergymen = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 2500
 	}
 
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 7550
 	}
 	
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 10000
 	}
 	
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 10000
 	}
 
 	soldiers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 8000
 	}
@@ -855,7 +855,7 @@
 	}
 
 	slaves = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 23200
 	}
@@ -912,37 +912,37 @@
 #Cheju (300000/75000 POPS)
 1637 = {
 	aristocrats = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 1350
 	}
 
 	clergymen = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 725
 	}
 
 	artisans = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 7000
 	}
 
 	soldiers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 2000
 	}
 
 	farmers = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 53725
 	}
 
 	slaves = {
-		culture = korean
+		culture = japanese
 		religion = mahayana
 		size = 9800
 	}

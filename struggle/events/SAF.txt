@@ -59,11 +59,11 @@ country_event = {
 	option = {
 		name = "EVT6001OPTA"
 		set_country_flag = rename_mozambican_provinces_boer
-		2049 = { change_province_name = "Ahoutburg" add_core = THIS }
-		2050 = { change_province_name = "Andriesburg" add_core = THIS }
-		2051 = { change_province_name = "Goiamense" add_core = THIS }
-		2052 = { change_province_name = "Fort Sarel" add_core = THIS }
-		2049 = { state_scope = { change_region_name = "Moojembeek"} }
+		2049 = { change_province_name = "Lourenço Marques" add_core = THIS }
+		2050 = { change_province_name = "João Belo" add_core = THIS }
+		2051 = { change_province_name = "Inhambane" add_core = THIS }
+		2052 = { change_province_name = "Malvérnia" add_core = THIS }
+		2049 = { state_scope = { change_region_name = "Lourenço Marques"} }
 		ai_chance = {
 			factor = 100
 		}

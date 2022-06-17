@@ -1,0 +1,19 @@
+#UNIFICATION
+country_event = {
+	id = 72669
+	title = "EVTNAME72669"
+	desc = "EVTDESC72669"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA72669"
+
+		THIS = {
+			any_owned = {
+				limit = { is_core = FRC }
+				secede_province = FRC
+			}
+		}
+	}
+}

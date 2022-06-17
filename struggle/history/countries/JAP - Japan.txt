@@ -1,12 +1,13 @@
 capital = 1657
 primary_culture = japanese
+culture = japanese_creole
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.57
 nationalvalue = nv_order
 literacy = 0.40
 civilized = yes
-prestige = 40
+prestige = 6
 
 # Political reforms
 slavery = no_slavery
@@ -40,6 +41,8 @@ colonial_policy = no_colonies
 
 set_country_flag = mahayana_country
 
+decision = taiwan_administration
+
 ruling_party = JAP_reactionary
 upper_house = {
 	fascist = 0
@@ -50,7 +53,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools
