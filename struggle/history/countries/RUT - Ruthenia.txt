@@ -1,4 +1,4 @@
-capital = 702
+capital = 958
 primary_culture = ukrainian
 religion = orthodox
 government = absolute_monarchy

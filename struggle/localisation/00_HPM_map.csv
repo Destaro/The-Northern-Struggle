@@ -2,7 +2,6 @@
 PROV3274;Svaneti;;;;;;;;;;x;;;;
 PROV2095;Dithakong;;;;;;;;;;x;;;;
 RUS_994;Ingriya;;;;;;;;;;;;;;x
-SWI_603;Mittelland;;;;;;;;;;;;;;x
 SWI_607;Région Lémanique;;;;;;;;;;;;;;x
 SWI_2568;Ticino;;;;;;;;;;;;;;x
 PROV3273;Thohoyandu;;;;;;;;;;;;;;x
@@ -19,9 +18,9 @@ PROV3267;Bielefield;;;;;;;;;;;;;;x
 PROV3266;San Marino;;;;;;;;;;;;;;x
 PROV3265;Essen;;;;;;;;;;;;;;x
 PROV567;Gießen;;;;;;;;;;;;;;x
-FRA_432;Franche-Comté;;;;;;;;;;;;;x
-FRA_411;Lorraine;;;;;;;;;;;;;x
-FRA_406;Champagne;;;;;;;;;;;;;x
+FRA_432;Est Burgendia;;;;;;;;;;;;;x
+FRA_411;Lotharingia;;;;;;;;;;;;;x
+FRA_406;Campania;;;;;;;;;;;;;x
 PROV3263;Fort William;;;;;;;;;;;;;x
 PROV3264;Nicobar Islands;;;;;;;;;;;;;x
 PROV882;Trebizond;;;;;;;;;;;;;x
@@ -165,7 +164,6 @@ PROV2507;Mparntwe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2505;Port Essington;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3107;Lake Baikal;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 PROV2589;Tsushima;;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1724;Orkney & Shetland;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1858;Asaita;;;;;;;;;;;;;;;;;;;;;;;;x
 australia_new_zealand;Oceania;;;;;;;;;;;;;;;;;;;;;;;;x
 polynesia;Polynesia;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -184,7 +182,6 @@ montane_tundra;Alpine Tundra;;;;;;;;;;;;;;;;;x
 montane_forest;Montane Forest;;;;;;;;;;;;;;;;;x
 savanna;Savanna;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1377;Da Nang;;;;;;;;;;;;;;;;;;x;;;;
-PROV1720;Bechar;;;;;;;;;;;;;;;;;;x;;;;
 PROV1714;Santa Rosa;;;;;;;;;;;;;;;;;;x;;;;
 PROV2631;Unalakleet;;;;;;;;;;;;;;;;;;x;;;;
 PROV2371;Uquia;;;;;;;;;;;;;;;;;;x;;;;
@@ -252,11 +249,9 @@ PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
 PROV2220;Turks & Caicos;;;;;;;;;;;;x
 CHI_1082;Guanwai;;;;;;;;;;;;x
 PROV2591;Tranquebar;;;;;;;;;;;;x
-SWI_603;Switzerland;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
 PROV2580;Novaya Ladoga;;;;;;;;;;;;x
 PROV995;Petrozavodsk;;;;;;;;;;;;x
-PROV1045;Migulinskaya;;;;;;;;;;;;x
 PROV950;Ungvár;;;;;;;;;;;;x
 RUS_1185;Zhetysu;;;;;;;;;;;;x
 PROV1201;Khujand;;;;;;;;;;;;x
@@ -913,11 +908,9 @@ PROV2187;La Mesilla;;;;;;;;;;;;x
 PROV2628;Ocos;;;;;;;;;;;;x
 BAV_601;Niederbayern;;;;;;;;;;;;x
 PROV3249;Old Tianjin;;;;;;;;;;;;;x
-PROV606;Luzern;;;;;;;;;;;;;x
 PROV2627;Coudersport;;;;;;;;;;;;x
 PROV160;Superior;;;;;;;;;;;;x
-PROV608;Friburg;;;;;;;;;;;;x
-PROV3251;Monaco;;;;;;;;;;;;;x
+PROV3251;Alba;;;;;;;;;;;;;x
 PROV185;Pikeville;;;;;;;;;;;;x
 PROV186;Lexington;;;;;;;;;;;;x
 PROV196;Gadsden;;;;;;;;;;;;x
@@ -953,6 +946,7 @@ PROV534;Hannover;;;;;;;;;;;;x
 FRA_438;Centre-Val de Loire;;;;;;;;;;;;x
 SIC_763;Sicilia;;;;;;;;;;;;x
 PROV843;Chios and Samos;;;;;;;;;;;;x
+PROV533;Hålilönj;;;;;;;;;;;;x
 PROV906;As-Suwayda;;;;;;;;;;;x
 PROV3275;Al-Sukhnah;;;;;;;;;x
 PROV3276;Raqqa;;;;;;;;;x
@@ -1020,16 +1014,24 @@ PROV697;Pissakaimas;;;;;;;;;x
 PROV698;Memelis;;;;;;;;;x
 PROV940;Pinsk;;;;;;;;;x
 PROV3505;Waadeilannen;;;;;;;;;x
+PROV605;Berna;;;;;;;;;x
+PROV606;Lüzerna;;;;;;;;;x
+PROV607;Genèva;;;;;;;;;x
+PROV608;Freiburg;;;;;;;;;x
+PROV611;Cuira;;;;;;;;;x
 TUR_3473;Epirus;;;;;;;;;;;;x
+RUS_707;Brzesc;;;;;;;;;;;;x
 TUR_923;Âtûr;;;;;;;;;;;;x
 AUS_774;Illiria occidentale;;;;;;;;;;;;x
 AUS_788;Illiria orientale;;;;;;;;;;;;x
+AUS_3565;Illiria settentrionale;;;;;;;;;;;;x
 POL_708;Kujawsko-Pomorskie;;;;;;;;;;;;x
 SAX_687;Lausic;;;;;;;;;;;;x
 PRU_3506;Mazury;;;;;;;;;;;;x
 PRU_695;Prusy;;;;;;;;;;;;x
 RUS_337;West Karelia;;;;;;;;;;;;x
 RUS_339;East Karelia;;;;;;;;;;;;x
+SWI_603;Currezia;;;;;;;;;;;;x
 PROV955;Rivne;Rivne;Rivne;;;;;;;;;;;
 PROV956;Luck;Luck;Luck;;;;;;;;;;;
 PROV957;Chelm;Chelm;Chelm;;;;;;;;;;;

@@ -6,6 +6,8 @@ punic_church_country;Carthaginian Church Country;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 punic_church;Carthaginian Church;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 autonomous_dependency;Autonomous Dependency;;;;;;;;;;;;;
 autonomous_dependency_ruler;Governor;;;;;;;;;;;;;
+lotharingian_duchy;Lotharingian Duchy;;;;;;;;;;;;;
+lotharingian_duchy_ruler;Duke;;;;;;;;;;;;;
 orthodox;Eastern Orthodox;;;;;;;;;;;;;;;;;;;;;;;;x
 coptic;Oriental Orthodox;;;;;;;;;;;;;;;;;;;;;;;;x
 syriac;Oriental Catholic;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -33,7 +35,7 @@ iassic;Iasi;;;;;;;;;;;;x
 japanese;Japanese;;;;;;;;;;;;;x
 japanese_creole;Kongô;;;;;;;;;;;;;x
 taiwanese;Taiwanese Austronesian;;;;;;;;;;;;;x
-punic;Qarteni;;;;;;;;;;;;x
+punic;Qarthageni;;;;;;;;;;;;x
 lusitanian;Lusitano;;;;;;;;;;;;x
 leonese;Leonês;;;;;;;;;;;;x
 phoenecoberber;Tingait;;;;;;;;;;;;x
@@ -44,7 +46,7 @@ eastern_germanic;Eastern Germanic;;;;;;;;;;;;;;;;;;;;;;;;x
 scythian_group;Scythic;;;;;;;;;;;;;;;;;;;;;;;;x
 beneluxian;Frankish Group;;;;;;;;;;;;;;;;;;;;;;;;x
 semitic_group;Western Semitic;;;;;;;;;;;;;;;;;;;;;;;;x
-arab_khorasani;Zanu'i Arabic;;;;;;;;;;;;x
+arab_khorasani;Zangu'i Arabic;;;;;;;;;;;;x
 romanian;Dacoromanian;;;;;;;;;;;;;;;;;;;;;;;;x
 aromanian;Aromanian;;;;;;;;;;;;;;;;;;;;;;;;x
 megleno_romanian;Mogleno-Romanian;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -55,9 +57,20 @@ silesian;Šléziš;;;;;;;;;;;;;;;;;;;;;;;;x
 pruski;Pruski;;;;;;;;;;;;;;;;;;;;;;;;x 
 novgorodian;Novgorodian;;;;;;;;;;;;;;;;;;;;;;;;x 
 judeo_iranian;Judeo-Iranian;;;;;;;;;;;;;;;;;;;;;;;;x 
-boer;Judeo-Iranian;;;;;;;;;;;;;;;;;;;;;;;;x 
+boer;Povonandos;;;;;;;;;;;;;;;;;;;;;;;;x 
 african_romance;Afri-Romanni;;;;;;;;;;;;;;;;;;;;;;;;x 
+persian;Farsi;;;;;;;;;;;;;;;;;;;;;;;;x 
+khorasani_persian;Dari;;;;;;;;;;;;;;;;;;;;;;;;x
+khwarazm_persian;Khwarazmi;;;;;;;;;;;;;;;;;;;;;;;;x 
+norn;Norn;;;;;;;;;;;;;x
 ;;;;;;x;;;;
+LUX_lotharingian_duchy;Lower Lotharingia;;;;;;;;;;;;;x
+LOR_lotharingian_duchy;Upper Lotharingia;;;;;;;;;;;;;x
+LOT;Lotharingia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LOT_absolute_monarchy;Kingdom of Lotharingia;;;;;;;;;;;;x
+LOT_hms_government;Kingdom of Lotharingia;;;;;;;;;;;;x
+LOT_prussian_constitutionalism;Kingdom of Lotharingia;;;;;;;;;;;;x
+LOT_ADJ;Lotharingian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TTN;Tatistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TTN_colonial_company;Shahdom of Shirvan;;;;;;;;;;;;x
 TTN_absolute_monarchy;Shirvan;;;;;;;;;;;;x
@@ -72,6 +85,10 @@ LBN_Dominion;Aramaic Autonomy;;;;;;;;;;;;x
 NOV;Novgorod;;;;;;;;;;;;;x
 NOV_colonial_company;Holmgård;;;;;;;;;;;;;;;;;;;;;;x
 NOV_ADJ;Novgorodian;;;;;;;;;;;;;x
+;;;;;;x;;;;
+SCO;Alban;;;;;;;;;;;;;x
+SCO_colonial_company;Piktland;;;;;;;;;;;;;;;;;;;;;;x
+SCO_ADJ;Albidosaek;;;;;;;;;;;;;x
 ;;;;;;x;;;;
 KAM;Ainu-Mosir;;;;;;;;;;;;;x
 KAM_ADJ;Ainu;;;;;;;;;;;;;x
@@ -163,8 +180,8 @@ NDY_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 ;;;;;;x;;;;
 KHT;Khozeimeh Amirdom;;;;;;;;;;;;;
 KHT_ADJ;Khozeimegi;;;;;;;;;;;;;
-ZNU;Zanu'i Arabs;;;;;;;;;;;;;
-ZNU_ADJ;Zanu'i;;;;;;;;;;;;;
+ZNU;Zangu'i Arabs;;;;;;;;;;;;;
+ZNU_ADJ;Zangu'i;;;;;;;;;;;;;
 KHZ;Banu Ka'ab;;;;;;;;;;;;;
 KHZ_ADJ;Banu Ka'abi;;;;;;;;;;;;;	
 BSR;Al-Mazkur Sheikdom;;;;;;;;;;;;;
@@ -268,7 +285,7 @@ LST;Lusitânia;Lusitanie;Lusitânia;;;;;;;;;;;
 LST_ADJ;Lusitano;Lusitanien;Lusitano;;;;;;;;;;;
 LST_conservative_1;Converxencia Nacionalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_conservative_3;Unidade Popular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-LST_liberal_2;Solidaridad Lusiatana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LST_liberal_2;Solidaridad Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_liberal_3;Partido Demócrata Cristián;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_socialist_1;Partido Lusitano do Proletariado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_socialist_2;Union do Povo Lusitano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

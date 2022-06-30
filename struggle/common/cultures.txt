@@ -101,169 +101,57 @@ beneluxian = {
 	dutch = { 
 		color = { 95 55 55}
 		first_names = { 
-			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
-			Barthout
-			Casimir Constantijn Cornelis Christiaan Christoffel 
-			Daniël David Dominicus Daniel Dirk
-			Elias Ernst Erwin Eise
-			Frans Frederik
-			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
-			Hendrik Hans Hugo
-			Isaac
-			Johan Jurgen Jacob Jeroen Jan Joost
-			Karel Kasper
-			Luuk Lodewijk Laurens
-			Marius Matthijs Maximiliaam Merkus Moritz Maurits
-			Nikolaas
-			Pauwel Paul Pieter
-			Quinten
-			Rafaël Ruben Rudolf Roeland Rogier Rutger
-			Stefan Simon
-			Thomas
-			Victor Willem Vincent
-			Zacharias
+		Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
+		Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
+		Avremar Badegisel Balduin Barnard Berald Bernard Berneri Bero Berold Berthefried Bertlin Bertram
+		Bertrand Burchard Karloman Ceslin Chararic Charibert Childebert Childeric Chilperic
+		Chlodomer Chlothar Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo Eberulf Ebregisel Engilbert
+		Euric Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
+		Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
+		Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
+		Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert Imnachar Ingalbert
+		Ingomer Karl Lambert Lantbert Leudast Lothar Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
+		Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
+		Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
+		Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
+		Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
+		Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn Vulvari
+		Waltgaud Werinbert Wilbert Willichar Wolfari
 		}
 		
 		last_names = { 
-			"van der Aa" "van Assendelft" 
-			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
-			"van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
-
-			"van Culemborg"
-			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
-			Ellis Engels Engelvaart "van Egmont" Evertzen
-			Fabius
-			Gregory "van Galen" "de Grouwe" "van Geen" 
-			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
-			"van Ilpendam"
-			Janssens
-			Köhler Kool Kruys Kater "van Keppel" Kortenaer
-			List Lucas
-			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
-			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
-			Ongerboer 
-			"van Pallandt"
-			Rijk Röell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
-			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
-
-			Steltman Stuyvesant
-			Tasman "van Troyen" Trip
-			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
-			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
-			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
-			Wolterbeek
+			Meroving Karling Erenolding Nibelunging Hugonid Dodonid Theodnid Cheribertid Ricufling Bouvinid
+			Landen Adalberts Laidrati Chiemgaudson Hildegars Leudoni Adelards Australdling
+			Baugulfson Berengling Hildradson Drogling Engelgerson Galimani Herluins Hermenelds
+			Roding Gunberts Wulfardson Vuodi Walthars Warins Wegelenzi Welenti Widling Morgannid
 		}
 	}
 	frankish = { 
 		color = { 75 35 35}
 		first_names = { 
-			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
-			Barthout
-			Casimir Constantijn Cornelis Christiaan Christoffel 
-			Daniël David Dominicus Daniel Dirk
-			Elias Ernst Erwin Eise
-			Frans Frederik
-			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
-			Hendrik Hans Hugo
-			Isaac
-			Johan Jurgen Jacob Jeroen Jan Joost
-			Karel Kasper
-			Luuk Lodewijk Laurens
-			Marius Matthijs Maximiliaam Merkus Moritz Maurits
-			Nikolaas
-			Pauwel Paul Pieter
-			Quinten
-			Rafaël Ruben Rudolf Roeland Rogier Rutger
-			Stefan Simon
-			Thomas
-			Victor Willem Vincent
-			Zacharias
+		Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
+		Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
+		Avremar Badegisel Balduin Barnard Berald Bernard Berneri Bero Berold Berthefried Bertlin Bertram
+		Bertrand Burchard Karloman Ceslin Chararic Charibert Childebert Childeric Chilperic
+		Chlodomer Chlothar Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo Eberulf Ebregisel Engilbert
+		Euric Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
+		Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
+		Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
+		Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert Imnachar Ingalbert
+		Ingomer Karl Lambert Lantbert Leudast Lothar Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
+		Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
+		Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
+		Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
+		Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
+		Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn Vulvari
+		Waltgaud Werinbert Wilbert Willichar Wolfari
 		}
 		
 		last_names = { 
-			"van der Aa" "van Assendelft" 
-			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
-			"van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
-
-			"van Culemborg"
-			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
-			Ellis Engels Engelvaart "van Egmont" Evertzen
-			Fabius
-			Gregory "van Galen" "de Grouwe" "van Geen" 
-			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
-			"van Ilpendam"
-			Janssens
-			Köhler Kool Kruys Kater "van Keppel" Kortenaer
-			List Lucas
-			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
-			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
-			Ongerboer 
-			"van Pallandt"
-			Rijk Röell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
-			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
-
-			Steltman Stuyvesant
-			Tasman "van Troyen" Trip
-			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
-			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
-			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
-			Wolterbeek
-		}
-	}
-	rhine_frankish = { 
-		color = { 105 70 70}
-		first_names = { 
-			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
-			Barthout
-			Casimir Constantijn Cornelis Christiaan Christoffel 
-			Daniël David Dominicus Daniel Dirk
-			Elias Ernst Erwin Eise
-			Frans Frederik
-			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
-			Hendrik Hans Hugo
-			Isaac
-			Johan Jurgen Jacob Jeroen Jan Joost
-			Karel Kasper
-			Luuk Lodewijk Laurens
-			Marius Matthijs Maximiliaam Merkus Moritz Maurits
-			Nikolaas
-			Pauwel Paul Pieter
-			Quinten
-			Rafaël Ruben Rudolf Roeland Rogier Rutger
-			Stefan Simon
-			Thomas
-			Victor Willem Vincent
-			Zacharias
-		}
-		
-		last_names = { 
-			"van der Aa" "van Assendelft" 
-			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
-			"van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
-
-			"van Culemborg"
-			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
-			Ellis Engels Engelvaart "van Egmont" Evertzen
-			Fabius
-			Gregory "van Galen" "de Grouwe" "van Geen" 
-			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
-			"van Ilpendam"
-			Janssens
-			Köhler Kool Kruys Kater "van Keppel" Kortenaer
-			List Lucas
-			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
-			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
-			Ongerboer 
-			"van Pallandt"
-			Rijk Röell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
-			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
-
-			Steltman Stuyvesant
-			Tasman "van Troyen" Trip
-			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
-			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
-			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
-			Wolterbeek
+			Meroving Karling Erenolding Nibelunging Hugonid Dodonid Theodnid Cheribertid Ricufling Bouvinid
+			Landen Adalberts Laidrati Chiemgaudson Hildegars Leudoni Adelards Australdling
+			Baugulfson Berengling Hildradson Drogling Engelgerson Galimani Herluins Hermenelds
+			Roding Gunberts Wulfardson Vuodi Walthars Warins Wegelenzi Welenti Widling Morgannid
 		}
 	}
 	batavian_frankish = { 
@@ -552,6 +440,15 @@ scandinavian = {
 					  Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko 
 					}
 			}
+	
+	norn = { 
+		color = { 100 20 140}
+		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
+		
+		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
+		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
+		}
 	}
 
 british = {
@@ -586,9 +483,14 @@ british = {
 	scottish = { 
 		color = { 0 71 182 }
 		radicalism = 5
-		first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
+		first_names = { Achiuir Aethon Aenbecan Allan Allcallorred Allisander Aniel Ardle Auust Bili Bran Breth Bridei Briog Broichan
+		Brude Caltram Canu Canuall Canan Caradaig Caruorst Castant Castantin Ciniod Crup Dabuut Deocillimon Deoord
+		Domelch Drest Drosten Eddarrnonn Elpin Enuidaig Erpin Galam Ganant Garalt Gede Gest Gigurum Girom Idual
+		Iduallon Iestan Iuan Irb Lutrin Mael Maelchon Manath Mordeleg Morleo Murtolic Naiton Ninian Pedric Pedur
+		Paul Pidarnoin Ru Ruatirch Rubert Rudri Telurg Telurgan Taran Tarla Uipoig Uist Uuochu
+		Uoret Unen Unuist Urguist Usuullt Uthoil Uudrost Uuen Uuid Uuirp Uuredach Uuroid }
 		
-		last_names = { Smith Brown Wilson Robertson Thomson Campbell Stewart Anderson Scott Murray MacDonald Reid Taylor Clark Ross Young Mitchell Watson Paterson Morrison Sanders	}
+		last_names = { Bili Circinn Ce Fotla Fib Fidach Miathi Des Fergusa "Dun Nechtain" "Mac Beli" "Mac Boanta" "Mac Oengusa" Cait Fortriu }
 	}
 	
 	welsh = { 
@@ -1685,16 +1587,51 @@ iranian = {
 	}
 	tajik = {
 		color = {122 127 111}
-			first_names = {
+		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
-			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
-			Mahmoud Mahsud Mirza Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
-			Nadir "Naser ed-Din" Nosret Reza
+			Ebrahim Esmail "Fath Ali" Fazlollah Firuz Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Mirza Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
 			}
 		last_names = {
-			Khan Tajik Emomali Shohmurod Rahbar Ghoib Fayzullo Sabouri Furmuli Badakhshi Baghlani Mazari Panjsheri Kabuli Herati Kohistani
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai  
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
 			}
 		radicalism = 10
+	}
+	
+	khwarazm_persian = {
+		color = {130 88 81}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Firuz Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Mirza Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai  
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+	
+	khorasani_persian = {
+		color = {135 88 81}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Firuz Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Mirza Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai  
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
 	}
 	pashtun = {
 		color = {199 151 230}
@@ -2634,11 +2571,22 @@ neo_european_cultures = {
 	leader = european
 	is_overseas = no
 	boer = {
-		color = {220 145 0}
-		first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
-		}
-		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 
-		}
+		color = {57 160 101}
+		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino 
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
+		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando 
+		Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio Jerônimo João Joaquim Jorge
+		José Julio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando 
+		Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
+		Sebastião Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório }
+		
+		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
+		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho" 
+		"de Castro" "de Gusmão" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
+		Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira 
+		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
+		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
 	}
 	
 	australian = {

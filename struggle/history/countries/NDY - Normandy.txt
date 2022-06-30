@@ -1,5 +1,5 @@
 capital = 418
-primary_culture = french
+primary_culture = frankish
 religion = catholic
 government = absolute_monarchy
 plurality = 30

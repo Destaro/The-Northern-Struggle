@@ -3,49 +3,49 @@
 #Innsbruck (236000/59000 POPS)
 612 = {
 	aristocrats = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 750 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 1375 
 	}
 
 	officers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 1250 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 2750
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 50325
 	}
@@ -117,31 +117,31 @@
 #Lienz (52000/13000 POPS)
 615 = {
 	aristocrats = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 175 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 1125
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 11975
 	}
@@ -263,25 +263,25 @@
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 16675 
 	}

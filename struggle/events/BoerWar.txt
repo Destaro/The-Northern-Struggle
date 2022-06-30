@@ -11,7 +11,7 @@ country_event = {
 	picture = "pioneer_wagons"
 	
 	trigger = {
-		tag = ENG
+		tag = POR
 		NOT = { has_global_flag = great_boer_trek }
 		NOT = { has_country_flag = boer_accepted }
 	}
@@ -145,9 +145,9 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" secede_province = THIS  }
-		2111 = { change_province_name = "Pietermaritzburg" secede_province = THIS }
-		2111 = { state_scope = { change_region_name = "Natal" } }
+		2112 = { change_province_name = "Dona Silva" secede_province = THIS  }
+		2111 = { change_province_name = "Porto Arrango" secede_province = THIS }
+		2111 = { state_scope = { change_region_name = "Lourenço" } }
 		ai_chance = { factor = 100 }
 	}
 	
@@ -170,11 +170,11 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" secede_province = THIS }
-		2111 = { change_province_name = "Pietermaritzburg" secede_province = THIS }
+		2112 = { change_province_name = "Dona Silva" secede_province = THIS }
+		2111 = { change_province_name = "Porto Arrango" secede_province = THIS }
 		2111 = {
 			state_scope = {
-				change_region_name = "Natal"
+				change_region_name = "Lourenço"
 				is_slave = yes
 			}
 		}
@@ -200,9 +200,9 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" secede_province = THIS }
-		2111 = { change_province_name = "Pietermaritzburg" secede_province = THIS }
-		2111 = { state_scope = { change_region_name = "Natal" is_slave = yes } }
+		2112 = { change_province_name = "Dona Silva" secede_province = THIS }
+		2111 = { change_province_name = "Porto Arrango" secede_province = THIS }
+		2111 = { state_scope = { change_region_name = "Lourenço" is_slave = yes } }
 		change_tag_no_core_switch = NAL
 		ai_chance = { factor = 0 }
 	}
@@ -241,11 +241,11 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" }
-		2111 = { change_province_name = "Pietermaritzburg" }
+		2112 = { change_province_name = "Dona Silva" }
+		2111 = { change_province_name = "Porto Arrango" }
 		2111 = {
 			state_scope = {
-				change_region_name = "Natal"
+				change_region_name = "Lourenço"
 			}
 		}
 		ai_chance = {
@@ -272,11 +272,11 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" }
-		2111 = { change_province_name = "Pietermaritzburg" }
+		2112 = { change_province_name = "Dona Silva" }
+		2111 = { change_province_name = "Porto Arrango" }
 		2111 = {
 			state_scope = {
-				change_region_name = "Natal"
+				change_region_name = "Lourenço"
 			}
 		}
 		ai_chance = {
@@ -306,11 +306,11 @@ country_event = {
 			money = 250
 			move_pop = 2111
 		}
-		2112 = { change_province_name = "Ladysmith" }
-		2111 = { change_province_name = "Pietermaritzburg" }
+		2112 = { change_province_name = "Dona Silva" }
+		2111 = { change_province_name = "Porto Arrango" }
 		2111 = {
 			state_scope = {
-				change_region_name = "Natal"
+				change_region_name = "Lourenço"
 			}
 		}
 		ai_chance = { factor = 0 }
@@ -556,10 +556,10 @@ country_event = {
 	option = {
 		name = "EVT98215OPTA"
 		set_global_flag = orange_river_sovereignty
-		2100 = { change_province_name = "Port St. Johns" }
+		2100 = { change_province_name = "São João do Sul" }
 		SAF = {
-			primary_culture = british
-			add_accepted_culture = boer
+			primary_culture = boer
+			add_accepted_culture = portuguese
 		}
 		any_owned = {
 			limit = {
@@ -612,7 +612,7 @@ country_event = {
 			country_event = 98216
 		}
 		2101 = {
-			change_province_name = "Bloemfontein"
+			change_province_name = "Bem-Vindo"
 			secede_province = THIS
 			add_core = ORA
 			add_core = SAF
@@ -622,11 +622,11 @@ country_event = {
 			remove_core = MAT
 			add_core = ORA
 			add_core = SAF
-			change_province_name = "Winburg"
-			state_scope = { change_region_name = "Vrystaat" }
+			change_province_name = "Cidade da Coroa"
+			state_scope = { change_region_name = "Laranja" }
 		}
 		2103 = {
-			change_province_name = "Philippolis"
+			change_province_name = "Fonteflores"
 			secede_province = THIS
 			add_core = ORA
 			add_core = SAF
@@ -707,7 +707,7 @@ country_event = {
 			country_event = 98216
 		}
 		2101 = {
-			change_province_name = "Bloemfontein"
+			change_province_name = "Bem-Vindo"
 			secede_province = THIS
 			add_core = ORA
 			add_core = SAF
@@ -717,11 +717,11 @@ country_event = {
 			remove_core = MAT
 			add_core = ORA
 			add_core = SAF
-			change_province_name = "Winburg"
-			state_scope = { change_region_name = "Vrystaat" }
+			change_province_name = "Cidade da Coroa"
+			state_scope = { change_region_name = "Laranja" }
 		}
 		2103 = {
-			change_province_name = "Philippolis"
+			change_province_name = "Fonteflores"
 			secede_province = THIS
 			add_core = ORA
 			add_core = SAF
@@ -879,29 +879,29 @@ country_event = {
 			remove_core = BSH
 			add_core = TRN
 			add_core = SAF
-			change_province_name = "Pretoria"
-			state_scope = { change_region_name = "Transvaal" }
+			change_province_name = "Pretória"
+			state_scope = { change_region_name = "Novo Algarve" }
 		}
 		2106 = {
-			change_province_name = "Witwatersrand"
+			change_province_name = "Clérigo"
 			secede_province = THIS
 			remove_core = BSH
 			add_core = TRN
 			add_core = SAF
 		}
 		2107 = {
-			change_province_name = "Klerksdorp"
+			change_province_name = "Lugopedra"
 			secede_province = THIS
 			add_core = TRN
 			add_core = SAF
 		}
 		2108 = {
-			change_province_name = "Nylstroom"
+			change_province_name = "Cabeça do Elefante"
 			add_core = TRN
 			add_core = SAF
 		}
 		2109 = {
-			change_province_name = "Lydenburg"
+			change_province_name = "Nova Ermelo"
 			secede_province = THIS
 			add_core = TRN
 			add_core = SAF
@@ -1024,29 +1024,29 @@ country_event = {
 			remove_core = BSH
 			add_core = TRN
 			add_core = SAF
-			change_province_name = "Pretoria"
-			state_scope = { change_region_name = "Transvaal" }
+			change_province_name = "Pretória"
+			state_scope = { change_region_name = "Novo Algarve" }
 		}
 		2106 = {
-			change_province_name = "Witwatersrand"
+			change_province_name = "Clérigo"
 			secede_province = THIS
 			remove_core = BSH
 			add_core = TRN
 			add_core = SAF
 		}
 		2107 = {
-			change_province_name = "Klerksdorp"
+			change_province_name = "Lugopedra"
 			secede_province = THIS
 			add_core = TRN
 			add_core = SAF
 		}
 		2108 = {
-			change_province_name = "Nylstroom"
+			change_province_name = "Cabeça do Elefante"
 			add_core = TRN
 			add_core = SAF
 		}
 		2109 = {
-			change_province_name = "Lydenburg"
+			change_province_name = "Nova Ermelo"
 			secede_province = THIS
 			add_core = TRN
 			add_core = SAF
@@ -1573,8 +1573,8 @@ country_event = {
 		war = no
 		OR = {
 			AND = {
-				in_sphere = ENG
-				SAF = { vassal_of = ENG }
+				in_sphere = POR
+				SAF = { vassal_of = POR }
 			}
 			AND = {
 				in_sphere = ENL
@@ -1595,7 +1595,7 @@ country_event = {
 		}
 		NOT = {
 			has_country_flag = asked_to_join
-			truce_with = ENG
+			truce_with = POR
 			truce_with = ENL
 			truce_with = SAF
 		}
@@ -1707,13 +1707,13 @@ country_event = {
 
 	trigger = {
 		war = no
-		tag = ENG
+		tag = POR
 		TRN = {
 			OR = {
 				neighbour = THIS
 				AND = {
 					neighbour = SAF
-					SAF = { vassal_of = ENG }
+					SAF = { vassal_of = POR }
 				}
 			}
 			is_vassal = no
@@ -1759,10 +1759,10 @@ country_event = {
 			limit = {
 				tag = SAF
 				exists = yes
-				vassal_of = ENG
-				NOT = { alliance_with = ENG }
+				vassal_of = POR
+				NOT = { alliance_with = POR }
 			}
-			create_alliance = ENG
+			create_alliance = POR
 		}
 		TRN = {
 			set_country_flag = uncivilize_on_conquest
@@ -1832,10 +1832,10 @@ country_event = {
 				exists = yes
 				is_greater_power = yes
 				NOT = {
-					alliance_with = ENG	
-					truce_with = ENG
+					alliance_with = POR	
+					truce_with = POR
 					war_policy = pacifism
-					relation = { who = ENG value = 1 }
+					relation = { who = POR value = 1 }
 				}
 			}
 			country_event = 6060
@@ -1884,7 +1884,7 @@ country_event = { #Oranje & Natalia can rally to Transvaal's side in Second Boer
 			name = small_country_draft
 			duration = 1095
 		}
-		ENG = {
+		POR = {
 			war = {
 				target = THIS
 				attacker_goal = { casus_belli = conquest_any }
@@ -2125,7 +2125,7 @@ country_event = {
 	trigger = {
 		war = no
 		OR = {
-			tag = ENG
+			tag = POR
 			tag = ENL
 		}
 		year = 1878
@@ -2205,7 +2205,7 @@ country_event = {
 	
 	trigger = {
 		OR = {
-			tag = ENG
+			tag = POR
 			tag = ENL
 		}
 		is_greater_power = yes
@@ -2264,7 +2264,7 @@ country_event = {
 	
 	trigger = {
 		OR = {
-			tag = ENG
+			tag = POR
 			tag = ENL
 		}
 		is_greater_power = yes
@@ -2357,7 +2357,7 @@ country_event = {
 		set_country_flag = walvis_bay
 		prestige = 5
 		treasury = -10000
-		2083 = { secede_province = THIS change_province_name = "Walvis Bay" life_rating = 25 any_pop = { literacy = -0.99 } }
+		2083 = { secede_province = THIS change_province_name = "Golfo de Santa Marija" life_rating = 25 any_pop = { literacy = -0.99 } }
 		ai_chance = {
 			factor = 100
 			modifier = {
@@ -2382,7 +2382,7 @@ country_event = {
 	picture = "pioneer_wagons"
 	
 	trigger = {
-		tag = ENG
+		tag = POR
 		war = no
 		owns = 2087
 		year = 1840
@@ -2434,9 +2434,9 @@ country_event = {
 				2088 = { empty = yes }
 			}
 			2088 = {
-				secede_province = ENG
+				secede_province = POR
 				any_pop = { limit = { NOT = { has_pop_culture = boer } } literacy = -0.99 }
-				change_province_name = "Springbok" 
+				change_province_name = "Pedro do Cão" 
 				life_rating = 15
 			}
 		}
@@ -2447,10 +2447,10 @@ country_event = {
 				2558 = { empty = yes }
 			}
 			2558 = {
-				secede_province = ENG
+				secede_province = POR
 				any_pop = { limit = { has_pop_culture = boer } literacy = 0.2 } 
 				any_pop = { limit = { NOT = { has_pop_culture = boer } } literacy = -0.99 }
-				change_province_name = "De Aar"
+				change_province_name = "Vila Esperança"
 				life_rating = 15
 			}
 		}
@@ -2460,10 +2460,10 @@ country_event = {
 				2093 = { empty = yes }
 			}
 			2093 = {
-				secede_province = ENG
+				secede_province = POR
 				any_pop = { limit = { has_pop_culture = boer } literacy = 0.29 }
 				any_pop = { limit = { NOT = { has_pop_culture = boer } } literacy = -0.99 }
-				change_province_name = "Calvinia"
+				change_province_name = "Calvínia"
 				life_rating = 15
 			}
 		}
@@ -2510,7 +2510,7 @@ country_event = {
 		add_country_modifier = { name = gold_rush_country duration = 5475 }
 		2094 = {
 			secede_province = THIS
-			change_province_name = "Kimberley"
+			change_province_name = "Povo Gríquas"
 			trade_goods = precious_metal
 			add_province_modifier = { name = gold_rush duration = 1825 }
 			any_pop = { limit = { NOT = { has_pop_culture = boer } } literacy = -0.99 }

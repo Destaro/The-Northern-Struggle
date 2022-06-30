@@ -203,7 +203,7 @@ army = {
 	
 	name = "Danske Haeren"
 	
-	location = 372
+	location = 417
 	
 	regiment = {
 		
@@ -295,7 +295,7 @@ navy = {
 	
 	name = "Royal Navy"
 	
-	location = 372
+	location = 2724
 	
 	ship = {
 

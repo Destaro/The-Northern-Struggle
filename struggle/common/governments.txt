@@ -161,6 +161,15 @@ french_bourbon = {
 	duration = 48
 	appoint_ruling_party = yes
 }
+ 
+lotharingian_duchy = {
+	conservative = yes
+	reactionary = yes
+	fascist = yes
+	
+	
+	appoint_ruling_party = yes
+}
 
 #used for specific puppets
 autonomous_dependency = {

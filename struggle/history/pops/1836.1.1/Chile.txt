@@ -181,60 +181,72 @@
 		size = 5575
 	}
 }
-#Arica (20000/5000 POPS)
+#Arica (20000/5000 POPS) 
 2308 = {
 	aristocrats = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic
 		size = 125
 	}
-
-	clergymen = {
-		culture = aimara
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = aimara
+	
+	bureaucrats = {
+		culture = south_andean
 		religion = catholic
 		size = 50
 	}
 
-	soldiers = {
-		culture = aimara
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = aimara
-		religion = catholic
-		size = 740
-	}
-
 	clergymen = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic
-		size = 25
+		size = 60
 	}
 
 	artisans = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = aimara
-		religion = catholic
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic
-		size = 3725
+		size = 1000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 1400
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size= 1050
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 15000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 5295
 	}
 }
 #Chile Norte Region (116000)

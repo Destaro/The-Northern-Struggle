@@ -1733,7 +1733,6 @@ unite_francia = {
                 prestige = 50
 				capital = 425
                 change_tag = FRC
-				add_accepted_culture = rhine_frankish
 				add_accepted_culture = batavian_frankish
 				add_accepted_culture = frankish
 				add_accepted_culture = dutch
@@ -1774,6 +1773,40 @@ unite_francia = {
 				}
 			}
 		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#FORM LOTHARINGIA
+form_lotharingia = {
+		picture = middle_francia
+        potential = {
+            NOT = { has_global_flag = lotharingia_is_back }
+			OR = {
+				tag = LUX
+				tag = LOR
+				}
+            }
+
+            allow = {
+			OR = {
+			has_country_flag = lux_win 
+			has_country_flag = lor_win
+				}
+			}
+            effect = {
+				set_global_flag = lotharingia_is_back
+				capital = 576
+                change_tag = LOT
+				add_accepted_culture = batavian_frankish
+				add_accepted_culture = frankish
+				add_accepted_culture = dutch
+				add_accepted_culture = frisian
+				government = absolute_monarchy
+				WLL = { all_core = {add_core = LOT } }
+				NET = { all_core = {add_core = LOT } }
+				FRI = { all_core = {add_core = LOT } }
+			}
 		ai_will_do = {
 			factor = 1
 		}

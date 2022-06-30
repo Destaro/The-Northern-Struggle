@@ -1,5 +1,7 @@
-owner = BRG
-controller = BRG
+owner = LOR
+controller = LOR
+add_core = LOR
+add_core = ALS
 add_core = BRG
 add_core = FRC
 trade_goods = fruit

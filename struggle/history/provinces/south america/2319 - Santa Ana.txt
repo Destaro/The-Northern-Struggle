@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = LPL
+controller = LPL
+add_core = LPL
 
 trade_goods = timber
 life_rating = 31

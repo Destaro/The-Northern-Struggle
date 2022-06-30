@@ -1,7 +1,6 @@
-owner = BKV
-controller = BKV
+owner = MOL
+controller = MOL
+add_core = MOL
 add_core = ROM
-add_core = RUT
-add_core = BKV
 trade_goods = fruit
 life_rating = 35

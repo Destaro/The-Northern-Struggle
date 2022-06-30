@@ -1,6 +1,8 @@
-owner = BKV
-controller = BKV
+owner = WAL
+controller = WAL
+add_core = WAL
+add_core = SIE
 add_core = ROM
-add_core = BKV
+add_core = PNN
 trade_goods = cattle
 life_rating = 35

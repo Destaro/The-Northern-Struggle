@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = LUX
+controller = LUX
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

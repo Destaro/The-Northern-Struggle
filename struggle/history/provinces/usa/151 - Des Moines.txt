@@ -1,5 +1,6 @@
-owner = DAK
-controller = DAK
+owner = MTC
+controller = MTC
+add_core = MTC
 add_core = DAK
 trade_goods = grain
 life_rating = 35

@@ -336,33 +336,39 @@
 #Faro (120000/30000 POPS)
 527 = {
 	aristocrats = {
-		culture = portuguese
+		culture = iberian_scythian
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = iberian_scythian
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = iberian_scythian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = iberian_scythian
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = iberian_scythian
 		religion = catholic
-		size = 41025
+		size = 36025
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 5025
 	}
 
 }

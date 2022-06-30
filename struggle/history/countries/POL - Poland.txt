@@ -42,6 +42,7 @@ set_country_flag = catholic_country
 decision = posen_rename_polish
 decision = mazovia_rename_polish
 decision = west_galicia_rename_polish
+decision = west_prussia_rename_polish
 
 ruling_party = POL_conservative
 upper_house = {

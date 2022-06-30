@@ -1,6 +1,6 @@
-owner = DES
-controller = DES
-add_core = DES
+owner = UNB
+controller = UNB
+add_core = UNB
 colonial = 2
 trade_goods = grain
 life_rating = 35

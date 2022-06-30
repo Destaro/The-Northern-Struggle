@@ -1,6 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = URA
+controller = URA
+add_core = URA
 trade_goods = fish
 life_rating = 10
 colonial = 2

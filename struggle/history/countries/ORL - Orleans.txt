@@ -9,9 +9,9 @@ plurality = 25
 nationalvalue = nv_order
 literacy = 0.5
 civilized = yes 
-prestige = 25
+prestige = 60
 schools = army_tech_school
-oob = "ORL.txt"
+oob = "ORL_oob.txt"
 
 ruling_party = FRC_reactionary
 upper_house = {

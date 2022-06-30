@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
+owner = RUT
+controller = RUT
 add_core = LIT
 add_core = BYE
-add_core = RUS
+add_core = RUT
 trade_goods = wool
 life_rating = 35

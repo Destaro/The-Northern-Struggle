@@ -1,7 +1,7 @@
-owner = SWI
-controller = SWI
+owner = BAD
+controller = BAD
 add_core = SWI
-add_core = ITA
+add_core = BAD
 trade_goods = timber
 life_rating = 34
 party_loyalty = {

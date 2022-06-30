@@ -39,6 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = protestant_country
+decision = france_rename_rhine
 
 oob = "BRB_oob.txt"
 

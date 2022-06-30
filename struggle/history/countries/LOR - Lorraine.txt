@@ -1,7 +1,8 @@
 capital = 411
-primary_culture = french
+primary_culture = frankish
+culture = dutch
 religion = catholic
-government = democracy
+government = lotharingian_duchy
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.8
@@ -37,9 +38,37 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+clipper_design = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+guild_based_production = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
+basic_chemistry = 1
 
-ruling_party = FRA_liberal
+set_country_flag = catholic_country
+decision = restore_alsace
+decision = lorraine_rename
+decision = france_rename_rhine
+
+oob = "LOR_oob.txt"
+
+ruling_party = FRC_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 30

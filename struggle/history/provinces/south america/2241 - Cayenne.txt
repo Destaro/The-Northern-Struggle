@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = LUX
+controller = LUX
 add_core = GUY
 trade_goods = timber
 life_rating = 32

@@ -1,4 +1,5 @@
 color = { 53  140  73 }
+lotharingian_duchy = { 247  207  105 }
 graphical_culture = EuropeanGC
 
 party = {

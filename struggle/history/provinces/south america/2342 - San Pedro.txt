@@ -1,1 +1,1 @@
-owner = BRZcontroller = BRZadd_core = BRZtrade_goods = woollife_rating = 31
+owner = RGScontroller = RGSadd_core = RGSadd_core = LPLtrade_goods = woollife_rating = 31

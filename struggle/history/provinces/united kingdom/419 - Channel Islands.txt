@@ -1,5 +1,5 @@
 owner = NDY
-controller = NDY
+controller = DEN
 add_core = NDY
 add_core = ORL
 trade_goods = fish

@@ -1,6 +1,7 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = LOM
+controller = LOM
+add_core = LOM
+add_core = ITA
 trade_goods = timber
 terrain = farmlands
 life_rating = 35

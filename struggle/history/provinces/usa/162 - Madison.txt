@@ -1,5 +1,6 @@
-owner = DAK
-controller = DAK
+owner = LST
+controller = LST
+add_core = LST
 add_core = DAK
 trade_goods = coal
 life_rating = 35

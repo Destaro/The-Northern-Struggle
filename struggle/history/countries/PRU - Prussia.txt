@@ -11,10 +11,6 @@ non_state_culture_literacy = 0.25
 civilized = yes
 is_releasable_vassal = no
 
-
-#GreaterPowers = prestige
-prestige = 50
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -47,7 +43,6 @@ colonial_policy = no_colonies
 set_country_flag = protestant_country
 
 decision = literacy_PRU
-decision = west_prussia_rename_german
 
 ruling_party = PRU_conservative_2
 upper_house = {
@@ -108,7 +103,6 @@ foreign_investment = {
 	UBD = 10000
 }
 
-oob = "PRU_oob.txt"
 1861.1.1 = {
 	oob = "/1861/PRU_oob.txt"
 	prestige = 120

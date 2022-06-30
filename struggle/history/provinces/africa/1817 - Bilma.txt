@@ -1,3 +1,7 @@
+owner = KBO
+controller = KBO
+add_core = KBO
+add_core = DAM
 trade_goods = cattle
 life_rating = 5
 colonial = 1

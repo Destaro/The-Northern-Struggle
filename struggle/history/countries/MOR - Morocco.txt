@@ -1,11 +1,12 @@
 capital = 1680
 primary_culture = maghrebi
 culture = berber
-religion = sunni
-government = absolute_monarchy
+religion = punic_church
+government = colonial_company
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = nv_order
 literacy = 0.01
+civilized = yes
 non_state_culture_literacy = 0.01
 
 # Political reforms

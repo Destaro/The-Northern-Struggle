@@ -210,13 +210,13 @@
 	}
 	
 	soldiers = {
-		culture = ormuri
+		culture = khorasani_persian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = ormuri
+		culture = khorasani_persian
 		religion = sunni
 		size = 4250
 	}
@@ -266,25 +266,25 @@
 	}
 	
 	soldiers = {
-		culture = pamiri
+		culture = pashtun
 		religion = shiite
 		size = 200
 	}
 
 	farmers = {
-		culture = pamiri
+		culture = pashtun
 		religion = shiite
 		size = 6000
 	}
 	
 	soldiers = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 2000
 	}

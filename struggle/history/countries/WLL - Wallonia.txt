@@ -39,6 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+decision = france_rename_rhine
 
 ruling_party = WLL_conservative
 upper_house = {

@@ -7,31 +7,31 @@
 
 	aristocrats = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 350
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 9050
 	}
 
@@ -54,87 +54,87 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 20
 	}
 	
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 1250
 	}
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 245
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 	
 	officers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 14145
 	}
 
 	
 	artisans = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 1550
 	}
 	
 	soldiers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 550
 	}
 
@@ -154,31 +154,31 @@
 2089 = {
 	clergymen = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 7600
 	}
 
@@ -196,7 +196,7 @@
 
 	artisans = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 1150
 	}
 
@@ -208,37 +208,37 @@
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 95
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1000
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 3825
 	}
 
@@ -261,8 +261,8 @@
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 260
 	}
 }
@@ -270,85 +270,85 @@
 2090 = {
 	clergymen = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 	
 	soldiers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 6625
 	}
 	
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 6525
 	}
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 8
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 65
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 600
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 4425
 	}
 	
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 65
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 425
 	}
 
@@ -371,8 +371,8 @@
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 260
 	}
 }
@@ -380,37 +380,37 @@
 2091 = {
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2775
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 500
 	}
 	
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
@@ -435,25 +435,25 @@
 
 	clergymen = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 1750
 	}
 }
@@ -500,67 +500,67 @@
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 55
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2450
 	}
 	
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 650
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 5
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 150
 	}
 
@@ -592,19 +592,19 @@
 2093 = {
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 825
 	}
 
@@ -696,37 +696,37 @@
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2350
 	}
 }
@@ -735,43 +735,43 @@
 2094 = {
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 	
 	aristocrats = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 	
 	bureaucrats = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 	
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 	
 	clergymen = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 	
 	officers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 	
 	soldiers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 	
@@ -845,92 +845,92 @@
 2096 = {
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 250
 	}
 	
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 1450
 	}
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 	
 	clergymen = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 4500
 	}
 
@@ -1035,80 +1035,80 @@
 2097 = {
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 160
 	}
 	
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 6825
 	}
 
 	farmers = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 1550
 	}
 	
 	clergymen = {
 		culture = griqua
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	officers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2250
 	}
 
@@ -1231,31 +1231,31 @@
 	
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 }
@@ -1293,31 +1293,31 @@
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 }
@@ -1373,43 +1373,43 @@
 2101 = {
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2400
 	}
 
@@ -1453,25 +1453,25 @@
 2102 = {
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1000
 	}
 	
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 800
 	}
 
@@ -1546,25 +1546,25 @@
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 690
 	}
 
@@ -1663,43 +1663,43 @@
 2105 = {
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	officers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
@@ -1743,25 +1743,25 @@
 2106 = {
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
@@ -1806,31 +1806,31 @@
 2107 = {
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 525
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 650
 	}
 
@@ -1901,25 +1901,25 @@
 2108 = {
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
@@ -1994,25 +1994,25 @@
 2109 = {
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 
@@ -2057,25 +2057,25 @@
 2110 = {
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
@@ -2153,49 +2153,49 @@
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 420
 	}
 	
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 250
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = boer
+		religion = catholic
 		size = 20
 	}
 	
@@ -2288,25 +2288,25 @@
 2112 = {
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
@@ -2363,43 +2363,43 @@
 
 	aristocrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	officers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	bureaucrats = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 

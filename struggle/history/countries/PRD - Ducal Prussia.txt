@@ -90,17 +90,6 @@ nonstate_consciousness = 1
 
 schools = army_tech_school
 
-foreign_investment = {
-	NCT = 20000
-	SGM = 20000
-	OLD = 20000
-	MEC = 17500
-	SAX = 7500
-	HAN = 15000
-	UBD = 10000
-}
-
-oob = "PRU_oob.txt"
 1861.1.1 = {
 	oob = "/1861/PRU_oob.txt"
 	prestige = 120

@@ -2,5 +2,7 @@ owner = RUT
 controller = RUT
 add_core = RUT
 add_core = UKR
+add_core = BYE
+add_core = LIT
 trade_goods = cattle
 life_rating = 15

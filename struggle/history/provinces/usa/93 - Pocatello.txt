@@ -1,6 +1,7 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = MTC
+controller = MTC
+add_core = MTC
+add_core = DAK
 colonial = 2
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,7 @@
-owner = UNB
-controller = UNB
-add_core = UNB
+owner = MTC
+controller = MTC
+add_core = MTC
+add_core = DAK
 colonial = 2
 trade_goods = grain
 life_rating = 35

@@ -73,7 +73,7 @@ leader = {
 
 army = {
 	name = "Svenska Armén"
-	location = 322
+	location = 420
 	regiment = {
 		name= "Svea Livgarde"
 		type = guard
@@ -138,7 +138,7 @@ army = {
 
 navy = {
 	name = "Swedish Navy"
-	location = 322
+	location = 2725
 	ship = {
 		name= "Karl XIII"
 		type = manowar

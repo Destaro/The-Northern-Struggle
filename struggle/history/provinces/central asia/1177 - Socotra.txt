@@ -1,5 +1,6 @@
-owner = MHR
-controller = MHR
+owner = OMA
+controller = OMA
+add_core = OMA
 add_core = KTH
 add_core = MHR
 add_core = FDL

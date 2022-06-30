@@ -111,12 +111,6 @@ army = {
 		type = cuirassier
 		home = 383
 	}
-
-	regiment = {
-		name= "1e Artillerie Brigade"
-		type = artillery
-		home = 380
-	}
 	
 	regiment = {
 		name = "2e Artillerie Brigade"
@@ -137,12 +131,6 @@ army = {
 	}
 
 	regiment = {
-		name = "2e Infanterie Brigade"
-		type = infantry
-		home = 381
-	}
-
-	regiment = {
 		name = "3e Infanterie Brigade"
 		type = infantry
 		home = 377
@@ -151,23 +139,11 @@ army = {
 	regiment = {
 		name = "4e Infanterie Brigade"
 		type = infantry
-		home = 378
-	}
-
-	regiment = {
-		name = "5e Infanterie Brigade"
-		type = infantry
-		home = 379
-	}
-	
-	regiment = {
-		name = "6e Infanterie Brigade"
-		type = infantry
 		home = 383
 	}
 
 	regiment = {
-		name = "7e Infanterie Brigade"
+		name = "5e Infanterie Brigade"
 		type = infantry
 		home = 384
 	}

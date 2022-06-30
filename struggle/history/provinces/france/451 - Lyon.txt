@@ -1,6 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = BRG
+controller = BRG
+add_core = BRG
 trade_goods = iron
 life_rating = 30
 terrain = lyon

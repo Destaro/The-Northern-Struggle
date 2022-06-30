@@ -3276,43 +3276,43 @@
 #Nanning (2480000/620000 POPS)
 1502 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 1825
 	}
 
 	bureaucrats = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 1350
 	}
 
 	officers = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 2150
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 925
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 4600
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 925
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 79850
 	}
@@ -3372,19 +3372,19 @@
 	}
 
 	artisans = {
-		culture = yue
+		culture = nanfaren
 		religion = mahayana
 		size = 3250
 	}
 
 	soldiers = {
-		culture = yue
+		culture = nanfaren
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = yue
+		culture = nanfaren
 		religion = mahayana
 		size = 112800
 	}

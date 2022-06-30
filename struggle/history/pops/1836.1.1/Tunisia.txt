@@ -425,27 +425,21 @@
 	}
 
 	soldiers = {
-		culture = punic
+		culture = berber
 		religion = punic_church
 		size = 200
 	}
 
 	farmers = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
-		size = 10300
+		size = 15300
 	}
 
 	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 7300
-	}
-
-	slaves = {
 		culture = berber
 		religion = punic_church
-		size = 5000
+		size = 9000
 	}
 }
 #Gabes (200000/50000 POPS) 

@@ -1,5 +1,7 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = VNG
+controller = VNG
+add_core = GCO
+add_core = CLM
+add_core = VNG
 trade_goods = fruit
 life_rating = 20

@@ -281,109 +281,109 @@
 #Maastricht/Limburg (164200/41050 POPS)
 381 = {
 	aristocrats = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 400
 	}
 
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 4100
 	}
 	
 	soldiers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 1100
 	}
 	
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 17850
 	}
 
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 1200
 	}
 	
 	aristocrats = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 1100
 	}
 	
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 900
 	}
 
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 29350
 	}
 	
 	aristocrats = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 1100
 	}
 	
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 900
 	}
 
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = catholic
 		size = 18100
 	}
@@ -426,17 +426,17 @@
 		size = 90569
 	}
 	clergymen = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 47
 	}
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 235
 	}
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 3008
 	}
@@ -490,7 +490,7 @@
 		size = 33323
 	}
 	labourers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 1034
 	}
@@ -528,12 +528,12 @@
 		size = 38352
 	}
 	artisans = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 94
 	}
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 846
 	}
@@ -594,7 +594,7 @@
 		size = 15745
 	}
 	farmers = {
-		culture = rhine_frankish
+		culture = dutch
 		religion = protestant
 		size = 1034
 	}

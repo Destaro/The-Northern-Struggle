@@ -1,5 +1,6 @@
-owner = AKH
-controller = AKH
+owner = TAR
+controller = TAR
+add_core = TAR
 add_core = AKH
 trade_goods = grain
 life_rating = 35

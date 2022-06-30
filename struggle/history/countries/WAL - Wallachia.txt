@@ -39,6 +39,8 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = orthodox_country
+decision = northern_transylvania_rename_rom
+decision = southern_transylvania_rename_rom
 
 ruling_party = WAL_reactionary
 upper_house = {

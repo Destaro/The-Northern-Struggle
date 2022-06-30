@@ -1,6 +1,7 @@
-owner = CHE
-controller = CHE
-add_core = CHE
+owner = MTC
+controller = MTC
+add_core = MTC
+add_core = DAK
 trade_goods = grain
 life_rating = 35
 colonial = 2

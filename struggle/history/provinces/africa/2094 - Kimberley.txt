@@ -1,5 +1,7 @@
 trade_goods = grain
-add_core = SAF
+owner = TSW
+controller = TSW
+add_core = TSW
 terrain = steppe
-life_rating = 15
-colonial = 1
+life_rating = 35
+

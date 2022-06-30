@@ -1,5 +1,8 @@
-owner = UNB
-controller = UNB
+owner = TEX
+controller = TEX
+add_core = TEX
+add_core = MEX
+add_core = VNS
 add_core = UNB
 trade_goods = cattle
 life_rating = 35

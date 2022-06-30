@@ -1,6 +1,7 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = LOR
+controller = LOR
+add_core = LOR
+add_core = FRC
 trade_goods = cattle
 life_rating = 31
 #state_building = {
@@ -26,5 +27,3 @@ life_rating = 31
 	}
 }
 1861.1.1 = { railroad = 3 }
-
-add_core = FRC

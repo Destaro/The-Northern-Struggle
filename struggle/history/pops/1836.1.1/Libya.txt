@@ -39,39 +39,45 @@
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 22900
 	}
 
 	aristocrats = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 125
 	}
 
 	clergymen = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 350
 	}
 
 	soldiers = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 75
 	}
 
 	farmers = {
+		culture = african_romance
+		religion = punic_church
+		size = 47075
+	}
+
+	farmers = {
 		culture = punic
 		religion = punic_church
-		size = 63075
+		size = 33075
 	}
 
 	slaves = {
@@ -95,25 +101,25 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	aristocrats = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 65
 	}
 
 	clergymen = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 200
 	}
 
 	soldiers = {
-		culture = punic
+		culture = african_romance
 		religion = punic_church
 		size = 1100
 	}
@@ -125,31 +131,31 @@
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 40
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 150
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1120
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1800
 	}
@@ -188,7 +194,7 @@
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 10125
 	}
@@ -877,62 +883,62 @@
 #Ghadamis - Now Sabha (24000/6000 POPS)
 1744 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = african_romance
+		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = african_romance
+		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = african_romance
+		religion = punic_church
 		size = 150
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = african_romance
+		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = african_romance
+		religion = punic_church
 		size = 1725
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = berber
+		religion = punic_church
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = berber
+		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = berber
+		religion = punic_church
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = berber
+		religion = punic_church
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
-		religion = sunni
+		culture = berber
+		religion = punic_church
 		size = 4550
 	}
 

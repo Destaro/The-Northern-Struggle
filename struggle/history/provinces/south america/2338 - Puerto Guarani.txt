@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = LPL
+controller = LPL
+add_core = LPL
 trade_goods = fish
 terrain = savanna
 life_rating = 151861.1.1 = { 	owner = PRG	controller = PRG

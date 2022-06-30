@@ -1317,75 +1317,71 @@
 #Tacna (100000/25000 POPS)
 2578 = {
 	aristocrats = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
-		size = 100
+		size= 50
+
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = aimara
 		religion = catholic
 		size = 3925
 	}
 
 	clergymen = {
-		culture = aimara
+		culture = quechua
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = aimara
+		culture = quechua
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = aimara
+		culture = quechua
 		religion = catholic
-		size = 200
+		size= 200
+
 	}
 
 	farmers = {
-		culture = aimara
+		culture = quechua
 		religion = catholic
-		size = 16700
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2000
+		size = 17000
 	}
 
 }

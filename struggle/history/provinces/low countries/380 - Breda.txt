@@ -1,5 +1,5 @@
-owner = BRB
-controller = BRB
+owner = LUX
+controller = LUX
 add_core = BRB
 add_core = BEL
 trade_goods = cattle
@@ -7,3 +7,4 @@ life_rating = 35
 1861.1.1 = { railroad = 1 }
 
 add_core = FRC
+add_core = LUX

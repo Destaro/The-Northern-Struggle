@@ -1,6 +1,5 @@
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = MTC
+controller = MTC
 add_core = MTC
 trade_goods = grain
 terrain = plains

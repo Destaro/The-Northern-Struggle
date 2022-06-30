@@ -1,6 +1,5 @@
-owner = NET
-controller = NET
-add_core = GUY
+owner = BRZ
+controller = BRZ
+add_core = BRZ
 trade_goods = grain
 life_rating = 32
-colonial = 2

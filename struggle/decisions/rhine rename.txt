@@ -17,7 +17,7 @@ political_decisions = {
 				AND = { owns = 395 NOT = { has_global_flag = france_rename_liege } }
 				AND = { owns = 398 NOT = { has_global_flag = france_rename_arlon } }
 				AND = { owns = 381 NOT = { has_global_flag = french_rename_limburg } }
-				AND = { owns = 381 NOT = { has_global_flag = france_rename_flanders } }
+				AND = { owns = 388 NOT = { has_global_flag = france_rename_flanders } }
 			}
 		}
 		
@@ -42,7 +42,11 @@ political_decisions = {
 				572 = { change_province_name = "Trier" }
 				577 = { change_province_name = "Kleef" }
 				3378 = { change_province_name = "Bon" }
-				405 = { change_province_name = "Lotharstad" }
+				3558 = { change_province_name = "Vosiers" }
+				3562 = { change_province_name = "Bylen" }
+				405 = { change_province_name = "Lotharstad" 
+					state_scope = { change_region_name = "Lotharstad-Vosiers"  } 
+					}
 				owner = { set_global_flag = france_rename_rhine }
 			}
 			
@@ -77,7 +81,7 @@ political_decisions = {
 				574 = { 
 					change_province_name = "Koblents"  }
 				571 = { change_province_name = "Frankenvurd" }
-				573 = { change_province_name = "Saarbrucke"	
+				573 = { change_province_name = "Saarbrygge"	
 				owner = { set_global_flag = france_rename_prussian_pfalz }
 				}
 			}

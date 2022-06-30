@@ -75,19 +75,19 @@
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 1450
 	}
@@ -1043,31 +1043,31 @@
 #Sarikol
 3342 = {
 	aristocrats = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = shiite
 		size = 20
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = shiite
 		size = 50
 	}
 	
 	soldiers = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = shiite
 		size = 300
 	}
 
 	farmers = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = shiite
 		size = 3000
 	}
@@ -1133,25 +1133,25 @@
 	}
 	
 	aristocrats = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 10
 	}
 	
 	clergymen = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 40
 	}
 	
 	farmers = {
-		culture = tajik
+		culture = khorasani_persian
 		religion = sunni
 		size = 450
 	}

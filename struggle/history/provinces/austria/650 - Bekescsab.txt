@@ -1,6 +1,6 @@
 owner = PNN
 controller = PNN
-
+add_core = ROM
 add_core = SIE
 trade_goods = fruit
 life_rating = 35

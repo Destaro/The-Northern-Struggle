@@ -120,7 +120,6 @@ GEO_anarcho_liberal;Sakartvelos Gza;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_socialist;Sakartvelos Leiboristuli;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_communist;Sakartvelos Komunisturi;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_fascist;Erovnuli Sotsialisturi;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ITA_reactionary;Fazione Monarchica;Restorationiste;Ristorazionista;;Restauracionistas;;;;;;;;;x;;;;
 ITA_conservative;La Destra;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ITA_conservative_2;Partito Liberale Italiano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -440,11 +439,11 @@ BRZ_prussian_constitutionalism;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRZ_hms_government;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 BRZ_dominion;The Kingdom of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 BRZ_colonial_company;Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
-ARC;Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_democracy;Freijstat Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_presidential_dictatorship;Freijstat Þiuderikslant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_proletarian_dictatorship;Þiuderikslantir Volkstatt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-ARC_ADJ;Þiuderikslantir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC;Theudericsland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_democracy;Republijk Theudericsland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_presidential_dictatorship;Republijk Theudericsland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_proletarian_dictatorship;Volkstatt Theudericsland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+ARC_ADJ;Theudericslander;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 ARG;Þule af Amerikka;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 ARG_democracy;Freijstat Þule;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 ARG_presidential_dictatorship;Freijstat Þule;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,

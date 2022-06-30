@@ -1,6 +1,6 @@
-owner = CYR
-controller = CYR
-add_core = CYR
+owner = WAD
+controller = WAD
+add_core = WAD
 trade_goods = wool
 life_rating = 5
 colonial = 1

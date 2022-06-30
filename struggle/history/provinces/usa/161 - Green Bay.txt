@@ -1,5 +1,6 @@
-owner = VIN
-controller = VIN
+owner = LST
+controller = LST
+add_core = LST
 add_core = DAK
 trade_goods = timber
 life_rating = 35

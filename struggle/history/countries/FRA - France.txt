@@ -14,9 +14,6 @@ literacy = 0.50
 non_state_culture_literacy = 0.01
 civilized = yes
 
-#GreaterPowers = prestige
-prestige = 90
-
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed

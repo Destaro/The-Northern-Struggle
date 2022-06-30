@@ -9440,56 +9440,56 @@
 #Huntington (100000/25000 POPS)
 218 = {
 	aristocrats = {
-		culture = dixie
+		culture = karolean
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = karolean
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
+		culture = karolean
 		religion = catholic
 		size = 125
 	}
 
 
 	farmers = {
-		culture = dixie
+		culture = karolean
 		religion = catholic
 		size = 2725
 	}
 	
 	aristocrats = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 1175
 	}
 
 	farmers = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 4125
 	}
@@ -9811,61 +9811,61 @@
 #Hagerstown (56000/14000 POPS)
 221 = {
 	aristocrats = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 325
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = dixie
+		culture = karolean
 		religion = protestant
 		size = 5325
 	}
 
 	farmers = {
-		culture = yankee
+		culture = karolean
 		religion = protestant
 		size = 8000
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = karolean
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = karolean
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = karolean
 		religion = protestant
 		size = 1650
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = karolean
 		religion = protestant
 		size = 1000
 	}

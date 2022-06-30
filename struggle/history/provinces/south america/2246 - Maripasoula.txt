@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = LUX
+controller = LUX
 add_core = GUY
 terrain = new_world_jungle
 trade_goods = timber

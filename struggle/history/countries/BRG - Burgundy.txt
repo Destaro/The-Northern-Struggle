@@ -1,7 +1,6 @@
 capital = 428
-primary_culture = frankish
-culture = rhine_frankish
-culture = arpitan
+primary_culture = arpitan
+culture = frankish
 religion = catholic
 government = absolute_monarchy
 plurality = 0
@@ -63,7 +62,7 @@ hot_blast = 1
 basic_chemistry = 1
 
 set_country_flag = catholic_country
-decision = restore_alsace
+decision = french_renamed_savoy_aosta
 
 ruling_party = FRA_reactionary
 upper_house =

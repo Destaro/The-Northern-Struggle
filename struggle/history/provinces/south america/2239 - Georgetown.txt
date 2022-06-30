@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = LUX
+controller = LUX
 add_core = GUY
 trade_goods = fruit
 terrain = plains

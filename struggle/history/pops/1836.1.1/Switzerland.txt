@@ -548,145 +548,139 @@
 	}
 
 }
-#Fribourg
+#Nevers
 3250 = {
+	aristocrats = {
+		culture = frankish
+		religion = protestant
+		size = 240
+	}
+
 	aristocrats = {
 		culture = frankish
 		religion = catholic
 		size = 200
 	}
 
-	bureaucrats = {
-		culture = frankish
-		religion = catholic
-		size = 120
-	}
-
-	officers = {
-		culture = frankish
-		religion = catholic
-		size = 60
-	}
-
-	clergymen = {
-		culture = frankish
-		religion = catholic
-		size = 300
-	}
-
 	aristocrats = {
-		culture = frankish
-		religion = catholic
-		size = 300
-	}
-
-	bureaucrats = {
 		culture = frankish
 		religion = catholic
 		size = 80
 	}
 
-	officers = {
+	clergymen = {
 		culture = frankish
-		religion = catholic
-		size = 50
+		religion = protestant
+		size = 180
 	}
 
 	clergymen = {
 		culture = frankish
 		religion = catholic
-		size = 350
+		size = 90
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 180
+	}
+
+	artisans = {
+		culture = frankish
+		religion = protestant
+		size = 5600
 	}
 
 	artisans = {
 		culture = frankish
 		religion = catholic
-		size = 3000
+		size = 1200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = frankish
 		religion = catholic
-		size = 1100
+		size = 1300
 	}
 
-	farmers = {
-		culture = frankish
-		religion = catholic
-		size = 9530
-	}
-	
 	farmers = {
 		culture = frankish
 		religion = protestant
-		size = 2530
+		size = 47980
 	}
-	
+
 	farmers = {
 		culture = frankish
 		religion = catholic
-		size = 4000
+		size = 7510
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 25320
 	}
 }
 
 #Jura (POPS Taken from Basel)
 3271 = {
 	aristocrats = {
-		culture = arpitan
+		culture = occitan
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = arpitan
+		culture = occitan
 		religion = protestant
 		size = 135
 	}
 
 	craftsmen = {
-		culture = arpitan
+		culture = occitan
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = arpitan
+		culture = occitan
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = arpitan
+		culture = occitan
 		religion = protestant
 		size = 18420
 	}
 
 	aristocrats = {
-		culture = arpitan
+		culture = occitan
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = arpitan
+		culture = occitan
 		religion = catholic
 		size = 125
 	}
 
 	craftsmen = {
-		culture = arpitan
+		culture = occitan
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = arpitan
+		culture = occitan
 		religion = catholic
 		size = 925
 	}
 
 	farmers = {
-		culture = arpitan
+		culture = occitan
 		religion = catholic
 		size = 14550
 	}

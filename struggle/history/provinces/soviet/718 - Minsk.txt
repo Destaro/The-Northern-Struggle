@@ -1,8 +1,8 @@
-owner = POL
-controller = POL
+owner = RUT
+controller = RUT
 add_core = LIT
 add_core = BYE
-add_core = POL
+add_core = RUT
 trade_goods = timber
 life_rating = 40
 #state_building = {

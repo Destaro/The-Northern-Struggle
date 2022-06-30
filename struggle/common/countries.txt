@@ -50,6 +50,7 @@ TTN = "countries/Tatistan.txt"
 BDB		="countries/Brandenburg.txt"
 PRD		="countries/Ducal Prussia.txt"
 NOV		="countries/Novgorod.txt"
+LOT		="countries/Lotharingia.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

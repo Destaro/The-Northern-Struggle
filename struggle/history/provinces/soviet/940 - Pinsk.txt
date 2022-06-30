@@ -1,5 +1,5 @@
-owner = CPL
-controller = CPL
+owner = POL
+controller = POL
 add_core = POL
 add_core = CPL
 add_core = LIT

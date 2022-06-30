@@ -96,11 +96,12 @@ country_event = {
 	option = {
 		name = "EVT6002OPTA"
 		set_country_flag = rename_cape_colony_boer
-		2087 = { change_province_name = "Kaapstad" add_core = THIS }
-		2091 = { change_province_name = "Stellenbosch" add_core = THIS }
-		2092 = { change_province_name = "Laingsburg" add_core = THIS }
-		2090 = { change_province_name = "Bredasdorp" add_core = THIS }
-		2087 = { state_scope = { change_region_name = "Kaapstaat" } }
+		2087 = { change_province_name = "Cidade do Cabo" add_core = THIS }
+		2091 = { change_province_name = "Aguada de São Brás" add_core = THIS }
+		2092 = { change_province_name = "Belo Forte d'Oeste" add_core = THIS }
+		2090 = { change_province_name = "Vasconcelos" add_core = THIS }
+		2089 = { change_province_name = "Areia Verhelma" add_core = THIS }
+		2087 = { state_scope = { change_region_name = "Cabo da Boa Esperança" } }
 	}
 }
 
@@ -641,10 +642,10 @@ country_event = {
 	option = {
 		name = "EVT6010OPTA"
 		set_country_flag = rename_natal_boer
-		2113 = { change_province_name = "Richardsbaai" add_core = THIS }
-		2112 = { change_province_name = "Vrousmith" add_core = THIS }
-		2111 = { change_province_name = "Pietermaritzburg" add_core = THIS }
-		2104 = { change_province_name = "Caledon" add_core = THIS }
+		2113 = { change_province_name = "Pedroburgo" add_core = THIS }
+		2112 = { change_province_name = "Dona Silva" add_core = THIS }
+		2111 = { change_province_name = "Porto Arrango" add_core = THIS }
+		2104 = { change_province_name = "São Carlos Masseru" add_core = THIS }
 	}
 }
 
@@ -1401,7 +1402,7 @@ country_event = {
 		
 	option = {
 		name = "EVT6022OPTA"
-		2110 = { change_province_name = "Zoutpansberg" }
+		2110 = { change_province_name = "Vila de Palabora" }
 		2110 = { 
 			any_pop = { 
 				limit = { 

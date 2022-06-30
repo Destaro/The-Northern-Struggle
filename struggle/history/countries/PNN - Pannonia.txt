@@ -50,7 +50,11 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-
+set_country_flag = catholic_country
+decision = transdanubia_rename_pnn
+decision = banat_rename_hun
+decision = central_hungary_rename_hun
+decision = tisza_rename_hun
 
 post_napoleonic_thought = 1
 strategic_mobility = 1

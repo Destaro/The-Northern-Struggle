@@ -13,9 +13,10 @@ MLI_dominion;French Soudan;;;;;;;;;;;;;x,
 OMA_absolute_monarchy;Muscat-Oman;;;;;;;;;;;;x
 OMA_prussian_constitutionalism;Muscat-Oman;;;;;;;;;;;;x
 OMA_hms_government;Muscat-Oman;;;;;;;;;;;;;x,
-SAR_absolute_monarchy;The Kingdom of Sardinia;;;;;;;;;;;;x
-SAR_prussian_constitutionalism;The Kingdom of Sardinia;;;;;;;;;;;;x
-SAR_hms_government;The Kingdom of Sardinia;;;;;;;;;;;;;x,
+SAR_absolute_monarchy;Piemont;;;;;;;;;;;;x
+SAR_prussian_constitutionalism;Piemont;;;;;;;;;;;;x
+SAR_hms_government;Piemont;;;;;;;;;;;;;x,
+SAR_ADJ;Piemontèis;;;;;;;;;;;;;x,
 CHH_ADJ;Ponwar;;;;;;;;;;;;x
 CHH;Chhatarpur;;;;;;;;;;;;x
 REW_ADJ;Rewah;;;;;;;;;;;;x
@@ -245,8 +246,11 @@ LSK_colonial_company;Alyaska;;;;;;;;;;;;;x
 PPG_colonial_company;Neuguinea;;;;;;;;;;;;;x
 MOZ_colonial_company;Mocambique;;;;;;;;;;;;;x
 CMR_colonial_company;Kamerun;;;;;;;;;;;;;x
-ALD_colonial_company;Algerie;;;;;;;;;;;;;x
-ALD_dominion;Algerie;;;;;;;;;;;;;x
+ALD_colonial_company;Nundia;;;;;;;;;;;;;x
+MGH_colonial_company;Maziçia;;;;;;;;;;;;;x
+ALD_dominion;Nundia;;;;;;;;;;;;;x
+MGH_dominion;Maziçia;;;;;;;;;;;;;x
+MOR_dominion;Mauria;;;;;;;;;;;;;x
 COL_hms_government;The Dominion of Columbia;;;;;;;;;;;;;x
 NMB_colonial_company;Südwestafrika;;;;;;;;;;;;;x
 NMB_dominion;Südwestafrika;;;;;;;;;;;;;x

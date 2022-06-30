@@ -133,6 +133,82 @@
 	artisans = {
 		culture = pannonian
 		religion = catholic
+		size = 2500
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = catholic
+		size = 3100
+	}
+
+	farmers = {
+		culture = pannonian
+		religion = catholic
+		size = 37450 
+	}
+}
+#Zalaegerszeg (860000/215000 POPS) #part of Hungary today
+3467 = {
+	aristocrats = {
+		culture = pannonian
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = catholic
+		size = 300 
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = catholic
+		size = 400 
+	}
+	
+	artisans = {
+		culture = pannonian
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = pannonian
+		religion = catholic
+		size = 19450 
+	}
+}
+#Zalaegerszeg (860000/215000 POPS) #part of Hungary today
+3468 = {
+	aristocrats = {
+		culture = pannonian
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = catholic
+		size = 300 
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = catholic
+		size = 400 
+	}
+	
+	artisans = {
+		culture = pannonian
+		religion = catholic
 		size = 1500
 	}
 
@@ -146,156 +222,6 @@
 		culture = pannonian
 		religion = catholic
 		size = 27450 
-	}
-
-	aristocrats = {
-		culture = pannonian
-		religion = catholic
-		size = 3750 
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = catholic
-		size = 1250
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 6000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 250
-	}
-	
-	serfs = {
-		culture = gypsy
-		religion = catholic
-		size = 5750
-	}
-
-	aristocrats = {
-		culture = pannonian
-		religion = protestant
-		size = 650 
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = protestant
-		size = 225 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = protestant
-		size = 1750
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = protestant
-		size = 300
-	}
-
-	serfs = {
-		culture = pannonian
-		religion = protestant
-		size = 29075  
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = jewish
-		size = 50 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = jewish
-		size = 2000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = jewish
-		size = 50
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = jewish
-		size = 2900   
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = catholic
-		size = 150 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 750
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 150
-	}
-
-	serfs = {
-		culture = pannonian
-		religion = catholic
-		size = 13950 
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 75
-	}
-
-	serfs = {
-		culture = pannonian
-		religion = catholic
-		size = 6525 
 	}
 }
 #Baranya Region (232000) #see Croatia.txt for balance of Region

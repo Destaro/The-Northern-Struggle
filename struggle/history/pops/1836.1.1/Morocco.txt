@@ -157,31 +157,31 @@
 #Meknes (76000/19000 POPS)
 1682 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 225
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 125
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 2300
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 13350
 	}
@@ -317,31 +317,31 @@
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 200
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 25
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 4650
 	}
@@ -349,31 +349,31 @@
 #Rabat (112000/28000 POPS)
 1685 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 325
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 200
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 2150
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 20200
 	}
@@ -429,31 +429,31 @@
 #Safi (76000/19000 POPS)
 2563 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 250
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 125
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 650
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 14975
 	}
@@ -859,73 +859,73 @@
 #Marrakesh (204000/51000 POPS)
 1690 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 625
 	}
 
 	bureaucrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	officers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 325
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1625
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 23750
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 350
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 175
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 900
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 175
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 14400
 	}
@@ -951,61 +951,61 @@
 #Casablanca (60000/15000 POPS)
 1691 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 225
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 125
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 650
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 10875
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 25
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 1800
 	}
@@ -1025,61 +1025,61 @@
 #Huribka (36000/9000 POPS)
 1692 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 150
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 25
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 2700
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 300
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 5500
 	}
@@ -1087,61 +1087,61 @@
 #Sawira (36000/9000 POPS)
 1693 = {
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 300
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 50
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 75
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 150
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 25
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 2700
 	}
@@ -1385,31 +1385,31 @@
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 150
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 450
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 8200
 	}
@@ -1447,31 +1447,31 @@
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 175
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 475
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 8650
 	}
@@ -1539,31 +1539,31 @@
 	}
 
 	aristocrats = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 200
 	}
 
 	clergymen = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 100
 	}
 
 	artisans = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 550
 	}
 
 	soldiers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 125
 	}
 
 	farmers = {
-		culture = phoenecoberber
+		culture = berber
 		religion = punic_church
 		size = 11025
 	}
