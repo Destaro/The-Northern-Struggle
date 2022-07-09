@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = CLC
+controller = CLC
 
 add_core = CLC
 add_core = KDS

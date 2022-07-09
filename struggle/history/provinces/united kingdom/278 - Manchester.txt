@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
+owner = NTU
+controller = NTU
 add_core = WHA
 trade_goods = coal
 life_rating = 40
@@ -14,3 +14,5 @@ party_loyalty = {
 	loyalty_value = 17
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = NTU

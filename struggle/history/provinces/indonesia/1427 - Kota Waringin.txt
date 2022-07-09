@@ -1,5 +1,7 @@
-owner = KLM
-controller = KLM
+owner = BRU
+controller = BRU
 add_core = KLM
 trade_goods = grain
 life_rating = 30
+
+add_core = BRU

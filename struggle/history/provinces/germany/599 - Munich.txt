@@ -6,16 +6,16 @@ add_core = GER
 trade_goods = coal
 life_rating = 45
 terrain = munich
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
-#state_building = {
-#	level = 1
-#	building = winery
-#	upgrade = yes
-#}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
 1861.1.1 = { railroad = 2 }
 1861.1.1 = {
 	state_building = {

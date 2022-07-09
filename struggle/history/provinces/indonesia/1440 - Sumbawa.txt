@@ -1,6 +1,8 @@
-owner = BAL
-controller = BAL
+owner = JAV
+controller = JAV
 add_core = BAL
 trade_goods = timber
 life_rating = 35
-colonial = 2
+
+
+add_core = JAV

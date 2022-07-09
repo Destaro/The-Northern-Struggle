@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = NOR
+controller = NOR
 add_core = HYD
 add_core = KRN
 add_core = HND

@@ -1,5 +1,6 @@
-owner = TSW
-controller = TSW
+owner = ORA
+	controller = ORA
+	add_core = ORA
 add_core = TSW
 add_core = TRN
 trade_goods = grain

@@ -1,6 +1,8 @@
-owner = TOS
-controller = TOS
+owner = JAP
+controller = JAP
 add_core = TOS
 add_core = TKG
 trade_goods = timber
 life_rating = 35
+
+add_core = JAP

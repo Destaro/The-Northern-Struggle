@@ -1,6 +1,8 @@
-owner = KAG
-controller = KAG
+owner = JAP
+controller = JAP
 add_core = KAG
 add_core = TKG
 trade_goods = fish
 life_rating = 35
+
+add_core = JAP

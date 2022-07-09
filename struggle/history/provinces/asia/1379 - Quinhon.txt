@@ -1,5 +1,7 @@
-owner = CAM
-controller = CAM
+owner = DAI 
+controller = DAI 
 add_core = CAM
 trade_goods = silk
 life_rating = 34
+
+add_core = DAI 

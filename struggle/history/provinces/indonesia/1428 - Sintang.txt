@@ -1,5 +1,7 @@
-owner = KLM
-controller = KLM
+owner = BRU
+controller = BRU
 add_core = KLM
 trade_goods = coffee
 life_rating = 15
+
+add_core = BRU

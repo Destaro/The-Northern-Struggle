@@ -1,5 +1,5 @@
-owner = BAL
-controller = BAL
+owner = JAV
+controller = JAV
 add_core = BAL
 trade_goods = fish
 life_rating = 35
@@ -8,3 +8,5 @@ life_rating = 35
 	controller = NET
 	colonial = 2
 }
+
+add_core = JAV

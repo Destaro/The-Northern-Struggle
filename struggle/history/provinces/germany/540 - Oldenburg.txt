@@ -1,6 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = WES
+controller = WES
+
 add_core = GER
 trade_goods = fish
 life_rating = 40
@@ -12,3 +12,5 @@ life_rating = 40
 1861.1.1 = {
 	naval_base = 1 #Wilhelmshaven
 }
+
+add_core = WES

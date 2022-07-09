@@ -1,5 +1,5 @@
-owner = LBN
-controller = LBN
+owner = CLC
+controller = CLC
 add_core = CLC
 add_core = HTY
 add_core = LBN

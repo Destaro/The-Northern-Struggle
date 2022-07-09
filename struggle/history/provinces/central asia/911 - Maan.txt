@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = ISR
+controller = ISR
 add_core = ISR
 add_core = SYR
 add_core = PLS

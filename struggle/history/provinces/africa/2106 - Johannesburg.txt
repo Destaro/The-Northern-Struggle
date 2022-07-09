@@ -1,5 +1,5 @@
-owner = MAT
-controller = MAT
+owner = ORA
+controller = ORA
 add_core = MAT
 add_core = BSH
 add_core = TRN
@@ -12,3 +12,5 @@ life_rating = 20
 	remove_core = BSH
 	life_rating = 35
 }
+
+add_core = ORA

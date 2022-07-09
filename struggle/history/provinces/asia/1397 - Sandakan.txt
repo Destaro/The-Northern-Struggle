@@ -1,6 +1,7 @@
-owner = SUL
-controller = SUL
+owner = JAP
+controller = JAP
 add_core = SUL
 add_core = KTI
 trade_goods = grain
 life_rating = 31
+colonial = 2

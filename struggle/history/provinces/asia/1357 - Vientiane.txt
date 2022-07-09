@@ -1,7 +1,10 @@
-owner = SIA
-controller = SIA
+owner = CAM
+controller = CAM
 add_core = SIA
 add_core = WIA
+add_core = DAI
 add_core = LUA
 trade_goods = grain
 life_rating = 35
+
+add_core = CAM

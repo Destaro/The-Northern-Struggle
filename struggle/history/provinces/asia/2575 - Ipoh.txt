@@ -1,5 +1,5 @@
-owner = PRK
-controller = PRK
+owner = SIA
+controller = SIA
 add_core = PRK
 add_core = JOH
 add_core = SIA

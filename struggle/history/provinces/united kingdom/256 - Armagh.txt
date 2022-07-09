@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = SWE
+controller = SWE
 add_core = ENG
 add_core = IRE
 trade_goods = fruit

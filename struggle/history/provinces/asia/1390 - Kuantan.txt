@@ -1,5 +1,5 @@
-owner = PHG
-controller = PHG
+owner = SIA
+controller = SIA
 add_core = PHG
 add_core = JOH
 add_core = SIA

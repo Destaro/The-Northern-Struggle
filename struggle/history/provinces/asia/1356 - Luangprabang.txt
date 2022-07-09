@@ -1,5 +1,7 @@
-owner = LUA
-controller = LUA
+owner = DAI
+controller = DAI
+add_core = DAI
+add_core = SIA
 add_core = LUA
 trade_goods = tropical_wood
 life_rating = 31

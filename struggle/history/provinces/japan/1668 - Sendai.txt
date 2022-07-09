@@ -1,7 +1,9 @@
-owner = SEN
-controller = SEN
+owner = JAP
+controller = JAP
 add_core = SEN
 add_core = TKG
 trade_goods = grain
 life_rating = 35
 naval_base = 1
+
+add_core = JAP

@@ -1,5 +1,5 @@
-owner = KTI
-controller = KTI
+owner = BRU
+controller = BRU
 add_core = KTI
 trade_goods = sulphur
 life_rating = 20
@@ -8,3 +8,5 @@ life_rating = 20
 	controller = NET
 	colonial = 2
 }
+
+add_core = BRU

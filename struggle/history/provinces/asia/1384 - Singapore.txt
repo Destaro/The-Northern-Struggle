@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = DEN
+controller = DEN
 add_core = JOH
 add_core = SGP
 trade_goods = tropical_wood

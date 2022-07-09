@@ -1,6 +1,8 @@
-owner = CRO
-controller = CRO
+owner = PNN
+controller = PNN
 add_core = CRO
 trade_goods = timber
 life_rating = 35
 terrain = zagreb
+
+add_core = PNN

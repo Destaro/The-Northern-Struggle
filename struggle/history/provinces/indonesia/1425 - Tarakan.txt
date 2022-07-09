@@ -1,5 +1,5 @@
-owner = KTI
-controller = KTI
+owner = BRU
+controller = BRU
 add_core = KTI
 add_core = SUL
 add_core = BRU

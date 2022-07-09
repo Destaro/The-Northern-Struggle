@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+
+
 add_core = LSK
 colonial = 2
 trade_goods = fish

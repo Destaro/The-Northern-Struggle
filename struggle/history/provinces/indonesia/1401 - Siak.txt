@@ -1,5 +1,6 @@
-owner = SAK
-controller = SAK
+owner = NOR
+controller = NOR
 add_core = SAK
 trade_goods = grain
 life_rating = 35
+colonial = 2

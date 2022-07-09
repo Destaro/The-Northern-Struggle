@@ -1,6 +1,8 @@
-owner = SIA
-controller = SIA
+owner = BUR
+controller = BUR
 add_core = SIA
+add_core = BUR
+add_core = DAI
 add_core = WIA
 add_core = LUA
 trade_goods = tropical_wood

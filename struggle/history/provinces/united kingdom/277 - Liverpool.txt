@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
+owner = NTU
+controller = NTU
 add_core = WHA
 trade_goods = fish
 life_rating = 40
@@ -38,3 +38,5 @@ naval_base = 2
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = NTU

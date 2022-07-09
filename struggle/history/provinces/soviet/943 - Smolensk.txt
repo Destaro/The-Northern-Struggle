@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = MUS
+controller = MUS
 add_core = RUS
 trade_goods = cattle
 life_rating = 35
@@ -15,3 +15,4 @@ life_rating = 35
 		upgrade = yes
 	} 
 }
+add_core = MUS

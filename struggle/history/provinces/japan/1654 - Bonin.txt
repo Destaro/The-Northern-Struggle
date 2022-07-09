@@ -1,4 +1,8 @@
+owner = JAP
+controller = JAP
 add_core = TKG
 trade_goods = fish
 life_rating = 15
 terrain = small_island
+
+add_core = JAP

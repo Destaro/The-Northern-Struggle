@@ -1,6 +1,8 @@
-owner = SIA
-controller = SIA
+owner = BUR
+controller = BUR
 add_core = SIA
 add_core = SHA
 trade_goods = opium
 life_rating = 32
+
+add_core = BUR

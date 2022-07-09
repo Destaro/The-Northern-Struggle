@@ -1,5 +1,6 @@
-owner = DLM
-controller = DLM
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = DLM
 add_core = MON
 trade_goods = fish

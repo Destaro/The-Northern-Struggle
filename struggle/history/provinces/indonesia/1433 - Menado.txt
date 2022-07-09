@@ -1,5 +1,6 @@
-owner = SLW
-controller = SLW
+owner = NOR
+controller = NOR
 add_core = SLW
 trade_goods = dye
 life_rating = 32
+colonial = 2
