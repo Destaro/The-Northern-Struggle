@@ -1,7 +1,8 @@
-owner = BRG
-controller = BRG
+owner = NCT
+controller = NCT
 add_core = SWI
 add_core = BRG
+add_core = NCT
 trade_goods = iron
 life_rating = 34
 terrain = bern

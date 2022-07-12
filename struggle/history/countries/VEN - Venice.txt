@@ -1,5 +1,5 @@
 capital = 729
-primary_culture = north_italian
+primary_culture = venetian
 religion = catholic
 government = democracy
 plurality = 0.1
@@ -43,6 +43,7 @@ set_country_flag = catholic_country
 decision = italian_veneto
 decision = italian_lombardy
 decision = istria_rename_ita_slo
+decision = dalmatia_rename_ita
 
 # Technologies
 post_napoleonic_thought = 1

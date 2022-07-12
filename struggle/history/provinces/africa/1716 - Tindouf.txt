@@ -1,4 +1,3 @@
-owner = 
-controller = 
+add_core = MOR
 trade_goods = fruit
 life_rating = 10

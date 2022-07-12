@@ -157,7 +157,7 @@ vassal = {
 
 #Monaco
 vassal = {
-	first = SAR
+	first = SVY
 	second = MNC
 	start_date = 1814.11.1
 	end_date = 1860.1.1

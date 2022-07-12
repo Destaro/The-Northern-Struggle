@@ -4533,8 +4533,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA90953"
 		set_global_flag = algeria_claimed_sahara
-#		ALD_1714 = { add_core = ALD }
-		ALD_1718 = { add_core = ALD }
+		MGH = { all_core = { add_core = ALD } }
 	}
 }
 

@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = AQU
+controller = AQU
+add_core = AQU
 add_core = SLO
 add_core = ITA
 trade_goods = grain

@@ -2741,6 +2741,7 @@ political_decisions = {
 					OR = {
 						region = FRA_1803
 						region = FRA_1801
+						region = FRA_1780
 						region = FRA_1798
 					}
 				}

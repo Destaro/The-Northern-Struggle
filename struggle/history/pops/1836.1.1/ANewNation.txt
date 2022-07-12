@@ -48,7 +48,57 @@
 		size = 4500
 	}
 }
+#Monaco (170800/22700 POPS)
+3631 = {
+    aristocrats = {
+        culture = north_italian
+        religion = catholic
+        size = 250
+    }
 
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size= 100
+
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 1225
+    }
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 2850
+    }
+
+    bureaucrats = {
+        culture = north_italian
+        religion = catholic
+        size = 10
+    }
+
+}
 #Andorra (228000/37000 POPS)
 3252 = {
 	aristocrats = {

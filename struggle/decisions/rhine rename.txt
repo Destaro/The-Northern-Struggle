@@ -33,14 +33,20 @@ political_decisions = {
 					state_scope = { change_region_name = "Reinlant"  }
 				}
 				396 = { change_province_name = "Eypen" }
-				390 = { change_province_name = "Anverpe" }
+				390 = { change_province_name = "Anverpe"
+					state_scope = { change_region_name = "Brakbant"  } }
 				391 = { change_province_name = "Haselt" }
-				378 = { change_province_name = "Middeburg" }
-				379 = { change_province_name = "Endehoof" }
-				380 = { change_province_name = "Tilburg" }
 				576 = { change_province_name = "Aken" }
 				572 = { change_province_name = "Trier" }
 				577 = { change_province_name = "Kleef" }
+				375 = { change_province_name = "Amsteldam" }
+				376 = { change_province_name = "Rottadam" }
+				377 = { change_province_name = "Utreg" }
+				378 = { change_province_name = "Middeburg" }
+				379 = { change_province_name = "Endehoof" }
+				380 = { change_province_name = "Tilburg" }
+				382 = { change_province_name = "Arnem" }
+				384 = { change_province_name = "Zwol" }
 				3378 = { change_province_name = "Bon" }
 				3558 = { change_province_name = "Vosiers" }
 				3562 = { change_province_name = "Bylen" }

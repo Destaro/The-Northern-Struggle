@@ -1,6 +1,6 @@
 capital = 781
-primary_culture = north_italian
-culture = croat
+primary_culture = dalmatian
+culture = venetian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
@@ -40,7 +40,6 @@ colonial_policy = no_colonies
 
 
 set_country_flag = catholic_country
-decision = dalmatia_rename_ita
 
 # Technologies
 post_napoleonic_thought = 1
@@ -75,7 +74,7 @@ high_pressure_steam_engine = 1
 commerce_raiders = yes
 precision_work = yes
 
-ruling_party = CRO_conservative
+ruling_party = DLM_conservative
 upper_house = {
 	fascist = 0
 	liberal = 20

@@ -4588,7 +4588,8 @@
 		religion = catholic
 		size = 19025
 	}
-	
+}
+3629 = {
 	farmers = {
 		culture = occitan
 		religion = catholic
@@ -4611,65 +4612,188 @@
 #Corsica Region (210000)
 #Corsica (210000/52500 POPS)
 473 = {
+
 	aristocrats = {
-		culture = occitan
+		culture = north_italian
 		religion = catholic
-		size = 400
+		size = 170
 	}
 
 	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 350
+	}
+
+	officers = {
 		culture = north_italian
 		religion = catholic
 		size = 150
 	}
 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 9300
+	}
+
+}
+3610 = {
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 200
+	}
+
 	officers = {
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = occitan
+		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 350
 	}
 
 	clergymen = {
-		culture = occitan
+		culture = north_italian
+		religion = catholic
+		size = 30
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 5400
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 17813
+	}
+
+}
+3611 = {
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 190
+	}
+
+	officers = {
+		culture = north_italian
 		religion = catholic
 		size = 200
 	}
 
-	artisans = {
+	bureaucrats = {
 		culture = north_italian
 		religion = catholic
-		size = 1500
+		size = 300
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 6+
 	}
 
 	artisans = {
-		culture = occitan
+		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 2000
 	}
 
 	soldiers = {
-		culture = occitan
+		culture = north_italian
 		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = occitan
-		religion = catholic
-		size = 4800
+		size = 300
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 43300
+		size = 24000
 	}
 
 }
+3612 = {
+	
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 128
+	}
 
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 30
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+}

@@ -1,6 +1,6 @@
-owner = LOM
-controller = LOM
-add_core = LOM
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = ITA
 trade_goods = timber
 terrain = farmlands

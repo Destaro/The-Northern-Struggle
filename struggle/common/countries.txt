@@ -51,6 +51,12 @@ BDB		="countries/Brandenburg.txt"
 PRD		="countries/Ducal Prussia.txt"
 NOV		="countries/Novgorod.txt"
 LOT		="countries/Lotharingia.txt"
+MEL	= "countries/Melfis.txt"
+AVR	= "countries/Aversa.txt"
+AQU = "countries/Aquileia.txt"
+CSZ = "countries/Cosenza.txt"
+MNZ = "countries/Monza.txt"
+MTU = "countries/Mantua.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

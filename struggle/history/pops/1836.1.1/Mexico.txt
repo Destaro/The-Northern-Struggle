@@ -840,63 +840,52 @@
 #Reynosa (16000/4000 POPS)
 2148 = {
 	aristocrats = {
-		culture = pueblo
-		religion = animist
-		size = 25
+		culture = mexican
+		religion = catholic
+		size = 100
 	}
 
 	clergymen = {
-		culture = pueblo
-		religion = animist
-		size = 36
-	}
-
-	artisans = {
-		culture = pueblo
-		religion = animist
+		culture = mexican
+		religion = catholic
 		size = 75
 	}
 
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
+
 	soldiers = {
-		culture = pueblo
-		religion = animist
-		size = 12
+		culture = mexican
+		religion = catholic
+		size= 250
+
 	}
 
 	farmers = {
-		culture = pueblo
-		religion = animist
-		size = 1000
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 12
+		culture = mexican
+		religion = catholic
+		size = 4575
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 12
+		culture = mexican
+		religion = catholic
+		size = 10
 	}
 
 	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 850
+		culture = mexican
+		religion = catholic
+		size = 300
+	}
+
+	slaves = {
+		culture = mexican
+		religion = catholic
+		size = 3450
 	}
 }
 #Matamoros (28000/7000 POPS)

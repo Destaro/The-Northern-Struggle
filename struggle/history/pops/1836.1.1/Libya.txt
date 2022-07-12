@@ -579,6 +579,68 @@
 		size = 2750
 	}
 }
+3577 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2750
+	}
+}
+3576 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2750
+	}
+}
 
 #Waddan (16000/4000 POPS)
 1740 = {
@@ -809,6 +871,180 @@
 		culture = berber
 		religion = sunni
 		size = 1100
+	}
+}
+3586 = {
+	aristocrats = {
+		culture = tuareg
+		religion = punic_church
+		size = 25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = punic_church
+		size = 15
+	}
+
+
+	soldiers = {
+		culture = tuareg
+		religion = punic_church
+		size = 65
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 1900
+	}
+}
+3519 = {
+	aristocrats = {
+		culture = tuareg
+		religion = punic_church
+		size = 25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = punic_church
+		size = 15
+	}
+
+
+	soldiers = {
+		culture = tuareg
+		religion = punic_church
+		size = 65
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 1900
+	}
+}
+3520 = {
+	aristocrats = {
+		culture = berber
+		religion = punic_church
+		size = 25
+	}
+
+	clergymen = {
+		culture = berber
+		religion = punic_church
+		size = 15
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = punic_church
+		size = 65
+	}
+
+	farmers = {
+		culture = berber
+		religion = punic_church
+		size = 900
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 1000
+	}
+}
+3521 = {
+	aristocrats = {
+		culture = berber
+		religion = punic_church
+		size = 25
+	}
+
+	clergymen = {
+		culture = berber
+		religion = punic_church
+		size = 15
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = punic_church
+		size = 65
+	}
+
+	farmers = {
+		culture = berber
+		religion = punic_church
+		size = 900
+	}
+
+	farmers = {
+		culture = berber
+		religion = punic_church
+		size = 1000
+	}
+}
+3587 = {
+	aristocrats = {
+		culture = tuareg
+		religion = punic_church
+		size = 90
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = punic_church
+		size = 60
+	}
+
+
+	soldiers = {
+		culture = tuareg
+		religion = punic_church
+		size = 200
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 6900
+	}
+}
+3588 = {
+	aristocrats = {
+		culture = berber
+		religion = punic_church
+		size = 250
+	}
+
+	clergymen = {
+		culture = berber
+		religion = punic_church
+		size = 70
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = punic_church
+		size = 200
+	}
+
+	farmers = {
+		culture = berber
+		religion = punic_church
+		size = 2400
+	}
+
+	farmers = {
+		culture = berber
+		religion = punic_church
+		size = 4000
 	}
 }
 #Sabha (14000/3500 POPS)

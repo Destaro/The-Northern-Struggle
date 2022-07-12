@@ -1,6 +1,6 @@
-owner = MTC
-controller = MTC
-add_core = MTC
+owner = LST
+controller = LST
+add_core = LST
 add_core = DAK
 trade_goods = coal
 life_rating = 35

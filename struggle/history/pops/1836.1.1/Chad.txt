@@ -754,31 +754,31 @@
 #Faya (56000/14000 POPS)
 1826 = {
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1080
 	}
@@ -789,4 +789,75 @@
 		size = 300
 	}
 
+}	
+#Selima (16000/4000 POPS)
+3571 = {
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 110
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 5500
+	}
+}
+
+#Nukheila (16000/4000 POPS)
+3570 = {
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 110
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 8500
+	}
+
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 600
+	}
 }

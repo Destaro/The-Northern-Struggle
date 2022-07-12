@@ -76,7 +76,7 @@ CANAL_6;English Channel;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GRE_837;Central Greece;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV2669;Sondrio;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3262;Belluno;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3261;Pescara;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+PROV3261;Campobasso;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV2351;Magdalena;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3260;Sado;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV1531;Tombara;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
@@ -300,7 +300,6 @@ PROV2657;Dudinka;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2680;Volochanka;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1065;Nyagan;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2686;Kainsk;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1696;Cape Juby;;;;;;;;;;;;x
 ENG_1251;West Bengal;;;;;;;;;;;;x
 ENG_1252;East Bengal;;;;;;;;;;;;x
 PROV1290;Umerkot;;;;;;;;;;;;x
@@ -330,7 +329,6 @@ PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Circassia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
 PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1773;Saguia el-Hamra;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1178;Sana'a;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1041;Elista;;;;;;;;;;;;;;;;;;;x;
 PROV745;Livorno;;;;;;;;;;;;;;;;;;;x;
@@ -541,11 +539,11 @@ JAP_1675;Chubu;;;;;;;;;;;;x
 PROV1679;Amami;;;;;;;;;;;;x
 MOR_1693;Marrakesh;;;;;;;;;;;;x
 MOR_1694;Agadir;;;;;;;;;;;;x
-ALD_1704;Oran;;;;;;;;;;;;x
-ALD_1708;Constantine;;;;;;;;;;;;x
+ALD_1704;Africa Aldi;;;;;;;;;;;;x
+FRA_1700;Nundia;;;;;;;;;;;;x
 ALD_1713;North Central Sahara;;;;;;;;;;;;x
-TRI_1731;Tripolitania;;;;;;;;;;;;x
-TRI_1735;Cyrenaica;;;;;;;;;;;;x
+TRI_1731;Africa Leppi;;;;;;;;;;;;x
+TRI_1735;Africa Cyrnei;;;;;;;;;;;;x
 TRI_1740;Fezzan;;;;;;;;;;;;x
 EGY_1745;Cairo;;;;;;;;;;;;x
 EGY_1751;Alexandria;;;;;;;;;;;;x
@@ -604,8 +602,9 @@ PROV2;Saint Dionysius;;;;;;;;;;;;x
 PROV1;Novoarkhangelsk;;;;;;;;;;;;x
 PROV107;Riverside;;;;;;;;;;;;x
 PROV108;Grand Junction;;;;;;;;;;;;x
-PROV2146;D.C.;;;;;;;;;;;;x
-PROV2148;Albuquerque;;;;;;;;;;;;x
+PROV2146;Monterrey;Monterrey;Monterrey;;;;;;;;;;;
+PROV2147;Morelos;Morelos;Morelos;;;;;;;;;;;
+PROV2148;Reynosa;Reynosa;Reynosa;;;;;;;;;;;
 PROV231;Camden;;;;;;;;;;;;x
 UCA_2191;El Salvador;;;;;;;;;;;;x
 UCA_2193;Honduras;;;;;;;;;;;;x
@@ -943,7 +942,6 @@ PROV536;Braunschweig;;;;;;;;;;;;x
 PROV400;Dunkerque;;;;;;;;;;;;x
 PROV451;Lyons;;;;;;;;;;;;x
 PROV534;Hannover;;;;;;;;;;;;x
-FRA_438;Centre-Val de Loire;;;;;;;;;;;;x
 SIC_763;Sicilia;;;;;;;;;;;;x
 PROV843;Chios and Samos;;;;;;;;;;;;x
 PROV533;Hålilönj;;;;;;;;;;;;x
@@ -1016,15 +1014,12 @@ PROV940;Pinsk;;;;;;;;;x
 PROV3505;Waadeilannen;;;;;;;;;x
 PROV605;Berna;;;;;;;;;x
 PROV606;Lüzerna;;;;;;;;;x
-PROV607;Genèva;;;;;;;;;x
+PROV607;Fribourg;;;;;;;;;x
 PROV608;Freiburg;;;;;;;;;x
 PROV611;Cuira;;;;;;;;;x
 TUR_3473;Epirus;;;;;;;;;;;;x
 RUS_707;Brzesc;;;;;;;;;;;;x
 TUR_923;Âtûr;;;;;;;;;;;;x
-AUS_774;Illiria occidentale;;;;;;;;;;;;x
-AUS_788;Illiria orientale;;;;;;;;;;;;x
-AUS_3565;Illiria settentrionale;;;;;;;;;;;;x
 POL_708;Kujawsko-Pomorskie;;;;;;;;;;;;x
 SAX_687;Lausic;;;;;;;;;;;;x
 PRU_3506;Mazury;;;;;;;;;;;;x

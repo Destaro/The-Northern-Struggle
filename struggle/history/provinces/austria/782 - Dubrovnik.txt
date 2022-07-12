@@ -1,5 +1,5 @@
-owner = DLM
-controller = DLM
+owner = VEN
+controller = VEN
 add_core = DLM
 terrain = dubrovnik
 trade_goods = fish

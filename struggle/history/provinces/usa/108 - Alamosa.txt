@@ -1,5 +1,7 @@
-owner = UNB
-controller = UNB
+owner = VNS
+controller = VNS
+add_core = MEX
+add_core = VNS
 add_core = UNB
 colonial = 2
 trade_goods = cattle

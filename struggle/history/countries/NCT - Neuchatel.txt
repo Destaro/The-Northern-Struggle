@@ -1,7 +1,6 @@
-capital = 608
-primary_culture = north_german
-culture = swiss_french
-religion = protestant
+capital = 3628
+primary_culture = romansh
+religion = catholic
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order

@@ -333,3 +333,36 @@
 	}
 
 }
+
+#Mafraq
+3279 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7775
+	}
+}

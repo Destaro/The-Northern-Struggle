@@ -173,7 +173,8 @@ PROV3463;Bekbolat;x
 PROV3464;Aqsu;x
 PROV3465;Dasht-e Ozbeg;x
 ;;;;;;x;;;;
-MEX_90;Meishô;;;;;;;;;;;;x
+MEX_90;California;;;;;;;;;;;;x
+MEX_2158;Zacatecas;;;;;;;;;;;;x
 TEX_135;Tejas del Oestee;;;;;;;;;;;;x
 MEX_85;Kyokutô Kaigan;;;;;;;;;;;;x
 PROV83;Ribâpurên;;;;;;;;;;;x
@@ -183,7 +184,7 @@ PROV86;Jôryû;;;;;;;;;;;x
 PROV87;Kawaguchi Shûraku;;;;;;;;;;;x
 PROV88;Samâpuren;;;;;;;;;;;x
 PROV89;Haru no Minato;;;;;;;;;;;x
-PROV90;Sakaya;;;;;;;;;;;x
+PROV90;San Diego;;;;;;;;;;;x
 PROV104;Kyokutô;;;;;;;;;;;;x
 ;;;;;;x;;;;
 JAP_3348;Takasago-nai;;;;;;;;;;;;x
@@ -195,6 +196,16 @@ PROV3348;Gôkwan;;;;;;;;;;;;x
 PROV3349;Kôtasho;;;;;;;;;;;;x
 PROV3350;Sanhashuyu;;;;;;;;;;;;x
 PROV3351;Binhaiban;;;;;;;;;;;;x
+;;;;;;x;;;;
+PROV1602;Yonzonmix;Dali;Dali;;Dali;;;;;;;;;
+PROV1603;Bu'ri;Puer;Puer;;Puer;;;;;;;;;
+PROV1378;Pol-lay-cu;Pleiku;Pleiku;;Pleiku;;;;;;;;;
+PROV1378;Pol-lay-cu;Pleiku;Pleiku;;Pleiku;;;;;;;;;
+PROV1379;Vijaya-Kauthara;Qui Nhon;Qui Nhon;;Qui Nhon;;;;;;;;;
+PROV1380;Prey Nokor;Saigon;Saigon;;Saigón;;;;;;;;;
+PROV1381;Panduranga;Dong Quai;Dong Quai;;Dong Quai;;;;;;;;;
+PROV1382;Oc Eo;Dong Quai;Dong Quai;;Dong Quai;;;;;;;;;
+PROV1383;Vinhlong;Vinh Long;Vinhlong;;Vinhlong;;;;;;;;;
 ;;;;;;x;;;;
 PROV2245;Apetina;Apetina;Apetina;;;;;;;;;;;
 PROV2246;Maripasoula;Maripasoula;Maripasoula;;;;;;;;;;;
@@ -262,14 +273,20 @@ PROV2307;Puno;Puno;Puno;;;;;;;;;;;
 PROV2308;Arica;Arica;Arica;;;;;;;;;;;
 PROV2309;Carama;Carama;Carama;;;;;;;;;;;
 ;;;;;;x;;;;
+RUS_1052;Avarestan;;;;;;;;;;;;;;;;;;x;;;;
+TIM_1055;Tön'jak Kavkaz;;;;;;;;;;;;;;;;;;x;;;;
 SWE_357;Courland;;;;;;;;;;;;x
 PROV923;Nînwê;;;;;;;;;;;;x
 PROV1049;Shapsug;;;;;;;;;;;;x
 PROV1050;Kabardia;;;;;;;;;;;;x
+PROV1052;Darband;;;;;;;;;;;;;;;;;;x;;;;
 ALN_1056;Âllonšton;;;;;;;;;;;;x
 TNT_1068;Tagna Urianhai;;;;;;;;;;;;x
 CIR_3312;East Circassia;;;;;;;;;;;;x
+TUN_1726;Qart'hagenia;;;;;;;;;;;;x
+TUN_1725;Africa Cartajennia;;;;;;;;;;;;x
 PROV1056;Khokhifondz;;;;;;;;;;;;x
+PROV1055;Sölscha-Ghala;;;;;;;;;;;;;;;;;;x;;;;
 PROV1054;Dzæudžyqæu;;;;;;;;;;;;x
 PROV1091;Upliscixæ;;;;;;;;;;;;x
 PROV3282;Mississippi Delta;;;;;;;;;;;;x
@@ -285,7 +302,7 @@ PROV3291;Gori;;;;;;;;;;;;x
 PROV3292;Cxæta;;;;;;;;;;;;x
 PROV3293;Kakheti;;;;;;;;;;;;x
 PROV3294;Naftqaleh;;;;;;;;;;;;x
-PROV3295;Gumse;;;;;;;;;;;;x
+PROV3295;Gümse;;;;;;;;;;;;x
 PROV3296;Sortavala;;;;;;;;;;;;x
 PROV3297;Kuopio;;;;;;;;;;;;x
 PROV3298;Mohyliv;;;;;;;;;;;;x
@@ -312,7 +329,7 @@ PROV3319;Sandiomerz;;;;;;;;;;;;x
 PROV3320;Belz;;;;;;;;;;;;x
 PROV3321;Ashtarak;;;;;;;;;;;;x
 PROV3322;Ighdir;;;;;;;;;;;;x
-PROV3323;Arguin;;;;;;;;;;;;x
+PROV3323;Comenei;;;;;;;;;;;;x
 PROV3324;Gawlana;;;;;;;;;;;;x
 PROV3325;Barja;;;;;;;;;;;;x
 PROV3326;Gounieh;;;;;;;;;;;;x
@@ -330,21 +347,52 @@ PROV3328;Mardin;;;;;;;;;;;;x
 PROV3329;Nsîbîn;;;;;;;;;;;;x
 PROV3330;Umm Al-Rashrash;;;;;;;;;;;;x
 PROV3340;Abu Hamed;;;;;;;;;;;;x
-PROV3364;Aguz;;;;;;;;;;;;x
+PROV3364;Barteni;;;;;;;;;;;;x
 PROV3365;Sifacs;;;;;;;;;;;;x
 PROV3366;Nabeli di Libia;;;;;;;;;;;;x
+PROV1680;Boruddi;;;;;;;;;;;;x
+PROV1681;Sarna;;;;;;;;;;;;x
+PROV1682;Nêrona;;;;;;;;;;;;x
+PROV1683;Morru;;;;;;;;;;;;x
+PROV1684;Siorru;;;;;;;;;;;;x
+PROV1685;Çecemate;;;;;;;;;;;;x
+PROV1686;Servini;;;;;;;;;;;;x
+PROV1687;Banazza;;;;;;;;;;;;x
+PROV1688;Sero;;;;;;;;;;;;x
+PROV1689;Rusaddi;;;;;;;;;;;;x
+PROV1690;Ovipasca;;;;;;;;;;;;x
+PROV1691;Traiani;;;;;;;;;;;;x
+PROV1692;Tasia;;;;;;;;;;;;x
+PROV1693;Gerine;;;;;;;;;;;;x
+PROV1694;Ille;;;;;;;;;;;;x
+PROV1695;Amsedra;;;;;;;;;;;;x
+PROV1696;Accala;;;;;;;;;;;;x
+PROV1697;Sermina;;;;;;;;;;;;x
+PROV1698;Rimosia;;;;;;;;;;;;x
+PROV1699;Adrar;;;;;;;;;;;;x
+PROV2563;Liba;;;;;;;;;;;;x
 PROV1726;Hibbon;;;;;;;;;;;;x
 PROV1728;Çayrawan;;;;;;;;;;;;x
-PROV3367;Agadir;;;;;;;;;;;;x
+PROV3367;Berneza;;;;;;;;;;;;x
 PROV1694;Tata;;;;;;;;;;;;x
 PROV1718;Bechar;;;;;;;;;;;;x
 PROV1719;Lussiga;;;;;;;;;;;;x
+PROV1700;Cêzari;;;;;;;;;;;;x
+PROV1701;Monia;;;;;;;;;;;;x
+PROV1702;Setifi;;;;;;;;;;;;x
+PROV1703;Tiginta;;;;;;;;;;;;x
+PROV1704;Bortimanni;;;;;;;;;;;;x
+PROV1705;Pomaria;;;;;;;;;;;;x
+PROV1706;Cartana;;;;;;;;;;;;x
+PROV1707;Aldabba;;;;;;;;;;;;x
 PROV1708;Cytra;;;;;;;;;;;;x
 PROV1709;Ponna;;;;;;;;;;;;x
 PROV1710;Urasi;;;;;;;;;;;;x
+PROV1711;Tufusca;;;;;;;;;;;;x
+PROV1712;Agelli;;;;;;;;;;;;x
 PROV1712;Tafasca;;;;;;;;;;;;x
 PROV1720;Timimoun;;;;;;;;;;;;x
-PROV1721;Bêrimo;;;;;;;;;;;;x
+PROV1721;Prachamasi;;;;;;;;;;;;x
 PROV1725;Cartajena;;;;;;;;;;;;x
 PROV1727;Capsa;;;;;;;;;;;;x
 PROV1729;Tamalle;;;;;;;;;;;;x
@@ -358,8 +406,11 @@ PROV1736;Cyrne;;;;;;;;;;;;x
 PROV1738;Viccora;;;;;;;;;;;;x
 PROV1740;Garbe;;;;;;;;;;;;x
 PROV1741;Çernica;;;;;;;;;;;;x
-PROV1742;Cêrna;;;;;;;;;;;;x
-PROV1744;Cydamo;;;;;;;;;;;;x
+PROV1742;Rênurri;;;;;;;;;;;;x
+PROV1744;Bana;;;;;;;;;;;;x
+PROV1773;Neccini;;;;;;;;;;;;x
+PROV1774;Amewal;;;;;;;;;;;;x
+PROV2590;Veroni;;;;;;;;;;;;x
 PROV2670;Ulaan-Üd;;;;;;;;;;;;x
 PROV2674;Abahan;;;;;;;;;;;;x
 PROV1075;Erhüü;;;;;;;;;;;;x
@@ -392,6 +443,8 @@ USA_168;Michigão;;;;;;;;;;;;x
 USA_148;Misuri;;;;;;;;;;;;x
 USA_144;Urónia;;;;;;;;;;;;x
 USA_141;São Salvador;;;;;;;;;;;;x
+USA_140;Porto Seguro;;;;;;;;;;;;x
+USA_121;Dakota;;;;;;;;;;;;x
 LST_167;Illinão;;;;;;;;;;;;x
 USA_139;Lusitânia;;;;;;;;;;;;x
 PROV132;São Salvador;;;;;;;;;;;;x
@@ -443,6 +496,10 @@ RUS_973;Levédia;;;;;;;;;;;;x
 RUS_964;Krím;;;;;;;;;;;;x
 ;;;;;;x;;;;
 FRA_428;Vest Burgendia;;;;;;;;;;;;x
+FRA_435;Angevis;;;;;;;;;;;;x
+FRA_438;Aurleans;;;;;;;;;;;;x
+FRA_442;Pictavia;;;;;;;;;;;;x
+FRA_445;Rudolfsburk;;;;;;;;;;;;x
 FRA_425;Neustria;;;;;;;;;;;;x
 FRA_406;Campania;;;;;;;;;;;;x
 FRA_413;Vest Lotharingia;;;;;;;;;;;;x
@@ -475,7 +532,7 @@ PROV3519;Garmatia;;;;;;;;;x
 PROV3520;Taferta;;;;;;;;;x
 PROV3521;Arazui;;;;;;;;;x
 PROV3522;Sørøyene;;;;;;;;;x
-PROV3523;Mantua;;;;;;;;;x
+PROV3523;Mantova;;;;;;;;;x
 PROV3524;Casale Monferrato;;;;;;;;;x
 PROV3525;Brindisi;;;;;;;;;x
 PROV3526;Asti;;;;;;;;;x
@@ -505,7 +562,7 @@ PROV3549;Pereyaslav;;;;;;;;;;;;x
 PROV3550;Liptsek;;;;;;;;;;;;x
 PROV3551;Jura;;;;;;;;;;;;x
 PROV3552;Ravensburg;;;;;;;;;;;;x
-PROV3553;Mömpelgard;;;;;;;;;;;;x
+PROV3553;Mypelgart;;;;;;;;;;;;x
 PROV3554;Bar;;;;;;;;;;;;x
 PROV3555;Bockenheim;;;;;;;;;;;;x
 PROV3556;Brieg;;;;;;;;;;;;x
@@ -521,6 +578,7 @@ PROV3565;Novi Grad;;;;;;;;;;;;x
 PROV3566;Ouadane;;;;;;;;;;;;x
 PROV3567;Taoudenni;;;;;;;;;;;;x
 PROV3568;Walata;;;;;;;;;;;;x
+PROV1781;Tichitt;;;;;;;;;;;;x
 PROV3569;Tamentit;;;;;;;;;;;;x
 PROV3570;Selima;;;;;;;;;;;;x
 PROV3571;Nukheila;;;;;;;;;;;;x
@@ -538,14 +596,103 @@ PROV3582;Yauri;;;;;;;;;;;;x
 PROV3583;Meiganga;;;;;;;;;;;;x
 PROV3584;Nguti;;;;;;;;;;;;x
 PROV3585;Daura;;;;;;;;;;;;x
-PROV3586;Nafusa;;;;;;;;;;;;x
-PROV3587;Zalla;;;;;;;;;;;;x
-PROV3588;El Golea;;;;;;;;;;;;x
+PROV3586;Çerna;;;;;;;;;;;;x
+PROV3587;Bêrimo;;;;;;;;;;;;x
+PROV3588;Çérmeli;;;;;;;;;;;;x
 PROV3589;Bechar;;;;;;;;;;;;x
+PROV3590;Trapani;;;;;;;;;;;;x
+PROV3591;Agrigento;;;;;;;;;;;;x
+PROV3592;Caltanisetta;;;;;;;;;;;;x
+PROV3593;Catania;;;;;;;;;;;;x
+PROV3594;Monteleone;;;;;;;;;;;;x
+PROV3595;Catanzaro;;;;;;;;;;;;x
+PROV3596;Lamezia Terme;;;;;;;;;;;;x
+PROV3597;Crotone;;;;;;;;;;;;x
+PROV3598;Sila;;;;;;;;;;;;x
+PROV3599;Castrovillari;;;;;;;;;;;;x
+PROV3600;Cosenza;;;;;;;;;;;;x
+PROV3601;Matera;;;;;;;;;;;;x
+PROV3602;Melfi;;;;;;;;;;;;x
+PROV3603;Aversa;;;;;;;;;;;;x
+PROV3604;Amalfi;;;;;;;;;;;;x
+PROV3605;Oristano;;;;;;;;;;;;x
+PROV3606;Sassari;;;;;;;;;;;;x
+PROV3607;Alghero;;;;;;;;;;;;x
+PROV3608;Olbia;;;;;;;;;;;;x
+PROV3609;Tortoli;;;;;;;;;;;;x
+PROV3610;Porto Vecchio;;;;;;;;;;;;x
+PROV3611;Aiaccio;;;;;;;;;;;;x
+PROV3612;Bastia;;;;;;;;;;;;x
+PROV3613;Benevento;;;;;;;;;;;;x
+PROV3614;Teramo;;;;;;;;;;;;x
+PROV3615;Chieti;;;;;;;;;;;;x
+PROV3616;Isernia;;;;;;;;;;;;x
+PROV3617;Lagonegro;;;;;;;;;;;;x
+PROV3618;Irpinia;;;;;;;;;;;;x
+PROV3619;Terni;;;;;;;;;;;;x
+PROV3620;Macerata;;;;;;;;;;;;x
+PROV3621;Ancona;;;;;;;;;;;;x
+PROV3622;Pesaro;;;;;;;;;;;;x
+PROV3623;Pistoia;;;;;;;;;;;;x
+PROV3624;Pisa;;;;;;;;;;;;x
+PROV3625;Vaticano;;;;;;;;;;;;x
+PROV3626;Arezzo;;;;;;;;;;;;x
+PROV3627;Rusco;;;;;;;;;;;;x
+PROV3628;Ginevra;;;;;;;;;;;;x
+PROV3629;Roccasterone;;;;;;;;;;;;x
+PROV3630;Sanremo;;;;;;;;;;;;x
+PROV3631;Monaco;;;;;;;;;;;;x
+PROV3632;Como;;;;;;;;;;;;x
+PROV3633;Lodi;;;;;;;;;;;;x
+PROV3634;Pavia;;;;;;;;;;;;x
+PROV3635;Monza;;;;;;;;;;;;x
+PROV3636;Aquileia;;;;;;;;;;;;x
+PROV3637;Capodistria;;;;;;;;;;;;x
+PROV3638;San Pietro Degli Slavi;;;;;;;;;;;;x
+PROV3639;Pisino;;;;;;;;;;;;x
+PROV3640;Saló;;;;;;;;;;;;x
+PROV3641;La Spezzia;;;;;;;;;;;;x
+PROV3642;Imperia;;;;;;;;;;;;x
+PROV3643;Cremona;;;;;;;;;;;;x
+PROV3644;Cocevie;;;;;;;;;;;;x
+PROV3645;Nuova Citta;;;;;;;;;;;;x
+PROV3646;Bleda;;;;;;;;;;;;x
+PROV3647;Reynosa;;;;;;;;;;;;x
+PROV473;Massiccio Corso;;;;;;;;;;;;x
+PROV766;Nuoro;;;;;;;;;;;;x
+AUS_768;Carniola;;;;;;;;;;;;x
+AUS_736;Litorale Adriatico;;;;;;;;;;;;x
+AUS_770;Istria;;;;;;;;;;;;x
+AUS_613;Steiermark;;;;;;;;;;;;x
+AUS_615;Carizia;;;;;;;;;;;;x
+SAR_765;Sardegna;;;;;;;;;;;;x
+SAR_473;Corsica;;;;;;;;;;;;x
+SIC_753;Abruzzo;;;;;;;;;;;;x
+SIC_756;Puglia;;;;;;;;;;;;x
+SIC_759;Reggio;;;;;;;;;;;;x
+SIC_761;Basilicata;;;;;;;;;;;;x
+SIC_3261;Molise;;;;;;;;;;;;x
+AUS_774;Alta Illiria;;;;;;;;;;;;x
+AUS_788;Bassa Illiria;;;;;;;;;;;;x
+SAR_472;Nizza;;;;;;;;;;;;x
+PAP_751;Umbria;;;;;;;;;;;;x
+PAP_3620;Marche;;;;;;;;;;;;x
+SAR_725;Liguria;;;;;;;;;;;;x
+AUS_726;Higher Cisalpina;;;;;;;;;;;;x
+AUS_727;Lower Cisalpina;;;;;;;;;;;;x
+FRA_453;Cisjurana;;;;;;;;;;;;x
+FRA_469;Alpi Dell'Alta Provenza;;;;;;;;;;;;x
+FRA_470;Costa Azzurra;;;;;;;;;;;;x
 PROV1724;Nordøyene;;;;;;;;;x
+PROV1825;Western Libyian Desert;;;;;;;;;;;;;;;;;;x;;;;
+PROV1758;Eastern Libyian Desert;;;;;;;;;;;;;;;;;;x;;;;
 PROV432;Vesanson;;;;;;;;;x
 PROV758;Lecce;;;;;;;;;x
-PROV594;Aargau;;;;;;;;;x
+PROV760;Paola;;;;;;;;;x
+PROV764;Siracusa;;;;;;;;;x
+PROV752;Ascoli Piceno;;;;;;;;;x
+PROV594;Argovia;;;;;;;;;x
+PROV2568;Bellinzona;;;;;;;;;x
 PROV1025;Tambuza;;;;;;;;;;;;;;;;;;x;;;;
 PROV1044;Drujba;;;;;;;;;;;;;;;;;;x;;;;
 PROV1060;Jamanqala;;;;;;;;;;;;;;;;;;x;;;;
@@ -555,6 +702,7 @@ PROV1039;Sary Su;;;;;;;;;;;;;;;;;;x;;;;
 PROV1040;Sok;;;;;;;;;;;;;;;;;;x;;;;
 PROV1041;Elst;;;;;;;;;;;;;;;;;;x;;;;
 PROV1045;Meskeçi;;;;;;;;;;;;;;;;;;x;;;;
+PROV2610;Isan;;;;;;;;;;;;;;;;;;x;;;;
 PROV1046;Cir;;;;;;;;;;;;;;;;;;x;;;;
 PROV1038;Janaozen;;;;;;;;;;;;;;;;;;x;;;;
 PROV1037;Ukek;;;;;;;;;;;;;;;;;;x;;;;

@@ -74,88 +74,316 @@
 		size = 20000
 	}
 	
+}  
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+3638 = {
+	aristocrats = {
+		culture = venetian
+		religion = catholic
+		size = 70 
+	}
+	
+	bureaucrats = {
+		culture = venetian
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = venetian
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = venetian
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = venetian
+		religion = catholic
+		size = 25 
+	}
+
+	farmers = {
+		culture = venetian
+		religion = catholic
+		size = 3150
+	}
+
+	clergymen = {
+		culture = venetian
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = venetian
+		religion = catholic
+		size = 1600
+	}
+
+	soldiers = {
+		culture = venetian
+		religion = catholic
+		size = 450 
+	}
+
+	farmers = {
+		culture = venetian
+		religion = catholic
+		size = 2500
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 400
+	}
+	
+	serfs = {
+		culture = venetian
+		religion = catholic
+		size = 4000
+	}
+	
 }
 #Carniola Region (460000)  
 #under the rule of Austria in 1836  
 #Ljubljana (280000/70000 POPS) 
 768 = {
 	aristocrats = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 825
 	}
 
 	bureaucrats = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
-		size = 53150
+		size = 23150
+	}
+	
+	farmers = {
+		culture = dalmatian
+		religion = catholic
+		size = 17613
+	}
+	
+}
+#Ljubljana (280000/70000 POPS) 
+3644 = {
+	aristocrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = dalmatian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dalmatian
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = dalmatian
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = dalmatian
+		religion = catholic
+		size = 400
+	}
+
+	farmers = {
+		culture = dalmatian
+		religion = catholic
+		size = 13150
 	}
 	
 	serfs = {
-		culture = north_italian
+		culture = dalmatian
 		religion = catholic
-		size = 20000
+		size = 5000
+	}
+	
+}
+#Ljubljana (280000/70000 POPS) 
+3645 = {
+	aristocrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 425
+	}
+
+	bureaucrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = dalmatian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dalmatian
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = dalmatian
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dalmatian
+		religion = catholic
+		size = 700
+	}
+
+	farmers = {
+		culture = dalmatian
+		religion = catholic
+		size = 23150
+	}
+	
+	serfs = {
+		culture = dalmatian
+		religion = catholic
+		size = 7000
+	}
+	
+}
+#Ljubljana (280000/70000 POPS) 
+3646 = {
+	aristocrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 825
+	}
+
+	bureaucrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = dalmatian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dalmatian
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = dalmatian
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = dalmatian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = dalmatian
+		religion = catholic
+		size = 13150
+	}
+	
+	serfs = {
+		culture = dalmatian
+		religion = catholic
+		size = 5000
 	}
 	
 }
 #Postojna (180000/45000 POPS) 
 769 = {
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 425
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 39075
 	}

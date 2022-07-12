@@ -1,6 +1,6 @@
 #Gruzhia Region (644000)    
 #under the rule of Russia in 1836  
-#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+#Tblisi (232000/58000 POPS) #abkhaz-orthodox = Ossetian
 1090 = {
 	bureaucrats = {
 		culture = russian
@@ -182,7 +182,7 @@
 		size = 690
 	}
 }
-#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+#Tblisi (232000/58000 POPS) #abkhaz-orthodox = Ossetian
 3291 = {
 	bureaucrats = {
 		culture = russian
@@ -423,7 +423,7 @@
 	farmers = {
 		culture = scythian
 		religion = orthodox
-		size = 5500
+		size = 17353
 	}
 	
 	farmers = {
@@ -491,7 +491,7 @@
 	serfs = {
 		culture = scythian
 		religion = orthodox
-		size = 9100
+		size = 3100
 	}
 
 	aristocrats = {
@@ -521,7 +521,7 @@
 	farmers = {
 		culture = scythian
 		religion = orthodox
-		size = 5500
+		size = 14917
 	}
 	
 	farmers = {
@@ -923,7 +923,7 @@
 		size = 3000
 	}
 }
-#Sukhumi (72000/18000 POPS) #circassian = abkhaz
+#Sukhumi (72000/18000 POPS) #abkhaz = abkhaz
 1095 = {
 	aristocrats = {
 		culture = georgian
@@ -956,19 +956,19 @@
 	}
 
 	aristocrats = {
-		culture = circassian
+		culture = abkhaz
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = circassian
+		culture = abkhaz
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = circassian
+		culture = abkhaz
 		religion = orthodox
 		size = 450
 	}
@@ -980,37 +980,37 @@
 	}
 
 	farmers = {
-		culture = circassian
+		culture = abkhaz
 		religion = orthodox
 		size = 28225
 	}
 
 	aristocrats = {
-		culture = circassian
+		culture = abkhaz
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = circassian
+		culture = abkhaz
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = circassian
+		culture = abkhaz
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = abkhaz
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = circassian
+		culture = abkhaz
 		religion = sunni
 		size = 20550
 	}

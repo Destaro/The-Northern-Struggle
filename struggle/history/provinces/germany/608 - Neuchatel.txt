@@ -1,6 +1,8 @@
-owner = BRG
-controller = BRG
+owner = SVY
+controller = SVY
+add_core = SVY
 add_core = BRG
+add_core = NCT
 trade_goods = coal
 life_rating = 32
 

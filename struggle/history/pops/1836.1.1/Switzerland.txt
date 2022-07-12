@@ -371,6 +371,91 @@
 		size = 14530
 	}
 }
+3628 = {
+    aristocrats = {
+        culture = arpitan
+        religion = catholic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = arpitan
+        religion = catholic
+        size = 120
+    }
+
+    officers = {
+        culture = arpitan
+        religion = catholic
+        size = 60
+    }
+
+    clergymen = {
+        culture = arpitan
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = arpitan
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = arpitan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = arpitan
+        religion = catholic
+        size = 37320
+    }
+
+    aristocrats = {
+        culture = arpitan
+        religion = catholic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = arpitan
+        religion = catholic
+        size = 80
+    }
+
+    officers = {
+        culture = arpitan
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = arpitan
+        religion = catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = arpitan
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = arpitan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = arpitan
+        religion = catholic
+        size = 31230
+    }
+}
 #Neuchatel (56000/14000 POPS)
 608 = {
 	aristocrats = {

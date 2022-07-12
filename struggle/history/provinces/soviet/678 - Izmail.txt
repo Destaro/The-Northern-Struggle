@@ -1,7 +1,8 @@
-owner = MOL
-controller = MOL
+owner = HUN
+controller = HUN
 add_core = ROM
-add_core = MOL
+add_core = MDV
+add_core = HUN
 trade_goods = fish
 life_rating = 35
 fort = 1

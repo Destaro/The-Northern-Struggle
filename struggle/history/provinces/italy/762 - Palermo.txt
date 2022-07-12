@@ -1,7 +1,8 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = SYC
+add_core = SIC
 add_core = ITA
 trade_goods = fish
 life_rating = 35

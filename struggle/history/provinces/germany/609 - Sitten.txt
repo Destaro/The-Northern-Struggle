@@ -1,6 +1,7 @@
-owner = BRG
-controller = BRG
+owner = NCT
+controller = NCT
 add_core = BRG
+add_core = NCT
 trade_goods = coal
 life_rating = 31
 party_loyalty = {

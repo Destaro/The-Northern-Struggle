@@ -50,7 +50,7 @@ country_event = {
 		regular_clothes = 50
 		921 = { change_province_name = "Negev" }
 		919 = { change_province_name = "Tel Aviv" }
-		916 = { change_province_name = "Nasrath" }
+		916 = { change_province_name = "Akka" }
 		918 = { change_province_name = "Samaria" }
 		3330 = { change_province_name = "Eilat" }
 		any_country = {

@@ -32,6 +32,66 @@
 		size = 2725
 	}
 }
+#Manifa #now part of Kuwait 
+3280 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1250
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 1100
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 9450
+	}
+	
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3450
+	}
+	
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 300
+	}
+}
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
 #under the rule of Trucial States in 1836  
 #Bahrain (20000/5000 POPS) #now part of Bahrain  

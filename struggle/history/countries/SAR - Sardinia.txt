@@ -40,7 +40,6 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
-decision = rename_provence
 
 govt_flag = {
 	government = absolute_monarchy
@@ -57,8 +56,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-decision = SAR_1836_setup
 
 # Technologies
 post_napoleonic_thought = 1

@@ -3,49 +3,49 @@
 #Innsbruck (236000/59000 POPS)
 612 = {
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 750 
 	}
 
 	bureaucrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1375 
 	}
 
 	officers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1250 
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 2750
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 50325
 	}
@@ -117,31 +117,31 @@
 #Lienz (52000/13000 POPS)
 615 = {
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 175 
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1125
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 11975
 	}

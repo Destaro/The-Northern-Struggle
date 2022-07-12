@@ -4737,6 +4737,39 @@
 		size = 83750
 	}
 }
+#Ravensburg (364000/91000 POPS)
+3552 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 200 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 650
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 39950 
+	}
+}
+
 #under the rule of Prussia in 1836  
 #Sigmaringen (61000/15250 POPS)
 594 = {

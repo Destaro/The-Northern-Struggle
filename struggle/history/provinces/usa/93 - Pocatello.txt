@@ -1,7 +1,6 @@
-owner = MTC
-controller = MTC
-add_core = MTC
-add_core = DAK
+owner = DES
+controller = DES
+add_core = DES
 colonial = 2
 trade_goods = cattle
 life_rating = 35

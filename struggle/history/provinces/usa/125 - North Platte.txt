@@ -1,7 +1,7 @@
 owner = MTC
 controller = MTC
 add_core = MTC
-add_core = DAK
+add_core = UNB
 trade_goods = grain
 life_rating = 35
 colonial = 2

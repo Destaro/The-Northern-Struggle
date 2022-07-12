@@ -5793,25 +5793,25 @@
 #Evansville (196000/49000 POPS)
 170 = {
 	clergymen = {
-		culture = lusitanian
+		culture = karolean
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = karolean
 		religion = protestant
 		size = 2300
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = karolean
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = karolean
 		religion = protestant
 		size = 42925
 	}
@@ -5853,19 +5853,19 @@
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = karolean
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = karolean
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = karolean
 		religion = catholic
 		size = 300
 	}
@@ -5899,25 +5899,25 @@
 #Fort Wayne (128000/32000 POPS)
 172 = {
 	clergymen = {
-		culture = vinlander
+		culture = karolean
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = karolean
 		religion = protestant
 		size = 1600
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = karolean
 		religion = protestant
 		size = 325
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = karolean
 		religion = protestant
 		size = 29850
 	}
@@ -9716,96 +9716,74 @@
 		size = 11800
 	}
 }
-#D.C. (104000/26000 POPS)
+#Nuevo Leon-Tamaulipas Region (172000)
+#ruled by Mexico 1836
+#Monterrey (104000/26000 POPS)
 2146 = {
 	aristocrats = {
-		culture = yankee
+		culture = mexican
 		religion = catholic
-		size = 5
+		size = 550
 	}
 
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 25
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = catholic
-		size = 15
-	}
-
-	farmers = {
-		culture = yankee
+	bureaucrats = {
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
-	
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 95
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 50
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 30
+		culture = mexican
+		religion = catholic
+		size = 200
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 160
+		culture = mexican
+		religion = catholic
+		size = 950
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 90
+		culture = mexican
+		religion = catholic
+		size = 200
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 2225
-	}
-	
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 2500
+		culture = mexican
+		religion = catholic
+		size = 17000
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 40
+		culture = native_american_minor
+		religion = animist
+		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 260
+		culture = native_american_minor
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 380
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 4200
+		culture = native_american_minor
+		religion = animist
+		size = 6500
 	}
 }
 #Hagerstown (56000/14000 POPS)

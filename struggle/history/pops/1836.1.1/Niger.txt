@@ -599,39 +599,45 @@
 #Madama (44000/11000 POPS)
 1814 = {
 	aristocrats = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 200
+		size = 20
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 550
+		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = tuareg
-		religion = sunni
-		size = 9025
-	}
-
-	slaves = {
 		culture = teda
 		religion = sunni
-		size = 1000
+		size = 3025
+	}
+	
+	farmers = {
+		culture = zaghawa
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 300
 	}
 }
 #Damergu Region (360000)

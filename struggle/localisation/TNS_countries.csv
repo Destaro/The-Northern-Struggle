@@ -8,13 +8,43 @@ autonomous_dependency;Autonomous Dependency;;;;;;;;;;;;;
 autonomous_dependency_ruler;Governor;;;;;;;;;;;;;
 lotharingian_duchy;Lotharingian Duchy;;;;;;;;;;;;;
 lotharingian_duchy_ruler;Duke;;;;;;;;;;;;;
-orthodox;Eastern Orthodox;;;;;;;;;;;;;;;;;;;;;;;;x
+orthodox;Eastern Catholic;;;;;;;;;;;;;;;;;;;;;;;;x
 coptic;Oriental Orthodox;;;;;;;;;;;;;;;;;;;;;;;;x
 syriac;Oriental Catholic;;;;;;;;;;;;;;;;;;;;;;;;x
 nestorian;Syro-Oriental;;;;;;;;;;;;;;;;;;;;;;;;x
 syriac_country;Oriental Catholic Country;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 french_bourbon;Absolute Monarchy;;;;;;;;;;;;;x;;;;
 ;;;;;;x;;;;
+pontic_caucasian;Pontic Caucasian;;;;;;;;;;;;;;;;;;;;;;;;x
+laz;Laz;;;;;;;;;;;;x
+megrelian;Megrelian;;;;;;;;;;;;x
+svan;Svan;;;;;;;;;;;;x
+abkhaz;Abkhaz;;;;;;;;;;;;x
+abaza;Abaza;;;;;;;;;;;x
+ubykh;Ubykh;;;;;;;;;;;;x
+circassian;Adyghe;;;;;;;;;;;;x
+kabardian;Kabardian;;;;;;;;;;;;x
+ingush;Ingush;;;;;;;;;;;;x
+avar;Avar;;;;;;;;;;;;x
+dargin;Dargin;;;;;;;;;;;;x
+andi_didoic;Andi-Didoic;;;;;;;;;;;;x
+lezgic;Lez;;;;;;;;;;;;x
+chaharmahali;Chaharmahali;;;;;;;;;;;;;;;;;;;;;;;;x
+tsezic;Tsezic;;;;;;;;;;;;;;;;;;;;;;;;x
+andi;Andi;;;;;;;;;;;;;;;;;;;;;;;;x
+khinalug;Khinalug;;;;;;;;;;;;;;;;;;;;;;;;x
+budukh_kryts;Budukh-Kryts;;;;;;;;;;;;;;;;;;;;;;;;x
+tat;Tat;;;;;;;;;;;;x
+alvuanian;Udi;;;;;;;;;;;;x
+kivruli;Kivruli;;;;;;;;;;;;x
+rutul;Rutul;;;;;;;;;;;;;;;;;;;;;;;;x
+tsakhur;Tsakhur;;;;;;;;;;;;;;;;;;;;;;;;x
+aghul;Aghul;;;;;;;;;;;;;;;;;;;;;;;;x
+tabasaran;Tabasaran;;;;;;;;;;;;;;;;;;;;;;;;x
+lak_cauc;Lak;;;;;;;;;;;;;;;;;;;;;;;;x
+qara_kirgiz;Qara Kirghiz;;;;;;;;;;;;;;;;;;;;;;;;x
+kirgiz;Kirghiz;;;;;;;;;;;;;;;;;;;;;;;;x
+kumyk;Kumyk;;;;;;;;;;;;x
 albanian;Gheg;;;;;;;;;;;;x
 tosk;Tosk;;;;;;;;;;;;x
 vandalic;Wandali;;;;;;;;;;;;x
@@ -63,7 +93,18 @@ persian;Farsi;;;;;;;;;;;;;;;;;;;;;;;;x
 khorasani_persian;Dari;;;;;;;;;;;;;;;;;;;;;;;;x
 khwarazm_persian;Khwarazmi;;;;;;;;;;;;;;;;;;;;;;;;x 
 norn;Norn;;;;;;;;;;;;;x
-;;;;;;x;;;;
+dalmatian;Dalmato;;;;;;;;;;;;;x
+venetian;Vèneto;;;;;;;;;;;;;x
+;;;;;;x;;;;;;
+MNZ;Monza;;;;;;;;;;;;x
+MNZ_ADJ;Monzan;;;;;;;;;;;;x
+MNZ_theocracy;Diocese of Monza;;;;;;;;;;;;x
+MTU;Mantua;;;;;;;;;;;;x
+MTU_ADJ;Mantuan;;;;;;;;;;;;x
+CSZ;Consenza;;;;;;;;;;;;x
+CSZ_ADJ;Consenzan;;;;;;;;;;;;x
+YNN;Bai Kingdom;Bai Kingdom;Bai Kingdom;;Bai Kingdom;;;;;;;;;x
+YNN_ADJ;Bai;Bai;Bai;;Bai;;;;;;;;;x
 LUX_lotharingian_duchy;Lower Lotharingia;;;;;;;;;;;;;x
 LOR_lotharingian_duchy;Upper Lotharingia;;;;;;;;;;;;;x
 LOT;Lotharingia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -150,6 +191,26 @@ AFS_hms_government_ADJ;Afsharid;Afsharid;Afsharid;;;;;;;;;;;
 ;;;;;;x;;;;
 EDE_ADJ;Edessan;Edessan;Edessan;;;;;;;;;;;x;
 EDE;Edessa;Edessa;Edessa;;;;;;;;;;;x;
+;;;;;;x;;;;
+TST_theocracy;Bishopric of Trentino;Bishopric of Trentino;Bishopric of Trentino;;;;;;;;;;;x;
+;;;;;;x;;;;
+AQU;Aquileia;;;;;;;;;;;;x
+AQU_ADJ;Aquileian;;;;;;;;;;;;x
+AQU_theocracy;Patriarchate of Aquileia;;;;;;;;;;;;x
+AQU_theocracy_ADJ;Aquileian;;;;;;;;;;;;x
+AQU_democracy;Republic of Aquileia;;;;;;;;;;;;x
+AQU_absolute_monarchy;Aquileia;;;;;;;;;;;;x
+AQU_hms_government;Aquileia;;;;;;;;;;;;x
+AQU_prussian_constitutionalism;Aquileia;;;;;;;;;;;;x
+AQU_fascist_dictatorship;Patria del Friul;;;;;;;;;;;;;;;;;;;;;;x,,,
+AQU_proletarian_dictatorship;Democratic Republic of Aquileia;;;;;;;;;;;;;;;;;;;;;;x,,,
+AQU_conservative;Lega Furlan;;;;;;;;;;;;;x
+AQU_liberal;Moviment pal Friûl;;;;;;;;;;;;;x
+AQU_reactionary;The Patriarchal Faction;;;;;;;;;;;;;x
+AQU_anarcho_liberal;Pat pe Autonomie;;;;;;;;;;;;;x
+AQU_socialist;Convergence pal Friûl;;;;;;;;;;;;;x
+AQU_communist;Partît Communista Furlan;;;;;;;;;;;;;x
+AQU_fascist;Front Furlan;;;;;;;;;;;;;x
 ;;;;;;x;;;;
 ORL_ADJ;Neustrian;Neustrian;Neustrian;;;;;;;;;;;x;
 ORL;Neustria;Neustria;Neustria;;;;;;;;;;;x;
@@ -310,8 +371,30 @@ VND_anarcho_liberal;Partij af Radikals;Partij af Radikals;Partij af Radikals;;Pa
 VND_communist;Vandalthiuda Radikals;Vandalthiuda Radikals;Vandalthiuda Radikals;;Vandalthiuda Radikals;;;;;;;;;x;;;;
 VND_fascist;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;Fraujinassus af Vandalthiuda;;Fraujinassus af Vandalthiuda;;;;;;;;;x;;;;
 ;;;;;;x;;;;
+MEL_ADJ;Melfian;Melfian;Melfian;;;;;;;;;;;x;
+MEL;Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_proletarian_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_presidential_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_bourgeois_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_fascist_dictatorship;State Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_absolute_monarchy;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_prussian_constitutionalism;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_hms_government;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_democracy;Republic Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+AVR_ADJ;Aversan;Aversan;Aversan;;;;;;;;;;;x;
+AVR;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_proletarian_dictatorship;Democratic Republic Of Aversa;Democratic Republic Of Aversa;Democratic Republic Of Aversa;;;;;;;;;;;x;
+AVR_presidential_dictatorship;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_bourgeois_dictatorship;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_fascist_dictatorship;State Of Aversa;State Of Aversa;State Of Aversa;;;;;;;;;;;x;
+AVR_absolute_monarchy;Kingdom Of Aversa;Kingdom Of Aversa;Kingdom Of Aversa;;;;;;;;;;;x;
+AVR_prussian_constitutionalism;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_hms_government;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_democracy;Republic Of Aversa;Republic Of Aversa;Republic Of Aversa;;;;;;;;;;;x;
+;;;;;;x;;;;
 VIN;Vinland;Vinland;Vinland;;;;;;;;;;;
-VIN_autonomous_dependency;Crown Colony of Vinland;;;;;;;;;;;;;
+VIN_colonial_company;Crown Colony of Vinland;;;;;;;;;;;;;
+VIN_dominion;Crown Colony of Vinland;;;;;;;;;;;;;
 VIN_ADJ;Vinlandic;Vinlandais;Vinländisch;;;;;;;;;;;
 VIN_reactionary_1;Rikets Samhald;;;;;;;;;;;;;
 VIN_reactionary_2;Tradisjonens Vaktarar;;;;;;;;;;;;;
