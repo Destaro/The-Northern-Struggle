@@ -11,6 +11,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_greater_power = yes
+			NOT = { tag = SCA }
 			OR = {
 				LAT = {
 					exists = yes

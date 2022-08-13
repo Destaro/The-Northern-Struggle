@@ -388,22 +388,8 @@ political_decisions = {
 
 		effect = {
 			prestige = 10
-			BEL_387 = {
-				remove_core = WLL
-				add_core = FLA
-				add_core = BEL
-			}
-			BEL_394 = {
-				remove_core = FLA
-				add_core = WLL
-				add_core = BEL
-			}
-			397 = {
-				remove_core = WLL
-				remove_core = BEL
-			}
 			change_tag = BEL
-			add_accepted_culture = flemish
+			add_accepted_culture = frankish
 			capital = 392
 			random_country = {
 				limit = {

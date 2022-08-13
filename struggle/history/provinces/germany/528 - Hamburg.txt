@@ -1,5 +1,7 @@
-owner = HAM
-controller = HAM
+owner = SWH
+controller = SWH
+add_core = SWH
+add_core = HOL
 add_core = HAM
 add_core = GER
 trade_goods = fruit

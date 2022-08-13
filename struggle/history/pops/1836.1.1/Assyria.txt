@@ -195,38 +195,38 @@
 	}
 	
 	aristocrats = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 100
 	}
 	
 	officers = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 100
 	}
 	
 	soldiers = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 200
 	}
 
 	clergymen = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 100
 	}
 
 	artisans = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 1050
 	}
 
 	farmers = {
-		culture = armenian
-		religion = orthodox
+		culture = assyrian
+		religion = nestorian
 		size = 20450
 	}
 	

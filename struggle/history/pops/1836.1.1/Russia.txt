@@ -1973,146 +1973,104 @@
 994 = {
 	aristocrats = {
 		culture = swedish
-		religion = orthodox
-		size = 6650
+		religion = catholic
+		size = 650
 	}
 
 	bureaucrats = {
 		culture = swedish
-		religion = orthodox
-		size = 1750
+		religion = catholic
+		size = 750
 	}
 
 	officers = {
 		culture = swedish
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = novgorodian
 		religion = orthodox
 		size = 200
 	}
 
-	clergymen = {
-		culture = swedish
+	artisans = {
+		culture = novgorodian
 		religion = orthodox
-		size = 1200
+		size = 6000
 	}
 
 	artisans = {
-		culture = swedish
+		culture = novgorodian
 		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = swedish
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = swedish
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = swedish
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = swedish
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = finnish
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = finnish
-		religion = orthodox
-		size = 14000
-	}
-
-	artisans = {
-		culture = finnish
-		religion = orthodox
-		size = 8750
+		size = 750
 	}
 
 	soldiers = {
-		culture = finnish
-		religion = orthodox
-		size = 16000
-	}
-
-	serfs = {
-		culture = finnish
-		religion = orthodox
-		size = 16700
+		culture = swedish
+		religion = catholic
+		size = 6000
 	}
 	
 	farmers = {
-		culture = finnish
-		religion = orthodox
-		size = 50700
+		culture = swedish
+		religion = catholic
+		size = 3700
 	}
 
 	aristocrats = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 700
 	}
 
 	officers = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 950
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 6850
 	}
 
 	soldiers = {
-		culture = volga_german
-		religion = protestant
+		culture = swedish
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = finnish
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = finnish
-		religion = protestant
-		size = 8000
+		culture = north_german
+		religion = catholic
+		size = 1000
 	}
 
 	farmers = {
 		culture = finnish
-		religion = protestant
-		size = 14000
+		religion = catholic
+		size = 8000
 	}
 
 	clergymen = {
@@ -2136,58 +2094,82 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 5495
+		size = 2495
 	}
 	
 	artisans = {
-		culture = estonian
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = estonian
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = estonian
-		religion = protestant
-		size = 3925
+		culture = finnish
+		religion = catholic
+		size = 14925
 	}
 
 }
 #Petrozavorsk (104000/26000 POPS)
 995 = {
 	aristocrats = {
-		culture = finnish
+		culture = novgorodian
 		religion = orthodox
 		size = 375
 	}
 
 	clergymen = {
-		culture = finnish
+		culture = novgorodian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = finnish
+		culture = novgorodian
 		religion = orthodox
 		size = 900
 	}
 
 	soldiers = {
-		culture = finnish
+		culture = novgorodian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 9000
+	}
+	
+	clergymen = {
 		culture = finnish
 		religion = orthodox
-		size = 12000
+		size = 10
+	}
+
+	artisans = {
+		culture = finnish
+		religion = orthodox
+		size = 90
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = orthodox
+		size = 20
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 4000
 	}
 
 	clergymen = {
@@ -2205,130 +2187,172 @@
 	farmers = {
 		culture = finnish
 		religion = orthodox
-		size = 11500
+		size = 10500
 	}
 }
 #Luga (132000/33000 POPS)
 996 = {
 	aristocrats = {
-		culture = estonian
-		religion = protestant
-		size = 500
+		culture = finnish
+		religion = catholic
+		size = 200
 	}
 
 	clergymen = {
-		culture = estonian
-		religion = protestant
-		size = 325
+		culture = finnish
+		religion = catholic
+		size = 100
 	}
 
 	artisans = {
-		culture = estonian
-		religion = protestant
-		size = 1650
+		culture = finnish
+		religion = catholic
+		size = 500
 	}
 
 	soldiers = {
-		culture = estonian
-		religion = protestant
-		size = 3200
+		culture = finnish
+		religion = catholic
+		size = 1000
 	}
 
 	farmers = {
-		culture = estonian
-		religion = protestant
-		size = 47325
+		culture = finnish
+		religion = catholic
+		size = 20000
 	}
 	
+	clergymen = {
+		culture = finnish
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = finnish
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = finnish
+		religion = catholic
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 100
+	}
+
 	farmers = {
 		culture = swedish
-		religion = protestant
-		size = 10000
+		religion = catholic
+		size = 1325
 	}
 	
 	farmers = {
 		culture = finnish
-		religion = protestant
-		size = 10175
+		religion = catholic
+		size = 3175
 	}
 }
 #Gdov (120000/30000 POPS)
 997 = {
 	aristocrats = {
-		culture = estonian
-		religion = protestant
-		size = 475
+		culture = novgorodian
+		religion = orthodox
+		size = 275
 	}
 
 	clergymen = {
-		culture = estonian
-		religion = protestant
+		culture = novgorodian
+		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = estonian
-		religion = protestant
-		size = 1400
+		culture = novgorodian
+		religion = orthodox
+		size = 400
 	}
 
 	soldiers = {
-		culture = estonian
-		religion = protestant
-		size = 3200
+		culture = novgorodian
+		religion = orthodox
+		size = 1200
 	}
 
 	farmers = {
-		culture = estonian
-		religion = protestant
-		size = 47800
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
+		culture = novgorodian
+		religion = orthodox
 		size = 10000
 	}
 
 	clergymen = {
-		culture = swedish
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = swedish
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = swedish
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 100
 	}
-
-	serfs = {
-		culture = swedish
-		religion = protestant
-		size = 7700 
+	
+	farmers = {
+		culture = finnish
+		religion = catholic
+		size = 27800
 	}
 	
 	artisans = {
-		culture = estonian
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = estonian
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = estonian
-		religion = protestant
+		culture = finnish
+		religion = catholic
 		size = 5925
 	}
 
@@ -2362,17 +2386,17 @@
 	farmers = {
 		culture = novgorodian
 		religion = orthodox
-		size = 10700
+		size = 4700
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = finnish
 		religion = orthodox
 		size = 150
 	}
@@ -2390,9 +2414,9 @@
 	}
 
 	serfs = {
-		culture = ugrian
+		culture = finnish
 		religion = orthodox
-		size = 3000
+		size = 6000
 	}
 }
 #Tver Region (1824000)

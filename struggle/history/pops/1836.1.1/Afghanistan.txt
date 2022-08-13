@@ -516,13 +516,13 @@
 	}
 	
 	artisans = {
-		culture = khorasani
+		culture = khorasani_persian
 		religion = sunni
 		size = 900
 	}
 
 	farmers = {
-		culture = khorasani
+		culture = khorasani_persian
 		religion = sunni
 		size = 5587
 	}
@@ -1548,7 +1548,7 @@
 	}
 
 	farmers = {
-		culture = khorasani
+		culture = khorasani_persian
 		religion = sunni
 		size = 5500
 	}
@@ -1712,73 +1712,73 @@
 #Ghor (56000/14000 POPS)
 3410 = {
 	aristocrats = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 2000
 	}
 
 	clergymen = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 1000
 	}
 
 	artisans = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 4250
 	}
 
 	soldiers = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 1000
 	}
 
 	farmers = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 99250
 	}
 
 	aristocrats = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 250
 	}
 
 	officers = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 500
 	}
 
 	clergymen = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 750
 	}
 
 	artisans = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 1500
 	}
 
 	soldiers = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 500
 	}
 
 	farmers = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 25750
 	}
@@ -1798,73 +1798,73 @@
 #Sibi (56000/14000 POPS)
 3417 = {
 	aristocrats = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 2000
 	}
 
 	clergymen = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 1000
 	}
 
 	artisans = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 4250
 	}
 
 	soldiers = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 1000
 	}
 
 	farmers = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 99250
 	}
 
 	aristocrats = {
-		culture = arab_khorasani
+		culture = khorasani_persian
 		religion = shiite
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 250
 	}
 
 	officers = {
-		culture = khorasani_persian
+		culture = arab_khorasani 
 		religion = shiite
 		size = 500
 	}
 
 	clergymen = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 750
 	}
 
 	artisans = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 1500
 	}
 
 	soldiers = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 500
 	}
 
 	farmers = {
-		culture = khorasani_persian
+		culture = arab_khorasani
 		religion = shiite
 		size = 25750
 	}

@@ -1,1 +1,1 @@
-owner = RGScontroller = RGSadd_core = RGSadd_core = LPLtrade_goods = fruitlife_rating = 31
+add_core = KRTadd_core = BRZadd_core = LPLadd_core = PRGtrade_goods = savannalife_rating = 15

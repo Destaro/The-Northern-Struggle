@@ -1,7 +1,6 @@
 capital = 425
 primary_culture = frankish
 culture = dutch
-culture = rhine_frankish
 culture = batavian_frankish
 religion = catholic
 government = absolute_monarchy

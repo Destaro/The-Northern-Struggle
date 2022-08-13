@@ -1,7 +1,7 @@
 capital = 812
 primary_culture = bulgarian
 religion = orthodox
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.08
 nationalvalue = nv_order
 literacy = 0.4
@@ -38,6 +38,24 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = orthodox_country
+decision = east_galicia_rename_rus
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+piston_steam_engine = 1
+mechanical_production = 1
+
 
 ruling_party = BUL_conservative
 upper_house = {

@@ -2,6 +2,6 @@ owner = RUM
 controller = RUM
 add_core = RUM
 add_core = GRE
-add_core = BUL
+add_core = MDV
 trade_goods = grain
 life_rating = 35

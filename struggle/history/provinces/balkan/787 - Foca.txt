@@ -2,7 +2,6 @@ owner = ALB
 controller = ALB
 
 add_core = BOS
-add_core = SER
 add_core = ALB
 trade_goods = coal
 life_rating = 35

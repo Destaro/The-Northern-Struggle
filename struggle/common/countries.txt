@@ -57,6 +57,8 @@ AQU = "countries/Aquileia.txt"
 CSZ = "countries/Cosenza.txt"
 MNZ = "countries/Monza.txt"
 MTU = "countries/Mantua.txt"
+FRE = "countries/Franconia.txt"
+NTU = "countries/Northumbria.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

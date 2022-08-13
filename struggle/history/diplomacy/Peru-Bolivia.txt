@@ -1,13 +1,7 @@
-# PBC
+# Guarani Autonomy
 vassal = {
-	first = PBC
-	second = PEU
-	start_date = 1836.1.1
-	end_date = 1838.1.1
-}
-vassal = {
-	first = PBC
-	second = SPU
-	start_date = 1836.1.1
-	end_date = 1838.1.1
+	first = LPL
+	second = PRG
+	start_date = 1818.1.1
+	end_date = 1939.1.1
 }

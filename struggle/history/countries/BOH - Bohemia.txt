@@ -83,6 +83,8 @@ interchangeable_parts = 1
 romanticism = 1
 #hot_blast = 1
 high_pressure_steam_engine = 1
+post_nelsonian_thought = 1
+naval_design_bureaus = 1
 
 # Inventions
 #corvettes = yes

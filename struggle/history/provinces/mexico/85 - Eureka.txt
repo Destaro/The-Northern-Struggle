@@ -1,6 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = CAL
+owner = NOR
+controller = NOR
+add_core = COL
 trade_goods = fish
 life_rating = 35
 colonial = 2

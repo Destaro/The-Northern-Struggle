@@ -1,0 +1,5 @@
+owner = ARO
+controller = ARO
+add_core = ARO
+trade_goods = wool
+life_rating = 35

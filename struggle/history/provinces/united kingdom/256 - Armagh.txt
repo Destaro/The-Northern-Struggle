@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = IRE
 trade_goods = fruit
 life_rating = 35

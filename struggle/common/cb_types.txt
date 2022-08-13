@@ -569,17 +569,7 @@ restore_austrian_empire = {
 		neighbour = THIS
 		any_owned_province = {
 			OR = {
-				is_core = VEN
-				is_core = SLO
-				is_core = SLV
-				is_core = HUN
-				is_core = GLM
-				region = AUS_771
-				region = AUS_780
-				region = AUS_777
-				region = AUS_654
-				region = AUS_652
-				region = AUS_657
+				is_core = BAV
 			}
 		}
 		OR = {
@@ -598,18 +588,7 @@ restore_austrian_empire = {
 	allowed_states = {
 		any_owned_province = {
 			OR = {
-				is_core = VEN
-				is_core = SLO
-				is_core = SLV
-				is_core = BOH
-				is_core = HUN
-				region = AUS_702
-				region = AUS_771
-				region = AUS_780
-				region = AUS_777
-				region = AUS_654
-				region = AUS_652
-				region = AUS_657
+				is_core = BAV
 			}
 		}
 	}

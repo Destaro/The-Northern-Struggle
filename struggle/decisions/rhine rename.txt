@@ -74,7 +74,7 @@ political_decisions = {
 			random_owned = {
 				limit = { province_id = 381 }
 				381 = { change_province_name = "Maestrig"
-					state_scope = { change_region_name = "Maestrig-Luwik" } }
+					state_scope = { change_region_name = "Maestrig-Aken" } }
 				owner = { 
 					set_global_flag = french_rename_limburg
 					clr_global_flag = german_rename_limburg
@@ -185,7 +185,7 @@ political_decisions = {
 			random_owned = {
 				limit = { province_id = 381 }
 				381 = { change_province_name = "Limburg"
-					state_scope = { change_region_name = "Limburg-Lüttich" }
+					state_scope = { change_region_name = "Limburg-Aachen" }
 					}
 				owner = { 
 					set_global_flag = german_rename_limburg

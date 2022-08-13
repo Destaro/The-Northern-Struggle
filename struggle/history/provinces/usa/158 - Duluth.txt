@@ -1,9 +1,8 @@
-owner = VIN
-controller = VIN
-add_core = VIN
-trade_goods = fish
+owner = CAL
+controller = CAL
+add_core = CAL
+trade_goods = fruit
 life_rating = 35
-colonial = 2
 1861.1.1 = {
 	colonial = 0
 	owner = USA

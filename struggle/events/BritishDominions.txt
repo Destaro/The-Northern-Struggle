@@ -470,7 +470,10 @@ country_event = {
 		war = no
 		year = 1907
 		any_owned_province = { is_core = NZL }
+		OR = {
 		NOT = { exists = NZL }
+		NOT = { tag = AOT }
+		}
 		is_possible_vassal = NZL
 	}
 
@@ -683,6 +686,7 @@ country_event = {
 		year = 1909
 		any_owned_province = { is_core = SAF }
 		NOT = { exists = SAF }
+		NOT = { tag = VLK }
 		is_possible_vassal = SAF
 	}
 

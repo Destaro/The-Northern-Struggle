@@ -291,6 +291,8 @@ political_decisions = {
 				limit = {
 					is_core = MCK
 					NOT = { province_id = 1481 } #Port Arthur
+					NOT = { province_id = 1082 } #Haisenwai
+					NOT = { province_id = 3272 } #Ni Harbour
 				}
 				secede_province = MCK
 			}

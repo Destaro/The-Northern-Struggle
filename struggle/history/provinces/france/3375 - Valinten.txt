@@ -1,6 +1,6 @@
-owner = WLL
-controller = WLL
-add_core = WLL
+owner = FLA
+controller = FLA
+add_core = FLA
 add_core = BEL
 trade_goods = fish
 life_rating = 30

@@ -1,7 +1,7 @@
-owner = LPL
-controller = LPL
+owner = PRG
+controller = PRG
 add_core = LPL
-add_core = URU
+add_core = PRG
 trade_goods = timber
 life_rating = 35
 1860.1.1 = {

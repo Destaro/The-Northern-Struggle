@@ -1,7 +1,8 @@
-owner = POR
-controller = POR
+owner = GAZ
+controller = GAZ
 add_core = SHO
 add_core = AGC
+add_core = GAZ
 trade_goods = grain
 life_rating = 35
 colonial = 2

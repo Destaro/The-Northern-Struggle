@@ -3,7 +3,6 @@ name = "War of the Frankish League"
 1830.4.19 = {
 	add_attacker = BRT
 	add_attacker = ORL
-	add_attacker = POI
 	add_defender = SWE
 	add_defender = WHA
 	add_defender = USA

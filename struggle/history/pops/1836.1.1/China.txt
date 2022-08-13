@@ -3372,19 +3372,19 @@
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 3250
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 112800
 	}
@@ -11709,13 +11709,13 @@
 #Kunming (3016000/754000 POPS)
 1601 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 13500
 	}
 
 	bureaucrats = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 2675
 	}
@@ -11727,25 +11727,25 @@
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 5750
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 11000
 	}
 	
 	artisans = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 11000
 	}
 	
 	artisans = {
-		culture = nanfaren
+		culture = vietnamese
 		religion = mahayana
 		size = 3800
 	}

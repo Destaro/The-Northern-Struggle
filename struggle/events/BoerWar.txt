@@ -914,7 +914,7 @@ country_event = {
 			add_core = SAF
 		}
 		3273 = {
-			change_province_name = "Hoedspruit"
+			change_province_name = "Netobrote"
 			secede_province = THIS
 			add_core = TRN
 			add_core = SAF

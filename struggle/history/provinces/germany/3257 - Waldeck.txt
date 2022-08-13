@@ -1,6 +1,7 @@
-owner = WLD
-controller = WLD
-add_core = WLD
+owner = WES
+controller = WES
+add_core = WES
+add_core = HES
 add_core = GER
 trade_goods = timber
 life_rating = 35

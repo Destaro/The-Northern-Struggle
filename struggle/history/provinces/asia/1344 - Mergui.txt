@@ -1,7 +1,7 @@
-owner = EIC
-controller = EIC
+owner = SIA
+controller = SIA
 add_core = KAR
-add_core = BUR
+add_core = SIA
 trade_goods = fish
 life_rating = 31
 colonial = 2

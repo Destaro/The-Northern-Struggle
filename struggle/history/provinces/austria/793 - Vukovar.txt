@@ -1,6 +1,5 @@
-owner = SER
-controller = SER
-add_core = SER
-add_core = CRO
+owner = PNN
+controller = PNN
+add_core = PNN
 trade_goods = cattle
 life_rating = 35

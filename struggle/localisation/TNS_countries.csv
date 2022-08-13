@@ -1,9 +1,13 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+concede_finland_title;Integrate Finland;;;;;;;;;;;;;x;;;;
+concede_finland_desc;Finland has been autonomous since the conclusion of the eastern conquests, but now with increased ease of administration we can finally reintegrate the duchy into Sweden proper.;;;;;;;;;;;;;x;;;;
+GC_NAME;The Northern Struggle;;;;;;;;;;;;;x;;;;
+GC_DESC;BLABLABLATESTING.;;;;;;;;;;;;;x;;;;
 zoroastrian_country;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;	
 zoroastrian;Mazdayasna;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 nestorian_country;Syro-Oriental Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-punic_church_country;Carthaginian Church Country;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-punic_church;Carthaginian Church;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+punic_church_country;Indictian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+punic_church;Indictian Church;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 autonomous_dependency;Autonomous Dependency;;;;;;;;;;;;;
 autonomous_dependency_ruler;Governor;;;;;;;;;;;;;
 lotharingian_duchy;Lotharingian Duchy;;;;;;;;;;;;;
@@ -16,6 +20,8 @@ syriac_country;Oriental Catholic Country;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 french_bourbon;Absolute Monarchy;;;;;;;;;;;;;x;;;;
 ;;;;;;x;;;;
 pontic_caucasian;Pontic Caucasian;;;;;;;;;;;;;;;;;;;;;;;;x
+new_roman;Albaterrenni;;;;;;;;;;;;;;;;;;;;;;;;x
+british;Aenglisc;;;;;;;;;;;;x
 laz;Laz;;;;;;;;;;;;x
 megrelian;Megrelian;;;;;;;;;;;;x
 svan;Svan;;;;;;;;;;;;x
@@ -47,18 +53,17 @@ kirgiz;Kirghiz;;;;;;;;;;;;;;;;;;;;;;;;x
 kumyk;Kumyk;;;;;;;;;;;;x
 albanian;Gheg;;;;;;;;;;;;x
 tosk;Tosk;;;;;;;;;;;;x
-vandalic;Wandali;;;;;;;;;;;;x
+vandalic;Wandalsshe;;;;;;;;;;;;x
 frisian;Frysk;;;;;;;;;;;;x
 afro_frankish;Afro-Frankish;Afro-Frankish;Afro-Frankish;;;;;;;;;;;
 dutch;Lower Frankish;;;;;;;;;;;;x
 frankish;Frankish;;;;;;;;;;;;x
 czech;Béhmišna;;;;;;;;;;;;x
-rhine_frankish;Rhine Frankish;;;;;;;;;;;;x
 batavian_frankish;Batavian Frankish;;;;;;;;;;;;x
 vinlander;Vinlander;;;;;;;;;;;;x
 sjaellander;Ny Sjællander;;;;;;;;;;;;x
 karolean;Caroliner;;;;;;;;;;;;x
-platinier;Þiuderikslantir;;;;;;;;;;;;x
+platinier;Platinisshe;;;;;;;;;;;;x
 scythian;Skiftæ;;;;;;;;;;;;x
 iberian_scythian;Alanos;;;;;;;;;;;;x
 iassic;Iasi;;;;;;;;;;;;x
@@ -77,10 +82,8 @@ scythian_group;Scythic;;;;;;;;;;;;;;;;;;;;;;;;x
 beneluxian;Frankish Group;;;;;;;;;;;;;;;;;;;;;;;;x
 semitic_group;Western Semitic;;;;;;;;;;;;;;;;;;;;;;;;x
 arab_khorasani;Zangu'i Arabic;;;;;;;;;;;;x
-romanian;Dacoromanian;;;;;;;;;;;;;;;;;;;;;;;;x
+romanian;Romanian;;;;;;;;;;;;;;;;;;;;;;;;x
 aromanian;Aromanian;;;;;;;;;;;;;;;;;;;;;;;;x
-megleno_romanian;Mogleno-Romanian;;;;;;;;;;;;;;;;;;;;;;;;x
-istro_romanian;Istro-Romanian;;;;;;;;;;;;;;;;;;;;;;;;x 
 hungarian;Mogyër;;;;;;;;;;;;;;;;;;;;;;;;x 
 sorbian;Sorpiš;;;;;;;;;;;;;;;;;;;;;;;;x 
 silesian;Šléziš;;;;;;;;;;;;;;;;;;;;;;;;x 
@@ -95,14 +98,199 @@ khwarazm_persian;Khwarazmi;;;;;;;;;;;;;;;;;;;;;;;;x
 norn;Norn;;;;;;;;;;;;;x
 dalmatian;Dalmato;;;;;;;;;;;;;x
 venetian;Vèneto;;;;;;;;;;;;;x
+hindi;Hindustani;;;;;;;;;;;;;x
+jin;Jin;;;;;;;;;;;;x
+xiang;Xiang;;;;;;;;;;;;x
+gondi;Gondi;;;;;;;;;;;;x
+munda;Munda;;;;;;;;;;;;x
+khasi;Khasi;;;;;;;;;;;;x
+mon;Mon;;;;;;;;;;;;x
+lavonic;Lavo;;;;;;;;;;;;x
+pear;Pearic;;;;;;;;;;;;x
+bahnar;Bahnaric;;;;;;;;;;;;x
+katu;Katuic;;;;;;;;;;;;x
+khmu;Khmuic;;;;;;;;;;;;x
+lawa;Lawa;;;;;;;;;;;;x
+hmong;Hmong;;;;;;;;;;;;x
+mien;Mien;;;;;;;;;;;;x
+tai;Tai;;;;;;;;;;;;x
+lue;Lue;;;;;;;;;;;;x
+gan;Gann;;;;;;;;;;;;x
+beifaren;Mandarin;;;;;;;;;;;;x
+wu;Wu;;;;;;;;;;;;x
+daur;Dagur;;;;;;;;;;;;x
+even;Lamut;;;;;;;;;;;;x
+yukaghir;Yukaghir;;;;;;;;;;;;x
+chukotkan;Chukotkan;;;;;;;;;;;;x
+kamchatkan;Kamchatkan;;;;;;;;;;;;x
+nganasan;Nganasan;;;;;;;;;;;;x
+dolgan;Dolgan;;;;;;;;;;;;x
+yeniseic;Yeniseic;;;;;;;;;;;;x
+u_tsang;Ü-Tsang;;;;;;;;;;;;x
+amdo;Amdo;;;;;;;;;;;;x
+kham;Kham;;;;;;;;;;;;x
+kuki_chin;Kuki-Chin;;;;;;;;;;;;x
+champa;Champa;;;;;;;;;;;;x
+rungic;Rungic;;;;;;;;;;;;x
+boro_garo;Boro-Garo;;;;;;;;;;;;x
+dayak;Dayak;;;;;;;;;;;;x
+aslian;Aslian;;;;;;;;;;;;x
+kurukh;Kurukh;;;;;;;;;;;;;;;;;;;;;;;;x
+dravidian;Dravidian;;;;;;;;;;;;;;;;;;;;;;;;x
+tani;Tani;;;;;;;;;;;;;;;;;;;;;;;;x
+quiangic;Quiangic;;;;;;;;;;;;;;;;;;;;;;;;x
+eastern_tibeto_burman;Eastern Tibeto Burman;;;;;;;;;;;;;;;;;;;;;;;;x
+naga;Naga;;;;;;;;;;;;;;;;;;;;;;;;x
+kamarupan;Kamarupan;;;;;;;;;;;;;;;;;;;;;;;;x
+dzongkha;Dzonghka;;;;;;;;;;;;;;;;;;;;;;;;x
+tibetic;Tibetic;;;;;;;;;;;;;;;;;;;;;;;;x
+burushaskic;Burushaskic;;;;;;;;;;;;;;;;;;;;;;;;x
+tungusic;Tungusic;;;;;;;;;;;;;;;;;;;;;;;;x
+rohingya;Rohingya;;;;;;;;;;;;;;;;;;;;;;;;x
+indo_aryan;Indo Aryan;;;;;;;;;;;;;;;;;;;;;;;;x
+kafiri;Kafiri;;;;;;;;;;;;;;;;;;;;;;;;x
+ethiosemitic;Ethiosemitic;;;;;;;;;;;;;;;;;;;;;;;;x
+;;;;;;x;;;;;;
+GEN_GER_anarcho_liberal;Radikale;;;;;;;;;;;;;
+GEN_GER_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;;
+GEN_GER_conservative_1;Zentrumspartei;;;;;;;;;;;;;
+GEN_GER_conservative_2;Konservative Partei;;;;;;;;;;;;;
+GEN_GER_fascist;Alldeutscher Verband;;;;;;;;;;;;;
+GEN_GER_liberal_1;Liberale Vereinigung;;;;;;;;;;;;;
+GEN_GER_liberal_2;Liberaldemokratische Partei;;;;;;;;;;;;;
+GEN_GER_reactionary;Die Konterrevolutionäre;;;;;;;;;;;;;
+GEN_GER_social_liberal;Dahlker Partei;;;;;;;;;;;;;
+GEN_GER_market_liberal;Gemeiner Handelsverband;;;;;;;;;;;;;
+GEN_GER_socialist_1;Sozialdemokratische Partei;;;;;;;;;;;;;
+GEN_GER_socialist_2;Sozialistiche Arbeiterverein;;;;;;;;;;;;;
+FRE;Franconia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FRE_ADJ;Franconia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;x;;;;;;
+JOD;Marwar;Marwar;Marwar;;Marwar;;;;;;;;;x;;;;
+JOD_ADJ;Marwari;Marwari;Marwari;;Marwari;;;;;;;;x;;;;
+NTU_colonial_company_ADJ;Northumbrian;Northumbrian;Northumbrian;;;;;;;;;;;x;
+NTU_dominion_ADJ;Northumbrian;Northumbrian;Northumbrian;;;;;;;;;;;x;
+NTU;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_ADJ;Albidosaek;Albidosaek;Albidosaek;;;;;;;;;;;x;
+NTU_colonial_company;Norðhymbraland;Norðhymbraland;Norðhymbraland;;;;;;;;;;;x;
+NTU_dominion;Norðhymbraland;Norðhymbraland;Norðhymbraland;;;;;;;;;;;x;
+NTU_proletarian_dictatorship;People's Republic of Brynaigh;People's Republic of Brynaigh;People's Republic of Brynaigh;;;;;;;;;;;x;
+NTU_presidential_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_bourgeois_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_fascist_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_absolute_monarchy;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_prussian_constitutionalism;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_hms_government;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_democracy;Republic of Brynaigh;Republic of Brynaigh;Republic of Brynaigh;;;;;;;;;;;x;
+NTU_conservative_92;Plàidh Gaidwadol;Plàidh Gaidwadol;Plàidh Gaidwadol;;;;;;;;;;;x;
+NTU_liberal_79;Plàidh Libearadol;Plàidh Libearadol;Plàidh Libearadol;;;;;;;;;;;x;
+NTU_liberal_87;Libearadol Cenedlaethol;Libearadol Cenedlaethol;Libearadol Cenedlaethol;;;;;;;;;;;x;
+NTU_socialist_85;Sòiseawyr;Sòiseawyr;Sòiseawyr;;;;;;;;;;;x;
+NTU_socialist_99;Sòiseawyr Cenedlaethol;Sòiseawyr Cenedlaethol;Sòiseawyr Cenedlaethol;;;;;;;;;;;x;
+NTU_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NTU_anarcho_liberal_93;Libearadol Radaicalydd;Libearadol Radaicalydd;Libearadol Radaicalydd;;;;;;;;;;;x;
+NTU_communist_86;Comannyddion;Comannyddion;Comannyddion;;;;;;;;;;;x;
+NTU_fascist_72;Faisigwyr;Faisigwyr;Faisigwyr;;;;;;;;;;;x;
+;;;;;;x;;;;;;
+NAL_conservative;Voortrekker Partei;Voortrekker Partei;Voortrekker Partei;;Voortrekker Partei;;;;;;;;;x;;;;
+NAL_conservative_2;Boeren Partei;Boeren Partei;Boeren Partei;;Boeren Partei;;;;;;;;;x;;;;
+NAL_liberal;The Liberal Party;Parti lib?al;Die liberale Partei;;El Partido Liberal;;;;;;;;;x;;;;
+NAL_reactionary;The Nationalist Party;Parti nationaliste;Die nationalistische Partei;;El Partido Nacionalista;;;;;;;;;x;;;;
+NAL_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+NAL_socialist;The Socialist Party;Parti socialiste;Die sozialistische Partei;;El Partido Socialista;;;;;;;;;x;;;;
+NAL_communist;The Communist Party;Parti communiste;Die kommunistische Partei;;El Partido Comunista;;;;;;;;;x;;;;
+NAL_fascist;The Fascist Party;Parti fasciste;Die faschistische Partei;;El Partido Fascista;;;;;;;;;x;;;;
+TRN_conservative;Voortrekker Partei;Voortrekker Partei;Voortrekker Partei;;Voortrekker Partei;;;;;;;;;x;;;;
+TRN_conservative_2;Boeren Partei;Boeren Partei;Boeren Partei;;Boeren Partei;;;;;;;;;x;;;;
+TRN_liberal;Liberal Party;Parti lib?al;Liberale Partei;;Partido Liberal;;;;;;;;;x;;;;
+TRN_reactionary;Nationalist Partei;Partei nationaliste;Nationalist Partei;;Nationalist Partei;;;;;;;;;x;;;;
+TRN_anarcho_liberal;Radical Party;Parti radical;Radikale Partei;;Partido Radical;;;;;;;;;x;;;;
+TRN_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;Partido Socialista;;;;;;;;;x;;;;
+TRN_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x;;;;
+TRN_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;
+ORA_conservative;Voortrekker Partei;Voortrekker Partei;Voortrekker Partei;;Voortrekker Partei;;;;;;;;;x;;;;
+ORA_conservative_2;Boeren Partei;Boeren Partei;Boeren Partei;;Boeren Partei;;;;;;;;;x;;;;
+ORA_liberal;The Liberal Party;Parti lib?al;Die liberale Partei;;El Partido Liberal;;;;;;;;;x;;;;
+ORA_reactionary;The Nationalist Partei;Partei nationaliste;Die nationalistische Partei;;The Nationalist Partei;;;;;;;;;x;;;;
+ORA_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+ORA_socialist;The Socialist Party;Parti socialiste;Die sozialistische Partei;;El Partido Socialista;;;;;;;;;x;;;;
+ORA_communist;The Communist Party;Parti communiste;Die kommunistische Partei;;El Partido Comunista;;;;;;;;;x;;;;
+ORA_fascist;The Fascist Party;Parti fasciste;Die faschistische Partei;;El Partido Fascista;;;;;;;;;x;;;;
+SAF_liberal;Afrikaner Bond;Afrikaner Bond;Afrikaner Bond;;Afrikaner Bond;;;;;;;;;x;;;;
+SAF_conservative;Progressive Party;Parti progressiste;Progressive Party;;Partido progresista;;;;;;;;;x;;;;
+SAF_socialist;Labour Party;Parti travailliste;Labour Party;;Partido Laborista;;;;;;;;;x;;;;
+SAF_conservative_2;Unionist Party;Parti unioniste;Unionist Party;;Partido Unionista;;;;;;;;;x;;;;
+SAF_liberal_2;South African Party;Parti sud-africain;South African Party;;Partido Sudafricano;;;;;;;;;x;;;;
+SAF_conservative_3;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+SAF_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+SAF_anarcho_liberal;Radical Party;Parti radical;Radical Party;;Partido Radical;;;;;;;;;x;;;;
+SAF_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+SAF_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+;;;;;;x;;;;;;
+TUN;Carthage;Qart-Hadašt;Qart-Hadašt;;Qart-Hadašt;;;;;;;;;x;;;;
+TUN_ADJ;Carthaginian;Qarthadashtit;Qarthadashtit;;Qarthadashtit;;;;;;;;;x;;;;
+TUN_absolute_monarchy_ADJ;Romanni;Romanni;Romanni;;Romanni;;;;;;;;;x;;;;
+TUN_prussian_constitutionalism_ADJ;Romanni;Romanni;Romanni;;Romanni;;;;;;;;;x;;;;
+TUN_hms_government_ADJ;Romanni;Romanni;Romanni;;Romanni;;;;;;;;;x;;;;
+TUN_conservative;Partidu Democraticu;Partidu Democraticu;Partidu Democraticu;;Partidu Democraticu;;;;;;;;;x;;;;
+TUN_liberal;Partidu Libberàle;Partidu Libberàle;Partidu Libberàle;;Partidu Libberàle;;;;;;;;;x;;;;
+TUN_reactionary;Domo Vandula;Domo Vandula;Domo Vandula;;Domo Vandula;;;;;;;;;x;;;;
+TUN_anarcho_liberal;Radical Party of Carthage;Radical Party of Carthage;Radical Party of Carthage;;Radical Party of Carthage;;;;;;;;;x;;;;
+TUN_socialist;Partidu Sociallìsta;Partidu Sociallìsta;Partidu Sociallìsta;;Partidu Sociallìsta;;;;;;;;;x;;;;
+TUN_communist;Partidu Comunista de Cartajenna;Partidu Comunista de Cartajenna;Partidu Comunista de Cartajenna;;Partidu Comunista de Cartajenna;;;;;;;;;x;;;;
+TUN_fascist;Partidu Natzionale Fascista;Partidu Natzionale Fascista;Partidu Natzionale Fascista;;Partidu Natzionale Fascista;;;;;;;;;x;;;;
+KRT;Tèrra de Alba;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRT_ADJ;Albaterrenni;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRT_reactionary_1;FILL;;;;;;;;;;;;;
+KRT_reactionary_2;FILL;;;;;;;;;;;;;
+KRT_reactionary_3;FILL;;;;;;;;;;;;;
+KRT_conservative_1;FILL;;;;;;;;;;;;;
+KRT_conservative_2;FILL;;;;;;;;;;;;;
+KRT_conservative_3;FILL;;;;;;;;;;;;;
+KRT_liberal_1;FILL;;;;;;;;;;;;;
+KRT_liberal_2;Manca;;;;;;;;;;;;;
+KRT_liberal_3;Dereta;;;;;;;;;;;;;
+KRT_anarcho_liberal_1;FILL;;;;;;;;;;;;;
+KRT_anarcho_liberal_2;FILL;;;;;;;;;;;;;
+KRT_anarcho_liberal_3;FILL;;;;;;;;;;;;;
+KRT_communist_1;FILL;;;;;;;;;;;;;
+KRT_communist_2;FILL;;;;;;;;;;;;;
+KRT_fascist;FILL;;;;;;;;;;;;;
+KRT_socialist_1;FILL;;;;;;;;;;;;;
+KRT_socialist_2;FILL;;;;;;;;;;;;
 ;;;;;;x;;;;;;
 MNZ;Monza;;;;;;;;;;;;x
 MNZ_ADJ;Monzan;;;;;;;;;;;;x
 MNZ_theocracy;Diocese of Monza;;;;;;;;;;;;x
+MNZ_reactionary;Monarchici;Monarchisti;Monarchisti;;Monarchisti;;;;;;;;;x;;;;
+MNZ_liberal;Intransigenti;Intransigenti;Intransigenti;;Intransigenti;;;;;;;;;x;;;;
+MNZ_conservative;Transigenti;Transigenti;Transigenti;;Transigenti;;;;;;;;;x;;;;
+MNZ_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;;x;;;;
+MNZ_communist;Rivoluzionari;Revoluzionari;Revoluzionari;;Revoluzionari;;;;;;;;;x;;;;
+MNZ_reactionary_2;Cattolici;Cattolici;Cattolici;;Cattolici;;;;;;;;;x;;;;
+MNZ_anarcho_liberal;Radicali;Radical;Radikali;;Radical;;;;;;;;;x;;;;
+MNZ_fascist;Fascisti;Fasciste;Fascisti;;Fascista;;;;;;;;;x;;;;
 MTU;Mantua;;;;;;;;;;;;x
 MTU_ADJ;Mantuan;;;;;;;;;;;;x
-CSZ;Consenza;;;;;;;;;;;;x
-CSZ_ADJ;Consenzan;;;;;;;;;;;;x
+MTU_reactionary;Monarchici;Monarchisti;Monarchisti;;Monarchisti;;;;;;;;;x;;;;
+MTU_liberal;Intransigenti;Intransigenti;Intransigenti;;Intransigenti;;;;;;;;;x;;;;
+MTU_conservative;Transigenti;Transigenti;Transigenti;;Transigenti;;;;;;;;;x;;;;
+MTU_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;;x;;;;
+MTU_communist;Rivoluzionari;Revoluzionari;Revoluzionari;;Revoluzionari;;;;;;;;;x;;;;
+MTU_reactionary_2;Cattolici;Cattolici;Cattolici;;Cattolici;;;;;;;;;x;;;;
+MTU_anarcho_liberal;Radicali;Radical;Radikali;;Radical;;;;;;;;;x;;;;
+MTU_fascist;Fascisti;Fasciste;Fascisti;;Fascista;;;;;;;;;x;;;;
+CSZ;Cosenza;;;;;;;;;;;;x
+CSZ_ADJ;Cosentin;;;;;;;;;;;;x
+CSZ_reactionary;Restaurazionisti;Ristorazionista;Ristorazionista;;Ristorazionista;;;;;;;;;
+CSZ_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;
+CSZ_liberal;Riformisti ;Reformisti ;Reformisti;;Reformisti ;;;;;;;;;
+CSZ_liberal_2;Liberale;Liberale;Liberali;;Liberale;;;;;;;;;
+CSZ_socialist;Socialisti;Sozialisti;Sozialisti;;Sozialisti;;;;;;;;;
+CSZ_conservative_2;Popolari;Popolari;Popolari;;Popolari;;;;;;;;;
+CSZ_radical;Radicali;Radical;Radikali;;Radical;;;;;;;;;
+CSZ_communist;Comunisti;Communistes;Communisti;;Comunista;;;;;;;;;
+CSZ_fascist;Fascisti;Fasciste;Fascisti;;Fascista;;;;;;;;;
 YNN;Bai Kingdom;Bai Kingdom;Bai Kingdom;;Bai Kingdom;;;;;;;;;x
 YNN_ADJ;Bai;Bai;Bai;;Bai;;;;;;;;;x
 LUX_lotharingian_duchy;Lower Lotharingia;;;;;;;;;;;;;x
@@ -122,6 +310,29 @@ AZB_french_bourbon;Domains of Firuz Mirza;;;;;;;;;;;;x
 AZB_colonial_company;Domains of Firuz Mirza;;;;;;;;;;;;x
 LBN_colonial_company;Aramaic Autonomy;;;;;;;;;;;;x
 LBN_Dominion;Aramaic Autonomy;;;;;;;;;;;;x
+NTU_colonial_company_ADJ;Northumbrian;Northumbrian;Northumbrian;;;;;;;;;;;x;
+NTU_dominion_ADJ;Northumbrian;Northumbrian;Northumbrian;;;;;;;;;;;x;
+NTU;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_ADJ;Albidosaek;Albidosaek;Albidosaek;;;;;;;;;;;x;
+NTU_colonial_company;Norðhymbraland;Norðhymbraland;Norðhymbraland;;;;;;;;;;;x;
+NTU_dominion;Norðhymbraland;Norðhymbraland;Norðhymbraland;;;;;;;;;;;x;
+NTU_proletarian_dictatorship;People's Republic of Brynaigh;People's Republic of Brynaigh;People's Republic of Brynaigh;;;;;;;;;;;x;
+NTU_presidential_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_bourgeois_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_fascist_dictatorship;State of Brynaigh;State of Brynaigh;State of Brynaigh;;;;;;;;;;;x;
+NTU_absolute_monarchy;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_prussian_constitutionalism;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_hms_government;Brynaigh;Brynaigh;Brynaigh;;;;;;;;;;;x;
+NTU_democracy;Republic of Brynaigh;Republic of Brynaigh;Republic of Brynaigh;;;;;;;;;;;x;
+NTU_conservative_92;Plàidh Gaidwadol;Plàidh Gaidwadol;Plàidh Gaidwadol;;;;;;;;;;;x;
+NTU_liberal_79;Plàidh Libearadol;Plàidh Libearadol;Plàidh Libearadol;;;;;;;;;;;x;
+NTU_liberal_87;Libearadol Cenedlaethol;Libearadol Cenedlaethol;Libearadol Cenedlaethol;;;;;;;;;;;x;
+NTU_socialist_85;Sòiseawyr;Sòiseawyr;Sòiseawyr;;;;;;;;;;;x;
+NTU_socialist_99;Sòiseawyr Cenedlaethol;Sòiseawyr Cenedlaethol;Sòiseawyr Cenedlaethol;;;;;;;;;;;x;
+NTU_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NTU_anarcho_liberal_93;Libearadol Radaicalydd;Libearadol Radaicalydd;Libearadol Radaicalydd;;;;;;;;;;;x;
+NTU_communist_86;Comannyddion;Comannyddion;Comannyddion;;;;;;;;;;;x;
+NTU_fascist_72;Faisigwyr;Faisigwyr;Faisigwyr;;;;;;;;;;;x;
 ;;;;;;x;;;;
 NOV;Novgorod;;;;;;;;;;;;;x
 NOV_colonial_company;Holmgård;;;;;;;;;;;;;;;;;;;;;;x
@@ -189,8 +400,8 @@ AFS_prussian_constitutionalism_ADJ;Afsharid;Afsharid;Afsharid;;;;;;;;;;;
 AFS_hms_government;Afsharids;Afsharids;Afsharids;;;;;;;;;;;
 AFS_hms_government_ADJ;Afsharid;Afsharid;Afsharid;;;;;;;;;;;
 ;;;;;;x;;;;
-EDE_ADJ;Edessan;Edessan;Edessan;;;;;;;;;;;x;
-EDE;Edessa;Edessa;Edessa;;;;;;;;;;;x;
+EDE_ADJ;Jaziran;Jaziran;Jaziran;;;;;;;;;;;x;
+EDE;Jazira;Jazira;Jazira;;;;;;;;;;;x;
 ;;;;;;x;;;;
 TST_theocracy;Bishopric of Trentino;Bishopric of Trentino;Bishopric of Trentino;;;;;;;;;;;x;
 ;;;;;;x;;;;
@@ -250,7 +461,7 @@ BSR_ADJ;Al-Mazkur Sheikdom;;;;;;;;;;;;;
 ZND;Zand Dynasty;Zand Dynasty;Zand Dynasty;;;;;;;;;;;
 ZND_ADJ;Zand;Zand;Zand;;;;;;;;;;;
 POI;Pictavia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-POI_ADJ;Pictavia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+POI_ADJ;Pictavian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KHR;Khorasan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KHR_absolute_monarchy;Khorasan;;;;;;;;;;;;x
 KHR_colonial_company;Khorasan;;;;;;;;;;;;x
@@ -309,8 +520,6 @@ ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR_ADJ;Curonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRT;Qartagena;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRT_ADJ;Qartagenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Burgundy;Bourgogne;Burgund;Burgundia;Borgoña;Borgogna;Burgundia;burgundské;Burgundia;Bourgogne;Borgonha;Áóðãóíäèÿ;Bourgogne;
 BRG_ADJ;Burgundian;Bourguignon;Burgundisch;Burgundii;Borgoñesa;Borgognona;burgundi;Burgundský;burgundi;Bourgondisch;Burgundiano;Áóðãóíäñê.;Burgundin;
 EST_autonomous_dependency;Estland;;;;;;;;;;;;;
@@ -342,7 +551,7 @@ MOR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Frakti
 MOR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
 MOR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;
 ;;;;;;x;;;;
-LST;Lusitânia;Lusitanie;Lusitânia;;;;;;;;;;;
+LST;Lusitania;Lusitanie;Lusitania;;;;;;;;;;;
 LST_ADJ;Lusitano;Lusitanien;Lusitano;;;;;;;;;;;
 LST_conservative_1;Converxencia Nacionalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_conservative_3;Unidade Popular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -354,6 +563,14 @@ LST_reactionary_2;Vangarda Nazonalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_anarcho_liberal_2;Patronal Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_communist_1;Espazo Comunista Lusitano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 LST_fascist_2;Falanxe;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;x;;;;
+ASY_reactionary;Assyrian General Conference;;;;;;;;;;;;;x
+ASY_liberal;Assyrian Reformist Faction;;;;;;;;;;;;;x
+ASY_conservative;Assyrian Democratic Party;;;;;;;;;;;;;x
+ASY_anarcho_liberal;Assyrian Radical Party;;;;;;;;;;;;;x
+ASY_socialist;Assyrian Socialist Party;;;;;;;;;;;;;x
+ASY_communist;Assyrian Progressive Nationalist Party;;;;;;;;;;;;;x
+ASY_fascist;Assyrian Patriotic Party;;;;;;;;;;;;;x
 ;;;;;;x;;;;
 VND;Vandalica;Vandalica;Vandalica;;Vandalica;;;;;;;;;x;;;;
 VND_ADJ;Vandal;Vandal;Vandal;;Vandal;;;;;;;;;x;;;;
@@ -377,20 +594,38 @@ MEL_proletarian_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
 MEL_presidential_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
 MEL_bourgeois_dictatorship;Melfis;Melfis;Melfis;;;;;;;;;;;x;
 MEL_fascist_dictatorship;State Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
-MEL_absolute_monarchy;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
-MEL_prussian_constitutionalism;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
-MEL_hms_government;Kingdom Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_absolute_monarchy;Duchy Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_prussian_constitutionalism;Duchy Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_hms_government;Duchy Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
 MEL_democracy;Republic Of Melfis;Melfis;Melfis;;;;;;;;;;;x;
+MEL_reactionary;Restaurazionisti;Ristorazionista;Ristorazionista;;Ristorazionista;;;;;;;;;
+MEL_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;
+MEL_liberal;Riformisti ;Reformisti ;Reformisti;;Reformisti ;;;;;;;;;
+MEL_liberal_2;Liberale;Liberale;Liberali;;Liberale;;;;;;;;;
+MEL_socialist;Socialisti;Sozialisti;Sozialisti;;Sozialisti;;;;;;;;;
+MEL_conservative_2;Popolari;Popolari;Popolari;;Popolari;;;;;;;;;
+MEL_radical;Radicali;Radical;Radikali;;Radical;;;;;;;;;
+MEL_communist;Comunisti;Communistes;Communisti;;Comunista;;;;;;;;;
+MEL_fascist;Fascisti;Fasciste;Fascisti;;Fascista;;;;;;;;;
 AVR_ADJ;Aversan;Aversan;Aversan;;;;;;;;;;;x;
 AVR;Aversa;Aversa;Aversa;;;;;;;;;;;x;
 AVR_proletarian_dictatorship;Democratic Republic Of Aversa;Democratic Republic Of Aversa;Democratic Republic Of Aversa;;;;;;;;;;;x;
 AVR_presidential_dictatorship;Aversa;Aversa;Aversa;;;;;;;;;;;x;
 AVR_bourgeois_dictatorship;Aversa;Aversa;Aversa;;;;;;;;;;;x;
 AVR_fascist_dictatorship;State Of Aversa;State Of Aversa;State Of Aversa;;;;;;;;;;;x;
-AVR_absolute_monarchy;Kingdom Of Aversa;Kingdom Of Aversa;Kingdom Of Aversa;;;;;;;;;;;x;
-AVR_prussian_constitutionalism;Aversa;Aversa;Aversa;;;;;;;;;;;x;
-AVR_hms_government;Aversa;Aversa;Aversa;;;;;;;;;;;x;
+AVR_absolute_monarchy;Duchy Of Aversa;Duchy Of Aversa;Duchy Of Aversa;;;;;;;;;;;x;
+AVR_prussian_constitutionalism;Duchy Of Aversa;Aversa;Duchy Of Aversa;;;;;;;;;;;x;
+AVR_hms_government;Duchy Of Aversa;Duchy Of Aversa;Duchy Of Aversa;;;;;;;;;;;x;
 AVR_democracy;Republic Of Aversa;Republic Of Aversa;Republic Of Aversa;;;;;;;;;;;x;
+AVR_reactionary;Restaurazionisti;Ristorazionista;Ristorazionista;;Ristorazionista;;;;;;;;;
+AVR_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;
+AVR_liberal;Riformisti ;Reformisti ;Reformisti;;Reformisti ;;;;;;;;;
+AVR_liberal_2;Liberale;Liberale;Liberali;;Liberale;;;;;;;;;
+AVR_socialist;Socialisti;Sozialisti;Sozialisti;;Sozialisti;;;;;;;;;
+AVR_conservative_2;Popolari;Popolari;Popolari;;Popolari;;;;;;;;;
+AVR_radical;Radicali;Radical;Radikali;;Radical;;;;;;;;;
+AVR_communist;Comunisti;Communistes;Communisti;;Comunista;;;;;;;;;
+AVR_fascist;Fascisti;Fasciste;Fascisti;;Fascista;;;;;;;;;
 ;;;;;;x;;;;
 VIN;Vinland;Vinland;Vinland;;;;;;;;;;;
 VIN_colonial_company;Crown Colony of Vinland;;;;;;;;;;;;;
@@ -411,11 +646,8 @@ VIN_anarcho_liberal_3;Skarp­rettarane;;;;;;;;;;;;;
 VIN_communist_1;Raudt;;;;;;;;;;;;;
 VIN_communist_2;Arbeidarpartiet;;;;;;;;;;;;;
 VIN_fascist;Leifs Vikingar;;;;;;;;;;;;;
-VIN_social_liberal;Venstre;;;;;;;;;;;;;
 VIN_socialist_1;Arbeidarpartiet;;;;;;;;;;;;;
 VIN_socialist_2;Raudt;;;;;;;;;;;;
-VIN_market_liberal_1;Samfunnspartiet;;;;;;;;;;;;;
-VIN_market_liberal_2;Framstegspartiet;;;;;;;;;;;;;
 ;;;;;;x;;;;
 NEN;Ny Sjælland;Ny Sjælland;Ny Sjælland;;Ny Sjælland;;;;;;;;;x;;;;
 NEN_ADJ;Ny-Sjællænder;Ny-Sjællænder;Ny-Sjællænder;;Ny-Sjællænder;;;;;;;;;x;;;;

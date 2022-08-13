@@ -1,8 +1,8 @@
-owner = ASY
-controller = ASY
-add_core = ASY
-add_core = HTY
-add_core = IRQ
+owner = MKN
+controller = MKN
+add_core = MKN
+add_core = ARM
+add_core = BTL
 add_core = KDS
 trade_goods = sulphur
 life_rating = 35

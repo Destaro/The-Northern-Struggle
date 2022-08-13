@@ -131,6 +131,30 @@
         religion = jewish
         size = 500
     }
+
+	farmers = {
+		culture = african_romance
+		religion = catholic
+		size = 100000
+	}
+
+	farmers = {
+		culture = african_romance
+		religion = catholic
+		size = 55000
+	}
+
+	craftsmen = {
+		culture = african_romance
+		religion = catholic
+		size = 55000
+	}
+
+	artisans = {
+		culture = african_romance
+		religion = catholic
+		size = 17500
+	}
 }
 
 #Bizerte (268000/67000 POPS)
@@ -194,6 +218,24 @@
         religion = punic_church
         size = 350
     }
+
+	farmers = {
+		culture = african_romance
+		religion = catholic
+		size = 30000
+	}
+
+	artisans = {
+		culture = african_romance
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = african_romance
+		religion = catholic
+		size = 10000
+	}
 }
 
 #Nabeul - More punic and Sephardic than Cartago 
@@ -271,6 +313,18 @@
         religion = jewish
         size = 500
     }
+
+	farmers = {
+		culture = african_romance
+		religion = catholic
+		size = 35000
+	}
+
+	artisans = {
+		culture = african_romance
+		religion = catholic
+		size = 20000
+	}
 }
 #Gafsa (112000/28000 POPS) 
 1727 = {

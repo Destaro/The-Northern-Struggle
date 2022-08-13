@@ -146,27 +146,27 @@
 #Middelburg (170000/42500 POPS)
 378 = {
 	aristocrats = {
-		culture = batavian_frankish
+		culture = dutch
 		religion = protestant
 		size = 282
 	}
 	clergymen = {
-		culture = batavian_frankish
+		culture = dutch
 		religion = protestant
 		size = 188
 	}
 	artisans = {
-		culture = batavian_frankish
+		culture = dutch
 		religion = catholic
 		size = 3478
 	}
 	soldiers = {
-		culture = batavian_frankish
+		culture = dutch
 		religion = protestant
 		size = 1034
 	}
 	farmers = {
-		culture = batavian_frankish
+		culture = dutch
 		religion = protestant
 		size = 33182
 	}
@@ -569,27 +569,27 @@
 #Assen (80000/20000 POPS)
 386 = {
 	aristocrats = {
-		culture = frisian
+		culture = batavian_frankish
 		religion = protestant
 		size = 141
 	}
 	clergymen = {
-		culture = frisian
+		culture = batavian_frankish
 		religion = protestant
 		size = 94
 	}
 	artisans = {
-		culture = frisian
+		culture = batavian_frankish
 		religion = protestant
 		size = 1034
 	}
 	soldiers = {
-		culture = frisian
+		culture = batavian_frankish
 		religion = protestant
 		size = 1034
 	}
 	farmers = {
-		culture = frisian
+		culture = batavian_frankish
 		religion = protestant
 		size = 15745
 	}

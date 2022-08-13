@@ -3210,7 +3210,7 @@
 		size = 3550
 	}
 }
-#Catanzaro (344000/86000 POPS)
+#Cosenza (344000/86000 POPS)
 3600 = {
 	aristocrats = {
 		culture = south_italian
@@ -3220,13 +3220,13 @@
 	aristocrats = {
 		culture = sephardic
 		religion = jewish
-		size = 2200
+		size = 1200
 	}
 
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 875
+		size = 2000
 	}
 
 	artisans = {
@@ -3240,6 +3240,19 @@
 		religion = catholic
 		size = 3000
 	}
+	
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 7777
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 1777
+	}
+
 
 	soldiers = {
 		culture = albanian
@@ -3276,11 +3289,41 @@
 		religion = catholic
 		size = 170
 	}
-
+	
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 4100
+	}
+	
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 1700
+		size = 2700
+	}
+    
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2200
+	}
+	
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 3000
+	}
+	
+	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 2500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 2000
 	}
 
 	officers = {
@@ -3304,19 +3347,19 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size = 1337
+		size = 2337
 	}
 
 	officers = {
 		culture = maghrebi
 		religion = sunni
-		size = 170
+		size = 370
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = catholic
-		size = 1821
+		size = 2821
 	}
 
 	officers = {
@@ -3328,7 +3371,7 @@
 	soldiers = {
 		culture = sephardic
 		religion = jewish
-		size = 300
+		size = 1777
 	}
 
 	officers = {
@@ -3345,7 +3388,7 @@
 	
 	farmers = {
 		culture = albanian
-		religion = orthodox
+		religion = catholic
 		size = 5550
 	}
 }
@@ -3354,31 +3397,533 @@
 	aristocrats = {
 		culture = south_italian
 		religion = catholic
-		size = 30
+		size = 130
 	}
 
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 20
+		size = 120
 	}
 
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 300
+		size = 1300
 	}
 
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 150
+		size = 1150
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 1300
+		size = 1500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 900
+	}
+}
+#Castrovillari (708000/177000 POPS)
+3599 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 3760
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}	
+	
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2200
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 7000
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 5000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+		
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 5000
+	}
+		
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 777
+	}
+		
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 777
+	}
+		
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+		
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1100
+	}
+}
+#Crotone (708000/177000 POPS)
+3597 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 3760
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2200
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 7000
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+		
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 4000
+	}
+		
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2300
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 5100
+	}
+	
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+}
+#Catanzaro (708000/177000 POPS)
+3595 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 4760
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4200
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4700
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 4600
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2700
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 7000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2000
+	}
+		
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2300
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = armenian
+		religion = catholic
+		size = 1700
+	}
+	
+	farmers = {
+		culture = armenian
+		religion = catholic
+		size = 2400
+	}
+	
+	soldiers = {
+		culture = armenian
+		religion = catholic
+		size = 1100
+	}
+	
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2200
+	}
+}
+#Lamezia Terme (708000/177000 POPS)
+3596 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 4760
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 15000
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2700
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 17000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 4000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 6000
+	}
+		
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 6000
+	}
+		
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2300
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
+	}
+}
+#Monteleone (708000/177000 POPS)
+3594 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 4760
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10500
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2200
+	}
+	
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 12000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 3000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 4500
+	}
+		
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 6000
+	}
+		
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2300
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
 	}
 }
 #Potenza (572000/143000 POPS)
@@ -3540,18 +4085,6 @@
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
 		size = 8000
 	}
 
@@ -3564,7 +4097,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 138000
+		size = 50000
 	}
 	
 	aristocrats = {
@@ -3705,7 +4238,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 141000
+		size = 90000
 	}
 	
 	aristocrats = {
@@ -3757,7 +4290,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 125000
+		size = 60000
 	}
 	
 	aristocrats = {
@@ -3811,16 +4344,10 @@
 		size = 1000
 	}
 
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 20000
-	}
-
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 125000
+		size = 85000
 	}
 	
 	aristocrats = {
@@ -3868,16 +4395,10 @@
 		size = 750
 	}
 
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 17500
-	}
-
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 100000
+		size = 70000
 	}
 	
 	aristocrats = {

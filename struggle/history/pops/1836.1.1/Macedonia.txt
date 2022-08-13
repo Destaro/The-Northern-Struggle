@@ -3,25 +3,25 @@
 #Nevesca (424000/106000 POPS) 
 3476 = {
 	aristocrats = {
-		culture = greek
+		culture = aromanian
 		religion = orthodox
 		size = 2450
 	}
 
 	clergymen = {
-		culture = greek
+		culture = aromanian
 		religion = orthodox
 		size = 325
 	}
 
 	artisans = {
-		culture = greek
+		culture = aromanian
 		religion = orthodox
 		size = 2000
 	}
 
 	soldiers = {
-		culture = greek
+		culture = aromanian
 		religion = orthodox
 		size = 3000
 	}
@@ -78,6 +78,85 @@
 		culture = sephardic
 		religion = jewish
 		size = 300
+	}
+}
+3495 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2450
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 325
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+	
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1200
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 16212
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 700
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 300
+	}
+	
+	farmers = {
+		culture = aromanian
+		religion = orthodox
+		size = 10000
 	}
 }
 #Monastir Region (268000) #see Greece.txt for balance of region 
@@ -355,7 +434,39 @@
 	}
 
 }
+#Bitola (268000/67000 POPS) 
+3474 = {
+	soldiers = {
+		culture = aromanian
+		religion = orthodox
+		size = 1200
+	}
+	
+	clergymen = {
+		culture = aromanian
+		religion = orthodox
+		size = 110
+	}
 
+	artisans = {
+		culture = aromanian
+		religion = orthodox
+		size = 425
+	}
+
+	farmers = {
+		culture = aromanian
+		religion = orthodox
+		size = 24075
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
+}
 
 #Ohrid - Former Tichit
 1780 = {
@@ -625,13 +736,13 @@
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 125
+		size = 325
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 400
+		size = 4000
 	}
 
 	soldiers = {
@@ -643,7 +754,7 @@
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 7062
+		size = 20062
 	}
 	
 	clergymen = {
@@ -655,13 +766,13 @@
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 400
+		size = 4000
 	}
 
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 	
 	soldiers = {
@@ -699,39 +810,39 @@
 #Skopje
 806 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
-		size = 125
+		size = 1250
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
 		size = 110
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
-		size = 200
+		size = 2000
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
-		size = 125
+		size = 1250
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
-		size = 2100
+		size = 5000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = aromanian
 		religion = orthodox
-		size = 56350
+		size = 36350
 	}
 }
 
@@ -761,18 +872,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = bulgarian
-		religion = orthodox
-		size = 2100
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 20350
-	}
-
 	farmers = {
 		culture = greek
 		religion = orthodox
@@ -782,6 +881,6 @@
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 16000
+		size = 18000
 	}
 }

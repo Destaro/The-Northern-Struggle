@@ -1,5 +1,5 @@
-owner = POI
-controller = POI
+owner = ORL
+controller = ORL
 add_core = BRT
 add_core = POI
 add_core = ORL

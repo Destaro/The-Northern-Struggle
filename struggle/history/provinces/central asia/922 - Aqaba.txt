@@ -1,8 +1,7 @@
-owner = SYR
-controller = SYR
-add_core = ISR
-add_core = SYR
-add_core = PLS
+owner = HDJ
+controller = HDJ
+add_core = HAL
+add_core = HDJ
 trade_goods = wool
 life_rating = 20
 terrain = semidesert

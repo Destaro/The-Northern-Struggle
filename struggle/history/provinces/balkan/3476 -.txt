@@ -1,7 +1,0 @@
-owner = AOM
-controller = AOM
-add_core = GRE
-add_core = RUM
-add_core = AOM
-trade_goods = wool
-life_rating = 35

@@ -1250,8 +1250,7 @@ country_event = {
 		SER = { all_core = { add_core = YUG } }
 		MON = { all_core = { add_core = YUG } }
 		CRO = { all_core = { add_core = YUG } }
-		BOS = { all_core = { add_core = YUG } }
-		SLO = { all_core = { add_core = YUG } }
+		BUL = { all_core = { add_core = YUG } }
 		add_accepted_culture = serb
 		add_accepted_culture = croat
 		add_accepted_culture = slovene

@@ -36,7 +36,10 @@ political_decisions = {
 		effect = {
 			prestige = 10
 			change_tag = ROM
+			add_accepted_culture = aromanian
+			add_accepted_culture = romanian
 			795 = { remove_core = SIE }
+			MDV = { all_core = { add_core = ROM } }
 			random_country = {
 				limit = {
 					tag = WAL
@@ -69,7 +72,7 @@ political_decisions = {
 				}
 				country_event = 11101
 			}
-			capital = 664
+			capital = 809
 			RUS = {
 				relation = { who = THIS value = 200 }
 				diplomatic_influence = { who = THIS value = 50 }
@@ -580,7 +583,7 @@ political_decisions = {
 			is_vassal = no
 			prestige = 30
 			nationalism_n_imperialism = 1
-			794 = {
+			670 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -595,7 +598,7 @@ political_decisions = {
 					war = no
 				}
 			}
-			783 = {
+			641 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -610,7 +613,7 @@ political_decisions = {
 					war = no
 				}
 			}			
-			771 = {
+			652 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -634,8 +637,9 @@ political_decisions = {
 			SER = { all_core = { add_core = YUG } }
 			MON = { all_core = { add_core = YUG } }
 			CRO = { all_core = { add_core = YUG } }
-			BOS = { all_core = { add_core = YUG } }
-			SLO = { all_core = { add_core = YUG } }
+			BUL = { all_core = { add_core = YUG } }
+			PNN = { all_core = { add_core = YUG } }
+			SLV = { all_core = { remove_core = YUG } }
 			random_owned = {
 				limit = { owner = { accepted_culture = north_italian } }
 				owner = { remove_accepted_culture = north_italian }
@@ -838,181 +842,6 @@ political_decisions = {
 					tag = TUR
 					tag = AUS
 					tag = KUK
-				}
-			}
-		}
-	}
-
-	albania_in_yugoslavia = {
-		picture = map_balkans
-		potential = {
-			OR = {
-				YUG = { vassal_of = THIS }
-				tag = YUG
-			}
-			NOT = { has_global_flag = albania_in_yugoslavia }
-		}
-		
-		allow = {
-			war = no
-			OR = {
-				ALB = { vassal_of = THIS }
-				ALB = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS war = no } } } }
-			}
-		}
-		
-		effect = {
-			set_global_flag = albania_in_yugoslavia
-			prestige = 5
-			ALB = { all_core = { add_core = YUG } }
-			random_country = { limit = { exists = yes tag = ALB vassal_of = THIS } annex_to = YUG }
-			any_country = {
-				limit = {
-					in_sphere = THIS
-					war = no
-					any_owned_province = { is_core = ALB }
-				}
-				country_event = 111100
-			}
-			any_country = {
-				limit = {
-					vassal_of = THIS
-					war = no
-					any_owned_province = { is_core = ALB }
-				}
-				any_owned = {
-					limit = { is_core = ALB }
-					secede_province = THIS
-				}
-			}
-			THIS = {
-				any_owned = {
-					limit = { is_core = ALB }
-					secede_province = YUG
-				}
-			}
-		}
-	}
-	
-	invite_slovenia_to_YUG = {
-		picture = form_yugoslavia
-		potential = {
-			tag = YUG
-			SLO = {
-				exists = yes
-				NOT = { has_country_flag = not_join_yugoslavia }
-			}
-			NOT = { has_country_flag = invited_slovenes_to_YUG }
-		}
-		
-		allow = {
-			war = no
-			NOT = { government = theocracy }
-			SLO = {
-				war = no
-				neighbour = YUG
-				NOT = { truce_with = THIS }
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-				}
-				OR = {
-					AND = {
-						part_of_sphere = no
-						relation = { who = THIS value = 150 }
-					}
-					in_sphere = THIS
-					sphere_owner = { is_sphere_leader_of = THIS }
-				}
-			}	
-		}
-		
-		effect = {
-			set_country_flag = invited_slovenes_to_YUG
-			SLO = { country_event = 11120 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				SLO = {
-					NOT = {
-						OR = {
-							AND = {
-								part_of_sphere = no
-								OR = {
-									has_country_flag = newly_released_nation
-									relation = { who = THIS value = 100 }
-								}
-							}
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-	}
-	
-	invite_bosnia_to_YUG = {
-		picture = form_yugoslavia
-		potential = {
-			tag = YUG
-			BOS = {
-				exists = yes
-				NOT = { has_country_flag = not_join_yugoslavia }
-			}
-			NOT = { has_country_flag = invited_bosniaks_to_YUG }
-		}
-		
-		allow = {
-			war = no
-			NOT = { government = theocracy }
-			BOS = {
-				war = no
-				neighbour = YUG
-				NOT = { truce_with = THIS }
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-				}
-				OR = {
-					AND = {
-						part_of_sphere = no
-						relation = { who = THIS value = 150 }
-					}
-					in_sphere = THIS
-					sphere_owner = { is_sphere_leader_of = THIS }
-				}
-			}	
-		}
-		
-		effect = {
-			set_country_flag = invited_bosniaks_to_YUG
-			BOS = { country_event = 11120 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				BOS = {
-					NOT = {
-						OR = {
-							AND = {
-								part_of_sphere = no
-								OR = {
-									has_country_flag = newly_released_nation
-									relation = { who = THIS value = 100 }
-								}
-							}
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-							vassal_of = THIS
-						}
-					}
 				}
 			}
 		}

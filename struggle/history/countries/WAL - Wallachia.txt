@@ -1,5 +1,5 @@
-capital = 664
-primary_culture = romanian
+capital = 809
+primary_culture = aromanian
 religion = orthodox
 government = colonial_company
 plurality = 25.0

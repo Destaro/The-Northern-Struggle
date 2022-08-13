@@ -59,11 +59,11 @@ country_event = {
 	option = {
 		name = "EVT6001OPTA"
 		set_country_flag = rename_mozambican_provinces_boer
-		2049 = { change_province_name = "LourenÃ§o Marques" add_core = THIS }
-		2050 = { change_province_name = "JoÃ£o Belo" add_core = THIS }
+		2049 = { change_province_name = "Lourenço Marques" add_core = THIS }
+		2050 = { change_province_name = "João Belo" add_core = THIS }
 		2051 = { change_province_name = "Inhambane" add_core = THIS }
-		2052 = { change_province_name = "MalvÃ©rnia" add_core = THIS }
-		2049 = { state_scope = { change_region_name = "LourenÃ§o Marques"} }
+		2052 = { change_province_name = "Malvérnia" add_core = THIS }
+		2049 = { state_scope = { change_region_name = "Lourenço Marques"} }
 		ai_chance = {
 			factor = 100
 		}
@@ -97,11 +97,11 @@ country_event = {
 		name = "EVT6002OPTA"
 		set_country_flag = rename_cape_colony_boer
 		2087 = { change_province_name = "Cidade do Cabo" add_core = THIS }
-		2091 = { change_province_name = "Aguada de SÃ£o BrÃ¡s" add_core = THIS }
+		2091 = { change_province_name = "Aguada de São Brás" add_core = THIS }
 		2092 = { change_province_name = "Belo Forte d'Oeste" add_core = THIS }
 		2090 = { change_province_name = "Vasconcelos" add_core = THIS }
 		2089 = { change_province_name = "Areia Verhelma" add_core = THIS }
-		2087 = { state_scope = { change_region_name = "Cabo da Boa EsperanÃ§a" } }
+		2087 = { state_scope = { change_region_name = "Cabo da Boa Esperança" } }
 	}
 }
 
@@ -645,7 +645,7 @@ country_event = {
 		2113 = { change_province_name = "Pedroburgo" add_core = THIS }
 		2112 = { change_province_name = "Dona Silva" add_core = THIS }
 		2111 = { change_province_name = "Porto Arrango" add_core = THIS }
-		2104 = { change_province_name = "SÃ£o Carlos Masseru" add_core = THIS }
+		2104 = { change_province_name = "São Carlos Masseru" add_core = THIS }
 	}
 }
 
@@ -732,7 +732,7 @@ country_event = {
 		name = "EVT6012OPTB"
 		set_country_flag = rename_mashonaland_boer
 		2068 = { change_province_name = "Herculaastad" }
-		2068 = { state_scope = { change_region_name = RhodesiÃ« } }
+		2068 = { state_scope = { change_region_name = Rhodesië } }
 	}
 	
 	option = {
@@ -1855,7 +1855,7 @@ country_event = { #Petition Portugal for port access
 				owned_by = THIS 
 			}
 		}
-		2049 = { #Portugal owns LourenÃ§o Marques
+		2049 = { #Portugal owns Lourenço Marques
 			owned_by = POR
 		}
 		relation = { #Needs positive relations with Portugal

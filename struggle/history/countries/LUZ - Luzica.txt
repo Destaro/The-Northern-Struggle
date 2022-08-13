@@ -1,6 +1,5 @@
 capital = 552
-primary_culture = western_slavic
-culture = polish
+primary_culture = sorbian
 culture = czech
 religion = protestant
 government = democracy

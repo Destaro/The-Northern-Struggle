@@ -1,8 +1,5 @@
-owner = HDJ
-controller = HDJ
-add_core = HAL
-add_core = IRQ
+owner = OMA
+controller = OMA
+add_core = OMA
 trade_goods = sulphur
 life_rating = 10
-
-add_core = HDJ

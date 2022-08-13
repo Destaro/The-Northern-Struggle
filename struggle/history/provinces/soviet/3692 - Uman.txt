@@ -1,0 +1,6 @@
+owner = RUT
+controller = RUT
+add_core = RUT
+add_core = UKR
+trade_goods = cattle
+life_rating = 35

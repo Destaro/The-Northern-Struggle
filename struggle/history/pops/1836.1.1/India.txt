@@ -58,6 +58,81 @@
 	}
 }
 
+#Mandsaur (1048000/262000 POPS)
+3680 = {
+	aristocrats = {
+		culture = rajput
+		religion = hindu
+		size = 5600
+	}
+
+	bureaucrats = {
+		culture = rajput
+		religion = hindu
+		size = 250
+	}
+
+	officers = {
+		culture = rajput
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = rajput
+		religion = hindu
+		size = 2500
+	}
+
+	artisans = {
+		culture = rajput
+		religion = hindu
+		size = 9000
+	}
+
+	soldiers = {
+		culture = rajput
+		religion = hindu
+		size = 13000
+	}
+
+	farmers = {
+		culture = rajput
+		religion = hindu
+		size = 110400
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 6050
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 66875
+	}
+
+	serfs = {
+		culture = avadhi
+		religion = hindu
+		size = 40000
+	}
+}
+
 #India.txt includes modern India, Pakistan and Bangladesh
 #Northwest Frontier Region (1076000)
 #Under the Rule of Panjab 1836

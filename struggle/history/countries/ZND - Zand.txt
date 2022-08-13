@@ -1,4 +1,4 @@
-capital = 1214
+capital = 1135
 primary_culture = persian
 religion = sunni
 government = absolute_monarchy

@@ -1,7 +1,7 @@
-owner = PNN
-controller = PNN
-
+owner = SLV
+controller = SLV
+add_core = SLV
+add_core = PNN
+add_core = CZH
 trade_goods = fruit
 life_rating = 35
-
-add_core = PNN

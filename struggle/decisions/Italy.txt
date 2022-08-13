@@ -623,27 +623,6 @@ political_decisions = {
 					}
 				}
 				
-				#Aosta
-				AND = {
-					721 = { NOT = { is_core = ITA } } #Aosta
-					OR = {
-						ai = no
-						mass_politics = 1
-						great_wars_enabled = yes
-						721 = { #Trient
-							owner = {
-								NOT = { is_culture_group = italian }
-								OR = {
-									is_greater_power = no
-									is_disarmed = yes
-								}
-								NOT = { truce_with = THIS }
-							}
-						}
-					}
-					NOT = { has_global_flag = italian_reclaim_aosta }
-				}
-				
 				#Savoie
 				AND = {
 					465 = { NOT = { is_core = ITA } } #Savoia
@@ -677,7 +656,6 @@ political_decisions = {
 				729 = { NOT = { is_core = ITA } } #Venice
 				736 = { NOT = { is_core = ITA } } #Triest
 				734 = { NOT = { is_core = ITA } } #Trient
-				721 = { NOT = { is_core = ITA } } #Aosta
 				465 = { NOT = { is_core = ITA } } #Savoia
 			}
 		}
@@ -742,24 +720,7 @@ political_decisions = {
 						}	
 					}
 				}
-				465 = { add_core = ITA }
-				466 = { add_core = ITA }
-				472 = { add_core = ITA }
-			}
-			
-			#Claim Aosta
-			random_owned = {
-				limit = {
-					owner = {
-						is_culture_group = italian
-						has_global_flag = the_treaty_of_milan
-						NOT = { 
-							truce_with = FRA
-							truce_with = BOR
-						}	
-					}
-				}
-				721 = { add_core = ITA }
+				NCT = { all_core = { add_core = ITA } }
 			}
 		}
 		

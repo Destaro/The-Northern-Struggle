@@ -1,8 +1,8 @@
-owner = RUT
-controller = RUT
+owner = BUL
+controller = BUL
 add_core = RUT
 add_core = UKR
 add_core = CPL
-add_core = GLM
+add_core = BUL
 trade_goods = grain
 life_rating = 35

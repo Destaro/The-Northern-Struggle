@@ -1,3 +1,7 @@
+owner = OMA
+controller = OMA
+add_core = ZAN
+add_core = OMA
 add_core = MAJ
 add_core = GEL
 add_core = WRL

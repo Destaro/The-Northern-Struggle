@@ -524,15 +524,18 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = japanese } }
 			owner = {
 				1 = { change_province_name = "Shitoka" }
-				2 = { change_province_name = "Juno" }
-				3 = { change_province_name = "Ankarejji" }
-				4 = { change_province_name = "Yakutato" }
-				5 = { change_province_name = "Yunirasuka" }
-				7 = { change_province_name = "Doson" }
-				2631 = { change_province_name = "Beseru" }
-				2599 = { change_province_name = "Feabankusu" }
-				2630 = { change_province_name = "Howaitohosu" }
-				1 = { state_scope = { change_region_name = "Hokushima" } }
+				2 = { change_province_name = "Yakutat" }
+				3 = { change_province_name = "Hannô" }
+				4 = { change_province_name = "Takahagi" }
+				5 = { change_province_name = "Gyôda" }
+				6 = { change_province_name = "Sodegaura" }
+				7 = { change_province_name = "Motomiya" }
+				17 = { change_province_name = "Ribâpurên" }
+				2631 = { change_province_name = "Tosayamada" }
+				2598 = { change_province_name = "Takikawa" }
+				2599 = { change_province_name = "Ichinomiya" }
+				2630 = { change_province_name = "Sueyoshi" }
+				1 = { state_scope = { change_region_name = "Kaigan" } }
 			}
 		}
 		

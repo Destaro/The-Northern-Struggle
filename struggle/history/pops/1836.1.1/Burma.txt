@@ -337,40 +337,35 @@
 #Under rule of Burma in 1836
 #Ava (240000/70000 POPS)
 1334 = {
+
 	aristocrats = {
-		culture = burmese
-		religion = theravada
-		size = 500
+		culture = kachin
+		religion = animist
+		size = 75
 	}
 
 	clergymen = {
-		culture = burmese
-		religion = theravada
-		size = 500
+		culture = kachin
+		religion = animist
+		size = 350
 	}
 
 	artisans = {
-		culture = burmese
-		religion = theravada
-		size = 2400
+		culture = kachin
+		religion = animist
+		size = 800
 	}
 
 	soldiers = {
-		culture = burmese
-		religion = theravada
-		size = 3000
-	}
-
-	soldiers = {
-		culture = burmese
-		religion = theravada
-		size = 1000
+		culture = kachin
+		religion = animist
+		size = 200
 	}
 
 	farmers = {
-		culture = burmese
-		religion = theravada
-		size = 39600
+		culture = kachin
+		religion = animist
+		size = 15575
 	}
 
 	aristocrats = {
@@ -772,6 +767,41 @@
 	aristocrats = {
 		culture = burmese
 		religion = theravada
+		size = 500
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 500
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 2400
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 3000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 1000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 39600
+	}
+	aristocrats = {
+		culture = burmese
+		religion = theravada
 		size = 50
 	}
 
@@ -821,36 +851,6 @@
 		culture = asian_minor
 		religion = animist
 		size = 500
-	}
-
-	aristocrats = {
-		culture = kachin
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = kachin
-		religion = animist
-		size = 350
-	}
-
-	artisans = {
-		culture = kachin
-		religion = animist
-		size = 800
-	}
-
-	soldiers = {
-		culture = kachin
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = kachin
-		religion = animist
-		size = 15575
 	}
 }
 #Putao (216000/54000 POPS)

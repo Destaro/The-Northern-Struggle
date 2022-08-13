@@ -1,5 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = FRI
+owner = NET
+controller = NET
+add_core = NET
+add_core = FRC
 trade_goods = wool
 life_rating = 35

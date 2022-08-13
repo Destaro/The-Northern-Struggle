@@ -1,6 +1,7 @@
-owner = MTC
-controller = MTC
+owner = VIN
+controller = VIN
 add_core = MTC
+add_core = VIN
 colonial = 2
 trade_goods = timber
 terrain = plains

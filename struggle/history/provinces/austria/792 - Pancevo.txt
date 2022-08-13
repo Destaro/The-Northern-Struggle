@@ -1,9 +1,5 @@
-owner = PNN
-controller = PNN
-add_core = PNN
-#add_core = SER
-add_core = BAN
-add_core = ROM
-add_core = SIE
+owner = MON
+controller = MON
+add_core = MON
 trade_goods = grain
 life_rating = 35

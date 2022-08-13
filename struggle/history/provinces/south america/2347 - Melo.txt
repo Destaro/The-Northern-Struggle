@@ -1,7 +1,7 @@
-owner = LPL
-controller = LPL
+owner = RGS
+controller = RGS
+add_core = RGS
 add_core = LPL
-add_core = URU
 trade_goods = fish
 life_rating = 35
 party_loyalty = {

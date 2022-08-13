@@ -1,6 +1,6 @@
-owner = DES
-controller = DES
-add_core = DES
+owner = NOR
+controller = NOR
+add_core = COL
 trade_goods = wool
 life_rating = 35
 1861.1.1 = {

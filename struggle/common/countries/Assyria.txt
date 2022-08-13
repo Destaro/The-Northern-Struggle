@@ -1,9 +1,9 @@
 color = { 27 130 137 }
 graphical_culture = MiddleEasternGC
 party = {
-	name = "ARM_conservative"
+	name = "ASY_conservative"
 	start_date = 1826.1.1
-	end_date = 1935.1.1
+	end_date = 9000.1.1
 
 	ideology = conservative
 
@@ -12,28 +12,14 @@ party = {
 	trade_policy = free_trade
 	religious_policy = secularized
 	citizenship_policy = residency
-	war_policy = pacifism
-}
-
-party = {
-	name = "ARM_conservative_2"
-	start_date = 1850.1.1
-	end_date = 1935.1.1
-
-	ideology = conservative
-
-	social_policy = no_position_set
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = residency
 	war_policy = pro_military
 }
 
+
 party = {
-	name = "ARM_liberal"
+	name = "ASY_liberal"
 	start_date = 1863.1.1
-	end_date = 1895.1.1
+	end_date = 9000.1.1
 
 	ideology = liberal
 
@@ -42,13 +28,13 @@ party = {
 	trade_policy = free_trade
 	religious_policy = pluralism
 	citizenship_policy = full_citizenship
-	war_policy = anti_military
+	war_policy = pro_military
 }
 
 party = {
-	name = "ARM_socialist"
+	name = "ASY_socialist"
 	start_date = 1848.1.1
-	end_date = 1900.1.1
+	end_date = 9000.1.1
 
 	ideology = socialist
 
@@ -61,54 +47,9 @@ party = {
 }
 
 party = {
-	name = "ARM_socialist_2"
-	start_date = 1890.1.1
-	end_date = 2000.1.1
-
-	ideology = socialist
-
-	social_policy = welfare_state
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = jingoism
-}
-
-party = {
-	name = "ARM_liberal_2"
+	name = "ASY_reactionary"
 	start_date = 1820.1.1
-	end_date = 1863.1.1
-
-	ideology = liberal
-
-	social_policy = no_position_set
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = full_citizenship
-	war_policy = pacifism
-}
-
-party = {
-	name = "ARM_liberal_3"
-	start_date = 1895.1.1
-	end_date = 1935.1.1
-
-	ideology = liberal
-
-	social_policy = no_position_set
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = full_citizenship
-	war_policy = pacifism
-}
-
-party = {
-	name = "ARM_reactionary"
-	start_date = 1820.1.1
-	end_date = 2000.1.1
+	end_date = 9000.1.1
 
 	ideology = reactionary
 
@@ -121,9 +62,9 @@ party = {
 }
 
 party = {
-	name = "ARM_anarcho_liberal"
+	name = "ASY_anarcho_liberal"
 	start_date = 1830.1.1
-	end_date = 2000.1.1
+	end_date = 9000.1.1
 
 	ideology = anarcho_liberal
 
@@ -137,33 +78,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 	}
 	ironclad = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan	
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 	}
 	manowar = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 		
 	}
 	cruiser = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 	}
 	frigate = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 	}
 	monitor = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 	}
 	clipper_transport = {
@@ -173,16 +114,16 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		Sargon Šalmanisar Ašur "Awi'eil" "Ašur'ban" "Ašur'leed" "Ašur'ram" "Ašur'seen" "Ašur'khadon" Gilgameš Šmuil Akkad Amid "Bukht-Yišo" Petros "Beth Suryaye"
+		Oromiyeh Yišo
 		
 	}
 }
 
 party = {
-	name = "ARM_communist"
+	name = "ASY_communist"
 	start_date = 1848.1.1
-	end_date = 2000.1.1
+	end_date = 9000.1.1
 
 	ideology = communist
 
@@ -195,9 +136,9 @@ party = {
 }
 
 party = {
-	name = "ARM_fascist"
+	name = "ASY_fascist"
 	start_date = 1900.1.1
-	end_date = 2000.1.1
+	end_date = 9000.1.1
 
 	ideology = fascist
 

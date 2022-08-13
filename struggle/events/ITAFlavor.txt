@@ -712,6 +712,7 @@ country_event = {
 			tag = SAR
 			tag = SVY
 			tag = SMR
+			tag = LOM
 			exists = ITA
 			truce_with = SAR
 			truce_with = SVY
@@ -1108,6 +1109,8 @@ country_event = {
 		}
 		add_accepted_culture = south_italian
 		add_accepted_culture = north_italian
+		add_accepted_culture = venetian
+		add_accepted_culture = dalmatian
 		random_owned = { 
 			limit = { owner = { is_culture_group = italian accepted_culture = french } }
 			owner = { remove_accepted_culture = french }
@@ -1155,7 +1158,7 @@ country_event = {
 			leave_alliance = THIS
 			any_owned = {
 				limit = {
-					NOT = { province_id = 749 }
+					NOT = { province_id = 3625 }
 				}
 				secede_province = THIS
 			}

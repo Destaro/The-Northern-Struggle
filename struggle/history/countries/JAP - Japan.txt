@@ -42,6 +42,7 @@ colonial_policy = no_colonies
 set_country_flag = mahayana_country
 
 decision = taiwan_administration
+decision = japanese_sakhalin
 
 ruling_party = JAP_reactionary
 upper_house = {

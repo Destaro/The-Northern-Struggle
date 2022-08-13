@@ -1,5 +1,6 @@
-owner = LUA
-controller = LUA
+owner = YNN
+controller = YNN
+add_core = YNN
 add_core = LUA
 trade_goods = tropical_wood
 life_rating = 31

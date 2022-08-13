@@ -1,9 +1,8 @@
-owner = SYR
-controller = SYR
+owner = CLC
+controller = CLC
 
 add_core = CLC
 add_core = KDS
-add_core = SYR
 trade_goods = wool
 life_rating = 35
 

@@ -403,12 +403,12 @@ political_decisions = {
                 }
             }
             random_owned = {
-                limit = { owner = { primary_culture = british } }
+                limit = { owner = { primary_culture = platinier } }
                 owner = {
                     clr_global_flag = falklands_are_the_malvinas
-                    2131 = { change_province_name = "Falkland Islands" }
-					3048 = { change_province_name = "Coast of Falklands" }
-					3047 = { change_province_name = "Falkland Plateau" }
+                    2131 = { change_province_name = "Tharun Inslar" }
+					3048 = { change_province_name = "Coast of Tharun" }
+					3047 = { change_province_name = "Tharun Plateau" }
                 }
             }
         }
@@ -467,12 +467,12 @@ political_decisions = {
                 }
             }
             random_owned = {
-                limit = { owner = { primary_culture = british } }
+                limit = { owner = { primary_culture = platinier } }
                 owner = {
                     clr_global_flag = s_georgia_are_the_malvinas
 					clr_global_flag = s_georgia_is_grytviken
-                    2133 = { change_province_name = "South Georgia" }
-					3200 = { change_province_name = "Coast of South Georgia" }
+                    2133 = { change_province_name = "Thule" }
+					3200 = { change_province_name = "Coast of Thule" }
                 }
             }
 			random_owned = {

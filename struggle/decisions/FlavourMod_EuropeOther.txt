@@ -74,6 +74,7 @@ political_decisions = {
 				primary_culture = serb
 				tag = SER
 				tag = YUG
+				tag = PNN
 			}
 			owns = 2538
 			NOT = { has_global_flag = vojvodina_rename_ser }
@@ -203,7 +204,7 @@ political_decisions = {
 	banat_rename_rom = {
 		picture = gtfo
 		potential = {
-			primary_culture = romanian
+			primary_culture = bulgarian
 			owns = 652
 			owns = 653
 			NOT = { has_global_flag = banat_rename_rom }
@@ -218,9 +219,9 @@ political_decisions = {
 			clr_global_flag = banat_rename_ser
 			clr_global_flag = banat_rename_hun
 			prestige = 2
-			652 = { change_province_name = "Timisoara" }
-			653 = { change_province_name = "Resita" }
-			792 = { change_province_name = "Pancievo" }
+			652 = { change_province_name = "Tamišgrad" }
+			653 = { change_province_name = "Richitsa" }
+			792 = { change_province_name = "Panchevo" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -564,7 +565,7 @@ political_decisions = {
 			654 = { change_province_name = "Kluž"
 				state_scope = { change_region_name = "Severné Sedmihradsko" } }
 			2533 = { change_province_name = "Tarhšor" }
-			661 = { change_province_name = "Bystrzyca" }
+			661 = { change_province_name = "Bystrice" }
 			663 = { change_province_name = "Sucava" }
 			660 = { change_province_name = "Odorheju" }
 		}
@@ -574,7 +575,7 @@ political_decisions = {
 	northern_transylvania_rename_rom = {
 		picture = gtfo
 		potential = {
-			primary_culture = romanian
+			primary_culture = bulgarian
 			owns = 654
 			owns = 661
 			owns = 2533
@@ -590,12 +591,12 @@ political_decisions = {
 			set_global_flag = northern_transylvania_rename_rom
 			clr_global_flag = northern_transylvania_rename_hun
 			prestige = 2
-			654 = { change_province_name = "Cluj" 
-				state_scope = { change_region_name = "Transilvania de Nord" } }
-			661 = { change_province_name = "Bistrita" }
-			663 = { change_province_name = "Suceava" }
-			660 = { change_province_name = "Trei Scaune" }
-			2533 = { change_province_name = "Târgu Mures" }
+			654 = { change_province_name = "Kluž" 
+				state_scope = { change_region_name = "Sjeverna Transilvanija" } }
+			661 = { change_province_name = "Bistrica" }
+			663 = { change_province_name = "Sucava" }
+			660 = { change_province_name = "Areopol" }
+			2533 = { change_province_name = "Targšor" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -603,13 +604,7 @@ political_decisions = {
 	northern_transylvania_rename_aus = {
 		picture = gtfo
 		potential = {
-			is_culture_group = germanic
-			NOT = { 
-				OR = {
-					tag = KUK
-					tag = DNB
-				}
-			}
+			primary_culture = croat
 			owns = 654
 			owns = 661
 			owns = 2533
@@ -673,7 +668,7 @@ political_decisions = {
 	southern_transylvania_rename_rom = {
 		picture = gtfo
 		potential = {
-			primary_culture = romanian
+			primary_culture = bulgarian
 			owns = 655
 			owns = 656
 			owns = 657
@@ -690,12 +685,12 @@ political_decisions = {
 			clr_global_flag = southern_transylvania_rename_hun
 			prestige = 2
 			657 = { 
-				change_province_name = "Sibiu"
-				state_scope = { change_region_name = "Transilvania de Sud" }
+				change_province_name = "Sibinj"
+				state_scope = { change_region_name = "Yuzhna Transilvanija" }
 			}
-			655 = { change_province_name = "Alba Iulia" }
+			655 = { change_province_name = "Erdeljski Biograd" }
 			656 = { change_province_name = "Deva" }
-			659 = { change_province_name = "Brasov" }
+			659 = { change_province_name = "Brašov" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -743,9 +738,8 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			OR = {
-				is_culture_group = czecho_slovak_culture_group
 				tag = SLV
-				tag = CZH
+				tag = PNN
 				AND = {
 					tag = DNB
 					accepted_culture = slovak
@@ -754,7 +748,6 @@ political_decisions = {
 			owns = 633
 			owns = 634
 			owns = 637
-			owns = 950
 			NOT = { has_global_flag = slovakia_rename_czhslo }
 		}
 		
@@ -950,6 +943,7 @@ political_decisions = {
 				state_scope = { change_region_name = "Mérän" } }
 			632 = { change_province_name = "Olmyc" }
 			688 = { change_province_name = "Tropau" }
+			3466 = { change_province_name = "Känau" }
 			3470 = { change_province_name = "Zlýn" }
 		}
 		ai_will_do = { factor = 1 }
@@ -979,6 +973,7 @@ political_decisions = {
 			632 = { change_province_name = "Olmütz"
 				state_scope = { change_region_name = "Mähren" } }
 			688 = { change_province_name = "Troppau" }
+			3466 = { change_province_name = "Hohenau" }
 			3470 = { change_province_name = "Zlin" }
 		}
 		ai_will_do = { factor = 1 }
@@ -1013,6 +1008,7 @@ political_decisions = {
 			OR = {
 				primary_culture = russian
 				primary_culture = ukrainian
+				primary_culture = bulgarian
 			}
 			OR = {
 				AND = { owns = 702 NOT = { has_global_flag = russian_renamed_lvov } }
@@ -1043,10 +1039,10 @@ political_decisions = {
 				state_scope = { change_region_name = "Halytsko" }
 				}
 			952 = { change_province_name = "Ternopol" }
-			953 = { change_province_name = "Stanislav" }
+			953 = { change_province_name = "Halyc" }
 				owner = {
 			set_global_flag = east_galicia_rename_rus
-			clr_global_flag = east_galicia_rename_polish
+			clr_global_flag = east_galicia_rename_pol
 			clr_global_flag = east_galicia_rename_ger
 				}
 			}
@@ -1095,7 +1091,7 @@ political_decisions = {
 				state_scope = { change_region_name = "Galicja Wschodnia" } 
 				}
 			952 = { change_province_name = "Tarnopol" }
-			953 = { change_province_name = "Stanislawów" }
+			953 = { change_province_name = "Halicz" }
 			owner = {
 				set_global_flag = east_galicia_rename_pol
 				clr_global_flag = east_galicia_rename_rus
@@ -1147,7 +1143,7 @@ political_decisions = {
 				state_scope = { change_region_name = "Ost-Galizien" } 
 				}
 			952 = { change_province_name = "Tarnopol" }
-			953 = { change_province_name = "Stanislau" }
+			953 = { change_province_name = "Halytsch" }
 			owner = {
 				clr_global_flag = east_galicia_rename_pol
 				clr_global_flag = east_galicia_rename_rus
@@ -1170,7 +1166,7 @@ political_decisions = {
 			}
 			OR = {
 				AND = { owns = 703 NOT = { has_global_flag = german_renamed_krakow } }
-				AND = { owns = 714 NOT = { has_global_flag = german_renamed_galicia } }
+				AND = { owns = 705 NOT = { has_global_flag = german_renamed_galicia } }
 				
 			}
 		}
@@ -1185,6 +1181,7 @@ political_decisions = {
 					province_id = 703
 				}
 				703 = { change_province_name = "Krakau"  }
+				714 = { change_province_name = "Tarnau" }
 				owner = { 
 					set_global_flag = german_renamed_krakow 
 					clr_global_flag = polish_renamed_krakow
@@ -1193,10 +1190,10 @@ political_decisions = {
 			}
 			random_owned = {
 				limit = {
-					province_id = 714
+					province_id = 705
 				}
-				714 = { change_province_name = "Tarnau" }
 				704 = { change_province_name = "Neu Sandez"  }
+				3320 = { change_province_name = "Belz"  }
 				705 = { change_province_name = "Premissel"
 					state_scope = { change_region_name = "Rotes-Ruthenien" }
 				}
@@ -1223,7 +1220,7 @@ political_decisions = {
 			}
 			OR = {
 				AND = { owns = 703 NOT = { has_global_flag = polish_renamed_krakow } }
-				AND = { owns = 714 NOT = { has_global_flag = polish_renamed_galicia } }
+				AND = { owns = 705 NOT = { has_global_flag = polish_renamed_galicia } }
 			}
 		}
 		
@@ -1237,6 +1234,7 @@ political_decisions = {
 					province_id = 703
 				}
 				703 = { change_province_name = "Kraków"  }
+				714 = { change_province_name = "Tarnów" }
 				owner = { 
 					set_global_flag = polish_renamed_krakow
 					clr_global_flag = german_renamed_krakow
@@ -1245,10 +1243,10 @@ political_decisions = {
 			}
 			random_owned = {
 				limit = {
-					province_id = 714
+					province_id = 705
 				}
-				714 = { change_province_name = "Tarnów" }
 				704 = { change_province_name = "Nowy Sacz"  }
+				3320 = { change_province_name = "Belz"  }
 				705 = { change_province_name = "Przemysl"  
 					state_scope = { change_region_name = "Rus Czerwona" }
 				}
@@ -1271,7 +1269,7 @@ political_decisions = {
 			}
 			OR = {
 				AND = { owns = 703 NOT = { has_global_flag = russian_renamed_krakow } }
-				AND = { owns = 714 NOT = { has_global_flag = russian_renamed_galicia } }
+				AND = { owns = 705 NOT = { has_global_flag = russian_renamed_galicia } }
 			}
 		}
 		
@@ -1285,6 +1283,7 @@ political_decisions = {
 					province_id = 703
 				}
 				703 = { change_province_name = "Krakov" }
+				714 = { change_province_name = "Tarniv"  }
 				owner = { 
 					set_global_flag = russian_renamed_krakow
 					clr_global_flag = german_renamed_krakow
@@ -1293,10 +1292,10 @@ political_decisions = {
 			}
 			random_owned = {
 				limit = {
-					province_id = 714
+					province_id = 705
 				}
-				714 = { change_province_name = "Tarniv"  }
-				704 = { change_province_name = "Novy-Sonch"  }
+				704 = { change_province_name = "Novyy-Sonch"  }
+				3320 = { change_province_name = "Belz"  }
 				705 = { change_province_name = "Peremyshl'" 
 					state_scope = { change_region_name = "Chervona Rus'" }
 				 }
@@ -1338,7 +1337,7 @@ political_decisions = {
 				}
 				682 = { 
 					change_province_name = "Breslau" 
-					state_scope = { change_region_name = "Schlesien" }
+					state_scope = { change_region_name = "Niederschlesien" }
 				}
 				683 = { change_province_name = "Waldenburg"  }
 				684 = { change_province_name = "Oppeln"  }
@@ -1355,7 +1354,7 @@ political_decisions = {
 				}
 				689 = { 
 					change_province_name = "Teschen" 
-					state_scope = { change_region_name = "Schlesien" }
+					state_scope = { change_region_name = "Oberschlesien" }
 				}
 				2584 = { change_province_name = "Bielitz"  }
 				owner = { 
@@ -1373,10 +1372,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				primary_culture = polish
-				AND = {
-					tag = DNB
-					accepted_culture = polish
-				}
+				primary_culture = silesian
 				tag = WSF
 			}
 			OR = {
@@ -1396,10 +1392,12 @@ political_decisions = {
 				}
 				682 = { 
 					change_province_name = "Wroclaw" 
-					state_scope = { change_region_name = "Slask" }
+					state_scope = { change_region_name = "Dolny Slask" }
 				}
 				683 = { change_province_name = "Walbrzych"  }
-				684 = { change_province_name = "Opole"  }
+				684 = { change_province_name = "Opole"  
+					state_scope = { change_region_name = "Górny Slask" }
+				}
 				685 = { change_province_name = "Katowice"  }
 				owner = { 
 					set_global_flag = prussian_silesia_rename_polish
@@ -1448,10 +1446,12 @@ political_decisions = {
 				}
 				682 = { 
 					change_province_name = "Preslau" 
-					state_scope = { change_region_name = "Šlésijen" }
+					state_scope = { change_region_name = "Nítär Šlésijen" }
 				}
 				683 = { change_province_name = "Líknic"  }
-				684 = { change_province_name = "Ópäln"  }
+				684 = { change_province_name = "Ópäln"  
+					state_scope = { change_region_name = "Ópär Šlésijen" }
+				}
 				685 = { change_province_name = "Kotovic"  }
 				owner = { 
 					set_global_flag = prussian_silesia_rename_czech
@@ -1860,6 +1860,7 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
+			639 = { change_province_name = "Zalaegerszeg" }
 			640 = { change_province_name = "Pécs" }
 			642 = { change_province_name = "Gyor" }
 			643 = { change_province_name = "Székesfehérvár"
@@ -1878,8 +1879,6 @@ political_decisions = {
 				}
 				623 = { change_province_name = "Sopron" }
 				624 = { change_province_name = "Kismarton" }
-				639 = { change_province_name = "Zalaegerszeg" }
-				3466 = { change_province_name = "Lajta" }
 				3467 = { change_province_name = "Vasvár" }
 				3468 = { change_province_name = "Kapuvár"
 				state_scope = { change_region_name = "Örvidék" } }
@@ -1915,6 +1914,7 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
+			639 = { change_province_name = "Jageršek" }
 			640 = { change_province_name = "Pec" }
 			642 = { change_province_name = "Ráb" }
 			643 = { change_province_name = "Stolicný Belehrad"
@@ -1933,8 +1933,6 @@ political_decisions = {
 				}
 			623 = { change_province_name = "Šopron" }
 			624 = { change_province_name = "Železno" }
-			639 = { change_province_name = "Jageršek" }
-			3466 = { change_province_name = "Cáhnov" }
 			3467 = { change_province_name = "Železnohrad" }
 			3468 = { change_province_name = "Bránahrad" 
 				state_scope = { change_region_name = "Gradišcanska" } }
@@ -1968,6 +1966,7 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
+			639 = { change_province_name = "Egersee" }
 			640 = { change_province_name = "Fünfkirchen" }
 			642 = { change_province_name = "Raab" }
 			643 = { change_province_name = "Stuhlweißenburg"
@@ -1985,9 +1984,7 @@ political_decisions = {
 					province_id = 623
 				}
 			623 = { change_province_name = "Ödenburg" }
-			639 = { change_province_name = "Egersee" }
 			624 = { change_province_name = "Eisenstadt" }
-			3466 = { change_province_name = "Hohenau" }
 			3467 = { change_province_name = "Eisenburg" }
 			3468 = { change_province_name = "Kobrunn" 
 				state_scope = { change_region_name = "Burgenland" } }
@@ -2170,6 +2167,7 @@ political_decisions = {
 			OR = {
 				primary_culture = croat
 				tag = YUG
+				tag = PNN
 			}
 			owns = 771
 			owns = 772
@@ -2186,8 +2184,8 @@ political_decisions = {
 			clr_global_flag = serbia_rename_cro_cores
 			clr_global_flag = serbia_rename_cro
 			771 = { 
-				change_province_name = "Zagreb" 
-				state_scope = { change_region_name = "Hrvatska" }
+				change_province_name = "Záhreb" 
+				state_scope = { change_region_name = "Dolná Panónia" }
 			}
 			772 = { change_province_name = "Sisak" }
 			775 = { change_province_name = "Varaždin" }
@@ -2570,10 +2568,11 @@ political_decisions = {
 			3565 = { change_province_name = "Città Nuova" }
 			788 = { change_province_name = "Ponte Vecchio" }
 			789 = { change_province_name = "Cleuna" }
+			800 = { change_province_name = "Dulcigno" }
 			2582 = { 
 				change_province_name = "Càttaro"
 				state_scope = { change_region_name = "Illiria Dalmata" } }
-			2584 = { change_province_name = "Cettigne" }
+			2583 = { change_province_name = "Cettigne" }
 			2569 = { change_province_name = "Trebigne" }
 		}
 		ai_will_do = { factor = 1 }
@@ -2718,7 +2717,7 @@ political_decisions = {
 	french_renamed_savoy_aosta = {
 		picture = claim_aosta
 		potential = {
-			primary_culture = french
+			primary_culture = arpitan
 			OR = {
 				AND = { owns = 466 NOT = { has_global_flag = french_renamed_savoy } }
 				AND = { owns = 453 NOT = { has_global_flag = french_renamed_cisjurana } }

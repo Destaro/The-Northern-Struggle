@@ -531,74 +531,74 @@ political_decisions = {
 		}
 	}
 	
-	unite_with_ukraine = {
-		picture = greater_ukraine
-		potential = {
-			tag = RUT
-			exists = UKR
-			NOT = { has_country_flag = unite_with_ukraine }
-		}
-
-		allow = {
-			war = no
-			is_vassal = no
-			OR = {
-				part_of_sphere = no
-				sphere_owner = { is_sphere_leader_of = UKR }
-			}
-			UKR = {
-				war = no
-				neighbour = THIS
-				is_vassal = no
-			}
-		}
-
-		effect = {
-			set_country_flag = unite_with_ukraine
-			all_core = {
-				remove_core = RUT
-				add_core = UKR
-			}
-			675 = { add_core = UKR }
-			663 = { add_core = UKR }
-			704 = { add_core = UKR }
-			705 = { add_core = UKR }
-			random_country = {
-				limit = {
-					tag = UKR
-					ai = yes
-					THIS = { ai = yes }
-				}
-				inherit = THIS
-			}
-			random_country = {
-				limit = {
-					tag = UKR
-					ai = yes
-					THIS = { ai = no }
-				}
-				any_owned = { secede_province = THIS }
-				THIS = {
-					random_owned = {
-						limit = { province_id = 958 }
-						owner = { capital = 958 }
-					}
-					change_tag = UKR
-				}	
-			}
-			random_country = {
-				limit = {
-					tag = UKR
-					ai = no
-				}
-				country_event = 60130
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
+#	unite_with_ukraine = {
+#		picture = greater_ukraine
+#		potential = {
+#			tag = RUT
+#			exists = UKR
+#			NOT = { has_country_flag = unite_with_ukraine }
+#		}
+#
+#		allow = {
+#			war = no
+#			is_vassal = no
+#			OR = {
+#				part_of_sphere = no
+#				sphere_owner = { is_sphere_leader_of = UKR }
+#			}
+#			UKR = {
+#				war = no
+#				neighbour = THIS
+#				is_vassal = no
+#			}
+#		}
+#
+#		effect = {
+#			set_country_flag = unite_with_ukraine
+#			all_core = {
+#				remove_core = RUT
+#				add_core = UKR
+#			}
+#			675 = { add_core = UKR }
+#			663 = { add_core = UKR }
+#			704 = { add_core = UKR }
+#			705 = { add_core = UKR }
+#			random_country = {
+#				limit = {
+#					tag = UKR
+#					ai = yes
+#					THIS = { ai = yes }
+#				}
+#				inherit = THIS
+#			}
+#			random_country = {
+#				limit = {
+#					tag = UKR
+#					ai = yes
+#					THIS = { ai = no }
+#				}
+#				any_owned = { secede_province = THIS }
+#				THIS = {
+#					random_owned = {
+#						limit = { province_id = 958 }
+#						owner = { capital = 958 }
+#					}
+#					change_tag = UKR
+#				}	
+#			}
+#			random_country = {
+#				limit = {
+#					tag = UKR
+#					ai = no
+#				}
+#				country_event = 60130
+#			}
+#		}
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#	}
 	
 	greater_assyria = {
 	picture = greater_assyria

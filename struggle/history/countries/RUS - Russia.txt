@@ -1,4 +1,4 @@
-capital = 994
+capital = 1008
 primary_culture = russian
 culture = volga_german
 religion = orthodox
@@ -55,8 +55,6 @@ upper_house = {
 }
 
 decision = RUS_setup_1836
-decision = lithuania_rename
-decision = latvia_rename
 
 # Technologies
 post_napoleonic_thought = 1

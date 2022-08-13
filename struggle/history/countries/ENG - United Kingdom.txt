@@ -12,7 +12,6 @@ literacy = 0.6
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
 
 
 # Political reforms

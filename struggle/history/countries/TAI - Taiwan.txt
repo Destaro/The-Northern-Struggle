@@ -1,6 +1,7 @@
 capital = 2681
-primary_culture = min
-culture = nanfaren
+primary_culture = japanese
+culture = japanese_creole
+culture = taiwanese
 religion = mahayana
 government = democracy
 plurality = 0.0

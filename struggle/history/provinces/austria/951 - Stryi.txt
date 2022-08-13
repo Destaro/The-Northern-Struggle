@@ -1,5 +1,5 @@
-owner = RUT
-controller = RUT
+owner = CPL
+controller = CPL
 add_core = RUT
 add_core = UKR
 add_core = CPL

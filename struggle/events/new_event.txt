@@ -11,9 +11,207 @@ country_event = {
 
 		THIS = {
 			any_owned = {
-				limit = { is_core = FRC }
 				secede_province = FRC
 			}
 		}
+	}
+}
+
+### Mezzogiorno VS Carthage ###
+## Leadup to the Meeting ##
+country_event = {
+id = 29989
+	title = "EVTNAME29991" #The Empire strikes back
+	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Spaniards and the Portuguese, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
+	#picture = "aboutsicilia"
+	fire_only_once = yes
+
+	trigger = {
+		tag = AVR
+		NOT = { has_country_flag = the_long_wait }
+		year = 1838
+	}
+		
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	option = {
+	name = "EVTOPTA29991" #We wait...
+		prestige = 10
+		THIS = {
+		create_alliance = CSZ
+		create_alliance = MEL
+		create_alliance = AVR
+		}
+		AVR = { country_event = 29992 }
+		set_country_flag = the_long_wait
+	}
+}
+country_event = {
+id = 29990
+	title = "EVTNAME29991" #The Empire strikes back
+	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Spaniards and the Portuguese, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
+	#picture = "aboutsicilia"
+	fire_only_once = yes
+
+	trigger = {
+		tag = MEL
+		NOT = { has_country_flag = the_long_wait }
+		year = 1838
+	}
+		
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	option = {
+	name = "EVTOPTA29991" #We wait...
+		prestige = 10
+		MEL = { country_event = 29992 }
+		set_country_flag = the_long_wait
+	}
+}
+country_event = {
+id = 29991
+	title = "EVTNAME29991" #The Empire strikes back
+	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Spaniards and the Portuguese, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
+	#picture = "aboutsicilia"
+	fire_only_once = yes
+
+	trigger = {
+		tag = CSZ
+		NOT = { has_country_flag = the_long_wait }
+		year = 1838
+	}
+		
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	option = {
+	name = "EVTOPTA29991" #We wait...
+		prestige = 10
+		CSZ = { country_event = 29992 }
+		set_country_flag = the_long_wait
+	}
+}
+
+## The Meeting Itself ##
+country_event = {
+	id = 29992
+	title = "EVTNAME29992" #The Meeting
+	desc = "EVTDESC29992" #Our 3 leaders decided to meet in Castrovillari to decide who will be in charge of this union. The ruler of Amalfi, Duke Alfredo II, says an union between the 3 states should be like any normal alliance. On the other hand the ruler of Melfi, Duke Riccardo the IV, says that it would be best to reunite the old kingdom under an union of kingdoms. But the Grand Master Pantaleone IX of Cosenza says that it would be best to unite the Meridione into a centralized kingdom strong enough to defeat the Punics. A council will be set up and they will decide what idea is the best one.
+	picture = #"castrovillari"
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+		option = {
+			name = "EVTOPTA29992" #Amalfi's idea sounds simple.
+			AVR = { prestige = 10 }
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+		option = {
+			name = "EVTOPTB29992" #Melfi is right!
+			MEL = { prestige = 10 }
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+		option = {
+			name = "EVTOPTC29992" #Yes, I do believe Cosenza's decision will benefit us more.
+			CSZ = { prestige = 10 }
+		ai_chance = {
+			factor = 33
+		}
+	}
+}
+
+## The Aftermath of the Meeting ##
+country_event = {
+	id = 29993
+	title = "EVTNAME29993" #Aversa's Proposal Succeeds
+	desc = "EVTDESC29993" #My Duke, Your proposal of a loose alliance has been voted to the top.
+	picture = #"castrovillari"
+    fire_only_once = yes
+	
+		trigger = {
+			tag = AVR
+			year = 1838
+			NOT = { has_global_flag = aversa_proposal_succeeds }
+			NOT = { has_global_flag = melfi_proposal_succeeds }
+			NOT = { has_global_flag = cosenza_proposal_succeeds }
+			prestige = 40
+		}
+		
+		mean_time_to_happen = { days = 4 }
+
+		option = {
+		name = "EVTOPTA29993" #May this lead us into prosperity.
+		THIS = {
+			create_alliance = CSZ
+			create_alliance = MEL
+			create_alliance = AVR
+		}
+		set_global_flag = aversa_proposal_succeeds
+		set_global_flag = no_sicily
+	}
+}
+
+country_event = {
+	id = 29994
+	title = "EVTNAME29994" #Melfi's Proposal Succeeds
+	desc = "EVTDESC29994" #TBD
+	picture = #"castrovillari"
+    fire_only_once = yes
+	
+		trigger = {
+			tag = MEL
+			year = 1838
+			OR = {
+			NOT = { has_global_flag = melfi_proposal_succeeds }
+			NOT = { has_global_flag = cosenza_proposal_succeeds }
+			NOT = { has_global_flag = no_sicily }
+			}
+			prestige = 40
+		}
+		
+		mean_time_to_happen = { days = 9 }
+
+		option = {
+		name = "EVTOPTA29994" #We shall rule benevolently.
+		set_global_flag = melfi_proposal_succeeds
+		set_country_flag = melfis_dream_to_be
+	}
+}
+
+country_event = {
+	id = 29995
+	title = "EVTNAME29995" #Cosenza's Proposal Succeeds
+	desc = "EVTDESC29995" #TBD
+	picture = #"castrovillari"
+    fire_only_once = yes
+	
+		trigger = {
+			tag = CSZ
+			year = 1838
+			OR = {
+			NOT = { has_global_flag = cosenza_proposal_succeeds }
+			NOT = { has_global_flag = melfi_proposal_succeeds }
+			NOT = { has_global_flag = no_sicily }
+			}
+			prestige = 40
+		}
+		
+		mean_time_to_happen = { days = 6 }
+
+		option = {
+		name = "EVTOPTA29995" #We shall rule benevolently.
+		set_global_flag = cosenza_proposal_succeeds
+		set_country_flag = cosenzas_dream_to_be
 	}
 }

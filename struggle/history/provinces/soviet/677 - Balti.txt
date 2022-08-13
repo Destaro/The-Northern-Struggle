@@ -1,7 +1,5 @@
 owner = RUT
 controller = RUT
 add_core = RUT
-add_core = MDV
-add_core = ROM
 trade_goods = fruit
 life_rating = 35

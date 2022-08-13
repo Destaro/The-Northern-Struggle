@@ -1573,6 +1573,84 @@
 		religion = catholic
 		size = 775
 	}
+	
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5     
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 495
+	}
+	
+	aristocrats = {
+		culture = frankish
+		religion = catholic
+		size = 250  
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 250          
+	}
+
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 3100
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 17400         
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 70
+	}
+
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 800
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 150 
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 3750
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5     
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 495
+	}
 }
 
 #Briey (320000/80000 POPS)

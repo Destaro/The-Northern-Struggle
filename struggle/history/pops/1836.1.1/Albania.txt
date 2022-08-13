@@ -39,7 +39,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 26947
+		size = 10947
 	}
 	
 	aristocrats = {
@@ -81,7 +81,7 @@
 	farmers = {
 		culture = tosk
 		religion = orthodox
-		size = 26065
+		size = 10065
 	}
 	
 	farmers = {
@@ -251,7 +251,11 @@
 		religion = orthodox
 		size = 6355
 	}
-	aristocrats = {	
+}
+
+#Durres
+3656 = {
+	aristocrats = {
 		culture = albanian
 		religion = catholic
 		size = 45
@@ -312,31 +316,31 @@
 	}
 	
 	aristocrats = {
-		culture = aromanian
+		culture = dalmatian
 		religion = catholic
 		size = 45
 	}
 	
 	clergymen = {
-		culture = aromanian
+		culture = dalmatian
 		religion = catholic
 		size = 90
 	}
 	
 	artisans = {
-		culture = aromanian
+		culture = dalmatian
 		religion = catholic
 		size = 1200
 	}
 	
 	soldiers = {
-		culture = aromanian
+		culture = dalmatian
 		religion = catholic
 		size = 50
 	}
 	
 	farmers = {
-		culture = aromanian
+		culture = dalmatian
 		religion = catholic
 		size = 355
 	}
@@ -347,7 +351,107 @@
 		size = 55
 	}
 }
-#Vlore
+
+#Scutari
+3657 = {
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 45
+	}
+	
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 120
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 1500
+	}
+	
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 45
+	}
+	
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 60
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 10
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 20
+	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1800
+	}
+	
+	aristocrats = {
+		culture = dalmatian
+		religion = catholic
+		size = 145
+	}
+	
+	bureaucrats	= {
+		culture = dalmatian
+		religion = catholic
+		size = 45
+	}
+	
+	clergymen = {
+		culture = dalmatian
+		religion = catholic
+		size = 160
+	}
+	
+	artisans = {
+		culture = dalmatian
+		religion = catholic
+		size = 3200
+	}
+	
+	soldiers = {
+		culture = dalmatian
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = dalmatian
+		religion = catholic
+		size = 355
+	}
+}
+
+#Berat
 852 = {
 	aristocrats = {
 		culture = tosk
@@ -428,7 +532,94 @@
 	}
 	
 	artisans = {
-		culture = yevanic
+		culture = greek
+		religion = jewish
+		size = 231
+	}
+}
+
+#Vlore
+3669 = {
+	aristocrats = {
+		culture = tosk
+		religion = orthodox
+		size = 573
+	}
+	
+	clergymen = {
+		culture = tosk
+		religion = orthodox
+		size = 256
+	}
+	
+	artisans = {
+		culture = tosk
+		religion = orthodox
+		size = 331
+	}
+	
+	soldiers = {
+		culture = tosk
+		religion = orthodox
+		size = 986
+	}
+	
+	farmers = {
+		culture = tosk
+		religion = orthodox
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = aromanian
+		religion = orthodox
+		size = 73
+	}
+	
+	clergymen = {
+		culture = aromanian
+		religion = orthodox
+		size = 90
+	}
+	
+	artisans = {
+		culture = aromanian
+		religion = orthodox
+		size = 931
+	}
+	
+	soldiers = {
+		culture = aromanian
+		religion = orthodox
+		size = 86
+	}
+	
+	farmers = {
+		culture = aromanian
+		religion = orthodox
+		size = 8047
+	}
+	
+	clergymen = {
+		culture = tosk
+		religion = catholic
+		size = 143
+	}
+	
+	farmers = {
+		culture = tosk
+		religion = catholic
+		size = 3232
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 232
+	}
+	
+	artisans = {
+		culture = greek
 		religion = jewish
 		size = 231
 	}

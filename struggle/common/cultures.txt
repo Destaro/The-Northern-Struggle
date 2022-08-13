@@ -861,6 +861,20 @@ south_slavic = {
 		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tükcan Ugljanin 
 		}
 	}
+	pannonian = {
+		color = {114 212 139}
+		first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
+		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
+		Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
+		Michal Mikulás Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
+		Rudolf Samuel Sergej Stefan Svtozár Tibor Tomás Viliam Vladimír Vojtech }
+
+		last_names = { Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+		Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
+		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
+		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
+		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
+	}
 }
 
 pan_albanian = {
@@ -1045,39 +1059,9 @@ polish_culture_group = {
 		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
 		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 	}
-	#union = POL
-}
-
-czecho_slovak_culture_group = {
-	leader = european
-	unit = EuropeanGC
-
-	czech = {
-		color = {120 120 255}
-		first_names = { Perihär Racifrít Féfrít Fölthär Frýfrít Márkus Oltrik Kónröt Borivoj Möksmílian 
-		Rútolf Ölprecht Frítrik Önton Herpärt Önton Ernšt Lútvik Höns Fencäl Fencäl Hejlmön }
-
-		last_names = { Permút Fencäl Fölthär Frýfrít Márkus Föltfít Hejlmön Sikfrít Föltfít 
-		Rútolf Ölprecht Majfrít "zu Hapšpurk" Kéork Órel Kácifrít Henrik }
-		radicalism = 5
-	}
 	
 	slovak = {
 		color = {120 255 255}
-		first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
-		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
-		Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
-		Michal Mikulás Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
-		Rudolf Samuel Sergej Stefan Svtozár Tibor Tomás Viliam Vladimír Vojtech }
-
-		last_names = { Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
-		Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
-		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
-		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
-		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
-	}
-	pannonian = {
-		color = {114 212 139}
 		first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
 		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
 		Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
@@ -1122,6 +1106,22 @@ czecho_slovak_culture_group = {
 			Wowcer Pohonc Mlynk Burik Horncer Kowar Ciban Šolta Kral
 			Jurjanc Janka Miklawšk Handrik Petranc Kilank Kilian Grubic Klóske Bramborski Salowski Holanski
 		}
+	}
+	#union = POL
+}
+
+czecho_slovak_culture_group = {
+	leader = european
+	unit = EuropeanGC
+
+	czech = {
+		color = {120 120 255}
+		first_names = { Perihär Racifrít Féfrít Fölthär Frýfrít Márkus Oltrik Kónröt Borivoj Möksmílian 
+		Rútolf Ölprecht Frítrik Önton Herpärt Önton Ernšt Lútvik Höns Fencäl Fencäl Hejlmön }
+
+		last_names = { Permút Fencäl Fölthär Frýfrít Márkus Föltfít Hejlmön Sikfrít Föltfít 
+		Rútolf Ölprecht Majfrít "zu Hapšpurk" Kéork Órel Kácifrít Henrik }
+		radicalism = 5
 	}
 	#union = CZH
 }
@@ -1278,7 +1278,7 @@ levantine = {
 		radicalism = 5
 	}
 	assyrian = {
-		color = {20 125 135}
+		color = {20 205 85}
 		first_names = {
 			"'Adad" Šalmanisar Ogin Ošana Sargon Sankhiro Šammira Šaro Šnina Šaybo Šarokin Šarona Raman Rabila
 			Pera Pesina Paldin Pol Sin Sina Sennacherib Sardanapal Natan Nardin Nasirpal Nasir Nirari Ninil
@@ -1344,7 +1344,7 @@ levantine = {
 			Bihram Sabia "Bar-Timai" "Bar-Tolmai" Zerika Mandeyanaye Ginza Draša
 
 		}
-	}	
+	}
 }
 
 turko_semitic = {
@@ -1382,18 +1382,6 @@ turko_semitic = {
 			Qasimbek Qasimzade Rasulzade Tahirzade Talishkhan Topchubashi Zardabi
 			}
 		radicalism = 5
-	}
-	
-	kurdish = {
-		color = {254 189 17}
-		first_names = {
-			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
-			}
-		
-		last_names = {
-			Badirkhan Barzani Khan Shilak
-		}
-		radicalism = 10
 	}
 }
 
@@ -1781,7 +1769,7 @@ iranian = {
 	is_overseas = no
 	unit = MiddleEasternGC
  	old_persian = { 
-		color = {184 154 157}
+		color = {5 80 185}
 		first_names = { 
 			Afshar Anushirvan Aram Ardahan Ardavan Ardeshir Asvar Aurang 
 			Ayeshah Babak Bahman Bahram Bakhtiar Behrad Behrouz Bozorg Danush Darab Dariush 
@@ -1798,7 +1786,7 @@ iranian = {
 			} 	
 	}
 	persian = {
-		color = {144 88 81}
+		color = {0 100 165}
 		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
 			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
@@ -1830,7 +1818,7 @@ iranian = {
 	}
 	
 	khwarazm_persian = {
-		color = {130 88 81}
+		color = {30 125 190}
 		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
 			Ebrahim Esmail "Fath Ali" Fazlollah Firuz Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
@@ -1846,7 +1834,7 @@ iranian = {
 	}
 	
 	khorasani_persian = {
-		color = {135 88 81}
+		color = {5 105 170}
 		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
 			Ebrahim Esmail "Fath Ali" Fazlollah Firuz Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
@@ -1861,7 +1849,7 @@ iranian = {
 			}
 	}
 	pashtun = {
-		color = {199 151 230}
+		color = {140 150 230}
 		
 		first_names = {
 			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram Ayyub Fath "Firuz al-Din" "Habib Alllah" Haydar Humayun "Inayat Allah" Ishaq Jamal Kamran Kohandil Mahmud Mahsud Mihrdil Muhammad Murad Nadir "Nasr Allah" Omar Qaysar Shahpur "Sher Ali" Shuja Suleyman Timur Yaqub Zaman
@@ -1873,7 +1861,7 @@ iranian = {
 
 	}
 	baluchi = {
-		color = {132 70 171}
+		color = {20 70 85}
 		first_names = {
 			Abdullah Ahmad Azam Khudadad
 			Mehrab Mohammad Muhabbat 
@@ -1909,6 +1897,18 @@ iranian = {
 			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
 			Shirazi Tabrizi Tahmasebi Zahedi
 			}
+	}
+	
+	kurdish = {
+		color = {60 120 165}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+		}
+		radicalism = 10
 	}
 }
 turanian = {
@@ -2797,16 +2797,6 @@ american_cultures = {
 		Davis Lane Posey Scales Warner Imboden Jenkins
 		}
 	}
-	texan = {
-		color = {153 0 0}
-		first_names = {Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
-		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
-		}
-		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
-		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
-		}
-		radicalism = 10
-	}
 }
 
 neo_european_cultures = {
@@ -2989,6 +2979,23 @@ latin_american_cultures = {
 		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
 		}
 	}
+	texan = {
+		color = {153 0 0}
+		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
+		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
+		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
+		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
+		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
+		}
+
+		last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+		Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
+		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
+		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
+		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+		}
+		radicalism = 10
+	}
 	central_american = {
 		color = {101 164 172}
 		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
@@ -3105,6 +3112,27 @@ latin_american_cultures = {
             Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
         }
     }
+	new_roman = {
+		color = { 140 30 45 }
+		first_names = { 
+		 Abibus Ablabius Abudimus Acacius Acilius Acisclus Acius Aconius Adrianus Aedesius Aelius Aemilian Aemilius Aetius Agapius Albinus Alypius Ambrosius 
+		Anastasius Andronicus Anicius Anthimus Antoninus Apolinaris Arcadius Arius Artemius Asterius Atilius Augustinus Aurelius Auxentius Avienus Avitus 
+		Bazilius Bazianus Caecilianus Caecilius Cezari Callinicus Calliopius Caprasius Carinus Carus Cassius Celsus Chrysanthius Claudius Clearchus Constans 
+		Constancius Constantinus Cornelius Crispianus Crispus Dalmatius Damasus Decentius Decimus Decius Demetrius Dexippus Didymus Diodorus Diomedes Diophantus 
+		Domitius Domninus Donatus Dositheus Ennoius Epiphanius Erasmus Eudoxius Eulalius Eusebius Eustathius Evargius Fabius Faustus Felix Fidelis Flavianus Flavius 
+		Florentinus Florentius Gabinus Gaius Galerius Gallienus Gaudentius Germanus Gratianus Gregorius Hannibalianus Heraclius Hierax Hilarion Hilarius Hypatius 
+		Ieronimus Ioannes Iovianus Iulianus Iulius Iunius Iustinus Lactantius Leontius Libianus Libius Longinus Lucianus Lucius Macarius Macedonius Macrinus Magnus 
+		Maiorianus Marcellinus Marcellus Marcianus Marcus Marinus Maximianus Maximus Meletius Menas Narcissus Nectarius Nicetas Nicomachus Nonius Numerius Nummius 
+		Octavius Olympiodorus Orentius Orestes Oribasius Pachomius Palladius Pamphilius Pantoleon Paulus Pelagius Petronius Petrus Philagrius Phillipicus Phillipus 
+		Philostrogius Phocas Placidus Polemius Pompeius Porphyrus Priscianus Probus Procopius Proclus Proculus Promotus Prudentius Quintus Romanus Romanianus Romulus 
+		Rufinus Sallustius Saturninus Sebastianus Secundianus Secundus Seleucus Septimius Sergius Severus Simplicius Sygarius Symmachus Synesius Taurus Telemachus 
+		Terentius Tertullus Themistius Theodorus Theophylactus Theon Tiberius Timasius Titus Traianus Triphyllius Ulpius Ursicinus Valentinianus Valentinus Valerius 
+		Varanes Victorius Virius Vitalianus Volusius Zoilus Zosimus 
+		}
+		last_names = { 
+		Apolinaris Arcadius Zoilus Vitus Cyrdes Sero Lussiga Hibbo Barteni Zernicea Severus Cezari Cartana Cocynta Aqimanni Berima Arazui Sermina Rusaddi
+		}
+	}
 }
 
 african_diaspora_cultures = {

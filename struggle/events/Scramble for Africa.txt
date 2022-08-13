@@ -1125,7 +1125,6 @@ country_event = {
 			}
 		}
 		relation = { who = FROM value = 25 }
-		2081 = { secede_province = FROM add_core = NMB }
 		ai_chance = {
 			factor = 0.5
 			modifier = { factor = 1.1 relation = { who = FROM value = 50 } }

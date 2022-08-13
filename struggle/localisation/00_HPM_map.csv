@@ -21,7 +21,7 @@ PROV567;Gießen;;;;;;;;;;;;;;x
 FRA_432;Est Burgendia;;;;;;;;;;;;;x
 FRA_411;Lotharingia;;;;;;;;;;;;;x
 FRA_406;Campania;;;;;;;;;;;;;x
-PROV3263;Fort William;;;;;;;;;;;;;x
+PROV3263;Fort Christiansborg;;;;;;;;;;;;;x
 PROV3264;Nicobar Islands;;;;;;;;;;;;;x
 PROV882;Trebizond;;;;;;;;;;;;;x
 PROV861;Scutari;;;;;;;;;;;;;x
@@ -36,6 +36,7 @@ PROV1008;Moskva;;;;;;;;;;;;x
 PROV981;Arkhangel'sk;;;;;;;;;;;;x
 PROV372;København;;;;;;;;;;;;x
 PROV809;Sofiya;;;;;;;;;;;;x
+PROV810;Diiu;;;;;;;;;;;;x
 PROV619;Wien;;;;;;;;;;;;x
 RUS_981;Arkhangel'sk;;;;;;;;;;;;x
 RUS_978;Kharkiv;;;;;;;;;;;x
@@ -52,7 +53,6 @@ PROV731;Padova;;;;;;;;;;;;x
 PROV2721;Heligoland Bight;;;;;;;;;;;;x
 RUS_959;Volyn;;;;;;;;;;;;x
 druze;Druze;;;;;;;;;;;;x
-PROV911;Ma'an;;;;;;;;;;;;x
 PROV910;Azraq;;;;;;;;;;;;x
 PROV2582;Cattaro;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV1839;Al-Fula;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
@@ -85,7 +85,6 @@ PROV158;Grand Portage;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV29;Kyzylkum;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV2595;Nunavut;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV25;Old Bow Fort;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV6;Selkirk;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV35;Fort Pitt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV28;Jasper;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV26;Rocky Mountain House;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -183,7 +182,6 @@ montane_forest;Montane Forest;;;;;;;;;;;;;;;;;x
 savanna;Savanna;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1377;Da Nang;;;;;;;;;;;;;;;;;;x;;;;
 PROV1714;Santa Rosa;;;;;;;;;;;;;;;;;;x;;;;
-PROV2631;Unalakleet;;;;;;;;;;;;;;;;;;x;;;;
 PROV2371;Uquia;;;;;;;;;;;;;;;;;;x;;;;
 PROV2953;New York Bight;;;;;;;;;;;;;;;;;;x;;;;
 PROV2954;Chesapeake Bay;;;;;;;;;;;;;;;;;;x;;;;
@@ -199,8 +197,6 @@ PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
 PROV2831;Soya Strait;;;;;;;;;;;;;;;;;x;;;;
 PROV2830;East Sea;;;;;;;;;;;;;;;;;x;;;;
 PROV1557;Xining;;;;;;;;;;;;;;;;;x;;;;
-PROV2329;Araucanía;;;;;;;;;;;;;;;;;x;;;;
-PROV2326;Aconcagua;;;;;;;;;;;;;;;;;x;;;;
 PROV2244;Christimas & Cocos;;;;;;;;;;;;;;;;;x;;;;
 PROV2406;Penghu;;;;;;;;;;;;;;;;;x;;;;
 PROV2113;uMgungundlovu;;;;;;;;;;;;;;;;;x;;;;
@@ -222,7 +218,6 @@ PROV1540;Nantong;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
 TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2482;Van Diemen's Land;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2382;Laboulaye;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2640;Gwadar;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2786;Gulf of Oman;;;;;;;;;;;;;;;;;;;;;;;x
@@ -248,7 +243,7 @@ PROV1443;Rote;;;;;;;;;;;;x
 PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
 PROV2220;Turks & Caicos;;;;;;;;;;;;x
 CHI_1082;Guanwai;;;;;;;;;;;;x
-PROV2591;Tranquebar;;;;;;;;;;;;x
+PROV2591;Srikakulam;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
 PROV2580;Novaya Ladoga;;;;;;;;;;;;x
 PROV995;Petrozavodsk;;;;;;;;;;;;x
@@ -289,8 +284,6 @@ PROV2682;Obdorsk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2646;Surgut;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2690;Yugansk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2685;Verkhoturye;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2614;Shadrinsk;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2658;Kurgan;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2683;Narym;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2613;Nadym;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2659;Khalmer-Sede;;;;;;;;;;;;;;;;;;;;;;;x
@@ -303,7 +296,7 @@ PROV2686;Kainsk;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_1251;West Bengal;;;;;;;;;;;;x
 ENG_1252;East Bengal;;;;;;;;;;;;x
 PROV1290;Umerkot;;;;;;;;;;;;x
-USA_1;Alyaska;;;;;;;;;;;;x
+USA_1;Kaigan;;;;;;;;;;;;x
 KOK_1190;Alay;;;;;;;;;;;;x
 PROV892;Bay;;;;;;;;;;;;x
 PROV924;Rewanduz;;;;;;;;;;;;x
@@ -322,10 +315,9 @@ PROV3106;Lake Balkhash;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1186;Zhetysu;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1193;Ak-Mechet;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2606;Balkhash;;;;;;;;;;;;;;;;;;;;;;;x
-ARG_2384;Córdoba de Argentina;;;;;;;;;;;;;;;;;;;;;;;x
-ARG_2393;La Pampa;;;;;;;;;;;;;;;;;;;;;;;x
+ARG_2384;Platinisshe Kordoba;;;;;;;;;;;;;;;;;;;;;;;x
+ARG_2393;Frijhaben;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1391;Kota Kubang Labu;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Circassia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
 PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
@@ -333,10 +325,6 @@ PROV1178;Sana'a;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1041;Elista;;;;;;;;;;;;;;;;;;;x;
 PROV745;Livorno;;;;;;;;;;;;;;;;;;;x;
 PROV2436;Salvador da Bahia;;;;;;;;;;;;;;;;;;;x;
-BRZ_2408;Grão - Pará;;;;;;;;;;;;;;;;;;;x;
-BRZ_2428;Nordeste;;;;;;;;;;;;;;;;;;;x;
-PROV2423;Vila da Palma;;;;;;;;;;;;;;;;;;;x;
-PROV2426;Vila do Poti;;;;;;;;;;;;;;;;;;;x;
 NEJ_1156;Ha'il;;;;;;;;;;;;;;;;;;;x;
 PROV396;Eupen-Malmedy;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1445;Koepang;;;;;;;;;;;;;;;;;x;;;;;;
@@ -585,6 +573,8 @@ ENG_2068;Mashonaland;;;;;;;;;;;;x
 ENG_2071;Rozwi;;;;;;;;;;;;x
 ENG_2074;Bechuanaland;;;;;;;;;;;;x
 ENG_2094;Griqualand West;;;;;;;;;;;;x
+ENG_2509;Te Ika-a-Maui;;;;;;;;;;;;x
+ENG_2513;Te Waipounamu;;;;;;;;;;;;x
 PROV2124;Maore;;;;;;;;;;;;x
 MEX_2149;Cohauila;;;;;;;;;;;;x
 MEX_2159;Veracruz;;;;;;;;;;;;x
@@ -593,13 +583,18 @@ MEX_2170;Guerrero;;;;;;;;;;;;x
 MEX_2172;México;;;;;;;;;;;;x
 MEX_2181;Chiapas;;;;;;;;;;;;x
 PROV220;Annapolis;;;;;;;;;;;;x
-PROV3;Fort Nikolaevskaia;;;;;;;;;;;;x
-PROV4;Nikolaevsk;;;;;;;;;;;;x
-PROV5;Kad'yak;;;;;;;;;;;;x
-PROV2599;Tsentralnaya;;;;;;;;;;;;x
-PROV2630;Vostochnaya;;;;;;;;;;;;x
-PROV2;Saint Dionysius;;;;;;;;;;;;x
-PROV1;Novoarkhangelsk;;;;;;;;;;;;x
+PROV1;Sitka;Sitka;Sitka;Oceania;Oceanía;oceania;óceánia;Oceánie;;;;;;
+PROV2;Yakutat;Yakutat;Yakutat;;;;;;;;;;;
+PROV3;Hannô;Hannô;Hannô;;;;;;;;;;;
+PROV4;Takahagi;Takahagi;Takahagi;;;;;;;;;;;
+PROV5;Gyôda;Gyôda;Gyôda;;;;;;;;;;;
+PROV6;Sodegaura;Sodegaura;Sodegaura;;;;;;;;;;;
+PROV7;Motomiya;Motomiya;Motomiya;;;;;;;;;;;
+PROV17;Motomiya;Motomiya;Motomiya;;;;;;;;;;;
+PROV2598;Takikawa;Takikawa;Takikawa;;;;;;;;;;;
+PROV2599;Ichinomiya;Ichinomiya;Ichinomiya;;;;;;;;;;;
+PROV2630;Sueyoshi;Sueyoshi;Sueyoshi;;;;;;;;;;;
+PROV2631;Tosayamada;Tosayamada;Tosayamada;;;;;;;;;;;
 PROV107;Riverside;;;;;;;;;;;;x
 PROV108;Grand Junction;;;;;;;;;;;;x
 PROV2146;Monterrey;Monterrey;Monterrey;;;;;;;;;;;
@@ -615,7 +610,6 @@ BOL_2309;Antofagasta;;;;;;;;;;;;x
 ARG_2360;Entre Rios;;;;;;;;;;;;x
 PROV2367;Xolotas;;;;;;;;;;;;x
 ARG_2374;Catamarca;;;;;;;;;;;;x
-BRZ_2421;Goiás;;;;;;;;;;;;x
 AST_2454;Fiji;;;;;;;;;;;;x
 BRZ_2461;Santa Catarina;;;;;;;;;;;;x
 SPA_2517;Mariana Islands;;;;;;;;;;;;x
@@ -707,7 +701,7 @@ TUR_894;Adana;;;;;;;;;;;;x
 RUS_940;Pinsk;;;;;;;;;;;;x
 RUS_968;Transnistria;;;;;;;;;;;;x
 RUS_978;Kharkov;;;;;;;;;;;;x
-PROV1082;Haishenwai;;;;;;;;;;;;x
+PROV1082;Eimei-shi;;;;;;;;;;;;x
 JAP_1086;Sakhalin;;;;;;;;;;;;x
 PROV1087;Otomari;;;;;;;;;;;;x
 JAP_1088;Ezo;;;;;;;;;;;;x
@@ -854,7 +848,6 @@ BOL_2309;Antofagasta;;;;;;;;;;;;x
 ARG_2360;Entre Rios;;;;;;;;;;;;x
 PROV2367;Xolotas;;;;;;;;;;;;x
 ARG_2374;Catamarca;;;;;;;;;;;;x
-BRZ_2421;Goiás;;;;;;;;;;;;x
 AST_2454;Fiji;;;;;;;;;;;;x
 BRZ_2461;Santa Catarina;;;;;;;;;;;;x
 SPA_2517;Mariana Islands;;;;;;;;;;;;x
@@ -917,7 +910,7 @@ PROV33;Prince Albert;;;;;;;;;;;;x
 PROV42;Winnipeg;;;;;;;;;;;;x
 PROV36;Pinawa;;;;;;;;;;;;x
 PROV3253;Reutte;;;;;;;;;;;;;x
-PROV3254;Bückeburg;;;;;;;;;;;;;x
+PROV3254;Simmern;;;;;;;;;;;;;x
 PROV3255;Reuss;;;;;;;;;;;;;x
 PROV3256;Sondershausen;;;;;;;;;;;;;x
 PROV3257;Waldeck;;;;;;;;;;;;;x
@@ -926,7 +919,7 @@ PROV60;Richmond;;;;;;;;;;;;x
 PROV211;Lynchburg;;;;;;;;;;;;x
 PROV2186;Guatemala City;;;;;;;;;;;;x
 PROV14;Victoria;;;;;;;;;;;;x
-PROV3259;Jadegebiet;;;;;;;;;;;;;x
+PROV3259;Wülmshoawen;;;;;;;;;;;;;x
 east_africa;East Africa;;;;;;;;;;;;;x
 west_africa;West Africa;;;;;;;;;;;;;x
 south_west_africa;South-West Africa;;;;;;;;;;;;;x
@@ -946,52 +939,57 @@ SIC_763;Sicilia;;;;;;;;;;;;x
 PROV843;Chios and Samos;;;;;;;;;;;;x
 PROV533;Hålilönj;;;;;;;;;;;;x
 PROV906;As-Suwayda;;;;;;;;;;;x
-PROV3275;Al-Sukhnah;;;;;;;;;x
+PROV3275;Al-Jawf;;;;;;;;;x
 PROV3276;Raqqa;;;;;;;;;x
-PROV3277;Al-Jawf;;;;;;;;;x
+PROV3277;Wadi al-Dawasir;;;;;;;;;x
 PROV3278;Al-Salman;;;;;;;;;x
-PROV3279;Mafraq;;;;;;;;;x
-PROV3280;Manifa;;;;;;;;;x
+PROV3279;al-Qaryat;;;;;;;;;x
+PROV3280;Haima';;;;;;;;;x
 PROV3281;Ergani;;;;;;;;;x
 PROV819;Štip;;;;;;;;;x
 PROV821;Katerini;;;;;;;;;x
-PROV812;Tarnovo;;;;;;;;;x
+PROV812;Surâ Trachica;;;;;;;;;x
 PROV783;Sarajevë;;;;;;;;;x
 PROV787;Hotça;;;;;;;;;x
-PROV802;Prishtinë;;;;;;;;;x
-PROV803;Prizreni;;;;;;;;;x
+PROV802;Prishtina;;;;;;;;;x
+PROV803;Prisdriana;;;;;;;;;x
 PROV804;Rashkës;;;;;;;;;x
 PROV808;Blagoevgrad;;;;;;;;;x
-PROV800;Scutari;;;;;;;;;x
 PROV815;Kardzhali;;;;;;;;;;;;;;;;;;x;;;;
 PROV1780;Ohrid;;;;;;;;;x
+PROV794;Belgrad;;;;;;;;;;;;x
+PROV795;Bor;;;;;;;;;;;;x
+PROV796;Craguiova;;;;;;;;;;;;x
+PROV797;Uzhice;;;;;;;;;;;;x
+PROV798;Nissu;;;;;;;;;;;;x
+PROV799;Varva Micrâ;;;;;;;;;;;;x
 PROV849;Dibër;;;;;;;;;x
 PROV850;Lezhë;;;;;;;;;x
 PROV851;Krujë;;;;;;;;;x
-PROV852;Vlorë;;;;;;;;;x
+PROV852;Berat;;;;;;;;;;;;x
 PROV2577;Senicë;;;;;;;;;x
-PROV3363;Bosilegrad;;;;;;;;;x
+PROV3363;Caracrâ;;;;;;;;;x
 PROV3471;Vudena;;;;;;;;;x
 PROV3472;Štrpce;;;;;;;;;x
 PROV3473;Castoria;;;;;;;;;x
-PROV3474;Blagojevgrad;;;;;;;;;x
-PROV3475;Novo Brdo;;;;;;;;;x
+PROV3474;Câlâgea;;;;;;;;;x
+PROV3475;Nou Munte;;;;;;;;;x
 PROV3476;Nevesca;;;;;;;;;x
-PROV3477;Diavata;;;;;;;;;x
+PROV3477;Kilkis;;;;;;;;;x
 PROV3478;Vinita;;;;;;;;;x
-PROV3479;Petrich;;;;;;;;;x
+PROV3479;Nikaia;;;;;;;;;x
 PROV3480;Provadia;;;;;;;;;x
 PROV3481;Kruševo;;;;;;;;;x
 PROV3482;Ser;;;;;;;;;x
-PROV3483;Demirhisar;;;;;;;;;x
+PROV3483;Icel;;;;;;;;;x
 PROV3484;Plovdiv;;;;;;;;;x
-PROV3485;Kýpsela;;;;;;;;;x
-PROV3486;Sliven;;;;;;;;;x
-PROV3487;Drastar;;;;;;;;;x
-PROV3488;Vratsa;;;;;;;;;x
-PROV3489;Stipon;;;;;;;;;x
-PROV3490;Anchíalos;;;;;;;;;x
-PROV3491;Sozópoli;;;;;;;;;x
+PROV3485;Afrin;;;;;;;;;x
+PROV3486;Tuida;;;;;;;;;x
+PROV3487;Dârstor;;;;;;;;;x
+PROV3488;Vrata;;;;;;;;;x
+PROV3489;Stipu;;;;;;;;;x
+PROV3490;Kirshehir;;;;;;;;;x
+PROV3491;Nevshehir;;;;;;;;;x
 PROV3492;Mangalia;;;;;;;;;x
 PROV3493;Hârsova;;;;;;;;;x
 PROV3494;Babadag;;;;;;;;;x
@@ -1017,6 +1015,7 @@ PROV606;Lüzerna;;;;;;;;;x
 PROV607;Fribourg;;;;;;;;;x
 PROV608;Freiburg;;;;;;;;;x
 PROV611;Cuira;;;;;;;;;x
+SER_794;Maceva;;;;;;;;;;;;x
 TUR_3473;Epirus;;;;;;;;;;;;x
 RUS_707;Brzesc;;;;;;;;;;;;x
 TUR_923;Âtûr;;;;;;;;;;;;x

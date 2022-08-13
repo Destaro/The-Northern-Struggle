@@ -517,7 +517,7 @@ political_decisions = {
 					is_culture_group = polish_culture_group
 					NOT = { tag = PLC }
 					OR = {
-						AND = { owns = 361 NOT = { has_global_flag = polish_renamed_vilnius } }
+						AND = { owns = 360 NOT = { has_global_flag = polish_renamed_vilnius } }
 						AND = { owns = 361 NOT = { has_global_flag = polish_renamed_lithuania } }
 						AND = { owns = 947 NOT = { has_global_flag = polish_renamed_lithuania_pinsk } }
 					}
@@ -541,13 +541,18 @@ political_decisions = {
 				361 = { 
 					change_province_name = "Kauen" 
 					state_scope = {
-						change_region_name = "Litauen"
+						change_region_name = "Suwalken"
 					}
 				}		
 				362 = { change_province_name = "Mariampol" }	
-				363 = { change_province_name = "Ponewesch" }
+				363 = { change_province_name = "Ponewesch" 
+					state_scope = {
+						change_region_name = "Schamaiten"
+					}
+				}
 				364 = { change_province_name = "Schaulen" }		
 				365 = { change_province_name = "Krottingen" }		
+				707 = { change_province_name = "Suwalken" }		
 				owner = { 
 					set_global_flag = german_renamed_lithuania 
 					clr_global_flag = lithuanian_renamed_lithuania 
@@ -606,13 +611,19 @@ political_decisions = {
 				361 = { 
 					change_province_name = "Kaunas" 
 					state_scope = {
-						change_region_name = "Lietuvos"
+						change_region_name = "Suvalkija"
 					}
 				}		
 				362 = { change_province_name = "Marijampole" }	
-				363 = { change_province_name = "Panevežys" }
+				363 = { change_province_name = "Panevežys" 
+					state_scope = {
+						change_region_name = "Samogitia"
+					}
+				}
 				364 = { change_province_name = "Šiauliai" }		
-				365 = { change_province_name = "Palanga" }		
+				365 = { change_province_name = "Palanga" }				
+				707 = { change_province_name = "Suvalkai" }	
+				936 = { change_province_name = "Gardinas" }		
 				owner = { 
 					set_global_flag = lithuanian_renamed_lithuania
 					clr_global_flag = german_renamed_lithuania
@@ -633,7 +644,11 @@ political_decisions = {
 						}
 					}
 				}
-				360 = { change_province_name = "Vilnius" }
+				360 = { change_province_name = "Vilnius" 
+					state_scope = {
+						change_region_name = "Dzukija"
+					}
+				}
 				owner = { 
 					set_global_flag = lithuanian_renamed_vilnius
 					clr_global_flag = german_renamed_vilnius
@@ -675,13 +690,19 @@ political_decisions = {
 				361 = { 
 					change_province_name = "Kovno"
 					state_scope = {
-						change_region_name = "Vilenskaya"
+						change_region_name = "Suvalkija"
 					}
 				}		
 				362 = { change_province_name = "Mariyampole" }	
-				363 = { change_province_name = "Ponevezh" }
+				363 = { change_province_name = "Ponevezh"
+					state_scope = {
+						change_region_name = "Zhemaytiya"
+					}
+				}
 				364 = { change_province_name = "Shyaulyai" }		
-				365 = { change_province_name = "Palanga" }		
+				365 = { change_province_name = "Palangov" }					
+				707 = { change_province_name = "Suvalki" }	
+				936 = { change_province_name = "Hrodna" }	
 				owner = { 
 					set_global_flag = russian_renamed_lithuania
 					clr_global_flag = german_renamed_lithuania
@@ -698,7 +719,11 @@ political_decisions = {
 						is_culture_group = east_slavic
 					}
 				}
-				360 = { change_province_name = "Vilna" }
+				360 = { change_province_name = "Vilna"
+					state_scope = {
+						change_region_name = "Vilenskaya"
+					}
+				}
 				owner = { 
 					set_global_flag = russian_renamed_vilnius
 					clr_global_flag = german_renamed_vilnius
@@ -737,13 +762,18 @@ political_decisions = {
 				361 = { 
 					change_province_name = "Kowno" 
 					state_scope = {
-						change_region_name = "Litwa"
+						change_region_name = "Suwalki"
 					}
 				}		
 				362 = { change_province_name = "Mariampol" }	
-				363 = { change_province_name = "Poniewiez" }
+				363 = { change_province_name = "Poniewiez" 
+					state_scope = {
+						change_region_name = "Zmudz"
+					}
+				}
 				364 = { change_province_name = "Szawle" }		
 				365 = { change_province_name = "Polaga" }		
+				936 = { change_province_name = "Grodno" }	
 				owner = { 
 					set_global_flag = polish_renamed_lithuania
 					clr_global_flag = german_renamed_lithuania
@@ -761,7 +791,11 @@ political_decisions = {
 						NOT = { tag = PLC }
 					}
 				}
-				360 = { change_province_name = "Wilno" }
+				360 = { change_province_name = "Wilno" 
+					state_scope = {
+						change_region_name = "Województwo Wilenskie"
+					}
+				}
 				owner = { 
 					set_global_flag = polish_renamed_vilnius
 					clr_global_flag = german_renamed_vilnius

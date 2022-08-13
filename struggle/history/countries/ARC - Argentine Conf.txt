@@ -76,5 +76,4 @@ mechanical_production = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "ARC_oob.txt"
 

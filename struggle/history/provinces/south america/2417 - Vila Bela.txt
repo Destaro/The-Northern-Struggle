@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
+add_core = KRT
 add_core = BRZ
+add_core = LPL
+add_core = PRG
 trade_goods = tobacco
-life_rating = 20
+life_rating = 15

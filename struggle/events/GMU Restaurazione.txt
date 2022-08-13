@@ -223,8 +223,6 @@ country_event = {
 		military_access = VEN	
 		create_alliance = VEN
 		prestige = 20
-		inherit = LOM
-		LOM = { government = absolute_monarchy }
 		any_pop = {
 			limit = { is_culture_group = italian }
 			militancy = -4

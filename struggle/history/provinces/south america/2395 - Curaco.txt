@@ -1,1 +1,1 @@
-owner = ARCcontroller = ARCadd_core = ARCtrade_goods = cattlelife_rating = 15
+add_core = ARCadd_core = PTGtrade_goods = cattlelife_rating = 15

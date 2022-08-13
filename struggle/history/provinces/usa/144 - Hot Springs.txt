@@ -1,8 +1,6 @@
 owner = TEX
 controller = TEX
-add_core = TEX
-add_core = MEX
-add_core = VNS
+add_core = LST
 trade_goods = grain
 life_rating = 35
 colonial = 2

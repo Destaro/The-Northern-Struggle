@@ -4,6 +4,6 @@ add_core = AFG
 add_core = BDK
 add_core = TAJ
 add_core = KOK
-add_core = XIN
+add_core = UYG
 trade_goods = cotton
 life_rating = 32

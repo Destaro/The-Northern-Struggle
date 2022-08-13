@@ -11,13 +11,13 @@
 	bureaucrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 80
+		size = 800
 	}
 
 	officers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
@@ -29,7 +29,181 @@
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 1500
+		size = 15000
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4000
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 65250
+	}
+
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 500
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 750
+	}
+
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 250
+	}
+
+	serfs = {
+		culture = nepali
+		religion = hindu
+		size = 36500
+	}
+
+	slaves = {
+		culture = assamese
+		religion = hindu
+		size = 7000
+	}
+
+}
+#Darjeeling (3248000/812000 POPS)
+1252 = {
+	aristocrats = {
+		culture = tibetan
+		religion = hindu
+		size = 6000
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = hindu
+		size = 6250
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = hindu
+		size = 8000
+	}
+	
+	farmers = {
+		culture = tibetan
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 2500
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 45250
+	}
+
+	aristocrats = {
+		culture = bengali
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = sunni
+		size = 2000
+	}
+
+	artisans = {
+		culture = bengali
+		religion = sunni
+		size = 9500
+	}
+
+	soldiers = {
+		culture = bengali
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = bengali
+		religion = sunni
+		size = 12500
+	}
+}
+#Tumlong (56000/14000 POPS)  #now part of India 
+#Animist - Lepcha Mun
+1328 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 20
+	}
+
+	officers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 150
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 200
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 100
 	}
 
 	soldiers = {
@@ -41,43 +215,37 @@
 	farmers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 24575
+		size = 47950
 	}
-
-	aristocrats = {
-		culture = nepali
+	
+	farmers = {
+		culture = tibetan
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = asian_minor
+		religion = gelugpa
+		size = 10000
+	}
+	
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 365
+	}
+	
+	farmers = {
+		culture = asian_minor
 		religion = hindu
-		size = 50
+		size = 1000
 	}
-
-	clergymen = {
-		culture = nepali
-		religion = hindu
-		size = 75
-	}
-
-	artisans = {
-		culture = nepali
-		religion = hindu
-		size = 200
-	}
-
-	soldiers = {
-		culture = nepali
-		religion = hindu
-		size = 25
-	}
-
+	
 	serfs = {
 		culture = nepali
 		religion = hindu
-		size = 3650
+		size = 300
 	}
-
-	slaves = {
-		culture = assamese
-		religion = hindu
-		size = 7000
-	}
-
 }
+

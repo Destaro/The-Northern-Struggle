@@ -1,4 +1,4 @@
-add_core = NZL
+add_core = AOT
 trade_goods = cattle
 life_rating = 30
 1861.1.1 = { 

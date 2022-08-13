@@ -16,7 +16,7 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		tag = SWI
+		tag = BAD
 		year = 1847
 		ruling_party_ideology = liberal
 		NOT = { has_country_flag = sonderbund }
@@ -30,10 +30,9 @@ country_event = {
 		name = "EVT99800OPTA"
 		prestige = -10
 		remove_country_modifier = neutrality
-		3250 = { add_core = SDB secede_province = SDB }
-		609 = { add_core = SDB secede_province = SDB }
-		3272 = { add_core = SDB secede_province = SDB }
-		606 = { add_core = SDB secede_province = SDB }
+		606 = { secede_province = SDB }
+		594 = { secede_province = SDB }
+		722 = { secede_province = SDB }
 		war = {
 			target = SDB
 			attacker_goal = { casus_belli = civil_war }
