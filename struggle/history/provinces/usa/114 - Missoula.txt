@@ -1,1 +1,2 @@
-owner = NORcontroller = NORadd_core = COLtrade_goods = cattlelife_rating = 35colonial = 21861.1.1 = {	colonial = 0	remove_core = COL}
+owner = RPLcontroller = RPLtrade_goods = cattlelife_rating = 35colonial = 21861.1.1 = {	colonial = 0	remove_core = COL}
+add_core = RPL

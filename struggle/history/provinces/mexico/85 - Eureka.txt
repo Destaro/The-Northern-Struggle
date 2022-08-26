@@ -1,6 +1,6 @@
-owner = NOR
-controller = NOR
-add_core = COL
+owner = RPL
+controller = RPL
+
 trade_goods = fish
 life_rating = 35
 colonial = 2
@@ -11,3 +11,4 @@ colonial = 2
 	remove_core = MEX
 	colonial = 0
 }
+add_core = RPL

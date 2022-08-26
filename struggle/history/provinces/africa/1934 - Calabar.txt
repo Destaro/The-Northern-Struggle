@@ -1,6 +1,8 @@
-owner = CLA
-controller = CLA
+owner = SPA
+controller = SPA
 add_core = CLA
 add_core = ARO
 trade_goods = fish
 life_rating = 35
+colonial = 2
+add_core = BEN

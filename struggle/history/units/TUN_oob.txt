@@ -1,3 +1,37 @@
+
+GBU = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+ALD = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+MOR = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+MGH = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+TRZ = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+
+
+
 army = {
 	name = "Army of the Bey of Tunis"
 	location = 1725

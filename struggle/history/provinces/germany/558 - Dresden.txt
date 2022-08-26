@@ -1,5 +1,5 @@
-owner = BOH
-controller = BOH
+owner = WEI
+controller = WEI
 add_core = BOH
 add_core = SAX
 add_core = GER
@@ -11,3 +11,6 @@ state_building = {
 	building = fabric_factory
 	upgrade = yes
 }
+
+add_core = BDB
+add_core = WEI

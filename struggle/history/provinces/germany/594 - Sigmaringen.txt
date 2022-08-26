@@ -10,3 +10,5 @@ life_rating = 40
 	add_core = PRU
 	remove_core = SGM
 }
+
+add_core = GER

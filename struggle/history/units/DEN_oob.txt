@@ -1,9 +1,44 @@
+
+NTU = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+NEN = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+OCC = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
+BEN = {	
+	value = 25
+	level = 3
+	influence_value = 0
+}
+
+KNT = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+SWH = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
 AUS = {
 	value = 55
 }
-SWH = {
-	value = 200
-}
+
 ENG = {
 
 	value = 125

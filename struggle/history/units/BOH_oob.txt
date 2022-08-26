@@ -1,4 +1,17 @@
 
+SLV = {	
+	value = 25
+	level = 3
+	influence_value = 0
+}
+
+POL = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
+
 leader = {
 	name = "Ölprecht zu Hapšpurk"
 	type = land
@@ -12,11 +25,7 @@ leader = {
 army = {
 	name = "I. Armä"
 	location = 625
-	regiment = {
-		name= "1.1. Kavällerý"
-		type = cuirassier
-		home = 625
-	}
+	
 
 	regiment = {
 		name= "2.1. Kavällerý"
@@ -42,23 +51,7 @@ army = {
 		home = 3470
 	}
 
-	regiment = {
-		name= "2.4. Infänterý"
-		type = infantry
-		home = 3470
-	}
-
-	regiment = {
-		name= "3.2. Infänterý"
-		type = infantry
-		home = 630
-	}
-
-	regiment = {
-		name= "3.2. Infänterý"
-		type = infantry
-		home = 628
-	}
+	
 
 	regiment = {
 		name= "3.2. Infänterý"
@@ -104,27 +97,11 @@ army = {
 
 	regiment = {
 		name= "3.1. Infänterý"
-		type = infantry
+		type = artillery
 		home = 683
 	}
 
-	regiment = {
-		name= "4.1. Infänterý"
-		type = infantry
-		home = 684
-	}
-
-	regiment = {
-		name= "4.2. Infänterý"
-		type = infantry
-		home = 684
-	}
-
-	regiment = {
-		name= "4.3. Infänterý"
-		type = infantry
-		home = 684
-	}
+	
 
 	regiment = {
 		name= "5.1. Infänterý"
@@ -140,3 +117,57 @@ army = {
 }
 
 
+army = {
+	name = "II. Armä"
+	location = 682
+	regiment = {
+		name= "1.1. Kavällerý"
+		type = cuirassier
+		home = 625
+	}
+
+	
+
+	regiment = {
+		name= "2.2. Infänterý"
+		type = infantry
+		home = 3469
+	}
+
+	regiment = {
+		name= "2.3. Infänterý"
+		type = infantry
+		home = 3470
+	}
+
+	regiment = {
+		name= "2.4. Infänterý"
+		type = infantry
+		home = 3470
+	}
+
+regiment = {
+		name= "2.3. Infänterý"
+		type = infantry
+		home = 3470
+	}
+
+	regiment = {
+		name= "2.4. Infänterý"
+		type = infantry
+		home = 3470
+	}
+	
+
+	regiment = {
+		name= "5.1. Infänterý"
+		type = artillery
+		home = 684
+	}
+
+	regiment = {
+		name= "5.2. Infänterý"
+		type = cuirassier
+		home = 684
+	}
+}

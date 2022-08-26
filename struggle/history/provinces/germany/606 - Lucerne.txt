@@ -13,3 +13,5 @@ party_loyalty = {
 	loyalty_value = 5
 }
 1861.1.1 = { railroad = 1 }
+
+add_core = GER

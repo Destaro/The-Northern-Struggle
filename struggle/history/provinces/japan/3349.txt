@@ -1,5 +1,5 @@
-owner = TAI
-controller = TAI
+owner = JAP
+controller = JAP
 add_core = TAI
 add_core = JAP
 trade_goods = cattle

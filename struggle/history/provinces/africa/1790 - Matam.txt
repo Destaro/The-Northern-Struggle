@@ -1,5 +1,5 @@
-owner = TOO
-controller = TOO
+owner = TUN
+controller = TUN
 add_core = TOO
 trade_goods = fruit
 terrain = semidesert
@@ -9,3 +9,5 @@ life_rating = 31
 	controller = FRA
 	colonial = 2
 }
+colonial = 2
+add_core = GBU

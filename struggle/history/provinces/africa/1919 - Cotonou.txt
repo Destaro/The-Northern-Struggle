@@ -1,5 +1,7 @@
-owner = DAH
-controller = DAH
+owner = DEN
+controller = DEN
 add_core = DAH
 trade_goods = fish
 life_rating = 35
+colonial = 2
+add_core = BEN

@@ -1,15 +1,6 @@
 #Sphere of Influence
 
-MOL = {
-	value = 125
-	level = 3
-	influence_value = 0
-}
-WAL = {
-	value = 125
-	level = 3
-	influence_value = 0
-}
+
 
 #German Minors
 BAD = {	
@@ -17,154 +8,22 @@ BAD = {
 	level = 5
 	influence_value = 0
 }
-BAV = {
-	value = 125
-	level = 5
-	influence_value = 0
-}
-WUR = {
-	value = 125
-	level = 5
-	influence_value = 0
-}
-SAX = {
-	value = 125
-	level = 5
-	influence_value = 0
-}
-ANH = {
-	value = 125
-	military_access = yes
-}
-BRA = {
-	value = 125
-	military_access = yes
-}
-BRE = {
-	value = 125
-	military_access = yes
-}
-COB = {
-	value = 125
-	military_access = yes
-}
-FRM = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-HAM = {
-	value = 125
-	military_access = yes
-}
-HAN = {
-	value = 125
-	level = 4
-	military_access = yes
-}
-HEK = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-HES = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-REU = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-LIP = {
-	value = 125
-	military_access = yes
-}
-SCL = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-LUB = {
-	value = 125
-	military_access = yes
-}
-MEC = {
-	value = 125
-	military_access = yes
-}
-MEI = {
-	value = 125
-	military_access = yes
-}
-NAS = {
-	value = 125
-	level = 5
-	military_access = yes
-}
-OLD = {
-	value = 125
-	military_access = yes
-}
-WEI = {
-	value = 125
-	military_access = yes
-}
-LIE = {	
+FRE = {	
 	value = 125
 	level = 5
 	influence_value = 0
 }
 
+
+WEI = {
+	value = 125
+	military_access = no
+}
+
+
 #Europe
-KRA = {
-	value = 125
-	level = 5
-	influence_value = 0
-}
-SER = {
-	value = 75
-	level = 2
-	influence_value = 0
-}
-SAR = {
-	value = 50
-	level = 2
-	influence_value = 0
-}
-PAP = {
-	value = 125
-	level = 3
-	influence_value = 0
-}
-SWI = {
-	value = 125
-	level = 3
-	influence_value = 0
-}
-PAR = {
-	value = 100
-	level = 5
-}
-MOD = {
-	value = 100
-	level = 5
-	influence_value = 0
-}
-TUS = {
-	value = 75
-	level = 5
-	influence_value = 0
-}
-LUC = {
-	value = 75
-	level = 5
-	influence_value = 0
-}
-DEN = {
-	value = 55
-} 
+
+
 
 #Other GP's
 ENG = { value = -75 }
@@ -177,30 +36,24 @@ SPA = { value = 0 }
 
 
 #Africa
-MOR = {
-	value = 75
-}
-EGY = {
-	value = 0
-	level = 2
-	influence_value = 0
-}
+
+
 
 #Army
 
 army = {
 	name = "I. Armee"
-	location = 726
+	location = 602
 	regiment = {
 		name= "1.1. Kavalleriedivision"
 		type = cuirassier
-		home = 619
+		home = 602
 	}
 
 	regiment = {
 		name= "2.1. Kavalleriedivision"
 		type = cuirassier
-		home = 639
+		home = 3674
 	}
 
 	regiment = {
@@ -212,13 +65,13 @@ army = {
 	regiment = {
 		name= "2.2. Infanteriedivision"
 		type = infantry
-		home = 729
+		home = 601
 	}
 
 	regiment = {
 		name= "3.2. Infanteriedivision"
 		type = infantry
-		home = 771
+		home = 613
 	}
 
 	regiment = {
@@ -230,30 +83,30 @@ army = {
 	regiment = {
 		name= "2.3. Infanteriedivision"
 		type = infantry
-		home = 773
+		home = 622
 	}
 
 	regiment = {
 		name= "3.3. Infanteriedivision"
 		type = artillery
-		home = 728
+		home = 3670
 	}
 }
 
 army = {
 	name = "II. Armee"
-	location = 702
+	location = 767
 
 	regiment = {
 		name= "2.6. Infanteriedivision"
 		type = infantry
-		home = 640
+		home = 767
 	}
 
 	regiment = {
 		name= "3.6. Infanteriedivision"
 		type = infantry
-		home = 705
+		home = 616
 	}
 
 	regiment = {
@@ -265,13 +118,13 @@ army = {
 	regiment = {
 		name= "2.7. Infanteriedivision"
 		type = infantry
-		home = 643
+		home = 624
 	}
 
 	regiment = {
 		name= "3.7. Infanteriedivision"
 		type = infantry
-		home = 702
+		home = 3467
 	}
 
 }
@@ -282,146 +135,42 @@ army = {
 	regiment = {
 		name= "1.8. Infanteriedivision"
 		type = infantry
-		home = 628
+		home = 622
 	}
 
 	regiment = {
 		name= "2.8. Infanteriedivision"
 		type = infantry
-		home = 642
+		home = 622
 	}
 
 	regiment = {
 		name= "3.8. Infanteriedivision"
 		type = infantry
-		home = 768
+		home = 621
 	}
 
 	regiment = {
 		name= "1.9. Infanteriedivision"
 		type = infantry
-		home = 624
+		home = 767
 	}
 
 	regiment = {
 		name= "2.9. Infanteriedivision"
 		type = infantry
-		home = 649
+		home = 617
 	}
 
 	regiment = {
 		name= "3.9. Infanteriedivision"
 		type = infantry
-		home = 633
+		home = 623
 	}
 
 }
 
-army = {
-	name = "IV. Armee"
-	location = 729
-	regiment = {
-		name= "1.4. Infanteriedivision"
-		type = infantry
-		home = 612
-	}
 
-	regiment = {
-		name= "2.4. Infanteriedivision"
-		type = infantry
-		home = 629
-	}
-
-	regiment = {
-		name= "3.4. Infanteriedivision"
-		type = infantry
-		home = 726
-	}
-
-	regiment = {
-		name= "1.5. Infanteriedivision"
-		type = infantry
-		home = 614
-	}
-
-	regiment = {
-		name= "2.5. Infanteriedivision"
-		type = infantry
-		home = 648
-	}
-
-	regiment = {
-		name= "3.5. Infanteriedivision"
-		type = infantry
-		home = 714
-	}
-}
-
-army = {
-	name = "V. Armee"
-	location = 641
-	regiment = {
-		name= "1.2. Kavalleriedivision"
-		type = cuirassier
-		home = 622
-	}
-
-	regiment = {
-		name= "2.2. Kavalleriedivision"
-		type = cuirassier
-		home = 641
-	}
-
-	regiment = {
-		name= "3.2. Kavalleriedivision"
-		type = cuirassier
-		home = 626
-	}
-
-	regiment = {
-		name= "1.1. Infanteriedivision"
-		type = infantry
-		home = 613
-	}
-
-	regiment = {
-		name= "2.1. Infanteriedivision"
-		type = infantry
-		home = 644
-	}
-
-	regiment = {
-		name= "3.1. Infanteriedivision"
-		type = infantry
-		home = 625
-	}
-
-	regiment = {
-		name= "1.2. Infanteriedivision"
-		type = infantry
-		home = 616
-	}
-}
-
-navy = {
-	name = "Austrian Imperial Navy"
-	location = 729
-	ship = {
-		name= "1. Klipperflottille"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2. Klipperflottille"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3. Klipperflottille"
-		type = clipper_transport
-	}
-
-}
 
 leader = {
 	name = "Josef Radetzky"

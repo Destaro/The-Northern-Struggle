@@ -1,5 +1,5 @@
-owner = CHO
-controller = CHO
+owner = JAP
+controller = JAP
 add_core = CHO
 add_core = TKG
 trade_goods = fruit

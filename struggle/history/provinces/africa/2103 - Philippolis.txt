@@ -1,7 +1,7 @@
-owner = BSH
-controller = BSH
+owner = TRN
+controller = TRN
 add_core = BSH
-add_core = ORA
+
 trade_goods = iron
 life_rating = 35
 1861.1.1 = {
@@ -9,3 +9,5 @@ life_rating = 35
 	controller = ORA
 	add_core = SAF
 }
+
+add_core = TRN

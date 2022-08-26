@@ -1,5 +1,7 @@
-owner = SUA
-controller = SUA
+owner = ORA
+controller = ORA
 add_core = SUA
 trade_goods = grain
 life_rating = 35
+
+add_core = ORA

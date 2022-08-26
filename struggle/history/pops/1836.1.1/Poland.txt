@@ -311,7 +311,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 11785
+		size = 9785
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2785
 	}
 
 	soldiers = {
@@ -323,13 +329,25 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 67280
+		size = 60280
 	}
 
+farmers = {
+		culture = north_german
+		religion = protestant
+		size = 7280
+	}
+	
 	farmers = {
 		culture = silesian
 		religion = protestant
-		size = 87280
+		size = 70280
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 17280
 	}
 
 	clergymen = {
@@ -433,7 +451,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 5550
+		size = 5050
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 550
 	}
 
 	soldiers = {
@@ -445,7 +469,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 99900
+		size = 94900
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 5550
 	}
 
 	craftsmen = {

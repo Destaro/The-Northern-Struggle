@@ -1,5 +1,6 @@
-owner = DJA
-controller = DJA
+owner = SWE
+controller = SWE
 add_core = DJA
 trade_goods = timber
 life_rating = 32
+colonial = 2

@@ -19,6 +19,7 @@ BOR		="countries/The Kingdom of France.txt"
 
 ###TNS NEW NATIONS###
 ALN = "countries/Alania.txt"
+MUS = "countries/MUS.txt"
 LST = "countries/Lusitania.txt"
 VND = "countries/Vandalica.txt"
 VIN	= "countries/Vinland.txt"
