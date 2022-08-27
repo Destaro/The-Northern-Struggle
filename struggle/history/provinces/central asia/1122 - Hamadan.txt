@@ -1,6 +1,5 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = PER
+controller = PER
 add_core = PER
 trade_goods = fruit
 life_rating = 35

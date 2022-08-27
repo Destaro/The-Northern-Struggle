@@ -1,7 +1,7 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner = TAI
+controller = TAI
 add_core = TAI
+add_core = JAP
 trade_goods = tea
 terrain = plains
 life_rating = 35

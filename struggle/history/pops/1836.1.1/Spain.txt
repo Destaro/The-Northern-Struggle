@@ -2,59 +2,59 @@
 #La Coruna (796000/199000 POPS)
 474 = {
 	aristocrats = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 2200
 	}
 
 	officers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 2000
 	}
 
 	clergymen = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 1000
 	}
 
 	artisans = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 2350
 	}
         artisans = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 4350
 	}
 
 	soldiers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 104350
 	}
         farmers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 40350
 	}
@@ -62,31 +62,31 @@
 #Oviedo (448000/112000 POPS)
 475 = {
 	aristocrats = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 1050
 	}
 
 	artisans = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 10850
 	}
@@ -115,36 +115,36 @@
 #Vigo (328000/82000 POPS)
 476 = {
 	aristocrats = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 45500
 	}
         farmers = {
-		culture = galician
+		culture = portuguese
 		religion = catholic
 		size = 30500
 	}
@@ -154,43 +154,43 @@
 #Leon (280000/70000 POPS)
 477 = {
 	aristocrats = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 800
 	}
 
 	officers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 63600
 	}
@@ -375,31 +375,31 @@
 #Soria (216000/54000 POPS)
 482 = {
 	aristocrats = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 2600
 	}
 
 	soldiers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 48750
 	}
@@ -517,31 +517,31 @@
 #Caceres (172000/43000 POPS)
 486 = {
 	aristocrats = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = leonese
+		culture = portuguese
 		religion = catholic
 		size = 38725
 	}

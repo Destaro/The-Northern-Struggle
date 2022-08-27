@@ -1,8 +1,6 @@
-owner = ZND
-controller = ZND
-
+owner = RDL
+controller = RDL
 add_core = RDL
+add_core = KDS
 trade_goods = cotton
 life_rating = 35
-
-add_core = ZND

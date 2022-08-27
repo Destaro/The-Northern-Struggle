@@ -1,6 +1,6 @@
-owner = LUR
-controller = LUR
-add_core = LUR
+owner = ZND
+controller = ZND
+add_core = ZND
 terrain = dry_mountains
 trade_goods = fish
 life_rating = 35

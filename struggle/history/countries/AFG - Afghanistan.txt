@@ -1,6 +1,6 @@
 capital = 1209
 primary_culture = pashtun
-culture = tajik
+culture = khorasani_persian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

@@ -1,12 +1,8 @@
-
-
-#========================= H E A D E R =========================
-
 capital = 277
 primary_culture = british
 culture = danish
 religion = protestant
-government = absolute_monarchy
+government = colonial_company
 plurality = 10
 nationalvalue = nv_order
 literacy = 0.2
@@ -14,9 +10,6 @@ civilized = yes
 prestige = 1
 schools = traditional_academic
 oob = "NTU.txt"
-
-
-#========================= H O U S E - O F - L O R D S =========================
 
 ruling_party = NTU_conservative_92
 upper_house = {
@@ -45,8 +38,6 @@ health_care = no_health_care
 school_reforms = no_schools
 
 
-#========================= T E C H N O L O G I E S =========================
-
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -73,8 +64,6 @@ mechanical_production = 1
 mechanized_mining = 1
 basic_chemistry = 1
 
-
-#========================= I N V E N T I O N S =========================
 
 post_napoleonic_army_doctrine = no
 field_fortifications = no
@@ -461,7 +450,3 @@ vacuum_tube = no
 telephone_switchboard = no
 rayon = no
 bakelite = no
-
-
-#========================= Vic_Nation_Establisher by Diamond.David =========================
-

@@ -1,8 +1,8 @@
 capital = 1204      
 primary_culture = turkmen
-culture = persian
-religion = sunni
-government = absolute_monarchy
+culture = old_persian
+religion = zoroastrian
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

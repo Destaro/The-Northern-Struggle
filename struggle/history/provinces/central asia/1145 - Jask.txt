@@ -1,6 +1,6 @@
-owner = AFS
-controller = AFS
-add_core = AFS
+owner = MAK
+controller = MAK
+add_core = MAK
 add_core = BLC
 trade_goods = fruit
 life_rating = 35

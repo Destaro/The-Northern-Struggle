@@ -95,6 +95,7 @@ african_romance;Afri-Romanni;;;;;;;;;;;;;;;;;;;;;;;;x
 persian;Farsi;;;;;;;;;;;;;;;;;;;;;;;;x 
 khorasani_persian;Dari;;;;;;;;;;;;;;;;;;;;;;;;x
 khwarazm_persian;Khwarazmi;;;;;;;;;;;;;;;;;;;;;;;;x 
+new_frankish;Americaanse;;;;;;;;;;;;;;;;;;;;;;;;x 
 norn;Norn;;;;;;;;;;;;;x
 dalmatian;Dalmato;;;;;;;;;;;;;x
 venetian;Vèneto;;;;;;;;;;;;;x
@@ -469,16 +470,16 @@ KHR_hms_government;Khorasan;;;;;;;;;;;;x
 KHR_prussian_constitutionalism;Khorasan;;;;;;;;;;;;x
 KHR_republic;Khorasan Republic;;;;;;;;;;;;x
 KHR_ADJ;Khorasani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LUR;Luristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LUR_colonial_company:Khorshidis;;;;;;;;;;;;x
-LUR_absolute_monarchy;Khorshidis;;;;;;;;;;;;x
-LUR_hms_government;Khorshidis;;;;;;;;;;;;x
-LUR_prussian_constitutionalism;Khorshidis;;;;;;;;;;;;x
-LUR_colonial_company_ADJ:Khorshidi;;;;;;;;;;;;x
-LUR_absolute_monarchy_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_hms_government_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_prussian_constitutionalism_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_ADJ;Lurish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LUR;Hormoz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LUR_colonial_company:Hormoz;;;;;;;;;;;;x
+LUR_absolute_monarchy;Hormoz;;;;;;;;;;;;x
+LUR_hms_government;Hormoz;;;;;;;;;;;;x
+LUR_prussian_constitutionalism;Hormoz;;;;;;;;;;;;x
+LUR_colonial_company_ADJ:Hormozi;;;;;;;;;;;;x
+LUR_absolute_monarchy_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_hms_government_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_prussian_constitutionalism_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_ADJ;Hormozi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YZD;Rustamids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YZD_absolute_monarchy;Rustamids;;;;;;;;;;;;x
 YZD_hms_government;Rustamids;;;;;;;;;;;;x
@@ -490,19 +491,19 @@ SEM_ADJ;Semnani;;;;;;;;;;;;;
 FRC_liberal;Republikeinen;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_liberal_2;Liberale Unie;;;;;;;;;;;;x
 FRC_liberal_3;Liberale Republikanesch;;;;;;;;;;;;x
-FRC_conservative;Karolingische;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_conservative_2;Partij Frankräich;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_conservative;Karolingische Fraktion;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_conservative_2;Partij Frenkräich;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_3;Républicain modéré;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_4;Karolingische;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_5;Royalisten;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_fascist;Frankiske Partije;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_fascist;Frenkiske Partije;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_reactionary;Absolutisten;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_reactionary_2;Nationalistisch Rechts;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_anarcho_liberal;Radicale Republikeinse;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_communist;Radicale Republikeinse;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_socialist;Frankiske Arbeiderspartij;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_socialist;Frenkiske Arbeiderspartij;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_socialist_2;Mogelijkheden;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_socialist_3;Frankiske afdeling van de Arbeiders' International;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_socialist_3;FAAI;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 ;;;;;;x;;;;
 BRB;Brabant;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRB_ADJ;Brabantian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -649,8 +650,8 @@ VIN_fascist;Leifs Vikingar;;;;;;;;;;;;;
 VIN_socialist_1;Arbeidarpartiet;;;;;;;;;;;;;
 VIN_socialist_2;Raudt;;;;;;;;;;;;
 ;;;;;;x;;;;
-NEN;Ny Sjælland;Ny Sjælland;Ny Sjælland;;Ny Sjælland;;;;;;;;;x;;;;
-NEN_ADJ;Ny-Sjællænder;Ny-Sjællænder;Ny-Sjællænder;;Ny-Sjællænder;;;;;;;;;x;;;;
+NEN;New Sjælland;New Sjælland;New Sjælland;;New Sjælland;;;;;;;;;x;;;;
+NEN_ADJ;New-Sjællander;New-Sjællander;New-Sjællander;;New-Sjællander;;;;;;;;;x;;;;
 NEN_liberal;Sønene av Patriotane;;;;;;;;;;;;;
 NEN_conservative;Føderalistane;;;;;;;;;;;;;
 NEN_liberal_2;Venstre;;;;;;;;;;;;;
@@ -721,8 +722,10 @@ DBJ;Dobruja;;;;;;;;;;;x;
 DBJ_colonial_company;Despotatul Dobrogei;;;;;;;;;;;x;
 DBJ_dominion;Despotatul Dobrogei;;;;;;;;;;;x;
 DBJ_ADJ;Dobrujan;;;;;;;;;;;x;
-BUL_colonial_company;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
-BUL_dominion;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+WAL_colonial_company;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+WAL_dominion;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+MOL_colonial_company;Moezya Eyaleti;;;;;;;;;;;x;
+MOL_dominion;Moezya Eyaleti;;;;;;;;;;;x;
 GRE_colonial_company;Ellinikí Dimokratía;;;;;;;;;;;x;
 GRE_dominion;Ellinikí Dimokratía;;;;;;;;;;;x;
 ALB_colonial_company;Vilâyet-i Arnavid;;;;;;;;;;;x;

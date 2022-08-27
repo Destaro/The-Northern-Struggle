@@ -1,6 +1,6 @@
 color = { 29  10  87 }
-colonial_company = { 62  111  110 } 
-dominion = { 62  111  110 } 
+colonial_company = { 163  115  66 } 
+dominion = { 163  115  66 } 
 graphical_culture = MiddleEasternGC
 
 party = {

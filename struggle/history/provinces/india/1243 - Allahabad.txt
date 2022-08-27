@@ -1,8 +1,6 @@
-owner = EIC
-controller = EIC
-add_core = BUN
-add_core = MUG
-add_core = HND
+owner = AWA
+controller = AWA
+add_core = AWA
 trade_goods = tobacco
 life_rating = 32
 colonial = 2

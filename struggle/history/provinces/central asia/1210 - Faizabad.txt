@@ -1,6 +1,5 @@
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = BDK
+controller = BDK
 add_core = BDK
 add_core = TAJ
 trade_goods = wool

@@ -55,16 +55,24 @@ substate = {
 	end_date = 1936.1.1
 }
 
-#CAN / NZL / AST / MRU / NEW / RHO
+# Denmark-Nye Sjaelland
 substate = {
 	first = DEN
 	second = NEN
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+# Denmark-Karlant
 substate = {
 	first = DEN
 	second = KNT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+# Denmark-Brynaich
+substate = {
+	first = DEN
+	second = NTU
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -107,6 +115,14 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+#Liechenstein
+vassal = {
+	first = PNJ
+	second = BIK
+	start_date = 1760.1.1
+	end_date = 1936.1.1
+}
+
 
 #Bahrain - Qatar
 vassal = {
@@ -138,6 +154,14 @@ vassal = {
 	second = NOV
 	start_date = 1815.1.1
 	end_date = 1863.1.1
+}
+
+#Sweden-Ireland
+vassal = {
+	first = SWE
+	second = IRE
+	start_date = 1815.1.1
+	end_date = 1936.1.1
 }
 
 #Portugal-Lusitania
@@ -183,6 +207,14 @@ substate = {
 vassal = {
 	first = DEN
 	second = SWH
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# Denmark-Nye-Aengland
+vassal = {
+	first = DEN
+	second = ACA
 	start_date = 1773.1.1
 	end_date = 1864.10.30
 }
@@ -297,6 +329,61 @@ vassal = {
 vassal = {
 	first = PER
 	second = TTN
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Eran-Afshar Turks
+vassal = {
+	first = PER
+	second = AFS
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Luris 
+vassal = {
+	first = ZND
+	second = LUR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Khorasan
+vassal = {
+	first = ZND
+	second = KHR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Zand-Khozeimeh
+vassal = {
+	first = ZND
+	second = KHT
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Kalat
+vassal = {
+	first = ZND
+	second = KAL
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Makran
+vassal = {
+	first = ZND
+	second = MAK
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Bushehr
+vassal = {
+	first = ZND
+	second = BSR
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }

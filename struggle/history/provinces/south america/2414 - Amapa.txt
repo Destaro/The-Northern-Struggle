@@ -1,8 +1,8 @@
-owner = MKN
-controller = MKN
-add_core = MKN
-add_core = BHT
+owner = EDE
+controller = EDE
+add_core = EDE
 add_core = KDS
+add_core = BHT
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

@@ -1,5 +1,6 @@
 capital = 139
-primary_culture = cajun
+primary_culture = new_frankish
+culture = afro_frankish
 religion = catholic
 government = democracy
 plurality = 0.2

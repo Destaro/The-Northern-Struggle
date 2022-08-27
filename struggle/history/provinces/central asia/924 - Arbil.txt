@@ -1,10 +1,8 @@
-owner = MKN
-controller = MKN
-add_core = MKN
-
-add_core = HTY
+owner = EDE
+controller = EDE
+add_core = EDE
+add_core = KDS
 add_core = SRN
 add_core = BNB
-add_core = KDS
 trade_goods = wool
 life_rating = 35

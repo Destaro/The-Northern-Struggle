@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = KNT
+owner = ULA
+controller = ULA
+add_core = ULA
 trade_goods = cattle
 life_rating = 35
 

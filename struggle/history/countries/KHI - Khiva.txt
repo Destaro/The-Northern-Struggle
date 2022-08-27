@@ -1,5 +1,7 @@
 capital = 1191
-primary_culture = uzbek
+primary_culture = khwarazm_persian
+culture = khorasani_persian
+culture = uzbek
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

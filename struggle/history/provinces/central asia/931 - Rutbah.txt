@@ -1,7 +1,7 @@
-owner = HDJ
-controller = HDJ
+owner = JOR
+controller = JOR
 add_core = HAL
+add_core = JOR
+add_core = HDJ
 trade_goods = sulphur
 life_rating = 10
-
-add_core = HDJ

@@ -1,7 +1,7 @@
-owner = KHI
-controller = KHI
-add_core = KHI
-add_core = TKM
+owner = AFS
+controller = AFS
+add_core = AFS
+add_core = PER
 trade_goods = wool
 terrain = steppe
 life_rating = 35

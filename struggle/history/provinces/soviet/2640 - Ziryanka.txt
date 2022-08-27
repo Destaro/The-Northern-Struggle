@@ -1,8 +1,7 @@
-owner = KAL
-controller = KAL
-add_core = KAL
-add_core = BLC
+owner = MAK
+controller = MAK
 add_core = MAK
+add_core = BLC
 trade_goods = fish
 terrain = mountain
 life_rating = 31

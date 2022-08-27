@@ -1,6 +1,5 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = KHZ
+controller = KHZ
 add_core = KHZ
 add_core = IRQ
 trade_goods = cotton

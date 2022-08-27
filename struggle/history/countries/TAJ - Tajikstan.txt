@@ -1,5 +1,5 @@
 capital = 1207
-primary_culture = tajik
+primary_culture = khorasani_persian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

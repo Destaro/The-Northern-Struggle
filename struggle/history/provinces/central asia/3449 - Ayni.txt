@@ -1,6 +1,6 @@
-owner = BDK
-controller = BDK
-add_core = BDK
+owner = BUK
+controller = BUK
+add_core = BUK
 add_core = TAJ
 trade_goods = cattle
 life_rating = 35

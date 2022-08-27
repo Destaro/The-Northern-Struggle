@@ -1034,12 +1034,6 @@
 		size = 250     
 	}
 
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 20375 
-	}
-
 	aristocrats = {
 		culture = czech
 		religion = protestant
@@ -1165,6 +1159,13 @@
 		religion = protestant
 		size = 6075   
 	}
+}
+3671 = {
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 10375 
+	}
 
 	clergymen = {
 		culture = czech
@@ -1217,6 +1218,6 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 7025  
-	}
+		size = 17025  
+	} 
 }

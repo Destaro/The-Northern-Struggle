@@ -1,7 +1,8 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
+owner = JOR
+controller = JOR
 add_core = HAL
+add_core = JOR
+add_core = HDJ
 trade_goods = grain
 life_rating = 10
 

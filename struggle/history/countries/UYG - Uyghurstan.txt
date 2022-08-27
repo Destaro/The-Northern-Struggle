@@ -1,6 +1,6 @@
 capital = 1594
 primary_culture = uighur
-culture = tajik
+culture = khorasani_persian
 culture = kazak
 culture = kirgiz
 religion = sunni

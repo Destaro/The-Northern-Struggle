@@ -1,6 +1,7 @@
-owner = AFS
-controller = AFS
-add_core = AFS
+owner = ZND
+controller = ZND
+add_core = ZND
+add_core = YZD
 add_core = BLC
 trade_goods = cotton
 life_rating = 35

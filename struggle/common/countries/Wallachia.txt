@@ -1,4 +1,6 @@
 color = { 161  126  128 }
+colonial_company = { 155 65 65 }
+dominion = { 155 65 65 }
 graphical_culture = EuropeanGC
 
 party = {

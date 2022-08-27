@@ -1,5 +1,5 @@
-owner = PER
-controller = PER
+owner = TTN
+controller = TTN
 add_core = PER
 add_core = TTN
 add_core = TCA

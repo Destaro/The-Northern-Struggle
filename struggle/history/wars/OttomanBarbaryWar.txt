@@ -2,6 +2,9 @@ name = "Southern Roman reconquest of the Libyan Provinces"
 
 1835.10.2 = {
 	add_attacker = TUN
+	add_attacker = MOR
+	add_attacker = ALD
+	add_attacker = MGH
 	add_defender = TRI
 	
 	# actor

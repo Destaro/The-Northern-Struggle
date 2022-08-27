@@ -88,7 +88,7 @@
 	
 	farmers = {
 		culture = kurdish
-		religion = yazidi
+		religion = sunni
 		size = 1325
 	}
 	
@@ -1549,5 +1549,228 @@
 		culture = bedouin
 		religion = sunni
 		size = 10000
+	}
+}
+#Hasaka (264000/66000 POPS)
+3329 = {
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 150
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 350
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 750
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 3800
+	}
+	
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2750
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 800
+	}
+	
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 2500
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = coptic
+		size = 550
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = coptic
+		size = 4350
+	}
+	
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 975
+	}
+}
+
+#al-Jazira Desert (8000/2000 POPS)
+3458 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 1425
+	}
+}
+#Sinjar (92000/23000 POPS)
+3460 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 1075
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 7075
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = coptic
+		size = 50
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = coptic
+		size = 150
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = coptic
+		size = 5175
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+	
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 2475
 	}
 }
