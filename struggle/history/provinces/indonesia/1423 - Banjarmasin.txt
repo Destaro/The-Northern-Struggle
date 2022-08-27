@@ -1,6 +1,8 @@
-owner = KLM
-controller = KLM
+owner = DEN
+controller = DEN
 add_core = KLM
 trade_goods = sulphur
 life_rating = 38
 colonial = 2
+
+add_core = BRU

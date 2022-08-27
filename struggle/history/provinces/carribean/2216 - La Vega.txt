@@ -1,5 +1,5 @@
-owner = HAI
-controller = HAI
+owner = SPA
+controller = SPA
 add_core = HAI
 add_core = DOM
 trade_goods = coffee
@@ -8,3 +8,4 @@ life_rating = 35
 owner = DOM
 controller = DOM
 }
+colonial = 2

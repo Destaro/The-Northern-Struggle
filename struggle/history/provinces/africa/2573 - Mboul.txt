@@ -1,5 +1,5 @@
-owner = WOL
-controller = WOL
+owner = TUN
+controller = TUN
 add_core = WOL
 trade_goods = grain
 terrain = semidesert
@@ -9,3 +9,5 @@ life_rating = 35
 	controller = FRA
 	colonial = 2
 }
+colonial = 2
+add_core = GBU

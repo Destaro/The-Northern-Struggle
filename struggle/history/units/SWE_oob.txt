@@ -1,4 +1,80 @@
 
+
+BDB = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+IZH = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+IRE = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+LIT = {	
+	value = 25
+	level = 3
+	influence_value = 0
+}
+
+EST = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+LAT = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+WHA = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+
+NOV = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+USA = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+
+CUB = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+CUR = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+FIN = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+
 leader = {
 	name = "Carl Nordenskjöld"
 	date = 1834.1.1
@@ -72,7 +148,7 @@ leader = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "Bretagne Armén"
 	location = 420
 	regiment = {
 		name= "Svea Livgarde"
@@ -100,13 +176,13 @@ army = {
 
 	regiment = {
 		name= "Västgöta Regemente"
-		type = infantry
+		type = artillery
 		home = 330
 	}
 
 	regiment = {
 		name= "Kalmar Regemente"
-		type = infantry
+		type = artillery
 		home = 332
 	}
 
@@ -135,6 +211,101 @@ army = {
 	}
 
 }
+
+army = {
+	name = "Svenska Armén"
+	location = 322
+	regiment = {
+		name= "Svea Livgarde"
+		type = guard
+		home = 322
+	}
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 317
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = guard
+		home = 323
+	}
+
+	
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 328
+	}
+
+	
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 329
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = infantry
+		home = 334
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 335
+	}
+
+	
+
+}
+
+army = {
+	name = "Pommern Armén"
+	location = 546
+	
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 547
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 545
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 544
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 548
+	}
+
+
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 679
+	}
+
+	
+
+}
+
 
 navy = {
 	name = "Swedish Navy"

@@ -1,6 +1,8 @@
-owner = ARO
-controller = ARO
+owner = BEN
+controller = BEN
 add_core = ARO
 add_core = WRI
 trade_goods = cattle
 life_rating = 35
+
+add_core = BEN

@@ -4,3 +4,5 @@ add_core = SOK
 trade_goods = fruit
 terrain = semidesert
 life_rating = 35
+
+add_core = KBO

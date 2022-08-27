@@ -1,8 +1,8 @@
-owner = MAT
-controller = MAT
+owner = ORA
+controller = ORA
 add_core = GAZ
 add_core = MAT
-add_core = TRN
+
 terrain = mountain
 trade_goods = wool
 life_rating = 15
@@ -13,3 +13,5 @@ life_rating = 15
 	remove_core = MAT
 	life_rating = 35
 }
+
+add_core = ORA

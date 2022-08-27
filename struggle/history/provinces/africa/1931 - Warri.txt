@@ -1,5 +1,5 @@
-owner = WRI
-controller = WRI
+owner = BEN
+controller = BEN
 add_core = WRI
 add_core = BEN
 add_core = ARO

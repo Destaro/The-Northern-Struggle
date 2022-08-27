@@ -1,6 +1,6 @@
-owner = PRK
-controller = PRK
-add_core = PRK
+owner = PHG
+controller = PHG
+add_core = PHG
 add_core = JOH
 add_core = SIA
 trade_goods = timber

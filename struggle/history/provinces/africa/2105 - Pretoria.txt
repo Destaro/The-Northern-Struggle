@@ -1,8 +1,9 @@
-owner = MAT
-controller = MAT
+owner = ORA
+controller = ORA
 add_core = MAT
+add_core = ORA
 add_core = BSH
-add_core = TRN
+
 trade_goods = coal
 life_rating = 15
 1861.1.1 = {

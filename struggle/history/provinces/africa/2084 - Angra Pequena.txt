@@ -1,5 +1,9 @@
+owner = NAL
+controller = NAL
 add_core = NMB
 terrain = desert
 trade_goods = fish
 life_rating = 10
 colonial = 1
+
+add_core = NAL

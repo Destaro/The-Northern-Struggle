@@ -1,5 +1,5 @@
-owner = SAK
-controller = SAK
+owner = DEN
+controller = DEN
 add_core = SAK
 trade_goods = fish
 terrain = small_island

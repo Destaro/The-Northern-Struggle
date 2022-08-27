@@ -1,5 +1,5 @@
-owner = XHO
-controller = XHO
+owner = TRN 
+controller = TRN 
 add_core = XHO
 add_core = SAF
 trade_goods = wool
@@ -11,3 +11,6 @@ life_rating = 35
 	add_core = ENG
 	colonial = 2
 }
+
+ 
+add_core = TRN

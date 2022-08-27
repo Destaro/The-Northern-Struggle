@@ -1332,6 +1332,42 @@
 		size = 62500
 	}
 }
+
+
+#slubic (280000/70000 POPS)
+3719 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 200 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 1500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 400 
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 22500
+	}
+}
+
+
 #Pritzwalk (232000/58000 POPS)
 551 = {
 	aristocrats = {
@@ -1381,7 +1417,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 3000
+		size = 1000
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2000
 	}
 	
 	artisans = {
@@ -1393,13 +1435,25 @@
 	soldiers = {
 		culture = czech
 		religion = protestant
-		size = 2000
+		size = 1500
+	}
+	
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 500
 	}
 
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 30000
+		size = 18000
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 12000
 	}
 	
 	aristocrats = {
@@ -1425,7 +1479,13 @@
 	farmers = {
 		culture = sorbian
 		religion = protestant
-		size = 20000
+		size = 15000
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 5000
 	}
 	farmers = {
 		culture = czech
@@ -1474,7 +1534,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 4000
+		size = 2000
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 1000
 	}
 	soldiers = {
 		culture = czech
@@ -1484,7 +1550,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 30000
+		size = 20000
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 10000
 	}
 	
 	aristocrats = {
@@ -1510,7 +1582,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 15500
+		size = 12500
+	}
+	
+	farmers = {
+		culture = czech
+		religion = protestant
+		size = 3500
 	}
 
 	aristocrats = {
@@ -1575,7 +1653,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 1000
+		size = 700
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 300
 	}
 	soldiers = {
 		culture = czech
@@ -1585,7 +1669,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 17000
+		size = 12000
+	}
+	
+	farmers = {
+		culture = czech
+		religion = protestant
+		size = 5000
 	}
 	
 	aristocrats = {
@@ -1697,8 +1787,15 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 1000
+		size = 700
 	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 300
+	}
+	
 	soldiers = {
 		culture = czech
 		religion = protestant
@@ -1707,7 +1804,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 22500
+		size = 16500
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 7500
 	}
 	
 	aristocrats = {
@@ -1723,7 +1826,13 @@
 	artisans = {
 		culture = silesian
 		religion = protestant
-		size = 3000     
+		size = 2500     
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 500     
 	}
 	soldiers = {
 		culture = silesian
@@ -5815,7 +5924,13 @@
 	aristocrats = {
 		culture = czech
 		religion = protestant
-		size = 850
+		size = 750
+	}
+	
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 100
 	}
 
 	clergymen = {
@@ -5827,7 +5942,13 @@
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 2300
+		size = 1500
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 800
 	}
 
 	soldiers = {
@@ -5839,7 +5960,13 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 25000
+		size = 20000
+	}
+	
+	farmers = {
+		culture = czech
+		religion = protestant
+		size = 5000
 	}
 	
 	aristocrats = {
@@ -5860,7 +5987,13 @@
 	farmers = {
 		culture = sorbian
 		religion = protestant
-		size = 21450
+		size = 20000
+	}
+	
+	farmers = {
+		culture = sorbian
+		religion = protestant
+		size = 1450
 	}
 	farmers = {
 		culture = czech

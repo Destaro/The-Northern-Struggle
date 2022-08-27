@@ -1,5 +1,5 @@
-owner = RUT
-controller = RUT
+owner = LIT
+controller = LIT
 add_core = LIT
 add_core = BYE
 add_core = RUT

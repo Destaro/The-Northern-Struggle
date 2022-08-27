@@ -354,7 +354,13 @@
 	serfs = {
 		culture = czech
 		religion = catholic
-		size = 15800 
+		size = 7800 
+	}
+	
+	serfs = {
+		culture = north_german
+		religion = catholic
+		size = 8800 
 	}
 
 	aristocrats = {
@@ -384,7 +390,13 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 114950 
+		size = 84950 
+	}
+	
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 24950 
 	}
 
 	clergymen = {
@@ -434,7 +446,13 @@
 	serfs = {
 		culture = czech
 		religion = catholic
-		size = 8325
+		size = 5325
+	}
+	
+	serfs = {
+		culture = czech
+		religion = catholic
+		size = 3325
 	}
 
 	aristocrats = {
@@ -452,7 +470,13 @@
 	artisans = {
 		culture = czech
 		religion = catholic
-		size = 3350
+		size = 3050
+	}
+	
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 350
 	}
 
 	soldiers = {
@@ -464,7 +488,13 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 63825
+		size = 53825
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 13825
 	}
 	
 	farmers = {

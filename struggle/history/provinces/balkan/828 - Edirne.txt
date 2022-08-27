@@ -5,3 +5,5 @@ add_core = GRE
 add_core = MDV
 trade_goods = tobacco
 life_rating = 35
+
+add_core = BYZ

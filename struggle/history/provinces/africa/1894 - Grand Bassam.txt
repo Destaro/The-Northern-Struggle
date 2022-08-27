@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = ORL
+controller = ORL
 add_core = KNG
 trade_goods = cattle
 life_rating = 35

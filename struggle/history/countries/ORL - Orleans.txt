@@ -8,7 +8,7 @@ plurality = 25
 nationalvalue = nv_order
 literacy = 0.5
 civilized = yes 
-prestige = 60
+prestige = 40
 schools = army_tech_school
 oob = "ORL_oob.txt"
 

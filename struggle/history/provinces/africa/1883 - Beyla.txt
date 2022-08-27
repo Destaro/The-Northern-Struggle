@@ -1,5 +1,7 @@
-owner = JAL
-controller = JAL
+owner = GBU
+controller = GBU
 add_core = JAL
 trade_goods = timber
 life_rating = 35
+
+add_core = GBU
