@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = KNT
+controller = KNT
 add_core = KNT
 trade_goods = coal
 life_rating = 35

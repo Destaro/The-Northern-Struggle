@@ -1,2 +1,0 @@
-owner = LPLcontroller = LPLadd_core = LPLadd_core = PRGtrade_goods = cattleterrain = savanna
-life_rating = 15

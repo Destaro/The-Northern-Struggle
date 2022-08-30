@@ -1,4 +1,6 @@
 color = { 255  214  154 }
+dominion = { 127 78 75 }
+colonial_company = { 127 78 75 }
 graphical_culture = ChineseGC
 
 party = {

@@ -1,5 +1,5 @@
-owner = BAD
-controller = BAD
+owner = NCT
+controller = NCT
 add_core = SWI
 add_core = BRG
 add_core = NCT
@@ -24,6 +24,3 @@ party_loyalty = {
 }
 
 1861.1.1 = { railroad = 1 }
-
-add_core = BAD
-add_core = GER

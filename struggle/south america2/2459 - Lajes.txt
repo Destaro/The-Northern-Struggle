@@ -1,6 +1,0 @@
-owner = RGS
-controller = RGS
-add_core = RGS
-add_core = BRZ
-trade_goods = wool
-life_rating = 35

@@ -1,6 +1,7 @@
-owner = ULA
-controller = ULA
+owner = KNT
+controller = KNT
 add_core = ULA
+add_core = KNT
 trade_goods = cattle
 life_rating = 35
 

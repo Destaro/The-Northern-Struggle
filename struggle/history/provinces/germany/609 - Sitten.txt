@@ -1,5 +1,5 @@
-owner = BAD
-controller = BAD
+owner = NCT
+controller = NCT
 add_core = BRG
 add_core = NCT
 trade_goods = coal
@@ -12,6 +12,3 @@ party_loyalty = {
 	ideology = liberal
 	loyalty_value = 5
 }
-
-add_core = BAD
-add_core = GER
