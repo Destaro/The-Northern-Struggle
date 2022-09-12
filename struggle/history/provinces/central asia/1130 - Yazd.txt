@@ -1,5 +1,6 @@
-owner = YZD
-controller = YZD
+owner = ZND
+controller = ZND
+add_core = ZND
 add_core = YZD
 terrain = dry_mountains
 trade_goods = iron

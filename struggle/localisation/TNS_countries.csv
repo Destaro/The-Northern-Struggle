@@ -95,6 +95,7 @@ african_romance;Afri-Romanni;;;;;;;;;;;;;;;;;;;;;;;;x
 persian;Farsi;;;;;;;;;;;;;;;;;;;;;;;;x 
 khorasani_persian;Dari;;;;;;;;;;;;;;;;;;;;;;;;x
 khwarazm_persian;Khwarazmi;;;;;;;;;;;;;;;;;;;;;;;;x 
+new_frankish;Americaanse;;;;;;;;;;;;;;;;;;;;;;;;x 
 norn;Norn;;;;;;;;;;;;;x
 dalmatian;Dalmato;;;;;;;;;;;;;x
 venetian;Vèneto;;;;;;;;;;;;;x
@@ -469,16 +470,16 @@ KHR_hms_government;Khorasan;;;;;;;;;;;;x
 KHR_prussian_constitutionalism;Khorasan;;;;;;;;;;;;x
 KHR_republic;Khorasan Republic;;;;;;;;;;;;x
 KHR_ADJ;Khorasani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LUR;Luristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LUR_colonial_company:Khorshidis;;;;;;;;;;;;x
-LUR_absolute_monarchy;Khorshidis;;;;;;;;;;;;x
-LUR_hms_government;Khorshidis;;;;;;;;;;;;x
-LUR_prussian_constitutionalism;Khorshidis;;;;;;;;;;;;x
-LUR_colonial_company_ADJ:Khorshidi;;;;;;;;;;;;x
-LUR_absolute_monarchy_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_hms_government_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_prussian_constitutionalism_ADJ;Khorshidi;;;;;;;;;;;;x
-LUR_ADJ;Lurish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LUR;Hormoz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LUR_colonial_company:Hormoz;;;;;;;;;;;;x
+LUR_absolute_monarchy;Hormoz;;;;;;;;;;;;x
+LUR_hms_government;Hormoz;;;;;;;;;;;;x
+LUR_prussian_constitutionalism;Hormoz;;;;;;;;;;;;x
+LUR_colonial_company_ADJ:Hormozi;;;;;;;;;;;;x
+LUR_absolute_monarchy_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_hms_government_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_prussian_constitutionalism_ADJ;Hormozi;;;;;;;;;;;;x
+LUR_ADJ;Hormozi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YZD;Rustamids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YZD_absolute_monarchy;Rustamids;;;;;;;;;;;;x
 YZD_hms_government;Rustamids;;;;;;;;;;;;x
@@ -490,19 +491,19 @@ SEM_ADJ;Semnani;;;;;;;;;;;;;
 FRC_liberal;Republikeinen;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_liberal_2;Liberale Unie;;;;;;;;;;;;x
 FRC_liberal_3;Liberale Republikanesch;;;;;;;;;;;;x
-FRC_conservative;Karolingische;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_conservative_2;Partij Frankräich;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_conservative;Karolingische Fraktion;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_conservative_2;Partij Frenkräich;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_3;Républicain modéré;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_4;Karolingische;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_conservative_5;Royalisten;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_fascist;Frankiske Partije;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_fascist;Frenkiske Partije;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_reactionary;Absolutisten;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_reactionary_2;Nationalistisch Rechts;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_anarcho_liberal;Radicale Republikeinse;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_communist;Radicale Republikeinse;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_socialist;Frankiske Arbeiderspartij;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_socialist;Frenkiske Arbeiderspartij;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRC_socialist_2;Mogelijkheden;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRC_socialist_3;Frankiske afdeling van de Arbeiders' International;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRC_socialist_3;FAAI;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 ;;;;;;x;;;;
 BRB;Brabant;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRB_ADJ;Brabantian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -649,8 +650,8 @@ VIN_fascist;Leifs Vikingar;;;;;;;;;;;;;
 VIN_socialist_1;Arbeidarpartiet;;;;;;;;;;;;;
 VIN_socialist_2;Raudt;;;;;;;;;;;;
 ;;;;;;x;;;;
-NEN;Ny Sjælland;Ny Sjælland;Ny Sjælland;;Ny Sjælland;;;;;;;;;x;;;;
-NEN_ADJ;Ny-Sjællænder;Ny-Sjællænder;Ny-Sjællænder;;Ny-Sjællænder;;;;;;;;;x;;;;
+NEN;New Sjælland;New Sjælland;New Sjælland;;New Sjælland;;;;;;;;;x;;;;
+NEN_ADJ;New-Sjællander;New-Sjællander;New-Sjællander;;New-Sjællander;;;;;;;;;x;;;;
 NEN_liberal;Sønene av Patriotane;;;;;;;;;;;;;
 NEN_conservative;Føderalistane;;;;;;;;;;;;;
 NEN_liberal_2;Venstre;;;;;;;;;;;;;
@@ -721,8 +722,10 @@ DBJ;Dobruja;;;;;;;;;;;x;
 DBJ_colonial_company;Despotatul Dobrogei;;;;;;;;;;;x;
 DBJ_dominion;Despotatul Dobrogei;;;;;;;;;;;x;
 DBJ_ADJ;Dobrujan;;;;;;;;;;;x;
-BUL_colonial_company;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
-BUL_dominion;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+WAL_colonial_company;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+WAL_dominion;Sark-i Rumeli Viyaleti;;;;;;;;;;;x;
+MOL_colonial_company;Moezya Eyaleti;;;;;;;;;;;x;
+MOL_dominion;Moezya Eyaleti;;;;;;;;;;;x;
 GRE_colonial_company;Ellinikí Dimokratía;;;;;;;;;;;x;
 GRE_dominion;Ellinikí Dimokratía;;;;;;;;;;;x;
 ALB_colonial_company;Vilâyet-i Arnavid;;;;;;;;;;;x;
@@ -746,3 +749,79 @@ MUS_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 MUS_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 MUS_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 MUS_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+LUS_ADJ;Lusofonic;Lusofonic;Lusofonic;;;;;;;;;;;x;
+LUS;Luson;Luson;Luson;;;;;;;;;;;x;
+LUS_proletarian_dictatorship;Lusofonic Commune;Lusofonic Commune;Lusofonic Commune;;;;;;;;;;;x;
+LUS_presidential_dictatorship;Republic of Luson;Republic of Luson;Republic of Luson;;;;;;;;;;;x;
+LUS_bourgeois_dictatorship;Luson;Luson;Luson;;;;;;;;;;;x;
+LUS_fascist_dictatorship;Lisbon Federation;Lisbon Federation;Lisbon Federation;;;;;;;;;;;x;
+LUS_absolute_monarchy;Kingdom of Luson;Kingdom of Luson;Kingdom of Luson;;;;;;;;;;;x;
+LUS_prussian_constitutionalism;Luson;Luson;Luson;;;;;;;;;;;x;
+LUS_hms_government;Luson;Luson;Luson;;;;;;;;;;;x;
+LUS_democracy;Lusofonic Republic;Lusofonic Republic;Lusofonic Republic;;;;;;;;;;;x;
+LUS_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+LUS_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+LUS_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+LUS_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+LUS_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+LUS_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+LUS_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+LUS_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+LUS_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+DKN_ADJ;Northern;Northern;Northern;;;;;;;;;;;x;
+DKN;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_proletarian_dictatorship;Nordic commute;Nordic commute;Nordic commute;;;;;;;;;;;x;
+DKN_presidential_dictatorship;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_bourgeois_dictatorship;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_fascist_dictatorship;Northern Empire;Northern Empire;Northern Empire;;;;;;;;;;;x;
+DKN_absolute_monarchy;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_prussian_constitutionalism;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_hms_government;Denmark-Norway;Denmark-Norway;Denmark-Norway;;;;;;;;;;;x;
+DKN_democracy;Dano-Norwegian Republic;Dano-Norwegian Republic;Dano-Norwegian Republic;;;;;;;;;;;x;
+DKN_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+DKN_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+DKN_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+DKN_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+DKN_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+DKN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+DKN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+DKN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+DKN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SWN_ADJ;Swedish;Swedish;Swedish;;;;;;;;;;;x;
+SWN;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_proletarian_dictatorship;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_presidential_dictatorship;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_bourgeois_dictatorship;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_fascist_dictatorship;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_absolute_monarchy;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_prussian_constitutionalism;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_hms_government;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_democracy;Sweden-Norway;Sweden-Norway;Sweden-Norway;;;;;;;;;;;x;
+SWN_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SWN_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SWN_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SWN_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SWN_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SWN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SWN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SWN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SWN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+CEL_ADJ;Prydeinig;Prydeinig;Prydeinig;;;;;;;;;;;x;
+CEL;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_proletarian_dictatorship;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_presidential_dictatorship;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_bourgeois_dictatorship;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_fascist_dictatorship;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_absolute_monarchy;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_prussian_constitutionalism;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_hms_government;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_democracy;Prydain;Prydain;Prydain;;;;;;;;;;;x;
+CEL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+CEL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+CEL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+CEL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+CEL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+CEL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+CEL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+CEL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+CEL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;

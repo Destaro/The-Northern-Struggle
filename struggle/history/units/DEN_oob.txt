@@ -300,16 +300,7 @@ army = {
 
 	
 
-	regiment = {
-		
-		name= "3.2. Infanteridivision"
-		
-		type = infantry
-		
-		home = 366
 	
-	}
-
 	
 
 	regiment = {
@@ -320,17 +311,153 @@ army = {
 		
 		home = 373
 	}
+	
+	regiment = {
+		
+		name= "1.2. Kavalleridivision"
+		
+		type = hussar
+		
+		home = 290
+	}
+	
+	
+	regiment = {
+		name= "1st Regiment Royal Artillery"
+		type = artillery
+		home = 302
+	}
+	
+	regiment = {
+		name= "3rd Regiment Royal Artillery"
+		type = artillery
+		home = 303
+	}
 
 
 }
 
+army = {
+	name = "Copenhagen garrison"
+	location = 372
+	regiment = {
+		name= "4th (The Queen's Own) Light Dragoons"
+		type = hussar
+		home = 367
+	}
 
+	
+
+	regiment = {
+		name= "11th (Prince Albert's Own) Hussars"
+		type = cuirassier
+		home = 368
+	}
+
+	regiment = {
+		name= "The Grenadier Guards"
+		type = guard
+		home = 2557
+	}
+
+	regiment = {
+		
+		name= "2.2. Infanteridivision"
+		
+		type = infantry
+		
+		home = 289
+	
+	}
+	
+	regiment = {
+		
+		name= "2.2. Infanteridivision"
+		
+		type = infantry
+		
+		home = 294
+	
+	}
+	
+     regiment = {
+		name= "9th Regiment Royal Artillery"
+		type = artillery
+		home = 293
+	}
+	
+}
+
+army = {
+	name = "The Cavalry Division"
+	location = 300
+	regiment = {
+		name= "4th (The Queen's Own) Light Dragoons"
+		type = hussar
+		home = 300
+	}
+
+	regiment = {
+		name= "The Royal Dragoons (1st Dragoons)"
+		type = dragoon
+		home = 300
+	}
+
+	regiment = {
+		name= "11th (Prince Albert's Own) Hussars"
+		type = cuirassier
+		home = 300
+	}
+
+	regiment = {
+		name= "The Grenadier Guards"
+		type = guard
+		home = 300
+	}
+
+	regiment = {
+		name= "The Coldstream Guards "
+		type = guard
+		home = 290
+	}
+	
+	regiment = {
+		name= "The Scots Fusiliers Guards"
+		type = guard
+		home = 301
+	}
+	
+	regiment = {
+		name= "The Black Watch Regiment"
+		type = guard
+		home = 302
+	}
+
+	regiment = {
+		name= "2nd Regiment Royal Artillery"
+		type = artillery
+		home = 295
+	}
+	
+	regiment = {
+		name= "8th Regiment Royal Artillery"
+		type = artillery
+		home = 291
+	}
+	
+	regiment = {
+		name= "9th Regiment Royal Artillery"
+		type = artillery
+		home = 297
+	}
+	
+}
 
 navy = {
 	
 	name = "Royal Navy"
 	
-	location = 2724
+	location = 372
 	
 	ship = {
 
@@ -504,3 +631,231 @@ navy = {
 
 }
 
+navy = {
+	name = "Ceylon Station"
+	location = 1321 #Diego Garcia
+	ship = {
+		name= "HMS Ajax"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Armada"
+		type = manowar
+	}
+
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	
+
+	ship = {
+		name= "HMS Bacchante"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Belvidera"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Briton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Crescent"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Galatea"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Havannah"
+		type = frigate
+	}
+
+	
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+}
+
+navy = {
+	name = "Channel Fleet"
+	location = 3269
+	
+
+	ship = {
+		name= "HMS Camperdown"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Carnatic"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Clarence"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Formidable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Ganges"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hastings"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hawke"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Malabar"
+		type = manowar
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "HMS America"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Castor"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Conquestadore"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Eagle"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Forth"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Gloucester"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Seahorse"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Stag"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thalia"
+		type = frigate
+	}
+
+	
+
+	ship = {
+		name= "HMS Medea"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "HMS Phoenix"
+		type = commerce_raider
+	}
+
+}

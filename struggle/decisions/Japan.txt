@@ -1893,4 +1893,69 @@ political_decisions = {
 		
 		ai_will_do = { factor = 1 }
 	}
+	
+	embrace_koreans = {
+		potential = {
+			tag = JAP 
+			has_country_flag = cor_kor
+			NOT = { 
+				exists = KOR 
+				has_country_flag = accept_kor
+			}
+		}
+
+		allow = {
+			KOR = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+		}
+
+		effect = {
+		badboy = 5
+		any_pop = {
+				scaled_militancy = {
+					ideology = liberal
+					factor = 2
+				}
+				scaled_militancy = {
+					ideology = conservative
+					factor = 8
+				}
+				scaled_militancy = {
+					ideology = reactionary
+					factor = 9
+				}
+			}
+			set_country_flag = accept_kor
+			add_accepted_culture = korean
+			prestige = 15
+		}
+	}
+
+	core_korea = {
+
+		potential = {
+			tag = JAP 
+			NOT = {
+				
+					has_country_flag = cor_kor
+					exists = KOR
+				  
+			}
+		}
+
+		allow = {
+			KOR = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+			prestige = 60
+		}
+
+		effect = {
+			badboy = 10
+			set_country_flag = cor_kor
+			prestige = 20
+			KOR = { all_core = { add_core = THIS } }
+		}
+	}
 }

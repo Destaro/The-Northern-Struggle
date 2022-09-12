@@ -8340,7 +8340,7 @@
 	}
 }
 
-#Pondicherry - now Makran (132000/33000 POPS)
+#Makran (132000/33000 POPS)
 3382 = {
 	
 	aristocrats = {
@@ -8379,60 +8379,4 @@
 		size = 5000
 	}
 
-}
-#Sidi
-3416 = {
-	aristocrats = {
-		culture = baluchi
-		religion = sunni
-		size = 30
-	}
-
-	clergymen = {
-		culture = baluchi
-		religion = sunni
-		size = 35
-	}
-
-	artisans = {
-		culture = baluchi
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = baluchi
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = baluchi
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = baluchi
-		religion = sunni
-		size = 600
-	}
-	
-	farmers = {
-		culture = sindi
-		religion = sunni
-		size = 1025
-	}
-	
-	farmers = {
-		culture = pashtun
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = baluchi
-		religion = sunni
-		size = 3000
-	}
 }

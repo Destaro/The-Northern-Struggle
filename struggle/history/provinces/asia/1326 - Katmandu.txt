@@ -1,5 +1,6 @@
-owner = NEP
-controller = NEP
+owner = BNG
+controller = BNG
+add_core = BNG
 add_core = NEP
 trade_goods = grain
 life_rating = 25

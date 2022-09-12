@@ -6247,3 +6247,90 @@
 		size = 32500
 	}
 }
+
+#Malazgirt (168000/42000 POPS)
+3459 = {
+	aristocrats = {
+		culture = turkish
+		religion = shiite
+		size = 70
+	}
+	
+	clergymen = {
+		culture = turkish
+		religion = shiite
+		size = 105
+	}
+
+	artisans = {
+		culture = turkish
+		religion = shiite
+		size = 250
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = shiite
+		size = 300
+	}
+
+	farmers = {
+		culture = turkish
+		religion = shiite
+		size = 5875
+	}
+	
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 110
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 110
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 450
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 7775
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 30
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 20
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 2350
+	}
+}

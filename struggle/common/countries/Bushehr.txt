@@ -1,6 +1,6 @@
 color = { 26 134 58 }
-#absolute_monarchy = { 26 134 58 }
-#colonial_company = { 26 134 58 } 
+colonial_company = { 94  74  74 } 
+dominion = { 94  74  74 } 
 graphical_culture = MiddleEasternGC
 
 party = {

@@ -1,4 +1,4 @@
-color = { 170  206  162 }
+color = { 130  41  41 }
 graphical_culture = OttomanGC
 
 party = {

@@ -1,4 +1,4 @@
-color = { 27 130 137 }
+color = { 78 120 97 }
 graphical_culture = MiddleEasternGC
 party = {
 	name = "ASY_conservative"
@@ -78,33 +78,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 	}
 	ironclad = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 	}
 	manowar = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 		
 	}
 	cruiser = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 	}
 	frigate = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 	}
 	monitor = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 	}
 	clipper_transport = {
@@ -114,8 +114,8 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Sargon ≈†almanisar A≈°ur "Awi'eil" "A≈°ur'ban" "A≈°ur'leed" "A≈°ur'ram" "A≈°ur'seen" "A≈°ur'khadon" Gilgame≈° ≈†muil Akkad Amid "Bukht-Yi≈°o" Petros "Beth Suryaye"
-		Oromiyeh Yi≈°o
+		Sargon äalmanisar Aöur "Awi'eil" "Aöur'ban" "Aöur'leed" "Aöur'ram" "Aöur'seen" "Aöur'khadon" Gilgameö ämuil Akkad Amid "Bukht-Yiöo" Petros "Beth Suryaye"
+		Oromiyeh Yiöo
 		
 	}
 }

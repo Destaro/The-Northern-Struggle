@@ -1,8 +1,6 @@
-owner = ASY
-controller = ASY
-add_core = ASY
-add_core = ARM
+owner = EDE
+controller = EDE
+add_core = EDE
 add_core = KDS
-add_core = IRQ
 trade_goods = iron
 life_rating = 35

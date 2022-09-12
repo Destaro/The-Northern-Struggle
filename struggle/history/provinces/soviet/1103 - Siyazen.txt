@@ -1,7 +1,7 @@
-owner = DAG
-controller = DAG
+owner = TTN
+controller = TTN
+add_core = PER
 add_core = TTN
-add_core = DAG
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {

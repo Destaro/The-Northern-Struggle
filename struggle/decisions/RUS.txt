@@ -1,4 +1,64 @@
 political_decisions = {
+
+
+form_russia = {
+		potential = {
+			is_greater_power = yes
+			OR = {
+			       tag = MUS
+				   tag = RUT
+				   }
+			NOT = {
+				exists = RUS
+				
+			}
+		}	
+		allow = {
+			war = no
+			RUS = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+					culture_group = east_slavic
+						
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = RUS
+				}
+				add_core = RUS
+			}			
+			change_tag = RUS
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
 	abolish_serfdom = {
 		picture = abolish_serfdom
 		potential = {

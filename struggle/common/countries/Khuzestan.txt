@@ -1,4 +1,5 @@
 color = { 220  20  60 }
+colonial_company = { 73  96  55 }
 graphical_culture = MiddleEasternGC
 
 
@@ -33,7 +34,7 @@ party = {
 }
 
 party = {
-    name = "HRT_conservative"
+    name = "PER_conservative"
     start_date = 1830.1.1
     end_date = 2000.1.1
 

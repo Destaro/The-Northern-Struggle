@@ -1,6 +1,6 @@
-owner = CIR
-controller = CIR
+owner = ALN
+controller = ALN
 add_core = CIR
-add_core = DON
+add_core = ALN
 trade_goods = wool
 life_rating = 35

@@ -235,4 +235,76 @@ political_decisions = {
 		
 		ai_will_do = { factor = 1 }
 	}
+	
+	form_denmark_norway = {
+		potential = {
+			is_greater_power = yes
+			OR = {
+			tag = DEN
+			tag = NOR
+			      }
+			
+			NOT = {
+				exists = DKN
+				exists = SCA
+			}
+		}	
+		allow = {
+			war = no
+			DEN = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			NOR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 25
+			any_country = {
+				limit = {
+					OR = {
+						tag = NOR
+						tag = DEN
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = SCA
+				}
+				add_core = DKN 
+			}			
+			change_tag = DKN
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

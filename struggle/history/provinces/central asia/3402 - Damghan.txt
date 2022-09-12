@@ -1,7 +1,7 @@
-owner = YZD
-controller = YZD
+owner = ZND
+controller = ZND
+add_core = ZND
 add_core = YZD
-add_core = PER
 terrain = semidesert
 trade_goods = iron
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = EIC
-controller = EIC
-add_core = HND
+owner = BNG
+controller = BNG
 add_core = BNG
 trade_goods = grain
 life_rating = 35

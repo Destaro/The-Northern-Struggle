@@ -13,19 +13,21 @@ alliance = {
 
 first = SWE
 	second = CUR
-	start_date = 1886.9.5
+	start_date = 1826.9.5
+	end_date = 1936.1.1
+}
+
+
+#austria-bohemia
+first = AUS
+	second = BOH
+	start_date = 1826.9.5
 	end_date = 1936.1.1
 }
 
 
 
-#Treaty of Hunkar Iskelesi - Russian-Ottoman Alliance
-alliance = {
-	first = TUR
-	second = RUS
-	start_date = 1833.8.8
-	end_date = 1840.1.1
-}
+
 
 
 

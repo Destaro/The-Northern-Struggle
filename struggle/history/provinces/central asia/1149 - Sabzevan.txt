@@ -1,6 +1,7 @@
-owner = SEM
-controller = SEM
-add_core = SEM
+owner = PER
+controller = PER
+add_core = PER
+add_core = KHR
 terrain = dry_mountains
 trade_goods = coal
 life_rating = 35

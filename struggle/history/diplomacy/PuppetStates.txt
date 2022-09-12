@@ -48,6 +48,14 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+
+#spain-vandalica
+substate = {
+	first = SPA
+	second = VND
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
 substate = {
 	first = DAI
 	second = GUI
@@ -55,16 +63,24 @@ substate = {
 	end_date = 1936.1.1
 }
 
-#CAN / NZL / AST / MRU / NEW / RHO
+# Denmark-Nye Sjaelland
 substate = {
 	first = DEN
 	second = NEN
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+# Denmark-Karlant
 substate = {
 	first = DEN
 	second = KNT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+# Denmark-Brynaich
+substate = {
+	first = DEN
+	second = NTU
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -76,6 +92,15 @@ vassal = {
 	start_date = 1815.1.1
 	end_date = 1850.1.1
 }
+
+#austria - franconia
+vassal = {
+	first = AUS
+	second = FRE
+	start_date = 1815.1.1
+	end_date = 1950.1.1
+}
+
 
 #Monaco
 vassal = {
@@ -102,8 +127,16 @@ vassal = {
 #Liechenstein
 vassal = {
 	first = AUS
-	second = FRE
+	second = LIE
 	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+#Liechenstein
+vassal = {
+	first = PNJ
+	second = BIK
+	start_date = 1760.1.1
 	end_date = 1936.1.1
 }
 
@@ -124,6 +157,16 @@ vassal = {
 	end_date = 1944.1.1
 }
 
+#Portugal-brazil
+vassal = {
+	first = POR
+	second = BRZ
+	start_date = 1815.1.1
+	end_date = 1963.1.1
+}
+
+
+
 #Sweden-Finland
 vassal = {
 	first = SWE
@@ -138,6 +181,22 @@ vassal = {
 	second = NOV
 	start_date = 1815.1.1
 	end_date = 1863.1.1
+}
+
+#Sweden-Ireland
+vassal = {
+	first = SWE
+	second = IRE
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+#Sweden-kuba
+vassal = {
+	first = SWE
+	second = CUB
+	start_date = 1815.1.1
+	end_date = 1936.1.1
 }
 
 #Portugal-Lusitania
@@ -164,6 +223,44 @@ vassal = {
 #	end_date = 1936.1.1
 #}
 
+#congo - substates
+
+substate = {
+	first = KON
+	second = MNG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = KON
+	second = LBA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = KON
+	second = LUN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = KON
+	second = LOA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#cartage - trarza
+substate = {
+	first = TUN
+	second = TRZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 ##Substates of the Argentine Confederation
 substate = {
 	first = ARC
@@ -179,7 +276,7 @@ substate = {
 	end_date = 1937.1.1
 }
 
-# Denmark-Puppets
+# Denmark-Schleswig-Holstein
 vassal = {
 	first = DEN
 	second = SWH
@@ -187,11 +284,12 @@ vassal = {
 	end_date = 1864.10.30
 }
 
+# Denmark-Nye-Aengland
 vassal = {
 	first = DEN
-	second = NTU
+	second = ACA
 	start_date = 1773.1.1
-	end_date = 1964.10.30
+	end_date = 1864.10.30
 }
 
 #vassal = {
@@ -266,7 +364,13 @@ vassal = {
 	end_date = 1876.1.1
 }
 
-
+#China/Lanfang
+vassal = {
+	first = QNG
+	second = LAN
+	start_date = 1636.1.1
+	end_date = 1860.1.1
+}
 
 
 #########1861
@@ -302,16 +406,60 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-
-# kongo-konfederation #
-substate = {
-	first = KON
-	second = LOA
+# Eran-Afshar Turks
+vassal = {
+	first = PER
+	second = AFS
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
 
+# Zand-Luris 
+vassal = {
+	first = ZND
+	second = LUR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
 
+# Zand-Khorasan
+vassal = {
+	first = ZND
+	second = KHR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+# Zand-Khozeimeh
+vassal = {
+	first = ZND
+	second = KHT
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Kalat
+vassal = {
+	first = ZND
+	second = KAL
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Makran
+vassal = {
+	first = ZND
+	second = MAK
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Zand-Bushehr
+vassal = {
+	first = ZND
+	second = BSR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
 
 ### Southern Roman Empire ###
 # Carthage-Numidia
@@ -336,24 +484,6 @@ substate = {
 	end_date = 1936.1.1
 }
 
-# Carthage-trarza
-substate = {
-	first = TUN
-	second = TRZ
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-### Portuguese Empire ###
-
-# Brasil
-substate = {
-	first = POR
-	second = BRZ
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
 ### Spanish Empire ###
 # New Spain
 substate = {
@@ -362,15 +492,6 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-
-# vandalica
-substate = {
-	first = SPA
-	second = VND
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
 # New Granada
 substate = {
 	first = SPA
@@ -393,15 +514,6 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-
-# Kuba
-substate = {
-	first = SWE
-	second = CUB
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
 # Estland
 substate = {
 	first = SWE
@@ -409,23 +521,6 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-
-# Ireland
-vassal = {
-	first = SWE
-	second = IRE
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Wales
-vassal = {
-	first = SWE
-	second = WHA
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
 # Ingermanland
 substate = {
 	first = SWE

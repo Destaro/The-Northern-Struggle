@@ -254,6 +254,38 @@ army = {
 		type = infantry
 		home = 334
 	}
+	
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 323
+	}
+
+	
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 327
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = infantry
+		home = 3515
+	}
+	
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = infantry
+		home = 546
+	}
 
 	regiment = {
 		name= "Kronprinsens Husarregemente"
@@ -307,6 +339,48 @@ army = {
 }
 
 
+army = {
+	name = "Malmo Armén"
+	location = 334
+	
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 994
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 944
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 944
+	}
+
+
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 354
+	}
+
+	
+
+}
+
+
 navy = {
 	name = "Swedish Navy"
 	location = 2725
@@ -350,6 +424,26 @@ navy = {
 		name= "Galatea"
 		type = frigate
 	}
+	
+	ship = {
+		name= "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
 
 
 	ship = {
@@ -366,6 +460,111 @@ navy = {
 		name= "3rd Transport Flotilla"
 		type = clipper_transport
 	}
+	
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "Kubanska Flottan"
+	location = 44
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespérides"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
 }
 

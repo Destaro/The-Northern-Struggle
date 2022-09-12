@@ -196,4 +196,115 @@ political_decisions = {
 			set_country_flag = court_yard_speech_held
 		}
 	}
+	
+	integrate_pomerania_germans = {
+		potential = {
+			OR = {
+			tag = SWE
+			tag = SCA
+			
+			}
+			owns = 548
+			state_n_government = 1
+			NOT = { has_country_flag = swedish_pomerania }
+			}
+		
+		allow = {
+		owns = 546
+		owns = 545
+		owns = 680
+		revolution_n_counterrevolution = 1
+		war = no
+		is_greater_power = yes
+		}
+		
+		effect = {
+		set_country_flag = swedish_pomerania
+		prestige = 10
+		
+		add_core = 546
+		add_core = 680
+		add_core = 545
+		add_core = 544
+		add_core = 548
+		add_core = 547
+		add_core = 679
+		add_core = 680
+		add_core = 692
+		
+		}
+	}
+	form_sweden_norway = {
+		potential = {
+			is_greater_power = yes
+			OR = {
+			tag = SWE
+			tag = NOR
+			      }
+			
+			NOT = {
+				exists = SWN
+				exists = SCA
+				has_country_flag = annexed_finland
+			}
+		}	
+		allow = {
+		
+			war = no
+			SWE = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			NOR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 25
+			any_country = {
+				limit = {
+					OR = {
+						tag = NOR
+						tag = SWE
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = SCA
+				}
+				add_core = SWN
+			}			
+			change_tag = SWN
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

@@ -154,7 +154,7 @@ PROV3414;Sar-e Pol;x
 PROV3415;Dera Ismail Khan;x
 PROV3416;Sibi;x
 PROV3417;Chishti;x
-PROV3418;Chilas;x
+PROV3418;Gilgit;x
 PROV3419;Wakhan;x
 PROV3420;Murghab;x
 PROV3421;Nuristan;x
@@ -194,9 +194,9 @@ PROV3454;Dehloran;x
 PROV3455;Shushtar;x
 PROV3456;Fallujah;x
 PROV3457;Amarra;x
-PROV3458;Tagrît;x
+PROV3458;Tikrit;x
 PROV3459;Malazgirt;x
-PROV3460;Shingar;x
+PROV3460;Sinjar;x
 PROV3461;Tuzqala;x
 PROV3462;Taras;x
 PROV3463;Bekbolat;x
@@ -346,7 +346,6 @@ PROV2554;Ibirapuitã;;;;;;;;;;;;;;;;;;x;;;;
 RUS_1052;Avarestan;;;;;;;;;;;;;;;;;;x;;;;
 TIM_1055;Tön'jak Kavkaz;;;;;;;;;;;;;;;;;;x;;;;
 SWE_357;Courland;;;;;;;;;;;;x
-PROV923;Nînwê;;;;;;;;;;;;x
 PROV1049;Shapsug;;;;;;;;;;;;x
 PROV1050;Kabardia;;;;;;;;;;;;x
 PROV1052;Darband;;;;;;;;;;;;;;;;;;x;;;;
@@ -414,7 +413,7 @@ PROV896;Marash;;;;;;;;;;;;x
 PROV898;Aintab;;;;;;;;;;;;x
 PROV900;Antiok';;;;;;;;;;;;x
 PROV3328;Mardin;;;;;;;;;;;;x
-PROV3329;Nsîbîn;;;;;;;;;;;;x
+PROV3329;Nusaybin;;;;;;;;;;;;x
 PROV3330;Umm Al-Rashrash;;;;;;;;;;;;x
 PROV3340;Abu Hamed;;;;;;;;;;;;x
 PROV3364;Barteni;;;;;;;;;;;;x
@@ -823,9 +822,124 @@ PROV3733;Mongpan;;;;;;;;;;;;;
 PROV3734;Staraya Russa;;;;;;;;;;;;;
 PROV3735;Kholm;;;;;;;;;;;;;
 PROV3736;Jamborg;;;;;;;;;;;;;
+PROV3737;Chittor;;;;;;;;;;;;;
+PROV3738;Ibrahimabad;;;;;;;;;;;;;
+PROV3739;Alwar;;;;;;;;;;;;;
+PROV3740;Kunlun;;;;;;;;;;;;;
+PROV3741;Aksai Chin;;;;;;;;;;;;;
+PROV3742;Hisar;;;;;;;;;;;;;
+PROV3743;Duars;;;;;;;;;;;;;
+PROV3744;Koch Bihar;;;;;;;;;;;;;
+PROV3745;Trashigang;;;;;;;;;;;;;
+PROV3746;Hakha;;;;;;;;;;;;;
+PROV3747;Mongkwang;;;;;;;;;;;;;
+PROV3748;Kale;;;;;;;;;;;;;
+PROV3749;Kabaw;;;;;;;;;;;;;
+PROV3750;Pilibhit;;;;;;;;;;;;;
+PROV3751;Bahraich;;;;;;;;;;;;;
+PROV3752;Zhongba;;;;;;;;;;;;;
+PROV3753;Rudok;;;;;;;;;;;;;
+PROV3754;Mashmi;;;;;;;;;;;;;
+PROV3755;Shahzadpur;;;;;;;;;;;;;
+PROV3756;Salimah;;;;;;;;;;;;;
+PROV3757;Kufra Desert;;;;;;;;;;;;;
+PROV3758;Kolachi;;;;;;;;;;;;;
+PROV3759;Chilas;;;;;;;;;;;;;
+PROV3760;Pokhara;;;;;;;;;;;;;
+PROV3761;Dolakha;;;;;;;;;;;;;
+PROV3762;Janakpur;;;;;;;;;;;;;
+PROV3763;Biratnagar;;;;;;;;;;;;;
+PROV3764;Ghorahi;;;;;;;;;;;;;
+PROV3765;Doti;;;;;;;;;;;;;
+PROV3766;Kumaroan;;;;;;;;;;;;;
+PROV3767;Spiti;;;;;;;;;;;;;
+PROV3768;Mandi;;;;;;;;;;;;;
+PROV3769;Ashoknagar;;;;;;;;;;;;;
+PROV3770;Rangpur;;;;;;;;;;;;;
+PROV3771;Bellary;;;;;;;;;;;;;
+PROV3772;Chengalpattu;;;;;;;;;;;;;
+PROV3773;Kollam;;;;;;;;;;;;;
+PROV3774;Tuttukkudi;;;;;;;;;;;;;
+PROV3775;Nagapattinam;;;;;;;;;;;;;
+PROV3776;Salem;;;;;;;;;;;;;
+PROV3777;Mysore;;;;;;;;;;;;;
+PROV3778;Bidanur;;;;;;;;;;;;;
+PROV3779;Chittakula;;;;;;;;;;;;;
+PROV3780;Mangaluru;;;;;;;;;;;;;
+PROV3781;Kuchi;;;;;;;;;;;;;
+PROV3782;Palakkad;;;;;;;;;;;;;
+PROV3783;Bhalwa;;;;;;;;;;;;;
+PROV3784;Darbhanga;;;;;;;;;;;;;
+PROV3785;Shahabad;;;;;;;;;;;;;
+PROV3786;Palamu;;;;;;;;;;;;;
+PROV3787;Kandynagar;;;;;;;;;;;;;
+PROV3788;Hazaribagh;;;;;;;;;;;;;
+PROV3789;Puri;;;;;;;;;;;;;
+PROV3790;Baudh;;;;;;;;;;;;;
+PROV3791;Daminkoh;;;;;;;;;;;;;
+PROV3792;Shujabad;;;;;;;;;;;;;
+PROV3793;Saptagram;;;;;;;;;;;;;
+PROV3794;Khulna;;;;;;;;;;;;;
+PROV3795;Midnapur;;;;;;;;;;;;;
+PROV3796;Faridpur;;;;;;;;;;;;;
+PROV3797;Zafarabad;;;;;;;;;;;;;
+PROV3798;Nasirabad;;;;;;;;;;;;;
+PROV3799;Roshnabad;;;;;;;;;;;;;
+PROV3800;Manabhum;;;;;;;;;;;;;
+PROV3801;Baripada;;;;;;;;;;;;;
+PROV3802;Kendujhar;;;;;;;;;;;;;
+PROV3803;Debargarh;;;;;;;;;;;;;
+PROV3804;Bankura;;;;;;;;;;;;;
+PROV3805;Tel Kepe;;;;;;;;;;;;;
+PROV3806;Qaraqosh;;;;;;;;;;;;;
+PROV3807;Tel Afer;;;;;;;;;;;;;
+PROV3808;Hatra;;;;;;;;;;;;;
+PROV3809;Ashur;;;;;;;;;;;;;
+PROV3810;Lahij;;;;;;;;;;;;;
+PROV3811;Mehsana;;;;;;;;;;;;;
+PROV3812;Navsari;;;;;;;;;;;;;
+PROV3813;Anand;;;;;;;;;;;;;
+PROV3814;Morbi;;;;;;;;;;;;;
+PROV3815;Bhavnagar;;;;;;;;;;;;;
+PROV3816;Junagandh;;;;;;;;;;;;;
+PROV3817;Diu;;;;;;;;;;;;;
+PROV3818;Thana;;;;;;;;;;;;;
+PROV3819;Ratnagiri;;;;;;;;;;;;;
+PROV3820;Burhanpur;;;;;;;;;;;;;
+PROV3821;Mumbai;;;;;;;;;;;;;
+PROV3822;Daman;;;;;;;;;;;;;
+PROV3823;Anantapur;;;;;;;;;;;;;
+PROV3824;Yadgir;;;;;;;;;;;;;
+PROV3825;Solapur;;;;;;;;;;;;;
+PROV3826;Bidar;;;;;;;;;;;;;
+PROV3827;Daulatabad;;;;;;;;;;;;;
+PROV3828;Jaypor;;;;;;;;;;;;;
+PROV3829;Kanker;;;;;;;;;;;;;
+PROV3830;Bhawanipatna;;;;;;;;;;;;;
+PROV3831;Balangir;;;;;;;;;;;;;
+PROV3832;Chandrapur;;;;;;;;;;;;;
+PROV3833;Adilabad;;;;;;;;;;;;;
+PROV3834;Washim;;;;;;;;;;;;;
+PROV3835;Chakma;;;;;;;;;;;;;
+PROV3836;Tripura;;;;;;;;;;;;;
+PROV3837;Sylhet;;;;;;;;;;;;;
+PROV3838;Ahmadabad;;;;;;;;;;;;;
+PROV3839;Tura;;;;;;;;;;;;;
+PROV3840;Shillong;;;;;;;;;;;;;
+PROV3841;Bandar-e Masula;;;;;;;;;;;;;
+PROV3842;Sitawaka;;;;;;;;;;;;;
+PROV3843;Vanni;;;;;;;;;;;;;
+PROV3844;Madakalapuwa;;;;;;;;;;;;;
+PROV3845;Mannar;;;;;;;;;;;;;
 RUS_937;Polesie;;;;;;;;;;;;x
+PROV923;Ninwe;;;;;;;;;;;;x
+ASY_923;Assyria;;;;;;;;;;;;x
 PROV473;Massiccio Corso;;;;;;;;;;;;x
 PROV766;Nuoro;;;;;;;;;;;;x
+PROV1136;Ram Ardashir;;;;;;;;;;;;x
+PROV1252;Dar'dzilin;;;;;;;;;;;;x
+PROV1225;Kargil;;;;;;;;;;;;x
+PROV1312;Ragenardshavn;;;;;;;;;;;;x
 AUS_768;Carniola;;;;;;;;;;;;x
 AUS_736;Litorale Adriatico;;;;;;;;;;;;x
 AUS_770;Istria;;;;;;;;;;;;x
@@ -856,6 +970,20 @@ TUR_810;Valahia;;;;;;;;;;;;x
 PROV1724;Nordøyene;;;;;;;;;x
 PROV1825;Western Libyian Desert;;;;;;;;;;;;;;;;;;x;;;;
 PROV1758;Eastern Libyian Desert;;;;;;;;;;;;;;;;;;x;;;;
+PROV1316;Puttur;;;;;;;;;;;;;;;;;;x;;;;
+PROV1288;Thatta;;;;;;;;;;;;;;;;;;x;;;;
+PROV1289;Shikarpur;;;;;;;;;;;;;;;;;;x;;;;
+PROV1314;Utakamantalam;;;;;;;;;;;;;;;;;;x;;;
+PROV1318;Alappuzha;;;;;;;;;;;;;;;;;;x;;; 
+PROV1319;Thiruvananthapuram;;;;;;;;;;;;;;;;;;x;;;
+PROV1317;Kozhikode;;;;;;;;;;;;;;;;;;x;;; 
+PROV1308;Anantapur;;;;;;;;;;;;;;;;;;x;;; 
+PROV1306;Bezawada;;;;;;;;;;;;;;;;;;x;;; 
+PROV1285;Karimnagar;;;;;;;;;;;;;;;;;;x;;;  
+PROV1297;Raigad;;;;;;;;;;;;;;;;;;x;;;  
+PROV2566;Aizawl;;;;;;;;;;;;;;;;;;x;;; 
+PROV1339;Monywa;;;;;;;;;;;;;;;;;;x;;;  
+PROV1227;Lahur;;;;;;;;;;;;;;;;;;x;;;  
 PROV385;Ljouwert;;;;;;;;;x
 PROV540;Varel;;;;;;;;;x
 PROV383;Grins;;;;;;;;;x

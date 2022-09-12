@@ -1,4 +1,4 @@
-capital = 1102
+capital = 1108
 primary_culture = old_persian
 culture = azerbaijani
 religion = zoroastrian

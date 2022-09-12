@@ -1,6 +1,5 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = RDL
+controller = RDL
 add_core = RDL
 add_core = KDS
 trade_goods = iron

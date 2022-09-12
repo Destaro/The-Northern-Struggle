@@ -13,12 +13,12 @@ vassal = {
 	end_date = 1938.1.1
 }
 # Sark-i Rumeli Viyaleti
-#vassal = {
-#	first = RUM
-#	second = BUL
-#	start_date = 1836.1.1
-#	end_date = 1938.1.1
-#}
+vassal = {
+	first = RUM
+	second = WAL
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
 # Ellinikí Dimokratía
 vassal = {
 	first = RUM
@@ -33,13 +33,13 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
-# Serbia
-#vassal = {
-#	first = RUM
-#	second = SER
-#	start_date = 1836.1.1
-#	end_date = 1938.1.1
-#}
+# Moezya Eyaleti
+vassal = {
+	first = RUM
+	second = MOL
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
 # Despotatul Dobrogei
 vassal = {
 	first = RUM
