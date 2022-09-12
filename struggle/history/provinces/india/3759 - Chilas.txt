@@ -1,0 +1,5 @@
+owner = CRL
+controller = CRL
+add_core = CRL
+trade_goods = cotton
+life_rating = 35

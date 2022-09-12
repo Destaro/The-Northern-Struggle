@@ -1,0 +1,44 @@
+political_decisions = {
+
+ great_BOH = {
+        potential = {
+            tag = BDB
+            exists = BOH
+            NOT = { has_country_flag = great_boh }
+            is_vassal = no
+        }
+        allow = {
+		 WEI = { exists = no }
+            prestige = 40
+            war = no
+            BOH = {
+                NOT = {
+                    alliance_with = BRG
+                    in_sphere = BRG
+                }
+            }
+        }
+        effect = {
+            war = {
+                target = BOH
+                attacker_goal = {
+                    casus_belli = acquire_state
+                    state_province_id = 684
+                }
+                attacker_goal = {
+                    casus_belli = acquire_state
+                    state_province_id = 682
+                }
+                attacker_goal = {
+                    casus_belli = acquire_state
+                    state_province_id = 687
+                }
+                defender_goal = { casus_belli = make_puppet }
+            }
+            set_country_flag = great_boh
+        }
+    }
+
+
+
+}

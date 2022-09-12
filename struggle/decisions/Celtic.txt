@@ -1,0 +1,80 @@
+political_decisions = {
+
+form_celts = {
+		potential = {
+			
+			OR = {
+			tag = SCO
+			tag = IRE
+			tag = WLL
+			      }
+			
+			NOT = {
+				
+				exists = CEL
+				has_country_flag = form_celts
+			}
+		}	
+		allow = {
+		
+			war = no
+			IRE = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			SCO = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			
+		}
+		
+		effect = {
+		set_country_flag = form_celts
+		add_accepted_culture = irish
+		add_accepted_culture = scottish
+		add_accepted_culture = welsh
+		add_accepted_culture = breton
+			prestige = 25
+					inherit = SCO
+					inherit = IRE
+					IRE = { all_core = { add_core = THIS } }
+					SCO = { all_core = { add_core = THIS } }
+					WLS = { all_core = { add_core = THIS } }
+					BRT = { all_core = { add_core = THIS } }
+			change_tag = CEL
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+
+
+
+
+
+}
