@@ -783,6 +783,7 @@ french = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}		
+	
 }
 
 south_slavic = {
@@ -1185,6 +1186,7 @@ east_slavic = {
 		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	}
+	union = RUS
 }
 
 baltic = {
@@ -1238,7 +1240,7 @@ baltic = {
 		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
 		}
 	}
-
+   union = UBD
 }
 
 levantine = {

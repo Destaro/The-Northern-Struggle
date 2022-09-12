@@ -150,4 +150,32 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	annex_java = {
+		
+		potential = {
+			
+				is_greater_power = yes
+			
+			exists = JAV
+			JAV = { ai = yes }
+			NOT = { has_global_flag = rajasa_dynasty_over }
+		}
+		allow = {
+		military_score = 100
+			JAV = {
+				in_sphere = THIS
+				civilized = no
+				war = no
+			}
+			invention = mission_to_civilize
+			invention = expansionism
+			war = no
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			inherit = JAV
+			set_global_flag = rajasa_dynasty_over
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

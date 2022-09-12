@@ -4,6 +4,12 @@ VIN = {
 	influence_value = 0
 }
 
+FLA = {	
+	value = 0
+	level = 4
+	influence_value = 0
+}
+
 RPL = {	
 	value = 125
 	level = 5

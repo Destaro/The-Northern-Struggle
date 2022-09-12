@@ -1,3 +1,5 @@
+owner = LUN
+controller = LUN
 add_core = LUN
 terrain = savanna
 trade_goods = grain
