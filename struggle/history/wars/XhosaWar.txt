@@ -1,7 +1,7 @@
 name = "The 6th Xhosa War"
 
 1835.10.2 = {
-	add_attacker = ENG
+	add_attacker = POR
 	add_defender = XHO
 	
 	# actor
@@ -11,19 +11,19 @@ name = "The 6th Xhosa War"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = add_to_sphere
-		actor = ENG
+		actor = POR
 		receiver = XHO
 	}
 	
 	war_goal = {
 		casus_belli = status_quo
 		actor = XHO
-		receiver = ENG
+		receiver = POR
 	}
 
 }
 
 1836.6.6 = {
-	rem_attacker = ENG
+	rem_attacker = POR
 	rem_defender = XHO
 }

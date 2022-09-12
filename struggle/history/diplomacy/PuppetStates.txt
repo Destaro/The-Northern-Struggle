@@ -48,12 +48,6 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-substate = {
-	first = DAI
-	second = GUI
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
 
 # Denmark-Nye Sjaelland
 substate = {
@@ -227,18 +221,26 @@ vassal = {
 #}
 
 ##########################China
-#China - Qinghai
+#Sichuan - Qinghai
 substate = {
-	first = MGL
+	first = SZC
 	second = XBI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-#China - Xinjiang
+#Mongolia - Uygurhistan
 substate = {
 	first = MGL
 	second = UYG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Mongolia - Tumed
+substate = {
+	first = MGL
+	second = XIN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
