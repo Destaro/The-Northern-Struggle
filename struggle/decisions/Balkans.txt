@@ -276,110 +276,109 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 
-	form_czechoslovakia = {
-		potential = {
-			OR = {
-				tag = BOH
-				tag = SLV
-			}
-			NOT = {
-				exists = CZH
-				has_global_flag = czechoslovakia_formed
-			}
-		}
-
-		allow = {
-			war = no
-			owns = 625
-			nationalism_n_imperialism = 1
-			BOH = {
-				OR = {
-					AND = {
-						exists = yes
-						OR = {
-							is_vassal = no
-							vassal_of = THIS
-						}
-						OR = {
-							part_of_sphere = no
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-							has_country_flag = newly_released_nation
-						}
-					}
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = { has_country_flag = newly_released_nation }
-							owner = {
-								is_culture_group = czecho_slovak_culture_group
-								relation = { who = THIS value = 100 }
-							}
-						}
-					}
-				}
-			}
-			SLV = {
-				OR = {
-					AND = {
-						exists = yes
-						OR = {
-							is_vassal = no
-							vassal_of = THIS
-						}
-						OR = {
-							part_of_sphere = no
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-							has_country_flag = newly_released_nation
-						}
-					}
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = { has_country_flag = newly_released_nation }
-							owner = {
-								is_culture_group = czecho_slovak_culture_group
-								relation = { who = THIS value = 100 }
-							}
-						}
-					}
-				}
-			}
-		}
-
-		effect = {
-			set_global_flag = czechoslovakia_formed
-			prestige = 10
-			BOH = { all_core = { add_core = CZH } }
-			SLV = { all_core = { add_core = CZH } }
-			add_accepted_culture = czech
-			add_accepted_culture = slovak
-			change_tag = CZH
-			capital = 625
-			any_country = {
-				limit = {
-					war = no
-					is_culture_group = czecho_slovak_culture_group
-					OR = {
-						in_sphere = THIS
-						sphere_owner = { is_sphere_leader_of = THIS }
-					}
-				}
-				annex_to = THIS
-			}
-			random_country = { 
-				limit = { is_culture_group = czecho_slovak_culture_group part_of_sphere = no is_vassal = no }
-				country_event = 98650
-				}
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	#form_czechoslovakia = {
+	#	potential = {
+	#			tag = BOH
+	#			tag = SLV
+	#		}
+	#		NOT = {
+	#			exists = CZH
+	#			has_global_flag = czechoslovakia_formed
+	#		}
+	#	}
+#
+#		allow = {
+#			war = no
+#			owns = 625
+#			nationalism_n_imperialism = 1
+#			BOH = {
+#				OR = {
+#					AND = {
+#						exists = yes
+#						OR = {
+#							is_vassal = no
+#							vassal_of = THIS
+#						}
+#						OR = {
+#							part_of_sphere = no
+#							in_sphere = THIS
+#							sphere_owner = { is_sphere_leader_of = THIS }
+#							has_country_flag = newly_released_nation
+#						}
+#					}
+#					all_core = {
+#						OR = {
+#							owned_by = THIS
+#							owner = { in_sphere = THIS }
+#							owner = { has_country_flag = newly_released_nation }
+#							owner = {
+#								is_culture_group = czecho_slovak_culture_group
+#								relation = { who = THIS value = 100 }
+#							}
+#						}
+#					}
+#				}
+#			}
+#			SLV = {
+#				OR = {
+#					AND = {
+#						exists = yes
+#						OR = {
+#							is_vassal = no
+#							vassal_of = THIS
+#						}
+#						OR = {
+#							part_of_sphere = no
+#							in_sphere = THIS
+#							sphere_owner = { is_sphere_leader_of = THIS }
+#							has_country_flag = newly_released_nation
+#						}
+#					}
+#					all_core = {
+#						OR = {
+#							owned_by = THIS
+#							owner = { in_sphere = THIS }
+#							owner = { has_country_flag = newly_released_nation }
+#							owner = {
+#								is_culture_group = czecho_slovak_culture_group
+#								relation = { who = THIS value = 100 }
+#							}
+#						}
+#					}
+#				}
+#			}
+#		}
+#
+#		effect = {
+#			set_global_flag = czechoslovakia_formed
+#			prestige = 10
+#			BOH = { all_core = { add_core = CZH } }
+#			SLV = { all_core = { add_core = CZH } }
+#			add_accepted_culture = czech
+#			add_accepted_culture = slovak
+#			change_tag = CZH
+#			capital = 625
+#			any_country = {
+#				limit = {
+#					war = no
+#					is_culture_group = czecho_slovak_culture_group
+#					OR = {
+#						in_sphere = THIS
+#						sphere_owner = { is_sphere_leader_of = THIS }
+#					}
+#				}
+#				annex_to = THIS
+#			}
+#			random_country = { 
+#				limit = { is_culture_group = czecho_slovak_culture_group part_of_sphere = no is_vassal = no }
+#				country_event = 98650
+#				}
+#		}
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#	}
 	
 	end_of_czechoslovakia_bohemia = {
 		picture = form_czechoslovakia
@@ -628,6 +627,22 @@ political_decisions = {
 					war = no
 				}
 			}
+			
+			633 = {
+				owner = {
+					OR = {
+						tag = THIS
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+					NOT = { truce_with = THIS }
+					war = no
+				}
+			}
 		}
 
 		effect = {
@@ -639,7 +654,7 @@ political_decisions = {
 			CRO = { all_core = { add_core = YUG } }
 			BUL = { all_core = { add_core = YUG } }
 			PNN = { all_core = { add_core = YUG } }
-			SLV = { all_core = { remove_core = YUG } }
+			
 			random_owned = {
 				limit = { owner = { accepted_culture = north_italian } }
 				owner = { remove_accepted_culture = north_italian }
@@ -718,7 +733,7 @@ political_decisions = {
 			war = no
 			is_greater_power = yes
 			783 = { NOT = { is_core = THIS } }
-			SER = {
+			MON = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -729,7 +744,7 @@ political_decisions = {
 					}
 				}
 			}
-			BOS = {
+			PNN = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -740,7 +755,7 @@ political_decisions = {
 					}
 				}
 			}
-			CRO = {
+			BUL = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -756,11 +771,11 @@ political_decisions = {
 			set_global_flag = yugoslavia_formed
 			prestige = 20
 			badboy = 2
-			SER = { all_core = { add_core = YUG } }
+			BUL = { all_core = { add_core = YUG } }
 			MON = { all_core = { add_core = YUG } }
 			CRO = { all_core = { add_core = YUG } }
 			BOS = { all_core = { add_core = YUG } }
-			SLO = { all_core = { add_core = YUG } }
+			PNN = { all_core = { add_core = YUG } }
 			TUR_853 = { add_core = YUG }
 			YUG = {
 				add_accepted_culture = montenegrin
@@ -773,7 +788,8 @@ political_decisions = {
 						tag = CRO
 						tag = BOS
 						tag = SLO
-						tag = ALB
+						tag = PNN
+						tag = BUL
 					}
 					ai = yes
 					in_sphere = THIS

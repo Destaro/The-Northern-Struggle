@@ -1,7 +1,9 @@
-owner = MUG
-controller = MUG
+owner = AWA
+controller = AWA
 add_core = MUG
 add_core = PNJ
 trade_goods = fruit
 life_rating = 40
 terrain = delhi
+
+add_core = AWA

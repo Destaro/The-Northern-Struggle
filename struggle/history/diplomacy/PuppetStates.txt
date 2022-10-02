@@ -26,13 +26,7 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-#Mittelafrika
-substate = {
-	first = GER
-	second = MIT
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
+
 
 #Afghanistan
 substate = {
@@ -105,6 +99,14 @@ vassal = {
 vassal = {
 	first = AUS
 	second = LIE
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+#austria-franconia
+vassal = {
+	first = AUS
+	second = FRE
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }

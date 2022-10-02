@@ -5,3 +5,5 @@ add_core = UKR
 trade_goods = coal
 life_rating = 35
 naval_base = 1
+
+add_core = RUT

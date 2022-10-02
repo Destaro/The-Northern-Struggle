@@ -179,6 +179,7 @@
 		
 		effect = {
 			prestige = 20
+			set_global_flag = scandinavian_formation
 			all_core = { add_core = SCA remove_core = THIS }
 			change_tag = SCA
 			political_reform = federalism

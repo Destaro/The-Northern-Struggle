@@ -72,9 +72,22 @@ form_celts = {
 
 
 
-
-
-
-
+claim_all_of_britain = {
+        potential = {
+                tag = CEL
+				NOT = { has_country_flag = claim_all_of_britain }
+        }
+         allow = { 
+		 war = no
+		 ENL = { all_core = { owned_by THIS } }
+		 }
+           effect = {
+		   set_country_flag = claim_all_of_britain
+		   prestige = 30
+		   ENL = { all_core = { add_core = THIS } }
+		   }
+		   
+		   
+		}
 
 }

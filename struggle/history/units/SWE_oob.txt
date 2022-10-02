@@ -6,9 +6,21 @@ BDB = {
 	influence_value = 0
 }
 
+NOR = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
 IZH = {	
 	value = 125
 	level = 5
+	influence_value = 0
+}
+
+FRI = {	
+	value = 25
+	level = 3
 	influence_value = 0
 }
 
