@@ -11718,3 +11718,362 @@
 	}
 
 }
+
+#staraya russa
+3734 = {
+	aristocrats = {
+		culture = novgorodian
+		religion = orthodox
+		size = 2500
+	}
+
+	clergymen = {
+		culture = novgorodian
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = novgorodian
+		religion = orthodox
+		size = 2350
+	}
+
+	soldiers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 1600
+	}
+
+	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 16975
+	}
+
+	serfs = {
+		culture = novgorodian
+		religion = orthodox
+		size = 42000
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 40
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 130
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 8925
+	}
+}
+
+#porchow
+3560 = {
+	aristocrats = {
+		culture = novgorodian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = novgorodian
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = novgorodian
+		religion = orthodox
+		size = 350
+	}
+
+	soldiers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 600
+	}
+
+	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 10975
+	}
+
+	serfs = {
+		culture = novgorodian
+		religion = orthodox
+		size = 22000
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 525
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 940
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 730
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 8925
+	}
+	
+	farmers = {
+		culture = latvian
+		religion = protestant
+		size = 14925
+	}
+}
+
+#kholm
+3735 = {
+	aristocrats = {
+		culture = novgorodian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = novgorodian
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = novgorodian
+		religion = orthodox
+		size = 350
+	}
+
+	soldiers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 600
+	}
+
+	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 10975
+	}
+
+	serfs = {
+		culture = novgorodian
+		religion = orthodox
+		size = 12000
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 340
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 530
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 8925
+	}
+	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 14925
+	}
+}
+
+
+#toropets 
+3559 = {
+	aristocrats = {
+		culture = novgorodian
+		religion = orthodox
+		size = 1700
+	}
+
+	clergymen = {
+		culture = novgorodian
+		religion = orthodox
+		size = 950
+	}
+
+	artisans = {
+		culture = novgorodian
+		religion = orthodox
+		size = 4500
+	}
+
+	soldiers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 18850
+	}
+	
+	serfs = {
+		culture = novgorodian
+		religion = orthodox
+		size = 20000
+	}
+	
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 550
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 2100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 30250
+	}
+}
+
+
+#starodub
+3561 = {
+	aristocrats = {
+		culture = byelorussian
+		religion = orthodox
+		size = 1700
+	}
+
+	clergymen = {
+		culture = byelorussian
+		religion = orthodox
+		size = 950
+	}
+
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 4500
+	}
+
+	soldiers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 18850
+	}
+	
+	serfs = {
+		culture = byelorussian
+		religion = orthodox
+		size = 20000
+	}
+	
+	serfs = {
+		culture = byelorussian
+		religion = orthodox
+		size = 10000
+	}
+
+	clergymen = {
+		culture = byelorussian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 550
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 2100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 30250
+	}
+}

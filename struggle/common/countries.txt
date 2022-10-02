@@ -20,6 +20,7 @@ BOR		="countries/The Kingdom of France.txt"
 ###TNS NEW NATIONS###
 ALN = "countries/Alania.txt"
 CEL = "countries/CEL.txt"
+NEM = "countries/NEM.txt"
 SWN = "countries/SWN.txt"
 DKN = "countries/DKN.txt"
 LUS = "countries/LUS.txt"

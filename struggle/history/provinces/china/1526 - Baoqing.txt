@@ -1,6 +1,6 @@
-owner = DAI
-controller = DAI
-add_core = DAI
+owner = GUI
+controller = GUI
+add_core = GUI
 add_core = CHI
 trade_goods = timber
 life_rating = 32

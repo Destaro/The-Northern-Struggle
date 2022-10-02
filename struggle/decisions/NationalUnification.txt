@@ -439,6 +439,17 @@ political_decisions = {
 			FRA_412 = { add_core = GER }
 			remove_country_modifier = zollervein
 			change_tag = GER
+			add_core = 575
+		add_core = 3378
+		add_core = 572
+		add_core = 574
+		add_core = 570
+		add_core = 571
+		add_core = 3254
+		add_core = 3563
+		add_core = 409
+		add_core = 410
+		add_core = 604
 			add_accepted_culture = north_german
 			add_accepted_culture = south_german
 			add_accepted_culture = siebenburger

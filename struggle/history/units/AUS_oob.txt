@@ -14,6 +14,12 @@ FRE = {
 	influence_value = 0
 }
 
+FRE = {	
+	value = 25
+	level = 3
+	influence_value = 0
+}
+
 
 WEI = {
 	value = 125

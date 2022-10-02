@@ -1,5 +1,6 @@
 owner = MGL
 controller = MGL
 add_core = MGL
+add_core = IMG
 trade_goods = cotton
 life_rating = 32

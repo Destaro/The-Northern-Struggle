@@ -1,6 +1,7 @@
-owner = ULA
-controller = ULA
+owner = USA
+controller = USA
 add_core = ULA
+add_core = USA
 trade_goods = tobacco
 life_rating = 35
 

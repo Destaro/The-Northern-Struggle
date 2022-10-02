@@ -47,13 +47,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 250
+		size = 5250
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 20625
+		size = 15625
 	}
 	
 	farmers = {
@@ -821,13 +821,13 @@
 	soldiers = {
 		culture = dalmatian
 		religion = catholic
-		size = 350
+		size = 4350
 	}
 
 	farmers = {
 		culture = dalmatian
 		religion = catholic
-		size = 23250
+		size = 25250
 	}
 	
 	farmers = {

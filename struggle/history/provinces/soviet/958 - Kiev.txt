@@ -10,3 +10,5 @@ terrain = kiev
 #	building = glass_factory
 #	upgrade = yes
 #}
+
+add_core = RUS

@@ -1,14 +1,12 @@
 capital = 1064
-primary_culture = russian
-culture = byelorussian
-culture = ukrainian
-culture = siberian
-religion = orthodox
-government = democracy
+primary_culture = siberian
+culture = tatar
+religion = animist
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.01
-civilized = yes
+
 
 # Political reforms
 slavery = no_slavery
@@ -39,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = orthodox_country
+set_country_flag = animist_country
 
 ruling_party = SIB_conservative
 upper_house = {

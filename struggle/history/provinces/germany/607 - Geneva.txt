@@ -1,5 +1,5 @@
-owner = BAD
-controller = BAD
+owner = NCT
+controller = NCT
 add_core = BRG
 add_core = NCT
 trade_goods = grain
@@ -13,6 +13,3 @@ party_loyalty = {
 	loyalty_value = 25
 }
 1861.1.1 = { railroad = 1 }
-
-add_core = BAD
-add_core = GER

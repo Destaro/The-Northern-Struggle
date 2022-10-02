@@ -353,7 +353,7 @@ LIB_fascist;Fascist Party;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BAY_reactionary;Ultramontanismus Faction;;;;;;;;;;;;;;;;;;;x;;;;
 BHP;Bahawalpur;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BHP_ADJ;Punjabi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-WEI;Saxe-Weimar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+WEI;Thuringen;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ENG_fascist_dictatorship;The Union of Britain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_democracy;The British Commonwealth;;;;;;;;;;;;;;;;;x;
 ENG_presidential_dictatorship;The British Commonwealth;;;;;;;;;;;;;;;;;x;
@@ -2578,12 +2578,12 @@ UOR_socialist;Socialist Party;;;;;;;;;;;;;x
 UOR_communist;Communist Party;;;;;;;;;;;;;x
 UOR_fascist;Cascadians;;;;;;;;;;;;;x
 URA;Ural Republic;;;;;;;;;;;;;x
-URA_absolute_monarchy;Ural State;;;;;;;;;;;;;x
-URA_prussian_constitutionalism;Ural State;;;;;;;;;;;;;x
-URA_hms_government;Ural State;;;;;;;;;;;;;x
-URA_democracy;Ural Free State;;;;;;;;;;;;;x
+URA_absolute_monarchy;Sibir;;;;;;;;;;;;;x
+URA_prussian_constitutionalism;Sibir;;;;;;;;;;;;;x
+URA_hms_government;Sibir;;;;;;;;;;;;;x
+URA_democracy;Siberian Republic;;;;;;;;;;;;;x
 URA_proletarian_dictatorship;Ural People's Republic;;;;;;;;;;;;;x
-URA_ADJ;Ural;;;;;;;;;;;;;x
+URA_ADJ;Siberian;;;;;;;;;;;;;x
 URA_conservative;Slavophile;Slavophile;Slawophile;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_liberal;Westerniser;Westerniser;Westler;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_communist;Social Democratic;Social-démocrate;Social Democratic;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2663,8 +2663,8 @@ WAS_reactionary;Radical Nationalists;Radical Nationalists;Radical Nationalists;;
 WAS_reactionary_2;Country Party;Country Party;Country Party;;;;;;;;;;;x
 WAS_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
 WAS_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x
-WES;Westfalen;;;;;;;;;;;;;x;
-WES_ADJ;Westphalian ;;;;;;;;;;;;;;x
+WES;Kingdom of Saxony;;;;;;;;;;;;;x;
+WES_ADJ;Saxon;;;;;;;;;;;;;;x
 WES_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;;;;;;x;;;;;;;;;;;;;;

@@ -26,13 +26,7 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-#Mittelafrika
-substate = {
-	first = GER
-	second = MIT
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
+
 
 #Afghanistan
 substate = {
@@ -45,20 +39,6 @@ substate = {
 substate = {
 	first = DAI
 	second = FJN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-#spain-vandalica
-substate = {
-	first = SPA
-	second = VND
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-substate = {
-	first = DAI
-	second = GUI
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -93,15 +73,6 @@ vassal = {
 	end_date = 1850.1.1
 }
 
-#austria - franconia
-vassal = {
-	first = AUS
-	second = FRE
-	start_date = 1815.1.1
-	end_date = 1950.1.1
-}
-
-
 #Monaco
 vassal = {
 	first = SVY
@@ -132,6 +103,14 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+#austria-franconia
+vassal = {
+	first = AUS
+	second = FRE
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
 #Liechenstein
 vassal = {
 	first = PNJ
@@ -157,16 +136,6 @@ vassal = {
 	end_date = 1944.1.1
 }
 
-#Portugal-brazil
-vassal = {
-	first = POR
-	second = BRZ
-	start_date = 1815.1.1
-	end_date = 1963.1.1
-}
-
-
-
 #Sweden-Finland
 vassal = {
 	first = SWE
@@ -187,14 +156,6 @@ vassal = {
 vassal = {
 	first = SWE
 	second = IRE
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-#Sweden-kuba
-vassal = {
-	first = SWE
-	second = CUB
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -222,44 +183,6 @@ vassal = {
 #	start_date = 1808.1.1
 #	end_date = 1936.1.1
 #}
-
-#congo - substates
-
-substate = {
-	first = KON
-	second = MNG
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = KON
-	second = LBA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = KON
-	second = LUN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = KON
-	second = LOA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-#cartage - trarza
-substate = {
-	first = TUN
-	second = TRZ
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
 
 ##Substates of the Argentine Confederation
 substate = {
@@ -300,18 +223,26 @@ vassal = {
 #}
 
 ##########################China
-#China - Qinghai
+#Sichuan - Qinghai
 substate = {
-	first = MGL
+	first = SZC
 	second = XBI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-#China - Xinjiang
+#Mongolia - Uygurhistan
 substate = {
 	first = MGL
 	second = UYG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Mongolia - Tumed
+substate = {
+	first = MGL
+	second = XIN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

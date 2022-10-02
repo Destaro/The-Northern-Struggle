@@ -4314,3 +4314,50 @@ country_event = {
 		}
 	}
 }
+
+
+
+
+
+
+
+country_event = {
+	id = 900
+	title = "EVTNAME900" #brazil decides to submit to iberia
+	desc = "EVTDESC900"
+	picture = "carlistas_en_miranda"
+
+	trigger = {
+	tag = BRZ
+	has_global_flag = create_iberia
+	POR = { all_core = { owned_by = IBR } }
+	}
+	
+	
+		
+	option = {
+		name = "EVT900PTA"
+		IBR = { create_vassal = BRZ }
+		set_global_flag = brazil_submits
+		prestige = -50
+		ai_chance = {
+			factor = 50
+		                  }
+		}
+		
+		option = {
+		name = "EVT901PTA"
+		set_global_flag = brazil_refuses_the_spanish
+		prestige = 30
+		relation = { who = IBR value = -200 }
+		IBR = { add_casus_belli = {
+				target = BRZ
+				type = make_puppet
+				months = 12
+			}
+		}
+		ai_chance = {
+			factor = 50
+		                  }
+		}
+}

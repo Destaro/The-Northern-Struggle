@@ -1,6 +1,6 @@
 owner = JAP
 controller = JAP
 add_core = KAG
-add_core = TKG
+add_core = JAP
 trade_goods = tea
 life_rating = 35

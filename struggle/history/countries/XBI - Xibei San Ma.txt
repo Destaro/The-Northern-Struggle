@@ -1,7 +1,7 @@
-capital = 1557
-primary_culture = beifaren
-culture = hanhui
-religion = sunni
+capital = 3688
+primary_culture = amdo
+culture = kham
+religion = gelugpa
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition

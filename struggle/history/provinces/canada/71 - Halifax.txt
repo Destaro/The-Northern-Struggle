@@ -1,5 +1,5 @@
 owner = NEN
-controller = NEN
+controller = DEN
 add_core = NEN
 add_core = ACA
 add_core = MRU

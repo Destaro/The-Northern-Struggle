@@ -1011,7 +1011,7 @@
 		religion = catholic
 		size = 10000
 	}
-
+	
 	artisans = {
 		culture = venetian
 		religion = catholic
@@ -1029,6 +1029,8 @@
 		religion = catholic
 		size = 10000
 	}
+
+	
 
 	artisans = {
 		culture = venetian
@@ -1039,7 +1041,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 1150
+		size = 15150
 	}
 
 	farmers = {
@@ -1091,6 +1093,8 @@
 		religion = catholic
 		size = 10000
 	}
+	
+	
 
 	artisans = {
 		culture = venetian
@@ -1308,13 +1312,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 1400
+		size = 21400
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 127775
+		size = 107775
 	}
 }
 #Treviso (232000/58000 POPS)

@@ -1,6 +1,8 @@
-owner = DEN
-controller = DEN
-add_core = KNT
+owner = USA
+
+controller = USA
+
+add_core = USA
 trade_goods = tobacco
 life_rating = 35
 

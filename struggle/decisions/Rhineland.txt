@@ -4,13 +4,14 @@ become_rhine = {
         potential = {
 		OR = {
             tag = WES
+			tag = BAD
 			
 			}
             NOT = { exists = RHI }
         }
 
         allow = {
-            prestige = 45
+            prestige = 65
             war = no
             WES = {
                 all_core = {
@@ -33,6 +34,17 @@ become_rhine = {
 
         effect = {
 		add_core = 543
+		add_core = 575
+		add_core = 3378
+		add_core = 572
+		add_core = 574
+		add_core = 570
+		add_core = 571
+		add_core = 3254
+		add_core = 3563
+		add_core = 409
+		add_core = 410
+		add_core = 604
 		add_core = 383
 		add_core = 385
 		add_core = 386
@@ -41,17 +53,61 @@ become_rhine = {
 		add_core = 377 
 		add_core = 376
 		add_core = 375
-           WES = { all_core = { add_core = THIS } }
-		   BAD = { all_core = { add_core = THIS } }
-		   add_accepted_culture = north_german
+		add_accepted_culture = north_german
+			add_accepted_culture = south_german
+           any_country = {
+				limit = {
+					OR = {
+						tag = WES
+						tag = BAD 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GER
+				}
+				add_core = RHI
+			}			
+			change_tag = RHI
+        }
+        ai_will_do = { factor = 1 }
+    }
+	
+	
+	
+	
+	saxon_offense = {
+        potential = {
+		
+            tag = WES
+			
+			
+			
+            NOT = { has_country_flag = saxon_offense }
+        }
 
-            add_accepted_culture = south_german
-            prestige = 30
-            change_tag = RHI
-            any_owned = {
-                limit = { is_core = GER }
-                add_core = RHI
-            }
+        allow = {
+            
+            war = no
+			has_country_flag = rhenish_troubles
+			state_n_government = 1
+          
+        }
+
+        effect = {
+		set_country_flag = saxon_offense
+		country_event = {
+	id = 701
+	days = 1
+}
+		badboy = 2
+		
         }
         ai_will_do = { factor = 1 }
     }
