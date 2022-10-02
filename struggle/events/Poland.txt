@@ -1,0 +1,1380 @@
+#polish internal struggles - economic support 
+country_event = {
+
+	id = 750
+    trigger = {
+	year = 1838
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	NOT = { 
+	has_global_flag = support_prusy_economy
+	has_global_flag = support_galicia_economy
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = galicia_rejected_economy
+	                  }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME750"
+	desc = "EVTDESC750"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA750" 
+		set_global_flag = support_prusy_economy
+		set_global_flag = galicia_rejected_economy
+		PRD = { treasury = 10000 }
+		POL = { treasury = -10000 }
+			relation = {
+			who = PRD
+			value = 50 
+		}
+		
+		relation = {
+			who = CPL
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	option = {
+		name = "EVTOPTA751" 
+		set_global_flag = support_galicia_economy
+		set_global_flag = prusy_rejected_economy
+		CPL = { treasury = 10000 }
+		POL = { treasury = -10000 }
+			relation = {
+			who = CPL
+			value = 50 
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA752" 
+		set_global_flag = support_neither_economic
+		set_global_flag = prusy_rejected_double_first
+		set_global_flag = galicia_rejected_double_first
+		
+		POL = { treasury = 10000 }
+			relation = {
+			who = CPL
+			value = -75
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	
+	
+}
+
+
+# military support 
+
+country_event = {
+
+	id = 751
+    trigger = {
+	year = 1839
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	NOT = { 
+	has_global_flag = support_prusy_military
+	has_global_flag = support_galicia_military
+	has_global_flag = prusy_rejected_military
+	has_global_flag = galicia_rejected_military
+	                  }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME751"
+	desc = "EVTDESC751"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA753" 
+		set_global_flag = support_prusy_military
+		set_global_flag = galicia_rejected_military
+		PRD = { trade_goods = { ammunition = 500 } }
+		PRD = { trade_goods = { small_arms = 500 } }
+		POL = { treasury = -5000 }
+			relation = {
+			who = PRD
+			value = 50 
+		}
+		
+		relation = {
+			who = CPL
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	option = {
+		name = "EVTOPTA754" 
+		set_global_flag = support_galicia_military
+		set_global_flag = prusy_rejected_military
+		CPL = { trade_goods = { ammunition = 500 } }
+		CPL = { trade_goods = { small_arms = 500 } }
+		POL = { treasury = -5000 }
+			relation = {
+			who = CPL
+			value = 50 
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA755" 
+		set_global_flag = support_neither_military
+		set_global_flag = prusy_rejected_double_second
+		set_global_flag = galicia_rejected_double_second
+		
+		POL = { treasury = 10000 }
+			relation = {
+			who = CPL
+			value = -75
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	
+	
+}
+
+
+# industrial support 
+
+country_event = {
+
+	id = 752
+    trigger = {
+	year = 1840
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	NOT = { 
+	has_global_flag = support_prusy_industrial
+	has_global_flag = support_galicia_industrial
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = galicia_rejected_industrial
+	                  }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME752"
+	desc = "EVTDESC752"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA756" 
+		set_global_flag = support_prusy_industrial
+		set_global_flag = galicia_rejected_industrial
+		PRD = { build_factory_in_capital_state = canned_food_factory }
+		POL = { treasury = -5000 }
+			relation = {
+			who = PRD
+			value = 50 
+		}
+		
+		relation = {
+			who = CPL
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	option = {
+		name = "EVTOPTA757" 
+		set_global_flag = support_galicia_industrial
+		set_global_flag = prusy_rejected_industrial
+		CPL = { build_factory_in_capital_state = steel_factory }
+		POL = { treasury = -5000 }
+			relation = {
+			who = CPL
+			value = 50 
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA758" 
+		set_global_flag = support_neither_industrial
+		set_global_flag = prusy_rejected_double_third
+		set_global_flag = galicia_rejected_double_third
+		
+		POL = { treasury = 10000 }
+			relation = {
+			who = CPL
+			value = -75
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	
+	
+}
+
+# more economic support 
+
+country_event = {
+
+	id = 753
+    trigger = {
+	year = 1841
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	NOT = { 
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = galicia_rejected_economy_second
+	                  }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME753"
+	desc = "EVTDESC753"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA759" 
+		set_global_flag = support_prusy_economy_second
+		set_global_flag = galicia_rejected_economy_second
+		PRD = { trade_goods = 10000 }
+		POL = { trade_goods = -10000 }
+			relation = {
+			who = PRD
+			value = 50 
+		}
+		
+		relation = {
+			who = CPL
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	option = {
+		name = "EVTOPTA760" 
+		set_global_flag = support_galicia_economy_second
+		set_global_flag = prusy_rejected_economy_second
+		CPL = { treasury = 10000 }
+		POL = { treasury = -10000 }
+			relation = {
+			who = CPL
+			value = 50 
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA761" 
+		set_global_flag = support_neither_economic_second
+		set_global_flag = prusy_rejected_double_fourth
+		set_global_flag = galicia_rejected_double_fourth
+		
+		POL = { treasury = 10000 }
+			relation = {
+			who = CPL
+			value = -75
+		}
+		
+		relation = {
+			who = PRD
+			value = -75 
+		}
+		
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	
+	
+	
+}
+
+
+#polish internal struggles - result 3way civil war
+country_event = {
+
+	id = 777
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	has_global_flag = galicia_rejected_double_first
+	has_global_flag = galicia_rejected_double_second
+	has_global_flag = galicia_rejected_double_third
+	has_global_flag = galicia_rejected_double_fourth
+	has_global_flag = prusy_rejected_double_first
+	has_global_flag = prusy_rejected_double_second
+	has_global_flag = prusy_rejected_double_third
+	has_global_flag = prusy_rejected_double_fourth
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME777"
+	desc = "EVTDESC777"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA777" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		release_vassal = PRD 
+		 
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+		
+		
+		
+		
+			relation = {
+			who = PRD
+			value = -200
+		}
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+#polish internal struggles - peace and unification first possibility
+country_event = {
+
+	id = 780
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = support_galicia_economy
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = support_galicia_industrial
+	has_global_flag = support_galicia_military
+	has_global_flag = prusy_rejected_military
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = galicia_rejected_economy_second
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME780"
+	desc = "EVTDESC780"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA780" 
+		set_global_flag = polish_unification
+		inherit = CPL 
+		inherit = PRD 
+		
+		
+		
+			prestige = 30
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - peace and unification second possibility
+country_event = {
+
+	id = 781
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	has_global_flag = support_prusy_economy
+	has_global_flag = galicia_rejected_economy
+	has_global_flag = support_prusy_industrial
+	has_global_flag = galicia_rejected_industrial
+	has_global_flag = support_prusy_military
+	has_global_flag = galicia_rejected_military
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = prusy_rejected_economy_second
+	
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME781"
+	desc = "EVTDESC781"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA781" 
+		set_global_flag = polish_unification
+		inherit = CPL 
+		inherit = PRD 
+		
+		
+		
+			prestige = 30
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+#polish internal struggles - result galicia rebels 1st positibily
+country_event = {
+
+	id = 800
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	OR = { has_global_flag = support_prusy_economy
+	has_global_flag = support_neither_economic }
+	OR = { has_global_flag = support_prusy_industrial
+	has_global_flag = support_neither_industrial }
+	OR = { has_global_flag = support_prusy_military
+	has_global_flag = support_neither_military }
+	OR = {has_global_flag = support_prusy_economy_second
+	has_global_flag = support_neither_economic_second }
+	OR = { has_global_flag = galicia_rejected_economy
+	has_global_flag = support_neither_economic }
+	OR = { has_global_flag = galicia_rejected_economy_second
+	has_global_flag = support_neither_economic_second }
+	OR = { has_global_flag = galicia_rejected_industrial
+	has_global_flag = support_neither_industrial }
+	OR = { has_global_flag = galicia_rejected_military
+	has_global_flag = support_neither_military }
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME800"
+	desc = "EVTDESC800"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA800" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		
+		
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+#polish internal struggles - result galicia rebels 2nd positibily
+country_event = {
+
+	id = 801
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = support_prusy_economy
+	has_global_flag = support_prusy_industrial
+	has_global_flag = support_prusy_military
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = galicia_rejected_economy
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = galicia_rejected_industrial
+	has_global_flag = galicia_rejected_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME801"
+	desc = "EVTDESC801"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA801" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		
+		
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result galicia rebels 3rd positibily
+country_event = {
+
+	id = 802
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = support_prusy_industrial
+	has_global_flag = support_prusy_military
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = support_galicia_economy
+	has_global_flag = galicia_rejected_economy_second
+	has_global_flag = galicia_rejected_industrial
+	has_global_flag = galicia_rejected_military
+	OR = { AND = { has_global_flag = support_neither_economic } }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME802"
+	desc = "EVTDESC802"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA802" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		
+		
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result galicia rebels 4th positibily
+country_event = {
+
+	id = 803
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = support_prusy_economy
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = support_prusy_military
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = galicia_rejected_economy
+	has_global_flag = galicia_rejected_economy_second
+	has_global_flag = support_galicia_industrial
+	has_global_flag = galicia_rejected_military
+	OR = { AND = { has_global_flag = support_neither_industrial } }
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME803"
+	desc = "EVTDESC803"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA803" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		
+		
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result galicia rebels 5td positibily
+country_event = {
+
+	id = 804
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = support_prusy_industrial
+	has_global_flag = prusy_rejected_military
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = support_galicia_economy
+	has_global_flag = galicia_rejected_economy_second
+	has_global_flag = galicia_rejected_industrial
+	has_global_flag = support_galicia_military
+	OR = { AND = { has_global_flag = support_neither_military } }
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME804"
+	desc = "EVTDESC804"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA804" 
+		set_global_flag = polish_civil_war
+		release_vassal = CPL 
+		
+		
+		
+		war = {
+	target = CPL
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = CPL
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result prusy rebels 1st positibily
+country_event = {
+
+	id = 850
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = prusy_rejected_military
+	has_global_flag = support_galicia_economy
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = support_galicia_industrial
+	has_global_flag = support_galicia_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME850"
+	desc = "EVTDESC850"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA850" 
+		set_global_flag = polish_civil_war
+		release_vassal = PRD
+		
+		
+		
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = PRD
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+#polish internal struggles - result prusy rebels 2nd positibily
+country_event = {
+
+	id = 851
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = support_galicia_economy
+	has_global_flag = support_galicia_industrial
+	has_global_flag = support_galicia_military
+	has_global_flag = support_prusy_economy_second
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = galicia_rejected_economy_second
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = prusy_rejected_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME851"
+	desc = "EVTDESC851"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA851" 
+		set_global_flag = polish_civil_war
+		release_vassal = PRD
+		
+		
+		
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = PRD
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result prusy rebels 3rd positibily
+country_event = {
+
+	id = 852
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = support_prusy_economy
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = prusy_rejected_military
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = galicia_rejected_economy
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = support_galicia_industrial
+	has_global_flag = support_galicia_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME852"
+	desc = "EVTDESC852"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA852" 
+		set_global_flag = polish_civil_war
+		release_vassal = PRD
+		
+		
+		
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = PRD
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result prusy rebels 4th positibily
+country_event = {
+
+	id = 853
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = support_prusy_industrial
+	has_global_flag = prusy_rejected_military
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = support_galicia_economy
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = galicia_rejected_industrial
+	has_global_flag = support_galicia_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME853"
+	desc = "EVTDESC853"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA853" 
+		set_global_flag = polish_civil_war
+		release_vassal = PRD
+		
+		
+		
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = PRD
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+#polish internal struggles - result prusy rebels 5td positibily
+country_event = {
+
+	id = 854
+    trigger = {
+	year = 1842
+	tag = POL
+	war = no
+	exists = CPL
+	exists = PRD
+	
+	has_global_flag = prusy_rejected_economy
+	has_global_flag = prusy_rejected_industrial
+	has_global_flag = support_prusy_military
+	has_global_flag = prusy_rejected_economy_second
+	has_global_flag = support_galicia_economy
+	has_global_flag = support_galicia_economy_second
+	has_global_flag = support_galicia_industrial
+	has_global_flag = galicia_rejected_military
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME854"
+	desc = "EVTDESC854"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA854" 
+		set_global_flag = polish_civil_war
+		release_vassal = PRD
+		
+		
+		
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = conquest
+	 }
+	defender_goal = { 
+	casus_belli = status_quo }
+	
+}
+
+
+		
+		
+			
+		
+		relation = {
+			who = PRD
+			value = -200 
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
