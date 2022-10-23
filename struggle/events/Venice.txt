@@ -39,7 +39,7 @@ country_event = {
 	casus_belli = conquest
 	 }
 	defender_goal = { 
-	casus_belli = status_quo }
+	casus_belli = acquire_all_cores }
 	
 }
 
@@ -87,7 +87,7 @@ country_event = {
     trigger = {
 	has_global_flag = papal_war
 	tag = SVY
-	war = no
+	
 	3612 = {
 	   owned_by = LOM 
 	                  }
@@ -158,7 +158,7 @@ country_event = {
 
 	id = 511
     trigger = {
-	year = 1842
+	year = 1850
 	tag = LOM
 	war = no
 	3622 = {
@@ -176,7 +176,7 @@ country_event = {
 	fire_only_once = yes
  
 	mean_time_to_happen =  {
-		months = 1
+		months = 60
 
 		
 	}
@@ -252,7 +252,7 @@ country_event = {
 
 	id = 512
     trigger = {
-	year = 1843
+	
 	tag = VEN
 	war = no
 	has_global_flag = papal_war
@@ -292,7 +292,7 @@ country_event = {
 		war = {
 	target = AQU
 	attacker_goal = { 
-	casus_belli = restore_order
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -308,7 +308,8 @@ war = {
 	
 	                    }
 	defender_goal = { 
-	casus_belli = humiliate
+	casus_belli = liberate_country
+	country = DLM
 	                        }
 	
              }
@@ -437,6 +438,336 @@ country_event = {
 		
 		ai_chance = {
 			factor = 40
+		}
+	}
+	
+}
+
+
+
+#victory over the pope
+country_event = {
+
+	id = 520
+    trigger = {
+	
+	tag = LOM
+	war = no
+	has_global_flag = papal_war
+	
+	743 = {
+	   owned_by = LOM
+	                  }
+	
+	
+	
+                   
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME520"
+	desc = "EVTDESC520"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA520" 
+		set_global_flag = victory_over_the_pope
+		
+		
+		
+		
+		743 = { secede_province = LOM }
+		3622 = { secede_province = LOM }
+		3621 = { secede_province = SVY }
+		3620 = { secede_province = SVY }
+		752 = { secede_province = SVY }
+        
+
+
+
+
+		relation = {
+			who = PAP
+			value = -200 
+		}
+		
+			
+		
+		
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	
+	
+	
+}
+
+
+#cisalpina punishes savoy
+country_event = {
+
+	id = 521
+    trigger = {
+	
+	tag = LOM
+	war = no
+	has_global_flag = padanian_war
+	has_global_flag = victory_over_the_pope
+	3612 = {
+	   owned_by = SVY
+	                  }
+	
+	
+                   
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 12
+
+		
+	}
+
+	title = "EVTNAME521"
+	desc = "EVTDESC521"
+	picture = "Mozart"
+
+	option = {
+		name = "EVTOPTA521" 
+		set_global_flag = savoy_refuses_to_pay
+		
+		
+		
+		
+		war = {
+	target = SVY
+	attacker_goal = { 
+	casus_belli = make_puppet
+	
+	 }
+	 
+	 attacker_goal = { 
+	
+	
+	casus_belli = acquire_state
+	country = SVY
+	state_province_id = 473
+	
+	 }
+	 
+	defender_goal = { 
+	casus_belli = acquire_state
+	country = LOM
+	state_province_id = 724
+	        }
+			
+	defender_goal = { 
+	casus_belli = acquire_state
+	country = LOM
+	state_province_id = 3524
+	 }
+	 defender_goal = { 
+	casus_belli = acquire_state
+	country = LOM
+	state_province_id = 722
+	                         }
+	
+}
+
+
+
+
+		relation = {
+			who = SVY
+			value = -200 
+		}
+		
+			
+		
+		
+		
+		ai_chance = {
+			factor = 70
+		}
+	}
+	
+	
+	option = {
+		name = "EVTOPTA522" 
+		set_global_flag = cisalpina_honored
+		LOM = { create_vassal = SVY }
+		725 = { secede_province = LOM }
+		3642 = { secede_province = LOM }
+		3630 = { secede_province = LOM }
+		472 = { secede_province = LOM }
+		3629 = { secede_province = LOM }
+        471 = { secede_province = LOM }
+        470 = { secede_province = LOM }
+
+
+		relation = {
+			who = SVY
+			value = 200 
+		}
+		
+			
+		
+		
+		
+		ai_chance = {
+			factor = 30
+		}
+	}
+	
+}
+
+#cisalpina takes the savoyan coast
+country_event = {
+
+	id = 522
+    trigger = {
+	
+	tag = LOM
+	war = no
+	has_global_flag = padanian_war
+	has_global_flag = victory_over_the_pope
+	has_global_flag = savoy_refuses_to_pay
+	473 = {
+	   owned_by = LOM
+	                  }
+
+	
+	NOT = {
+	 has_global_flag = cisalpina_honored
+	}
+                   
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME523"
+	desc = "EVTDESC523"
+	picture = "Mozart"
+
+	
+	
+	
+	option = {
+		name = "EVTOPTA523" 
+		set_global_flag = cisalpina_honored
+		LOM = { create_vassal = SVY }
+		725 = { secede_province = LOM }
+		3642 = { secede_province = LOM }
+		3630 = { secede_province = LOM }
+		472 = { secede_province = LOM }
+		3629 = { secede_province = LOM }
+        471 = { secede_province = LOM }
+        470 = { secede_province = LOM }
+        3251 = { secede_province = LOM }
+
+		relation = {
+			who = SVY
+			value = -100 
+		}
+		
+			
+		
+		
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+}
+
+
+#burgundy seizes north savoy
+country_event = {
+
+	id = 530
+    trigger = {
+	
+	tag = BRG
+	war = no
+	
+	has_global_flag = cisalpina_honored
+	470 = {
+	   owned_by = LOM
+	                  }
+
+	
+	NOT = {
+	 has_global_flag = burgundy_seizes_north_savoy
+	}
+                   
+	
+	}
+	
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+		
+	}
+
+	title = "EVTNAME530"
+	desc = "EVTDESC530"
+	picture = "Mozart"
+
+	
+	
+	
+	option = {
+		name = "EVTOPTA530" 
+		set_global_flag = burgundy_seizes_north_savoy
+		badboy = 1
+		prestige = 5
+		3628 = { secede_province = BRG }
+		466 = { secede_province = BRG }
+		465 = { secede_province = BRG }
+		454 = { secede_province = BRG }
+		721 = { secede_province = BRG }
+        608 = { secede_province = BRG }
+        
+
+
+		relation = {
+			who = SVY
+			value = -200 
+		}
+		
+			
+		
+		
+		
+		ai_chance = {
+			factor = 100
 		}
 	}
 	

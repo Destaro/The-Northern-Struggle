@@ -1,0 +1,6 @@
+owner = DEN
+controller = DEN
+add_core = NYK
+trade_goods = precious_goods
+life_rating = 32
+

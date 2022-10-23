@@ -3,6 +3,6 @@ controller = KON
 add_core = LUN
 trade_goods = fruit
 life_rating = 10
-colonial = 1
+
 
 add_core = KON

@@ -1,5 +1,5 @@
-owner = TRN
-controller = TRN
+owner = ZUL
+controller = ZUL
 add_core = BSH
 add_core = ZUL
 
@@ -13,4 +13,3 @@ life_rating = 35
 }
 
 
-add_core = TRN

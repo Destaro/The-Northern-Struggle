@@ -143,32 +143,32 @@
 #Bihac (100000/25000 POPS)
 784 = {
 	aristocrats = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 400
 	}
 	
 	soldiers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 8675
 	}
 	
@@ -197,25 +197,25 @@
 	}
 	
 	soldiers = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 2650
 	}
@@ -451,32 +451,32 @@
 #Mostar (104000/26000 POPS)
 788 = {
 	aristocrats = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = orthodox
 		size = 450
 	}
 	
 	soldiers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = orthodox
 		size = 600
 	}
 
 	farmers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = orthodox
 		size = 9900
 	}
 	
@@ -531,56 +531,56 @@
 #Livno (136000/34000 POPS)
 789 = {
 	aristocrats = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 350
 	}
 	
 	soldiers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = dalmatian
-		religion = sunni
+		culture = croat
+		religion = catholic
 		size = 8900
 	}
 
 	soldiers = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 800
 	}
 
 	farmers = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 14000
 	}
 	
@@ -711,7 +711,7 @@
 #Novi Grad (116000/29000 POPS)
 3565 = {
 	aristocrats = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 500
 	}
@@ -741,26 +741,26 @@
 	}
 	
 	soldiers = {
-		culture = dalmatian
-		religion = orthodox
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
-		religion = orthodox
+		culture = croat
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
-		religion = orthodox
+		culture = croat
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = dalmatian
-		religion = orthodox
+		culture = croat
+		religion = catholic
 		size = 8300
 	}
 	
@@ -797,31 +797,31 @@
 #Velika Gorica (116000/29000 POPS)
 3529 = {
 	aristocrats = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 500
 	}
 	
 	soldiers = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = dalmatian
+		culture = croat
 		religion = catholic
 		size = 7500
 	}
@@ -858,26 +858,32 @@
 	
 	soldiers = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
 		culture = dalmatian
-		religion = catholic
+		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
 		culture = dalmatian
+		religion = orthodox
+		size = 3750
+	}
+	
+	farmers = {
+		culture = croat
 		religion = catholic
-		size = 6750
+		size = 3000
 	}
 }
 # Kosovska Mitrovica

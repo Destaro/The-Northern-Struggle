@@ -124,34 +124,36 @@
 	}
 	
 	aristocrats = {
-		culture = albanian
+		culture = aromanian
 		religion = orthodox
 		size = 1150
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = aromanian
 		religion = orthodox
 		size = 100
 	}
 	
 	artisans = {
-		culture = albanian
+		culture = aromanian
 		religion = orthodox
 		size = 430
 	}
 	
 	soldiers = {
-		culture = albanian
+		culture = aromanian
 		religion = orthodox
 		size = 2430
 	}
 	
 	farmers = {
-		culture = albanian
+		culture = aromanian
 		religion = orthodox
 		size = 10127
 	}
+	
+	
 }
 
 #Kruje

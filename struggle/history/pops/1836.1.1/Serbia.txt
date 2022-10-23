@@ -5,43 +5,85 @@
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 2200
+		size = 1400
 	}
 
 	bureaucrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 80
 	}
 
 	officers = {
 		culture = aromanian
 		religion = orthodox
-		size = 250
+		size = 200
 	}
 
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 900
+		size = 550
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 4000
+		size = 2400
 	}
 
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 2025
+		size = 1300
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 55925
+		size = 27900
+	}
+	
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = orthodox
+		size = 20
+	}
+
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 350
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1600
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 725
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 28025
 	}
 	
 	farmers = {
@@ -160,25 +202,25 @@
 	}
 
 	clergymen = {
-		culture = aromanian
+		culture = serb
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = aromanian
+		culture = serb
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = aromanian
+		culture = serb
 		religion = orthodox
 		size = 400
 	}
 	
 	farmers = {
-		culture = aromanian
+		culture = serb
 		religion = orthodox
 		size = 16000
 	}
@@ -188,31 +230,61 @@
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 400
+		size = 250
 	}
 
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 150
+		size = 80
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 1200
+		size = 700
 	}
 
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 1500
+		size = 950
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 40200
+		size = 21620
+	}
+	
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 70
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 550
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 18580
 	}
 }
 #Uzice (72000/18000 POPS)
@@ -226,25 +298,49 @@
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 150
+		size = 75
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 400
+		size = 240
 	}
 
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 500
+		size = 200
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 13000
+		size = 7200
+	}
+	
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 160
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 5800
 	}
 }
 #under the rule of Ottoman Empire in 1836
@@ -276,45 +372,45 @@
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 1150
+		culture = serb
+		religion = orthodox
+		size = 1650
 	}
 
 	bureaucrats = {
-		culture = turkish
-		religion = sunni
-		size = 150
+		culture = serb
+		religion = orthodox
+		size = 350
 	}
 
 	officers = {
-		culture = turkish
-		religion = sunni
-		size = 150
+		culture = serb
+		religion = orthodox
+		size = 250
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 100
+		culture = serb
+		religion = orthodox
+		size = 300
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 3000
+		culture = serb
+		religion = orthodox
+		size = 4000
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 1100
+		culture = serb
+		religion = orthodox
+		size = 1600
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 3450
+		culture = serb
+		religion = orthodox
+		size = 4950
 	}
 }
 #Vidin (124000/31000 POPS)
@@ -429,28 +525,58 @@
 }
 #Leskovac (220000/55000 POPS)
 799 = {
+	aristocrats = {
+		culture = aromanian
+		religion = orthodox
+		size = 850
+	}
+	
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 200
+		size = 100
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 400
+		size = 240
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 53250
+		size = 28570
 	}
 
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 1100
+		size = 600
+	}
+	
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 24250
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 500
 	}
 
 	clergymen = {
@@ -1201,10 +1327,16 @@
 	}
 }
 3475 = { 	
-	soldiers = {
+	aristocrats = {
 		culture = aromanian
 		religion = orthodox
 		size = 100
+	}
+	
+	soldiers = {
+		culture = aromanian
+		religion = orthodox
+		size = 200
 	}
 
 	clergymen = {
@@ -1222,6 +1354,31 @@
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 9800
+		size = 5300
 	}
+	
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 4500
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 250
+	}
+
 }

@@ -865,3 +865,65 @@ navy = {
 	}
 
 }
+
+
+navy = {
+	name = "1st Transport Squadron"
+	location = 71
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+
+}
+
+navy = {
+	name = "Borneo Station"
+	location = 1423
+	ship = {
+		name= "HMS Africaine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Cerberus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nemesis"
+		type = frigate
+	}
+
+}

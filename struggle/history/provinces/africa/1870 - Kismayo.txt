@@ -9,3 +9,5 @@ trade_goods = cattle
 terrain = savanna
 life_rating = 10
 colonial = 1
+
+add_core = SOM

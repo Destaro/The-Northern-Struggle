@@ -1,0 +1,7 @@
+owner = BER
+controller = BER
+add_core = GJR
+trade_goods = fish
+life_rating = 32
+
+add_core = BER

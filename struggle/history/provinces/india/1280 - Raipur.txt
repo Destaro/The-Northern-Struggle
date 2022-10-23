@@ -1,11 +1,5 @@
-owner = NAG
-controller = NAG
-add_core = NAG
-add_core = HND
+owner = JAI
+controller = JAI
+add_core = JAI
 trade_goods = dye
 life_rating = 32
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}

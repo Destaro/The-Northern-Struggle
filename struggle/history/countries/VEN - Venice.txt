@@ -6,7 +6,7 @@ plurality = 0.1
 nationalvalue = nv_productivity
 literacy = 0.4
 civilized = yes
-
+oob = "VEN_oob.txt"
 
 # Political reforms
 slavery = no_slavery

@@ -4,3 +4,5 @@ add_core = TRI
 add_core = TUN
 trade_goods = grain
 life_rating = 10
+
+add_core = EGY

@@ -1,0 +1,40 @@
+army = {
+	name = "Army of the Bulgarian Empire"
+	location = 669
+	regiment = {
+		name= "1st Wallachia Infantry"
+		type = infantry
+		home = 664
+	}
+
+	regiment = {
+		name= "2nd Wallachia Infantry"
+		type = infantry
+		home = 668
+	}
+
+	regiment = {
+		name= "3rd Wallachia Infantry"
+		type = infantry
+		home = 669
+	}
+	
+	regiment = {
+		name= "1. Infanterie Moldovei"
+		type = infantry
+		home = 670
+	}
+
+	regiment = {
+		name= "2. Infanterie Moldovei"
+		type = infantry
+		home = 672
+	}
+
+	regiment = {
+		name= "3. Infanterie Moldovei"
+		type = infantry
+		home = 673
+	}
+
+}

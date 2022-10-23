@@ -2130,10 +2130,10 @@ SHA_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 SHA_fascist;Fascist Party;;;;;;;;;;;;;x
 SAK;Siak;;;;;;;;;;;;;x
 SAK_ADJ;Siak;;;;;;;;;;;;;x
-SIB;Siberian Republic;;;;;;;;;;;;;x
-SIB_absolute_monarchy;Siberia;;;;;;;;;;;;;x
-SIB_prussian_constitutionalism;Siberia;;;;;;;;;;;;;x
-SIB_hms_government;Siberia;;;;;;;;;;;;;x
+SIB;Sibir;;;;;;;;;;;;;x
+SIB_absolute_monarchy;Sibir;;;;;;;;;;;;;x
+SIB_prussian_constitutionalism;Sibir;;;;;;;;;;;;;x
+SIB_hms_government;Sibir;;;;;;;;;;;;;x
 SIB_ADJ;Siberian;;;;;;;;;;;;;x
 SIB_conservative;Slavophile;Slavophile;Slawophile;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_liberal;Westerniser;Westerniser;Westler;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2578,12 +2578,12 @@ UOR_socialist;Socialist Party;;;;;;;;;;;;;x
 UOR_communist;Communist Party;;;;;;;;;;;;;x
 UOR_fascist;Cascadians;;;;;;;;;;;;;x
 URA;Ural Republic;;;;;;;;;;;;;x
-URA_absolute_monarchy;Sibir;;;;;;;;;;;;;x
-URA_prussian_constitutionalism;Sibir;;;;;;;;;;;;;x
-URA_hms_government;Sibir;;;;;;;;;;;;;x
-URA_democracy;Siberian Republic;;;;;;;;;;;;;x
+URA_absolute_monarchy;Great Perm;;;;;;;;;;;;;x
+URA_prussian_constitutionalism;Great Perm;;;;;;;;;;;;;x
+URA_hms_government;Great Perm;;;;;;;;;;;;;x
+URA_democracy;Perm Republic;;;;;;;;;;;;;x
 URA_proletarian_dictatorship;Ural People's Republic;;;;;;;;;;;;;x
-URA_ADJ;Siberian;;;;;;;;;;;;;x
+URA_ADJ;Permian;;;;;;;;;;;;;x
 URA_conservative;Slavophile;Slavophile;Slawophile;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_liberal;Westerniser;Westerniser;Westler;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_communist;Social Democratic;Social-démocrate;Social Democratic;;;;;;;;;;;;x;;;;;;;;;;;;;;
