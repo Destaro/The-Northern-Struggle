@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = NOR
+controller = NOR
 add_core = BAL
 trade_goods = fish
 life_rating = 35

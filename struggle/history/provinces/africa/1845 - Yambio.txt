@@ -1,3 +1,5 @@
+owner = AZA
+controller = AZA
 add_core = AZA
 add_core = DAR
 trade_goods = grain

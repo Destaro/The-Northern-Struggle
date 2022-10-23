@@ -1,3 +1,16 @@
+#oman-somaliland
+
+alliance = {
+	first = OMA
+	second = SOM
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
+
+
+
+
+
 #lombardi-aquilea
 
 alliance = {

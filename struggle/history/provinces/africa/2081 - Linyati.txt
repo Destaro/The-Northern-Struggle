@@ -1,3 +1,5 @@
+owner = AZA
+controller = AZA
 add_core = AZA
 terrain = savanna
 trade_goods = grain

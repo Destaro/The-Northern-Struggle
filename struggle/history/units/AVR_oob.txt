@@ -1,0 +1,33 @@
+
+
+army = {
+	name = "Guardia Reale"
+	location = 754
+	regiment = {
+		name= "1. Guardia Reale"
+		type = guard
+		home = 2567
+	}
+
+	regiment = {
+		name= "1. Truppe Svizzere"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "2. Truppe Svizzere"
+		type = infantry
+		home = 755
+	}
+
+	
+
+	regiment = {
+		name= "4. Truppe Svizzere"
+		type = artillery
+		home = 3603
+	}
+
+}
+

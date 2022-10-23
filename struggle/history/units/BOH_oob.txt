@@ -1,13 +1,25 @@
 
 SLV = {	
 	value = 25
-	level = 3
+	level = 4
 	influence_value = 0
 }
 
 POL = {	
 	value = 25
-	level = 4
+	level = 4 
+	influence_value = 0
+}
+
+BDB = {	
+	value = 25
+	level = 3
+	influence_value = 0
+}
+
+WES = {	
+	value = 25
+	level = 2
 	influence_value = 0
 }
 

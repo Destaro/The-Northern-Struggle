@@ -1,7 +1,8 @@
-owner = KON
-controller = KON
+owner = KUB
+controller = KUB
 add_core = KUB
 trade_goods = fruit
 life_rating = 10
 
-add_core = KON
+
+add_core = AZA

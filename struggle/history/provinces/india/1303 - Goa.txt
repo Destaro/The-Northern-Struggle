@@ -1,8 +1,8 @@
-owner = POR
-controller = POR
+owner = NAG
+controller = NAG
+add_core = NAG
 add_core = MAH
-add_core = HND
 trade_goods = fish
 life_rating = 32
 terrain = goa
-colonial = 2
+

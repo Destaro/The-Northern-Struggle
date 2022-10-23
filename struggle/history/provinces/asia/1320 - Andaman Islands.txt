@@ -1,6 +1,6 @@
-owner = EIC
-controller = EIC
-add_core = HND
+owner = DEN
+controller = DEN
+add_core = BUR
 trade_goods = grain
 life_rating = 30
 colonial = 2

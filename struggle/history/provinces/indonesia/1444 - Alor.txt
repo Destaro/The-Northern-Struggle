@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = NOR
+controller = NOR
 add_core = MAL
 trade_goods = tropical_wood
 life_rating = 30

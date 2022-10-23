@@ -265,17 +265,59 @@
 		size = 2000
 	}
 }
-3363 = { 
+3363 = { # ~25k pops
+	aristocrats = {
+		culture = aromanian
+		religion = orthodox
+		size = 250
+	}
+
+	clergymen = {
+		culture = aromanian
+		religion = orthodox
+		size = 100
+	}
+
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 2100
+		size = 360
+	}
+
+	soldiers = {
+		culture = aromanian
+		religion = orthodox
+		size = 200
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 18350
+		size = 8500
+	}
+	
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 160
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 350
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 8800
 	}
 }
 #Ruse (188000/47000 POPS)

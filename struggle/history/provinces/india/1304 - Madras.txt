@@ -1,15 +1,10 @@
-owner = EIC
-controller = EIC
-add_core = HYD
-add_core = MYS
-add_core = KRN
-add_core = HND
-trade_goods = cotton
+owner = KRN
+controller = KRN
+add_core = NYK
+trade_goods = fish
 life_rating = 35
 terrain = madras
-colonial = 2
 fort = 1
 naval_base = 2
-1861.1.1 = { 
-	naval_base = 2 
-}
+
+add_core = KRN

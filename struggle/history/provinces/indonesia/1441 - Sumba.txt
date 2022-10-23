@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = NOR
+controller = NOR
 add_core = BAL
 trade_goods = timber
 life_rating = 31

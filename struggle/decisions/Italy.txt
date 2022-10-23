@@ -1491,4 +1491,109 @@ political_decisions = {
 		}
 	}
 	
+	
+	
+	form_padania = {
+		potential = {
+			is_greater_power = yes
+			OR = {
+			primary_culture = venetian
+			primary_culture = north_italian
+			}
+			NOT = {
+				exists = ITA
+				exists = PDN
+			}
+		}	
+		allow = {
+			war = no
+			LOM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			AQU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			SVY = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			VEN = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+		}
+		
+		effect = {
+		add_accepted_culture = dalmatian
+		add_accepted_culture = venetian
+		add_accepted_culture = north_italian
+			prestige = 25
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_italian
+						tag = VEN 
+						tag = DLM
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = ITA
+				}
+				add_core = PDN
+			}			
+			change_tag = PDN
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 }

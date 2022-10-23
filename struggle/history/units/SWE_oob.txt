@@ -6,9 +6,27 @@ BDB = {
 	influence_value = 0
 }
 
+PRD = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+NOR = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
 IZH = {	
 	value = 125
 	level = 5
+	influence_value = 0
+}
+
+FRI = {	
+	value = 25
+	level = 3
 	influence_value = 0
 }
 
@@ -359,13 +377,13 @@ army = {
 	regiment = {
 		name= "Upplands Regemente"
 		type = infantry
-		home = 944
+		home = 546
 	}
 
 	regiment = {
 		name= "Västgöta Regemente"
 		type = artillery
-		home = 944
+		home = 548
 	}
 
 
@@ -373,8 +391,45 @@ army = {
 	regiment = {
 		name= "Kronprinsens Husarregemente"
 		type = hussar
-		home = 354
+		home = 343
 	}
+
+	
+
+}
+
+army = {
+	name = "army of ireland"
+	location = 254
+	
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 254
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 255
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 256
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 263
+	}
+
+
+
+	
 
 	
 
@@ -568,3 +623,110 @@ navy = {
 	}
 }
 
+
+
+
+navy = {
+	name = "Nye Sverige Flottan"
+	location = 231
+	
+	
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+}
+
+
+
+navy = {
+	name = "Irish station"
+	location = 254
+	
+	
+	
+	
+	
+	ship = {
+		name = "Isla de Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+}
+
+
+navy = {
+	name = "gambian station"
+	location = 1887
+	
+	
+	
+	
+	
+	
+	
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+}

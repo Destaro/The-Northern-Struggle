@@ -12,4 +12,3 @@ life_rating = 35
 	add_core = CSA
 	colonial = 0
 }
-add_core = VNS

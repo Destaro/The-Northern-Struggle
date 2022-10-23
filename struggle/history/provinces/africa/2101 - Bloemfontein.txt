@@ -1,5 +1,5 @@
-owner = TRN
-controller = TRN
+owner = ZUL
+controller = ZUL
 add_core = BSH
 
 trade_goods = wool
@@ -10,4 +10,5 @@ life_rating = 35
 	add_core = SAF
 }
 
-add_core = TRN
+
+add_core = ZUL

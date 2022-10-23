@@ -1,7 +1,10 @@
-owner = LUN
-controller = LUN
+owner = TRN
+controller = TRN
+
 add_core = LUN
 terrain = savanna
 trade_goods = grain
 life_rating = 10
 colonial = 1
+
+add_core = TRN

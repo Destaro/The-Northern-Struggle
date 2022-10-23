@@ -1,5 +1,5 @@
-owner = MLD
-controller = MLD
+owner = SWE
+controller = SWE
 add_core = MLD
 trade_goods = fish
 life_rating = 32

@@ -14,11 +14,44 @@ FRE = {
 	influence_value = 0
 }
 
-
-WEI = {
-	value = 125
-	military_access = no
+VEN = {	
+	value = 25
+	level = 4
+	influence_value = 0
 }
+
+PAP = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
+WEI = {	
+	value = 25
+	level = 2
+	influence_value = 0
+}
+
+TST = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
+WES = {	
+	value = 125
+	level = 3
+	influence_value = 0
+}
+
+LOR = {	
+	value = 0
+	level = 3
+	influence_value = 0
+}
+
+
+
 
 
 #Europe

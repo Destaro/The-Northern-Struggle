@@ -1,6 +1,8 @@
-owner = BHO
-controller = BHO
-add_core = BHO
-add_core = HND
+owner = MEW
+controller = MEW
+add_core = MWA
+add_core = VDB
 trade_goods = dye
 life_rating = 32
+
+add_core = MEW

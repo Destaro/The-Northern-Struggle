@@ -1,8 +1,8 @@
-owner = CHH
-controller = CHH
-add_core = CHH
-add_core = BUN
-add_core = MUG
-add_core = HND
+owner = GWA
+controller = GWA
+add_core = MWA
+add_core = VDB
 trade_goods = dye
 life_rating = 32
+
+add_core = GWA

@@ -91,10 +91,10 @@ RHO_dominion;Southern Rhodesia;;;;;;;;;;;;x
 NEW_colonial_company;The Newfoundland Colony;;;;;;;;;;;;x
 NEW_dominion;The Dominion of Newfoundland;;;;;;;;;;;;x
 AST_colonial_company;Australia;;;;;;;;;;;;x
-AST_dominion;The Dominion of Australia;;;;;;;;;;;;x
-AST_absolute_monarchy;The Dominion of Australia;;;;;;;;;;;;x
-AST_prussian_constitutionalism;The Dominion of Australia;;;;;;;;;;;;x
-AST_hms_government;The Dominion of Australia;;;;;;;;;;;;;x,
+AST_dominion;Austral Federation;;;;;;;;;;;;x
+AST_absolute_monarchy;Austral Federation;;;;;;;;;;;;x
+AST_prussian_constitutionalism;Austral Federation;;;;;;;;;;;;x
+AST_hms_government;Austral Federation;;;;;;;;;;;;;x,
 NZL_colonial_company;The New Zealand Colony;;;;;;;;;;;;x
 NZL_dominion;The Dominion of New Zealand;;;;;;;;;;;;x
 NZL_absolute_monarchy;The Dominion of New Zealand;;;;;;;;;;;;x

@@ -1,7 +1,9 @@
-owner = EGY
-controller = EGY
+owner = SHW
+controller = SHW
 add_core = EGY
-add_core = SUD
+
 trade_goods = tropical_wood
 life_rating = 32
 terrain = semidesert
+
+add_core = SHW
