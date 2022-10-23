@@ -1,41 +1,43 @@
 capital = 1058
-primary_culture = tatar
+primary_culture = russian
+culture = byelorussian
+culture = ukrainian
 culture = ugrian
-religion = animist
-government = absolute_monarchy
+religion = orthodox
+government = democracy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.01
-
+civilized = yes
 # is_releasable_vassal = no
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = no_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = underground_parties
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
+work_hours = ten_hours
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
 # New Reforms
-conscription = two_year_draft
+conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
-centralization = regionalism
+centralization = unitary
 colonial_policy = no_colonies 
 
 

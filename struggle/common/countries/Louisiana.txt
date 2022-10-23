@@ -1,5 +1,5 @@
 graphical_culture = UsGC
-color = { 35  27  120 }
+color = { 150  125  125 }
 
 
 party = {

@@ -152,6 +152,11 @@ indo_aryan;Indo Aryan;;;;;;;;;;;;;;;;;;;;;;;;x
 kafiri;Kafiri;;;;;;;;;;;;;;;;;;;;;;;;x
 ethiosemitic;Ethiosemitic;;;;;;;;;;;;;;;;;;;;;;;;x
 ;;;;;;x;;;;;;
+ANU;Baediga;;;;;;;;;;;;;;;;;;;;;;;;x
+ANU_ADJ;Baedigan;;;;;;;;;;;;;;;;;;;;;;;;x
+TLD;Toledu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TLD_ADJ;Toledan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+;;;;;;x;;;;;;
 GEN_GER_anarcho_liberal;Radikale;;;;;;;;;;;;;
 GEN_GER_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;;
 GEN_GER_conservative_1;Zentrumspartei;;;;;;;;;;;;;
@@ -519,6 +524,13 @@ FRI;Frisia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FRI_ADJ;Frisian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OSS_reactionary;Bardarægad;;;;;;;;;;;;;x
+OSS_liberal;Reformist Faction;;;;;;;;;;;;;x
+OSS_conservative;Særad;;;;;;;;;;;;;x
+OSS_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
+OSS_socialist;Socialist Party;;;;;;;;;;;;;x
+OSS_communist;Communist Part;;;;;;;;;;;;;x
+OSS_fascist;Fascist Party;;;;;;;;;;;;;x
 CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR_ADJ;Curonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Burgundy;Bourgogne;Burgund;Burgundia;Borgoña;Borgogna;Burgundia;burgundské;Burgundia;Bourgogne;Borgonha;Áóðãóíäèÿ;Bourgogne;

@@ -1,8 +1,7 @@
-owner = VNS
-controller = VNS
-add_core = MEX
+owner = TEX
+controller = TEX
+add_core = TEX
 add_core = CAL
-add_core = VNS
 terrain = new_world_semidesert
 trade_goods = fish
 life_rating = 30

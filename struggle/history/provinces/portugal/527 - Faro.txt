@@ -1,6 +1,5 @@
-owner = VND
-controller = VND
-add_core = VND
-add_core = SPA
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = fruit
 life_rating = 35

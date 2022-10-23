@@ -5,8 +5,8 @@ VIN = {
 }
 
 FLA = {	
-	value = 25
-	level = 3
+	value = 0
+	level = 4
 	influence_value = 0
 }
 

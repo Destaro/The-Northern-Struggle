@@ -17,4 +17,3 @@ terrain = kharkov
 		upgrade = yes
 	} 
 }
-add_core = RUS

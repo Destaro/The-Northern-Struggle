@@ -1,5 +1,5 @@
-owner = KRN
-controller = KRN
+owner = EIC
+controller = EIC
 add_core = MYS
 add_core = HYD
 add_core = KRN

@@ -126,5 +126,11 @@ pagan = {
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
 	}
+	
+	rodnovery = {
+		icon = 19
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+	}
 
 }

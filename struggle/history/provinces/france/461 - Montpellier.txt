@@ -1,6 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = cattle
 life_rating = 30
 1861.1.1 = { 

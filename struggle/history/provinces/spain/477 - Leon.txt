@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = GLC
+controller = GLC
+add_core = GLC
 trade_goods = coal
 life_rating = 35
 #state_building = {

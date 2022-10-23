@@ -587,7 +587,57 @@ country_event = {
 	}	
 }
 
+# Ultimatum from the UK, if Portugal should colonize Zambia
+country_event = {
+	
+	id = 97010
+	title = "EVTNAME97010" #The Portuguese Colonies
+	desc = "EVTDESC97010"
+	picture = "scramble_for_africa"
 
+	is_triggered_only = yes
+
+	option = {
+		name = "EVT97010OPTA"
+		prestige = -20
+		FROM = { country_event = 97011 }
+		relation = {
+			who = FROM
+			value = -50
+		}
+		leave_alliance = FROM
+		ai_chance = {
+			factor = 75
+			modifier = {
+				factor = 0.75
+				NOT = { in_sphere = FROM }
+				part_of_sphere = yes
+			}
+		}
+	}
+
+	option = {
+		name = "EVT97010OPTB"
+		prestige = 5
+		FROM = { country_event = 97012 }
+		relation = {
+			who = FROM
+			value = -200
+		}
+		leave_alliance = FROM
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0.25
+				in_sphere = FROM
+			}
+			modifier = {
+				factor = 0
+				part_of_sphere = no
+			}
+		}
+	}
+}
 
 country_event = {
 

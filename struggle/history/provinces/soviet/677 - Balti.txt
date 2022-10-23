@@ -3,5 +3,3 @@ controller = RUT
 add_core = RUT
 trade_goods = fruit
 life_rating = 35
-
-add_core = RUS

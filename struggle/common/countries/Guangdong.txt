@@ -1,4 +1,6 @@
 color = { 143 238 241 }
+colonial_company = { 165 107 124 }
+dominion = { 165 107 124 }
 #color = { 95 158 160 }
 graphical_culture = ChineseGC
 

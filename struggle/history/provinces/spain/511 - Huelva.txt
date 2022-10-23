@@ -1,7 +1,6 @@
-owner = VND
-controller = VND
-add_core = VND
-add_core = SPA
+owner = ANU
+controller = ANU
+add_core = ANU
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

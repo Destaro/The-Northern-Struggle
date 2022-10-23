@@ -1,16 +1,6 @@
-owner = POR
-controller = POR
-add_core = LST
-trade_goods = cattle
+owner = GLC
+controller = GLC
+add_core = GLC
+trade_goods = fruit
 life_rating = 35
-
-party_loyalty = {
-	ideology = conservative
-	loyalty_value = 15
-}
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 12
-}
-
-1861.1.1 = { railroad = 3 }
+terrain = forest

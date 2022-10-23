@@ -2,59 +2,59 @@
 #La Coruna (796000/199000 POPS)
 474 = {
 	aristocrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 2200
 	}
 
 	officers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 2000
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 1000
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 2350
 	}
         artisans = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 4350
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 104350
 	}
         farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 40350
 	}
@@ -62,31 +62,31 @@
 #Oviedo (448000/112000 POPS)
 475 = {
 	aristocrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 1050
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 10850
 	}
@@ -115,36 +115,36 @@
 #Vigo (328000/82000 POPS)
 476 = {
 	aristocrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 45500
 	}
         farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 30500
 	}
@@ -154,43 +154,43 @@
 #Leon (280000/70000 POPS)
 477 = {
 	aristocrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 800
 	}
 
 	officers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = suebi
 		religion = catholic
 		size = 63600
 	}
@@ -198,33 +198,33 @@
 #Santander (178000/44500) POPS
 478 = {
 	aristocrats = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
-		size = 35700
+		size = 25700
 	}
 
 	clergymen = {
@@ -244,38 +244,38 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 3900
+		size = 29900
 		militancy = 8
 	}
 }
 #Burgos (236000/59000 POPS)
 479 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 5500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 50675
 	}
@@ -297,31 +297,31 @@
 #Valladolid (194000/48500 POPS)
 480 = {
 	aristocrats = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = suebi
 		religion = catholic
 		size = 40900
 	}
@@ -331,43 +331,43 @@
 #Avila (284000/71000 POPS)
 481 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1500
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 62700
 	}
@@ -375,31 +375,31 @@
 #Soria (216000/54000 POPS)
 482 = {
 	aristocrats = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 2600
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 48750
 	}
@@ -407,31 +407,31 @@
 #Salamanca (224000/56000 POPS)
 483 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 49250
 	}
@@ -441,43 +441,43 @@
 #Badajoz (216000/54000 POPS)
 484 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1250
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 46650
 	}
@@ -485,31 +485,31 @@
 #Almendralejo (192000/48000 POPS)
 485 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1050
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 43700
 	}
@@ -517,31 +517,31 @@
 #Caceres (172000/43000 POPS)
 486 = {
 	aristocrats = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 38725
 	}
@@ -551,85 +551,85 @@
 #Madrid (364000/91000 POPS)
 487 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 8500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 20100
 	}
@@ -637,31 +637,31 @@
 #Siguenza (204000/51000 POPS)
 488 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 45800
 	}
@@ -669,37 +669,37 @@
 #Toledo (302000/75500 POPS)
 489 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1550
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 62200
 	}
@@ -707,31 +707,31 @@
 #Cuenca (346000/86500 POPS)
 490 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 4200
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 850
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 78775
 	}
@@ -739,31 +739,31 @@
 #Ciudad Real (288000/74000 POPS)
 491 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1500
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 65600
 	}
@@ -813,31 +813,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 18850
 	}
@@ -901,43 +901,43 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 19975
 	}
@@ -945,31 +945,31 @@
 #Logrono (158000/39500 POPS)
 494 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 35850
 	}
@@ -979,61 +979,61 @@
 #Zaragosa (312000/78000 POPS)
 495 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1600
 	}
 
 	officers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 57100
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1950
 	}
@@ -1041,61 +1041,61 @@
 #Huesca (224000/56000 POPS)
 496 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1850
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 35450
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 250
 	}
 
 	labourers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 16025
 	}
@@ -1103,7 +1103,7 @@
 #Teruel (228000/57000 POPS)
 497 = {
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1200
 		militancy = 8
@@ -1111,7 +1111,7 @@
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 550
 		militancy = 8
@@ -1119,7 +1119,7 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2750
 		militancy = 8
@@ -1127,7 +1127,7 @@
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 		militancy = 8
@@ -1135,7 +1135,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 51500
 		militancy = 8
@@ -1147,103 +1147,103 @@
 #Barcelona (464000/116000 POPS)
 498 = {
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1700
 	}
 
 	officers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 825
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 53225
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 16125
 	}
@@ -1251,31 +1251,31 @@
 #Gerona (228000/57000 POPS)
 499 = {
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 33300
 		militancy = 8
@@ -1283,31 +1283,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 18600
 	}
@@ -1315,7 +1315,7 @@
 #Lerida (164000/41000 POPS)
 500 = {
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 550
 		militancy = 8
@@ -1323,7 +1323,7 @@
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 250
 		militancy = 8
@@ -1331,7 +1331,7 @@
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 2750
 		militancy = 8
@@ -1339,7 +1339,7 @@
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 275
 		militancy = 8
@@ -1347,7 +1347,7 @@
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 24150
 		militancy = 8
@@ -1355,31 +1355,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 11275
 	}
@@ -1387,7 +1387,7 @@
 #Tarragona (244000/61000 POPS)
 501 = {
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 850
 		militancy = 8
@@ -1395,7 +1395,7 @@
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 400
 		militancy = 8
@@ -1403,13 +1403,13 @@
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 400
 		militancy = 8
@@ -1417,7 +1417,7 @@
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 37850
 		militancy = 8
@@ -1425,7 +1425,7 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 450
 		militancy = 8
@@ -1433,7 +1433,7 @@
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 200
 		militancy = 8
@@ -1441,19 +1441,19 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = spanish
+		culture = vandalic
 		religion = catholic
 		size = 17650
 	}
@@ -1461,61 +1461,61 @@
 #Balearics (240000/60000 POPS)
 502 = {
 	aristocrats = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 33300
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = south_italian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = south_italian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = south_italian
 		religion = catholic
 		size = 200
 	}
 
 	labourers = {
-		culture = spanish
+		culture = punic
 		religion = catholic
 		size = 15900
 	}
@@ -1525,97 +1525,97 @@
 #Valencia (420000/105000 POPS)
 503 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 37900
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 39675
 	}
@@ -1623,61 +1623,61 @@
 #Castellon (212000/53000 POPS)
 504 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 21650
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 26275
 	}
@@ -1685,61 +1685,61 @@
 #Alicante (384000/96000 POPS)
 505 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 525
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 49825
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}
 
 	labourers = {
-		culture = catalan
+		culture = visigothic
 		religion = catholic
 		size = 38300
 	}
@@ -1749,43 +1749,43 @@
 #Cartagena (212000/53000 POPS)
 506 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 525
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 42375
 	}
@@ -1793,31 +1793,31 @@
 #Murcia (92000/23000 POPS)
 507 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 21025
 	}
@@ -1825,31 +1825,31 @@
 #Albacete (20000/50000 POPS)
 508 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 45600
 	}
@@ -1859,55 +1859,55 @@
 #Seville (376000/94000 POPS)
 509 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1800
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 62200
 	}
@@ -1915,31 +1915,31 @@
 #Cordoba (324000/81000 POPS)
 510 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 68500
 	}
@@ -1947,31 +1947,31 @@
 #Huelva (140000/35000 POPS)
 511 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 31375
 	}
@@ -1979,37 +1979,37 @@
 #Cadiz (336000/84000 POPS)
 512 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 64650
 	}
@@ -2019,49 +2019,49 @@
 #Granada (382000/95500 POPS)
 513 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 2750
 	}
 
 	officers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 950
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 72850
 	}
@@ -2069,37 +2069,37 @@
 #Malaga (402000/100500 POPS)
 514 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 2700
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 78400
 	}
@@ -2107,31 +2107,31 @@
 #Almeria (242000/60500 POPS)
 515 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1650
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = iberian_scythian
+		culture = visigothic
 		religion = catholic
 		size = 52600
 	}
@@ -2139,31 +2139,31 @@
 #Jaen (270000/67500 POPS)
 516 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 58200
 	}
@@ -2174,43 +2174,43 @@
 #Canary Islands (208000/52000 POPS)
 2136 = {
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 525
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 47025
 	}

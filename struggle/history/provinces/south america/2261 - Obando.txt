@@ -1,7 +1,3 @@
-owner = VNG
-controller = VNG
-add_core = GCO
-add_core = CLM
-add_core = VNG
+add_core = VNZ
 trade_goods = timber
 life_rating = 20

@@ -5,12 +5,6 @@ SLV = {
 	influence_value = 0
 }
 
-FRE = {	
-	value = 125
-	level = 3
-	influence_value = 0
-}
-
 POL = {	
 	value = 25
 	level = 4
