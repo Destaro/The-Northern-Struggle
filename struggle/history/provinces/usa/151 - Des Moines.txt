@@ -1,6 +1,6 @@
-owner = LST
-controller = LST
-add_core = LST
+owner = UIL
+controller = UIL
+add_core = UIL
 add_core = DAK
 trade_goods = grain
 life_rating = 35

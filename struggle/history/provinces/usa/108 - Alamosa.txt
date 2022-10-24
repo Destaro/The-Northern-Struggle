@@ -1,7 +1,6 @@
-owner = TEX
-controller = TEX
-add_core = TEX
-add_core = UNB
+owner = UNM
+controller = UNM
+add_core = UNM
 colonial = 2
 trade_goods = cattle
 life_rating = 35

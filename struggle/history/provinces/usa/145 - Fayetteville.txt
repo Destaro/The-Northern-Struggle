@@ -1,4 +1,4 @@
-owner = LSTcontroller = LSTadd_core = LST
+owner = MTCcontroller = MTCadd_core = MTC
 trade_goods = timber
 life_rating = 35
 
