@@ -1,10 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
-add_core = CAT
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = cattle
 life_rating = 25
 
 1861.1.1 = { railroad = 2 }
-
-add_core = OCC

@@ -1,7 +1,5 @@
-owner = VNG
-controller = VNG
-add_core = GCO
-add_core = CLM
-add_core = VNG
+owner = KRT
+controller = KRT
+add_core = KRT
 trade_goods = tropical_wood
 life_rating = 20

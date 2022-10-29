@@ -2332,6 +2332,118 @@
 		size = 3325
 	}
 }
+
+#uman
+3692 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1600
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 800
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1950
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 5600
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 35550
+	}
+
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 50000
+	}
+	
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 700
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3400
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10700
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = orthodox
+		size = 450
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = tatar
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = tatar
+		religion = orthodox
+		size = 3325
+	}
+}
+
 #Chernigov Region
 #Chernigov (616000/154000 POPS)
 962 = {

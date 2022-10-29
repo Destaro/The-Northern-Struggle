@@ -1,8 +1,7 @@
-owner = NAL
-controller = NAL
+owner = NMB
+controller = NMB
 terrain = dryhills
 add_core = NMB
 trade_goods = wool
 life_rating = 10
-colonial = 1
-add_core = NAL
+

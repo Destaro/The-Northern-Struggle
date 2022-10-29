@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = fruit
 life_rating = 30
 terrain = bordeaux
@@ -25,5 +25,3 @@ state_building = {
 	railroad = 3 
 	naval_base = 1
 }
-
-add_core = OCC

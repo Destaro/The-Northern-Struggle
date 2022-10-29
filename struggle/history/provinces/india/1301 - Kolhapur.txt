@@ -1,6 +1,6 @@
-owner = MAH
-controller = MAH
-add_core = HND
+owner = NAG
+controller = NAG
+add_core = NAG
 add_core = MAH
-trade_goods = fish
+trade_goods = cattle
 life_rating = 32

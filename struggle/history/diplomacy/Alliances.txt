@@ -1,3 +1,16 @@
+#oman-somaliland
+
+alliance = {
+	first = OMA
+	second = SOM
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
+
+
+
+
+
 #lombardi-aquilea
 
 alliance = {
@@ -7,19 +20,9 @@ alliance = {
 	end_date = 1936.1.1
 }
 
-#papal-tuscany
-
-alliance = {
-	first = PAP
-	second = TUS
-	start_date = 1816.9.5
-	end_date = 1936.1.1
-}
-
 
 
 #Swedens-alliances
-
 alliance = {
 first = SWE
 	second = CUR
@@ -27,18 +30,8 @@ first = SWE
 	end_date = 1936.1.1
 }
 
-#denmark-norway alliance
-
-alliance = {
-first = DEN
-	second = NOR
-	start_date = 1826.9.5
-	end_date = 1936.1.1
-}
-
 
 #austria-bohemia
-
 alliance = {
 first = AUS
 	second = BOH
@@ -46,24 +39,10 @@ first = AUS
 	end_date = 1936.1.1
 }
 
-#austria-swabia
-
-alliance = {
-first = AUS
-	second = BAD
-	start_date = 1826.9.5
-	end_date = 1936.1.1
-}
 
 
-#venice-savoy
 
-alliance = {
-first = SVY
-	second = VEN
-	start_date = 1826.9.5
-	end_date = 1936.1.1
-}
+
 
 
 

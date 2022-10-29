@@ -1,7 +1,7 @@
-owner = FLA
-controller = FLA
-add_core = FLA
-add_core = BEL
+owner = NDY
+controller = NDY
+add_core = NDY
+add_core = ORL
 trade_goods = fish
 life_rating = 30
 naval_base = 1

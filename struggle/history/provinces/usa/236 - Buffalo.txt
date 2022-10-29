@@ -1,5 +1,5 @@
-owner = NEN
-controller = NEN
+owner = DEN
+controller = DEN
 add_core = NEN
 trade_goods = timber
 life_rating = 35

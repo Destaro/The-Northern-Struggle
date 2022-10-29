@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = PHL
+controller = PHL
 add_core = PHL
 add_core = SUL
 trade_goods = fish

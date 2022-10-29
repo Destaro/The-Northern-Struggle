@@ -1,4 +1,4 @@
-owner = NEN
+owner = DEN
 controller = DEN
 add_core = NEN
 add_core = ACA

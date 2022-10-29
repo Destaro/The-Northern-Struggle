@@ -745,7 +745,7 @@ political_decisions = {
 					accepted_culture = slovak
 				}
 			}
-			owns = 633
+			owns = 635
 			owns = 634
 			owns = 637
 			NOT = { has_global_flag = slovakia_rename_czhslo }
@@ -758,11 +758,8 @@ political_decisions = {
 		effect = {
 			set_global_flag = slovakia_rename_czhslo
 			clr_global_flag = slovakia_rename_hun
-			633 = { 
-				change_province_name = "Bratislava"
-				state_scope = { change_region_name = "Slovensko" }
-			}
-			634 = { change_province_name = "Trencín" }
+			634 = { change_province_name = "Trencín"
+				state_scope = { change_region_name = "Slovensko" } }
 			635 = { change_province_name = "Nitra" }
 			636 = { change_province_name = "Banská Bystrica" }
 			637 = { change_province_name = "Košice" }
@@ -780,7 +777,7 @@ political_decisions = {
 				primary_culture = hungarian
 				tag = KUK
 			}
-			owns = 633
+			owns = 635
 			owns = 634
 			owns = 637
 			owns = 950
@@ -794,11 +791,8 @@ political_decisions = {
 		effect = {
 			set_global_flag = slovakia_rename_hun
 			clr_global_flag = slovakia_rename_czhslo
-			633 = { 
-				change_province_name = "Pozsony"
-				state_scope = { change_region_name = "Pozsony" }
-			}
-			634 = { change_province_name = "Trencsén" }
+			634 = { change_province_name = "Trencsén"
+				state_scope = { change_region_name = "Pozsony" } }
 			635 = { change_province_name = "Nyitra" }
 			636 = { change_province_name = "Besztercebánya" }
 			637 = { change_province_name = "Kassa" }
@@ -820,7 +814,7 @@ political_decisions = {
 				has_global_flag = slovakia_rename_hun
 				has_global_flag = slovakia_rename_czhslo
 			}
-			owns = 633
+			owns = 635
 			owns = 634
 			owns = 637
 			owns = 950
@@ -833,11 +827,8 @@ political_decisions = {
 		effect = {
 			clr_global_flag = slovakia_rename_hun
 			clr_global_flag = slovakia_rename_czhslo
-			633 = { 
-				change_province_name = "Preßburg"
-				state_scope = { change_region_name = "Preßburg" }
-			}
-			634 = { change_province_name = "Trentschin" }
+			634 = { change_province_name = "Trentschin"
+				state_scope = { change_region_name = "Preßburg" } }
 			635 = { change_province_name = "Neutra" }
 			636 = { change_province_name = "Neusohl" }
 			637 = { change_province_name = "Kaschau" }
@@ -1373,6 +1364,8 @@ political_decisions = {
 			OR = {
 				primary_culture = polish
 				primary_culture = silesian
+				primary_culture = slovak
+				primary_culture = pannonian
 				tag = WSF
 			}
 			OR = {
@@ -1410,9 +1403,9 @@ political_decisions = {
 					province_id = 689
 				}
 				689 = { 
-					change_province_name = "Cieszyn" 
+					change_province_name = "Tešín" 
 				}
-				2584 = { change_province_name = "Bielsko"  }
+				2584 = { change_province_name = "Bílsko"  }
 				owner = { 
 					set_global_flag = austrian_silesia_rename_polish
 					clr_global_flag = austrian_silesia_rename_german
@@ -1860,12 +1853,13 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
-			639 = { change_province_name = "Zalaegerszeg" }
 			640 = { change_province_name = "Pécs" }
 			642 = { change_province_name = "Gyor" }
 			643 = { change_province_name = "Székesfehérvár"
 				state_scope = { change_region_name = "Dunántúl" } }
 			644 = { change_province_name = "Kaposvár" }
+			3467 = { change_province_name = "Kolonvár" }
+			3468 = { change_province_name = "Kapuvár" }
 			owner = {
 			set_global_flag = transdanubia_rename_hun
 			clr_global_flag = transdanubia_rename_pnn
@@ -1877,11 +1871,11 @@ political_decisions = {
 				limit = {
 					province_id = 623
 				}
-				623 = { change_province_name = "Sopron" }
-				624 = { change_province_name = "Kismarton" }
-				3467 = { change_province_name = "Vasvár" }
-				3468 = { change_province_name = "Kapuvár"
+				633 = { change_province_name = "Pozsony" }
+				623 = { change_province_name = "Sopron"
 				state_scope = { change_region_name = "Örvidék" } }
+				639 = { change_province_name = "Zalaegerszeg" }
+				624 = { change_province_name = "Kismarton" }
 				owner = { 
 					set_global_flag = burgenland_renamed_hun
 					clr_global_flag = burgenland_renamed_aus
@@ -1914,12 +1908,13 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
-			639 = { change_province_name = "Jageršek" }
 			640 = { change_province_name = "Pec" }
 			642 = { change_province_name = "Ráb" }
 			643 = { change_province_name = "Stolicný Belehrad"
 				state_scope = { change_region_name = "Zadunajsko" } }
 			644 = { change_province_name = "Kapošhrad" }
+			3467 = { change_province_name = "Blatnograd" }
+			3468 = { change_province_name = "Bránahrad" }
 			owner = {
 			set_global_flag = transdanubia_rename_pnn
 			clr_global_flag = transdanubia_rename_hun
@@ -1931,11 +1926,11 @@ political_decisions = {
 				limit = {
 					province_id = 623
 				}
-			623 = { change_province_name = "Šopron" }
+			633 = { change_province_name = "Prešporok" }
+			623 = { change_province_name = "Šopron" 
+				state_scope = { change_region_name = "Gradišcanska" }
+			639 = { change_province_name = "Jageršek" } }
 			624 = { change_province_name = "Železno" }
-			3467 = { change_province_name = "Železnohrad" }
-			3468 = { change_province_name = "Bránahrad" 
-				state_scope = { change_region_name = "Gradišcanska" } }
 				owner = {
 					set_global_flag = burgenland_renamed_pnn
 					clr_global_flag = burgenland_renamed_aus
@@ -1966,12 +1961,13 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
-			639 = { change_province_name = "Egersee" }
 			640 = { change_province_name = "Fünfkirchen" }
 			642 = { change_province_name = "Raab" }
 			643 = { change_province_name = "Stuhlweißenburg"
 				state_scope = { change_region_name = "Transdanubien" } }
 			644 = { change_province_name = "Ruppertsburg" }
+			3467 = { change_province_name = "Großkirchen" }
+			3468 = { change_province_name = "Kobrunn"  }
 			owner = {
 			set_global_flag = transdanubia_rename_ger
 			clr_global_flag = transdanubia_rename_hun
@@ -1983,11 +1979,13 @@ political_decisions = {
 				limit = {
 					province_id = 623
 				}
-			623 = { change_province_name = "Ödenburg" }
-			624 = { change_province_name = "Eisenstadt" }
-			3467 = { change_province_name = "Eisenburg" }
-			3468 = { change_province_name = "Kobrunn" 
+			633 = { 
+				change_province_name = "Preßburg"
+			}
+			639 = { change_province_name = "Egersee" }
+			623 = { change_province_name = "Ödenburg"
 				state_scope = { change_region_name = "Burgenland" } }
+			624 = { change_province_name = "Eisenstadt" }
 				owner = { 
 					set_global_flag = burgenland_renamed_ger
 					clr_global_flag = burgenland_renamed_pnn

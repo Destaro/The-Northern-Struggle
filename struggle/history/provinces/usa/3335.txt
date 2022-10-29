@@ -1,6 +1,6 @@
-owner = LST
-controller = LST
-add_core = LST
+owner = CAT
+controller = CAT
+add_core = CAT
 trade_goods = cattle
 life_rating = 35
 

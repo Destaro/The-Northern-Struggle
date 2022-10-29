@@ -1,7 +1,9 @@
-owner = EIC
-controller = EIC
-add_core = BHO
-add_core = HND
+owner = MEW
+controller = MEW
+add_core = MWA
+add_core = VDB
 trade_goods = dye
 life_rating = 32
-colonial = 2
+
+
+add_core = MEW

@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = wool
 life_rating = 35
 1861.1.1 = { railroad = 3 }

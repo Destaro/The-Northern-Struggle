@@ -1,0 +1,56 @@
+political_decisions = {
+
+form_slavia = {
+        potential = {
+		OR = {
+        tag = RUS
+		tag = PLC
+		tag = YUG
+			}
+            NOT = { exists = SLA }
+        }
+
+        allow = {
+	        military_score = 200
+            prestige = 250
+            war = no
+            revolution_n_counterrevolution = 1
+			owns = 994
+			owns = 812
+			owns = 643
+			owns = 706
+			owns = 996
+			owns = 360
+			owns = 958
+        }
+
+        effect = {
+		
+           MUS = { all_core = { add_core = THIS } }
+		   RUT = { all_core = { add_core = THIS } }
+		   POL = { all_core = { add_core = THIS } }
+		   LIT = { all_core = { add_core = THIS } }
+		   HUN = { all_core = { add_core = THIS } }
+		   PNN = { all_core = { add_core = THIS } }
+		   MON = { all_core = { add_core = THIS } }
+		   BOS = { all_core = { add_core = THIS } }
+		   EST = { all_core = { add_core = THIS } }
+		   LAT = { all_core = { add_core = THIS } }
+		   IZH = { all_core = { add_core = THIS } }
+		    add_accepted_culture = ukranian
+			add_accepted_culture = byelorussian
+			add_accepted_culture = bulgarian
+			add_accepted_culture = slovak
+		   add_accepted_culture = pannonian
+           add_accepted_culture = polish
+           add_accepted_culture = russian
+            prestige = 60
+            change_tag = SLA
+            
+        }
+        ai_will_do = { factor = 1 }
+    }
+
+
+
+}

@@ -57,7 +57,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				primary_culture = polish
-				primary_culture = lithuanian
+				primary_culture = ukranian
 			}
 			NOT = { exists = PLC }
 			NOT = { has_country_flag = post_colonial_country }
@@ -66,36 +66,10 @@ political_decisions = {
 		allow = {
 			war = no
 			is_greater_power = yes
-			owns = 706
-			owns = 703
-			360 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			718 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			958 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			695 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
+            
+			RUT = { all_core = { owned_by = THIS } }
+			POL = { all_core = { owned_by = THIS } }
+			LIT = { all_core = { owned_by = THIS } }
 		}
 
 		effect = {
@@ -113,24 +87,27 @@ political_decisions = {
 				limit = { owner = { primary_culture = polish } }
 				owner = {
 					add_accepted_culture = lithuanian
+					add_accepted_culture = ukranian
+					add_accepted_culture = byelorussian
 					all_core = {
 						add_core = PLC
 						remove_core = POL
 					}
 				}
-				LIT = {
+				RUT = {
 					all_core = { add_core = PLC }
 				}
 			}
 			random_owned = {
 				limit = {
-					owner = { primary_culture = lithuanian }
+					owner = { primary_culture = ukranian }
 				}
 				owner = {
 					add_accepted_culture = polish
+					add_accepted_culture = lithuanian
 					all_core = {
 						add_core = PLC
-						remove_core = LIT
+						remove_core = RUT
 					}
 				}
 				POL = {
@@ -138,6 +115,10 @@ political_decisions = {
 				}
 			}
 			LAT = {
+				all_core = { add_core = PLC }
+			}
+			
+			LIT = {
 				all_core = { add_core = PLC }
 			}
 			BYE = {
@@ -188,7 +169,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_greater_power = no
-			NOT = { owns = 695 }
+			NOT = { owns = 360 }
 			NOT = { owns = 958 }
 			NOT = { owns = 718 }
 		}
@@ -610,6 +591,302 @@ political_decisions = {
 			GER = { clr_country_flag = prussian_settlement_commission }
 			AUS = { clr_country_flag = prussian_settlement_commission }
 			KUK = { clr_country_flag = prussian_settlement_commission }
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+
+
+
+
+southern_campaing_prc = {
+		picture = become_poland
+		potential = {
+			tag = PLC
+			NOT = { has_country_flag = southern_campaing_prc }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			exists = BUL
+			exists = PNN
+			
+		}
+		
+		effect = {
+			set_country_flag = southern_campaing_prc
+			badboy = 5
+			war = {
+	target = PNN
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+
+war = {
+	target = BUL
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+	
+	
+	
+	eastern_campaing_prc = {
+		picture = become_poland
+		potential = {
+			tag = PLC
+			NOT = { has_country_flag = eastern_campaing_prc }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			exists = MUS
+			
+			
+		}
+		
+		effect = {
+			set_country_flag = eastern_campaing_prc
+			badboy = 5
+			war = {
+	target = MUS
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+
+
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+	
+#northern campaing incase the baltic is controlled by sweden
+	northern_campaing_prc_swedish_puppets = {
+		picture = become_poland
+		potential = {
+			tag = PLC
+			NOT = { has_country_flag = northern_campaing_prc
+                           }
+			EST = { vassal_of = SWE }
+			LAT = { vassal_of = SWE }
+			IZH = { vassal_of = SWE }
+		}
+		allow = {
+		is_greater_power = yes
+			nationalism_n_imperialism = 1
+			war = no
+			EST = { is_vassal = yes }
+			LAT = { is_vassal = yes }
+			IZH = { is_vassal = yes }
+			
+		}
+		
+		effect = {
+			set_country_flag = northern_campaing_prc_swedish_puppets
+			badboy = 5
+			war = {
+	target = COU
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+
+
+war = {
+	target = SWE
+	attacker_goal = { 
+	casus_belli = release_puppet 
+	tag = EST
+	
+	 }
+	 
+	 attacker_goal = { 
+	casus_belli = release_puppet 
+	tag = LAT
+	
+	 }
+	 
+	 attacker_goal = { 
+	casus_belli = release_puppet 
+	tag = IZH
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+							 
+	defender_goal = { 
+	casus_belli = liberate_country
+	tag = LIT
+	                         }
+	
+}
+
+
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+	
+	
+	
+	
+	
+	
+	#northern campaing incase the baltic is free
+	northern_campaing_prc_free_baltic = {
+		picture = become_poland
+		potential = {
+			tag = PLC
+			NOT = { has_country_flag = northern_campaing_prc_free_baltic
+                                }
+			exists = EST
+			exists = LAT
+			exists = IZH
+		}
+		allow = {
+		is_greater_power = yes
+			nationalism_n_imperialism = 1
+			war = no
+			EST = { is_vassal = no }
+			LAT = { is_vassal = no }
+			IZH = { is_vassal = no }
+			
+		}
+		
+		effect = {
+			set_country_flag = northern_campaing_prc_free_baltic
+			badboy = 5
+			war = {
+	target = COU
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+
+
+war = {
+	target = EST
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	 
+	 
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+							 
+              }
+			  
+			  war = {
+	target = IZH
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	 
+	 
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+							 
+              }
+			  
+	war = {
+	target = LAT
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	 
+	 
+	 
+	
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+							 
+	
+	
+   }
+			  
+
+
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+	
+	
+	
+	
+	black_sea_campaing_prc = {
+		picture = become_poland
+		potential = {
+			tag = PLC
+			NOT = { has_country_flag = black_sea_campaing_prc }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			exists = HUN
+			
+			
+		}
+		
+		effect = {
+			set_country_flag = black_sea_campaing_prc
+			badboy = 5
+			war = {
+	target = HUN
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
+
+
 		}
 		ai_will_do = {
 			factor = 1 

@@ -21,6 +21,30 @@ potential = {
 		}
 		
 	}
+	
+	embracing_illiria = {
+potential = { 
+        tag = VEN
+		NOT = { has_country_flag = embracing_illiria
+		       }
+		
+		}
+		
+		allow = {
+		DLM = { all_core = { owned_by = THIS } }
+		AQU = { all_core = { owned_by = THIS } }
+		war = no
+		
+		}
+		
+		effect = {
+		set_country_flag = embracing_illiria
+		
+		prestige = 10
+		add_accepted_culture = dalmatian
+		}
+		
+	}
 
 tirol_is_ours = {
 potential = { 

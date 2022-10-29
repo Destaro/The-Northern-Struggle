@@ -1,6 +1,8 @@
-owner = IND
-controller = IND
-add_core = IND
-add_core = HND
+owner = MEW
+controller = MEW
+add_core = MWA
+add_core = VDB
 trade_goods = opium
 life_rating = 32
+
+add_core = MEW

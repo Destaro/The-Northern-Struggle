@@ -1,8 +1,8 @@
-owner = PNN
-controller = PNN
+owner = SLV
+controller = SLV
+add_core = SLV
+add_core = PNN
 
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }
-
-add_core = PNN

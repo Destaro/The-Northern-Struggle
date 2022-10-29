@@ -179,7 +179,6 @@
 		
 		effect = {
 			prestige = 20
-			set_global_flag = scandinavian_formation
 			all_core = { add_core = SCA remove_core = THIS }
 			change_tag = SCA
 			political_reform = federalism
@@ -592,11 +591,14 @@
 	
 	embrace_the_irish = {
         potential = {
-            
+            OR = {
                 tag = SWE
-                
+				tag = SCA
+                          }
             
-            NOT = { has_country_flag = emb_ire }
+            NOT = { 
+			exists = IRE
+			has_country_flag = emb_ire }
         }
 		
         allow = {
@@ -615,7 +617,7 @@
 		
         effect = {
             set_country_flag = emb_ire
-            badboy = 5
+            badboy = 2
             add_accepted_culture = irish
         }
 
@@ -628,7 +630,8 @@
                 tag = NOR
                 tag = SCA
             }
-            NOT = { has_country_flag = emb_sco }
+            NOT = { exists = SCO
+			has_country_flag = emb_sco }
         }
 		
         allow = {
@@ -646,7 +649,7 @@
 		
         effect = {
             set_country_flag = emb_sco
-            badboy = 5
+            badboy = 2
             add_accepted_culture = Scottish
         }
 
@@ -683,8 +686,10 @@
 	
 	effect = {
 	set_country_flag = dominis_mari_baltici
+	add_accepted_culture = estonian
+	add_accepted_culture = latvian
 	badboy = 5
-	prestige = 20
+	prestige = 50
 	add_core = 680
 	add_core = 691
 	add_core = 696
@@ -712,6 +717,155 @@
 	            }
 	}
 	
+	*integrates finland and estonia
+	integrate_finland_and_estonia = {
+	potential = {
+	OR = {
+	tag = SCA
+	tag = SWE
+	        }
+	NOT = { has_country_flag = integrate_finland_and_estonia
+	        has_country_flag = integrate_finland      }
+	      is_vassal = FIN
+		  is_vassal = EST
+		  
+		  }
+		  
+	allow = {
+	nationalism_n_imperialism = 1
+	
+	war = no
+	   FIN = { vassal_of = THIS }
+	   EST = { vassal_of = THIS }
+	is_greater_power = 1
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_finland_and_estonia
+	inherit = FIN
+	inherit = EST
+	prestige = 20
+	FIN = { all_core = { add_core = THIS } }
+	EST = { all_core = { add_core = THIS } }
+	            }
+	}
+	
+	
+	*integrates finland incase estonia is lost
+	integrate_finland = {
+	potential = {
+	OR = {
+	tag = SCA
+	tag = SWE
+	        }
+	NOT = { has_country_flag = integrate_finland_and_estonia
+	        has_country_flag = integrate_finland }
+	      is_vassal = FIN
+		  
+		  }
+		  
+	allow = {
+	nationalism_n_imperialism = 1
+	
+	war = no
+	   FIN = { vassal_of = THIS }
+	   
+	is_greater_power = 1
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_finland
+	inherit = FIN
+	
+	prestige = 20
+	FIN = { all_core = { add_core = THIS } }
+	
+	            }
+	}
+	
+	
+	integrate_livonia = {
+	potential = {
+	OR = {
+	tag = SCA
+	tag = SWE
+	        }
+	NOT = { has_country_flag = integrate_livonia
+	                                              }
+	      is_vassal = IZH
+		  is_vassal = LAT
+		  
+		  }
+		  
+	allow = {
+	OR = {
+	has_country_flag = integrate_finland
+	has_country_flag = integrate_finland_and_estonia 
+	            }
+	nationalism_n_imperialism = 1
+	year = 1855
+	war = no
+	   IZH = { vassal_of = THIS }
+	   LAT = { vassal_of = THIS }
+	is_greater_power = 1
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_livonia
+	inherit = LAT
+	inherit = IZH
+	
+	prestige = 20
+	IZH = { all_core = { add_core = THIS } }
+	LAT = { all_core = { add_core = THIS } }
+	            }
+	}
+	
+	
+	integrate_novgorod = {
+	potential = {
+	OR = {
+	tag = SCA
+	tag = SWE
+	        }
+	NOT = { has_country_flag = integrate_novgorod
+	                                              }
+	      is_vassal = NOV
+		  
+		  }
+		  
+	allow = {
+	OR = {
+	has_country_flag = integrate_finland
+	has_country_flag = integrate_finland_and_estonia 
+	            }
+	has_country_flag = integrate_livonia
+	nationalism_n_imperialism = 1
+	year = 1865
+	war = no
+	   NOV = { vassal_of = THIS }
+	  
+	is_greater_power = 1
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_novgorod
+	inherit = NOV
+	
+	prestige = 20
+	NOV = { all_core = { add_core = THIS } }
+	relation = { who = MUS value = -200 }
+	
+	            }
+	}
 	
 	
 	

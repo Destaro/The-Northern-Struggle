@@ -1,7 +1,7 @@
-owner = KAF
-controller = KAF
+owner = ETH
+controller = ETH
 add_core = KAF
-add_core = SHW
+
 add_core = SHK
 add_core = ETH
 trade_goods = coffee

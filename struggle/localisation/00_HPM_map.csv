@@ -236,7 +236,6 @@ PROV2590;Ceuta;;;;;;;;;;;;x
 PROV3236;Anam a Cheper;;;;;;;;;;;;x
 PROV641;Pest;;;;;;;;;;;;x
 PROV2637;Vyon;;;;;;;;;;;;x
-PROV2632;Kwangchowan;;;;;;;;;;;;x
 PROV1495;Maoming;;;;;;;;;;;;x
 PROV1644;Meakan;;;;;;;;;;;;x
 PROV1443;Rote;;;;;;;;;;;;x
@@ -1026,6 +1025,6 @@ PRU_695;Prusy;;;;;;;;;;;;x
 RUS_337;West Karelia;;;;;;;;;;;;x
 RUS_339;East Karelia;;;;;;;;;;;;x
 SWI_603;Currezia;;;;;;;;;;;;x
-PROV955;Rivne;Rivne;Rivne;;;;;;;;;;;
-PROV956;Luck;Luck;Luck;;;;;;;;;;;
-PROV957;Chelm;Chelm;Chelm;;;;;;;;;;;
+PROV955;Proskorov;Proskorov;Proskorov;;;;;;;;;;;
+PROV956;Rivno;Rivno;Rivno;;;;;;;;;;;
+PROV957;Volodymyr;Volodymyr;Volodymyr;;;;;;;;;;;

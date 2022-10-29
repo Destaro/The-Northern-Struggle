@@ -1,7 +1,7 @@
-owner = VND
-controller = VND
-add_core = VND
-add_core = SPA
+owner = TUN
+controller = TUN
+add_core = ANU
+add_core = TUN
 #terrain = urban
 trade_goods = fish
 life_rating = 35

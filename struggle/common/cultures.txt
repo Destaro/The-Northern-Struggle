@@ -650,6 +650,48 @@ iberian = {
 		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
 		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
 	}
+	suebi = {
+		color = {128 136 124}
+		first_names = { 
+		Adeqisio Adoric Agimadus Agriulfum Alamiro Algaster Anila Ansuario Argiovitus Ariamir Arosinda Audeca
+		Badamundus Baldemarius Balderedo Baltarius Baudemiro Becilla Berteiro Bonesindus Boniza Cagildo Cartemiro
+		Chararici Commundus Crodemiro Dagaredus Daildus Damiro Docemiro Donazarius Donegildus Dulcemirus Eboric
+		Egenio Eimiro Eirigu Eisindus Eldegotus Eldesindus Elperico Engomiro Ensaldus Ermaric Evosindo Fagildus
+		Felmiro Fralenko Framuldo Francolino Fredoaldus Froatingus Fromildus Frumeiro Gardingus Gaudesindo Gomedei
+		Gomulfus Gresumarus Gudesteus Gumarius Gundivaldo Guntato Gunterotis Heremigar Hermeric Hespanisco Hildemir
+		Hilderic Hunisco Huniscus Leodegasti Leoderigus Leodulfus Leovaldo Lodemiro Magitus Malaredus Malaric Maldras
+		Marcosendus Massilan Mervigius Miro Moderido Nandaricus Nantildo Neufila Nitigis Notarius Odamiro Odemundus
+		Odericus Onemiro Onoricus Osdulfus Osorico Ostromirus Otualdo Pabregildus Pantard Pantinus Pappinus Pederagildu
+		Pennio Pipinus Provaredo Quedesendo Quedulfus Quidemiro Quidericus Ragimiro Ragolfus Rakericus Randinus
+		}
+		
+	last_names = { 
+		Randuarius Ranisclus Rechiar Rechila Refulfo Reirigus Remismund 
+		Remisol Rendericus Ricardo Richimund Rodomiro Roelindus Romanisco Romarigus Sagatus Saxomero Segomirus Sentarius Sescutus Sisulfus Spanarius Spoderigo Suavarius
+		Sunila Teobald Teoderedus Theodemar Todegogia Trasmira Trasoldi 
+		Tumtuldo Uittimer Venedario Veremund Viamundus
+		Vidraldus Villisendo Vistremiro Zamarius Zendasindo Sanjurjo 
+		Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	}
+	visigothic = {
+		color = {114 103 91}
+		first_names = {
+		Adelfonso Adelgaster Agila Airmanagildo Alaricho Alatheo Aloito Amalaricho Amalmondo Ambroz
+		Aoricho Ardo Arias Assur Atawulfo
+		Berengario Diaco Egica Ermengar Erwigio Euricho Fafila Fredol Friedenando Friednand
+		Fruella Gaton Gauzberto Geila Gesalecho Gundemar Guttier Johan
+		Julian Khindaswintho Khintila Leovigildo Liuva Liuvericho Lucidio Lupo Madrubal Matheo
+		Mauregato Miron Monnio Nunno Obada Oddilon Odoario Oliba Olmondo Oppas
+		Ordonno Pelagio Petro Radulfo Ranimiro Rekkaredo Rekkeswintho Ricimero Riculfo Rocesthes
+		Rostan Savarico Silo Sisebuto Tello
+		}
+		last_names = { 
+		Athanagildo Athanaricho Theodefredo Theodemiro Theodoricho
+		Theudigislo Theudis Thorismondo Tulga Veremondo Wifredo
+		Wimarano Witiza Wittericho Aurelio Bego
+		Bera Rodericho Sisenando Suinthila Suneario Suniefredo
+		}
+	}
 	catalan = {
 		color = {220 110 30}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau 
@@ -6034,7 +6076,7 @@ neo_european_cultures = {
 		}
 	}
 	new_frankish = { 
-		color = { 75 35 35}
+		color = { 115 85 85 }
 		first_names = { 
 		Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
 		Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
@@ -7182,7 +7224,7 @@ eastern_germanic = {
 		  Huneric Gunthamund Thrasamund Hilderiks Gelimer Gunderiks Godigisel Theudoriks
 		}
 			
-		last_names = { Amalungs "af Bastetani" "af Baltharingos" "af Batelanta" Bardsungs "af Korþuva" "af Kadisþen" "af Kappel" Hasdinger }
+		last_names = { Amalungs "af Bastetani" "af Baltharingos" "af Batelanta" Bardsungs Hasdinger }
 	}
 }
 

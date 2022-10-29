@@ -157,10 +157,12 @@ country_event = {
 	id = 703
 
 	trigger = {
-	OR = {
+	
 		tag = BAD
 		
-		}
+		owns = 580
+		owns = 541
+		owsns = 596
 		
 		
 		NOT = {
@@ -191,7 +193,18 @@ country_event = {
 			add_accepted_culture = south_german
 		WES = { all_core = { add_core = THIS } }
 		NET = { all_core = { add_core = THIS } }
-		
+		FRI = { all_core = { add_core = THIS } }
+			add_core = 604
+		add_core = 410
+		add_core = 409
+		add_core = 571
+		add_core = 3563
+		add_core = 570
+		add_core = 3254
+		add_core = 574
+		add_core = 572
+		add_core = 3378
+		add_core = 575
 		ai_chance = {
 			factor = 100
 		}
@@ -209,10 +222,12 @@ country_event = {
 	id = 704
 
 	trigger = {
-	OR = {
+	
 		tag = WES
 		
-		}
+		owns = 569
+		owns = 589
+		owsns = 611
 		
 		
 		NOT = {
@@ -243,6 +258,18 @@ country_event = {
 			add_accepted_culture = south_german
 		BAD = { all_core = { add_core = THIS } }
 		NET = { all_core = { add_core = THIS } }
+		FRI = { all_core = { add_core = THIS } }
+		add_core = 604
+		add_core = 410
+		add_core = 409
+		add_core = 571
+		add_core = 3563
+		add_core = 570
+		add_core = 3254
+		add_core = 574
+		add_core = 572
+		add_core = 3378
+		add_core = 575
 		ai_chance = {
 			factor = 100
 		}

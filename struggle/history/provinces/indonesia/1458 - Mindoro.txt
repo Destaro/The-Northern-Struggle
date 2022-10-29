@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = JAP
+controller = JAP
 add_core = PHL
 trade_goods = fish
 life_rating = 35

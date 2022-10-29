@@ -26,7 +26,13 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-
+#Mittelafrika
+substate = {
+	first = GER
+	second = MIT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
 
 #Afghanistan
 substate = {
@@ -36,9 +42,24 @@ substate = {
 	end_date = 1936.1.1
 }
 
+#Dai Nam
 substate = {
 	first = DAI
 	second = FJN
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = DAI
+	second = TPG
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = DAI
+	second = GNG
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -103,14 +124,6 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#austria-franconia
-vassal = {
-	first = AUS
-	second = FRE
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
 #Liechenstein
 vassal = {
 	first = PNJ
@@ -157,14 +170,6 @@ vassal = {
 	first = SWE
 	second = IRE
 	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-#Portugal-Lusitania
-vassal = {
-	first = POR
-	second = LST
-	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
 
@@ -235,6 +240,14 @@ substate = {
 substate = {
 	first = MGL
 	second = UYG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Mongolia - North China
+substate = {
+	first = MGL
+	second = GMJ
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -415,28 +428,6 @@ substate = {
 	end_date = 1936.1.1
 }
 
-### Spanish Empire ###
-# New Spain
-substate = {
-	first = SPA
-	second = VNS
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-# New Granada
-substate = {
-	first = SPA
-	second = VNG
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-# Viceroyalty Peru
-substate = {
-	first = SPA
-	second = VOP
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
 ### Swedish Empire ###
 # Livland
 substate = {

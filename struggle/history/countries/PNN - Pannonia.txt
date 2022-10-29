@@ -4,9 +4,9 @@ religion = catholic
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0,5
+literacy = 0.09
 civilized = yes
-oob = "PNN.txt"
+oob = "PNN_oob.txt"
 
 decision = central_hungary_rename_pnn
 

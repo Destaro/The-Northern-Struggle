@@ -152,6 +152,11 @@ indo_aryan;Indo Aryan;;;;;;;;;;;;;;;;;;;;;;;;x
 kafiri;Kafiri;;;;;;;;;;;;;;;;;;;;;;;;x
 ethiosemitic;Ethiosemitic;;;;;;;;;;;;;;;;;;;;;;;;x
 ;;;;;;x;;;;;;
+ANU;Baediga;;;;;;;;;;;;;;;;;;;;;;;;x
+ANU_ADJ;Baedigan;;;;;;;;;;;;;;;;;;;;;;;;x
+TLD;Toledu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TLD_ADJ;Toledan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+;;;;;;x;;;;;;
 GEN_GER_anarcho_liberal;Radikale;;;;;;;;;;;;;
 GEN_GER_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;;
 GEN_GER_conservative_1;Zentrumspartei;;;;;;;;;;;;;
@@ -519,6 +524,13 @@ FRI;Frisia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FRI_ADJ;Frisian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OSS_reactionary;Bardarægad;;;;;;;;;;;;;x
+OSS_liberal;Reformist Faction;;;;;;;;;;;;;x
+OSS_conservative;Særad;;;;;;;;;;;;;x
+OSS_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
+OSS_socialist;Socialist Party;;;;;;;;;;;;;x
+OSS_communist;Communist Part;;;;;;;;;;;;;x
+OSS_fascist;Fascist Party;;;;;;;;;;;;;x
 CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR_ADJ;Curonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Burgundy;Bourgogne;Burgund;Burgundia;Borgoña;Borgogna;Burgundia;burgundské;Burgundia;Bourgogne;Borgonha;Áóðãóíäèÿ;Bourgogne;
@@ -848,3 +860,64 @@ BAD;Swabia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BAD_ADJ;Swabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CZH;Wendiskarike;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CZH_ADJ;Wend;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NET_ADJ;Hollent;Hollent;Hollent;;;;;;;;;;;x;
+NET;Holtlant;;;;;;;;;;;x;
+NET_proletarian_dictatorship;Holtlant;;;;;;;;;;;x;
+NET_presidential_dictatorship;Holtlant;;;;;;;;;;;x;
+NET_bourgeois_dictatorship;Holtlant;;;;;;;;;;;x;
+NET_fascist_dictatorship;Holtlant;;;;;;;;;;;x;
+NET_absolute_monarchy;Holtlant;;;;;;;;;;;x;
+NET_prussian_constitutionalism;Holtlant;;;;;;;;;;;x;
+NET_hms_government;Holtlant;;;;;;;;;;;x;
+NET_democracy;Holtlant;;;;;;;;;;;x;
+NET_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NET_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NET_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NET_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NET_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NET_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NET_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NET_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NET_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+AST;Austral Federation;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AST_ADJ;Austral;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PDN_ADJ;Padan;Padan;Padan;;;;;;;;;;;x;
+PDN;Padanian Federation;Padanian Federation;Padanian Federation;;;;;;;;;;;x;
+PDN_proletarian_dictatorship;Padania;Padania;Padania;;;;;;;;;;;x;
+PDN_presidential_dictatorship;Padan Republic;Padan Republic;Padan Republic;;;;;;;;;;;x;
+PDN_bourgeois_dictatorship;Padania;Padania;Padania;;;;;;;;;;;x;
+PDN_fascist_dictatorship;Padania;Padania;Padania;;;;;;;;;;;x;
+PDN_absolute_monarchy;Padanian Federation;Padanian Federation;Padanian Federation;;;;;;;;;;;x;
+PDN_prussian_constitutionalism;Padanian Federation;Padanian Federation;Padanian Federation;;;;;;;;;;;x;
+PDN_hms_government;Padanian Federation;Padanian Federation;Padanian Federation;;;;;;;;;;;x;
+PDN_democracy;Padan Republic;Padan Republic;Padan Republic;;;;;;;;;;;x;
+PDN_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+PDN_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+PDN_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+PDN_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+PDN_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+PDN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+PDN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+PDN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+PDN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+PLC;Slavic Commonwealth;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PLC_ADJ;Polish-Ruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLA_ADJ;Slavic;Slavic;Slavic;;;;;;;;;;;x;
+SLA;Slavia;Slavia;Slavia;;;;;;;;;;;x;
+SLA_proletarian_dictatorship;Soviet Union;Soviet Union;Soviet Union;;;;;;;;;;;x;
+SLA_presidential_dictatorship;Slavic Republic;Slavic Republic;Slavic Republic;;;;;;;;;;;x;
+SLA_bourgeois_dictatorship;Slavia;Slavia;Slavia;;;;;;;;;;;x;
+SLA_fascist_dictatorship;Slavic Empire;Slavic Empire;Slavic Empire;;;;;;;;;;;x;
+SLA_absolute_monarchy;Slavia;Slavia;Slavia;;;;;;;;;;;x;
+SLA_prussian_constitutionalism;Slavia;Slavia;Slavia;;;;;;;;;;;x;
+SLA_hms_government;Slavia;Slavia;Slavia;;;;;;;;;;;x;
+SLA_democracy;Slavic Republic;Slavic Republic;Slavic Republic;;;;;;;;;;;x;
+SLA_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SLA_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SLA_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SLA_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SLA_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SLA_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SLA_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SLA_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SLA_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;

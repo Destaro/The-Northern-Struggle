@@ -1,6 +1,6 @@
-capital = 633
+capital = 635
 primary_culture = slovak
-culture = czech
+culture = pannonian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
@@ -40,6 +40,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+decision = slovakia_rename_czhslo
 
 ruling_party = SLV_conservative
 upper_house = {

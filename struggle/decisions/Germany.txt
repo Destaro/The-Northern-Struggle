@@ -106,47 +106,6 @@ political_decisions = {
 		}
 	}
 	
-	
-	annex_bohemia = {
-	potential = { 
-	tag = GER
-	BOH = { vassal_of = THIS }
-    exists = BOH
-	NOT = { has_global_flag = bohemia_is_out }
-	}
-	allow = {
-	is_greater_power = yes
-	war = no
-	BOH = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-									OR = {
-										is_vassal = no
-										vassal_of = THIS
-									}
-									war = no
-									is_greater_power = no
-								}
-							}
-						}					
-					}
-	
-	}
-	
-	effect = {
-	inherit = BOH
-	prestige = 40
-	badboy = 10
-	set_global_flag = bohemia_is_out
-	                 }
-	
-	
-	     }
-	
-	
 	construct_germania_werft = {
 		picture = construct_germania_werft
 		potential = {

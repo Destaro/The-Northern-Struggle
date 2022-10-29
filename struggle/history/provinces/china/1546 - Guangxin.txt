@@ -1,6 +1,7 @@
-owner = DAI
-controller = DAI
+owner = FJN
+controller = FJN
 add_core = DAI
 add_core = CHI
+add_core = FJN
 trade_goods = tea
 life_rating = 32
