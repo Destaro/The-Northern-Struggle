@@ -646,6 +646,9 @@ political_decisions = {
 		}
 
 		effect = {
+		        add_accepted_culture = bulgarian
+			 add_accepted_culture = pannonian
+		        inherit = BUL
 			set_global_flag = yugoslavia_formed
 			prestige = 20
 			all_core = { add_core = YUG }
