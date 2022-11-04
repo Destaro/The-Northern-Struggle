@@ -1,8 +1,8 @@
-owner = ORA
-controller = ORA
+owner = `ZUL
+controller = `ZUL
 add_core = MAT
 add_core = BSH
-add_core = ORA
+
 
 trade_goods = wool
 life_rating = 20
@@ -13,3 +13,5 @@ life_rating = 20
 	remove_core = BSH
 	life_rating = 35
 }
+
+add_core = `ZUL

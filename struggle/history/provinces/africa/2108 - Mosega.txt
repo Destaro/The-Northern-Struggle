@@ -1,6 +1,6 @@
-owner = ORA
-controller = ORA
-add_core = ORA
+owner = MAT
+controller = MAT
+
 add_core = MAT
 terrain = savanna
 trade_goods = grain

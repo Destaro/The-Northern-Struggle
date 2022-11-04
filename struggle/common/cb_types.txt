@@ -3536,14 +3536,7 @@ acquire_state = {
 
 	can_use = {
 		is_vassal = no
-		OR = {
-			AND = { 
-				THIS = { num_of_ports = 1 } 
-				num_of_ports = 1
-			}
-			neighbour = THIS
-			AND = { war_with = THIS ai = no }
-		}
+		
 		NOT = { 
 			is_our_vassal = THIS
 			has_country_modifier = neutrality

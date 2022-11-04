@@ -5,6 +5,12 @@ NTU = {
 	influence_value = 0
 }
 
+NOR = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
+
 NEN = {	
 	value = 125
 	level = 5

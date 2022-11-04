@@ -1,5 +1,5 @@
-owner = ORA
-controller = ORA
+owner = GAZ
+controller = GAZ
 add_core = GAZ
 trade_goods = fish
 terrain = savanna
@@ -10,4 +10,3 @@ life_rating = 35
 	colonial = 2
 }
 
-add_core = ORA

@@ -16,37 +16,7 @@
 
 political_decisions = {
 
-	the_grunderzeit2 = {
-		picture = "the_grunderzeit2"
-		potential = {
-			is_culture_group = germanic
-			NOT = { tag = AUS }
-			NOT = { tag = KUK }
-			NOT = { has_country_flag = grunderzeit_we_have_done }
-		}
-		
-		allow = {
-			iron_railroad = 1
-		}
-		
-		effect = {
-			capital_scope = {
-				any_pop = {
-					ideology = {
-						value = liberal
-						factor = 0.05
-					}
-				}
-				life_rating = 3
-			}
-			prestige = 10
-			set_country_flag = grunderzeit_we_have_done
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	
 
 ######################
 # COLOGNE CATHEDRAL  #
@@ -214,44 +184,5 @@ political_decisions = {
 		}
     }
 
-###########
-# Bavaria #
-###########
 
-	build_maximilianstrasse = {
-		picture = "build_maximilianstrasse"
-		potential = {
-			OR = { 
-				tag = BAV
-				AND = {
-					NOT = { tag = BAV }
-					owns = 599 #Munchen
-					is_culture_group = germanic
-				}
-			}
-			NOT = { has_global_flag = maximilianstrasse_build }
-		}
-
-		allow = {
-			romanticism = 1
-			invention = populism_vs._establishment
-			money = 55000
-			OR = { 
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-		}
-		
-		effect = {
-			set_global_flag = maximilianstrasse_build
-			treasury = -55000
-			prestige = 10
-			599 = { life_rating = 3 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-   }
 }

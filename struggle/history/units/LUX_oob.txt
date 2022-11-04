@@ -76,7 +76,7 @@ army = {
 }
 
 leader = {
-	name = "Roland VII af Lutherungen"
+	name = "Clovis XVIII Karling"
 	date = 1836.1.1
 	type = land
 	personality = soldierly

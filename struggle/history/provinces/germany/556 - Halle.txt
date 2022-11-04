@@ -1,5 +1,5 @@
-owner = WEI
-controller = WEI
+owner = BDB
+controller = BDB
 add_core = BDB
 add_core = GER
 trade_goods = fruit

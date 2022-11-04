@@ -717,7 +717,7 @@
 	            }
 	}
 	
-	*integrates finland and estonia
+	#integrates finland and estonia
 	integrate_finland_and_estonia = {
 	potential = {
 	OR = {
@@ -753,7 +753,7 @@
 	}
 	
 	
-	*integrates finland incase estonia is lost
+	#integrates finland incase estonia is lost
 	integrate_finland = {
 	potential = {
 	OR = {
@@ -846,12 +846,12 @@
 	has_country_flag = integrate_finland_and_estonia 
 	            }
 	has_country_flag = integrate_livonia
-	nationalism_n_imperialism = 1
-	year = 1865
+	revolution_n_counterrevolution = 1
+	year = 1890
 	war = no
 	   NOV = { vassal_of = THIS }
 	  
-	is_greater_power = 1
+	is_greater_power = yes
 	
 	
 	}

@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = POR
+controller = POR
 add_core = CLA
 add_core = ARO
 trade_goods = fish

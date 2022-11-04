@@ -1,7 +1,5 @@
-owner = EIC
-controller = EIC
+owner = BER
+controller = BER
 add_core = BER
 trade_goods = tobacco
 life_rating = 32
-colonial = 2
-naval_base = 2

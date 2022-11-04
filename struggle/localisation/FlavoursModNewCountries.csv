@@ -6,8 +6,8 @@ GEN_ADJ;Genoese;;;;;;;;;;;;x
 GEN;Genoa;;;;;;;;;;;;x
 MRU_colonial_company;The Maritime Dominion;;;;;;;;;;;;;x,
 MRU_dominion;The Maritime Dominion;;;;;;;;;;;;;x,
-BOS_colonial_company;Bosnien-Herzegowina;;;;;;;;;;;;;x,
-BOS_dominion;Bosnien-Herzegowina;;;;;;;;;;;;;x,
+BOS_colonial_company;Morlachia;;;;;;;;;;;;;x,
+BOS_dominion;Morlachia;;;;;;;;;;;;;x,
 MLI_colonial_company;French Soudan;;;;;;;;;;;;;x,
 MLI_dominion;French Soudan;;;;;;;;;;;;;x,
 OMA_absolute_monarchy;Muscat-Oman;;;;;;;;;;;;x
@@ -290,7 +290,7 @@ SMR_fascist;Partito Fascista Sammarinese;;;;;;;;;;;;;x
 PAP_ADJ_theocracy;Papal;;;;;;;;;;;;;x
 SMR;San Marino;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SMR_ADJ;Sammarinese;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-MON_theocracy;The Prince-Bishopric of Montenegro;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+MON_theocracy;The Prince-Bishopric of Tamishrad;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 KUK_democracy;The Austro-Hungarian Confederation;;;;;;;;;;x
 KUK_democracy_ADJ;Austro-Hungarian;Danubien;Donau-;;danubiana;;;;;;;;;x
 VLG;Volgaland;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;

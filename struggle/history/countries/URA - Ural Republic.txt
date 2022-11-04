@@ -1,14 +1,12 @@
 capital = 1058
-primary_culture = russian
-culture = byelorussian
-culture = ukrainian
+primary_culture = tatar
 culture = ugrian
-religion = orthodox
+religion = animist
 government = democracy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.01
-civilized = yes
+civilized = no
 # is_releasable_vassal = no
 
 # Political reforms

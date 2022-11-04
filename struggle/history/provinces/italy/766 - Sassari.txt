@@ -1,6 +1,7 @@
 owner = TUN
 controller = TUN
 add_core = TUN
+add_core = SVY
 add_core = SRD
 add_core = ITA
 trade_goods = grain

@@ -10,3 +10,8 @@ naval_base = 1
 	controller = TUR
 	colonial = 2
 }
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

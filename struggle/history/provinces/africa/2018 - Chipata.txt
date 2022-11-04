@@ -1,6 +1,8 @@
-owner = KZB
-controller = KZB
+owner = ZOU
+controller = ZOU
 add_core = KZB
 trade_goods = grain
 life_rating = 10
 
+
+add_core = ZOU

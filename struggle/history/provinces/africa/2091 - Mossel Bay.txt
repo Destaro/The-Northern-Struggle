@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = LUX
+controller = LUX
 add_core = SAF
 add_core = XHO
 trade_goods = fruit

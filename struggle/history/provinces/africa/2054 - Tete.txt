@@ -1,6 +1,8 @@
-owner = SHO
-controller = SHO
+owner = ZOU
+controller = ZOU
 add_core = SHO
 trade_goods = precious_goods
 life_rating = 35
 colonial = 2
+
+add_core = ZOU

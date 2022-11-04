@@ -1500,53 +1500,7 @@ political_decisions = {
 		}
 	}
 	
-	anglo_japanese_alliance = {
-		picture = treaty_signing
-		potential = {
-			blue_and_brown_water_schools = 1
-			OR = {
-				tag = JAP
-				tag = TKG
-			}
-			has_country_modifier = fukoku_kyohei
-			ENG = {
-				any_owned_province = { continent = asia }
-				NOT = { any_core = { owned_by = THIS } }
-				is_greater_power = yes
-				ai = yes
-			}
-			NOT = {
-				has_country_flag = anglo_alliance_created
-				any_owned_province = { is_core = HND }
-				truce_with = ENG
-				alliance_with = ENG
-				any_core = { owned_by = ENG }
-				neighbour = ENG
-			}
-		}
-		
-		allow = {
-			OR = {
-				great_wars_enabled = yes
-				NOT = { any_greater_power = { alliance_with = ENG } }
-			}
-			war = no
-			ENG = { war = no }
-			is_greater_power = yes
-			RUS = {
-				NOT = { relation = { who = ENG value = 0 } }
-				NOT = { relation = { who = THIS value = 0 } }
-			}
-		}
-		
-		effect = {
-			set_country_flag = anglo_alliance_created
-			relation = { who = ENG value = 200 }
-			create_alliance = ENG
-			military_access = ENG
-			ENG = { military_access = THIS }
-		}
-	}
+	
 	
 	japanese_sakhalin = {
 		picture = map_yellow_sea
@@ -1932,30 +1886,86 @@ political_decisions = {
 		}
 	}
 
-	core_korea = {
-
+	annex_takasago = {
 		potential = {
-			tag = JAP 
-			NOT = {
-				
-					has_country_flag = cor_kor
-					exists = KOR
-				  
+			OR = {
+				tag = JAP
+				tag = TKG
+			}
+			
+			is_greater_power = yes
+			NOT = { has_country_flag = annexed_takasago }
+			exists = TAI
+		}
+		
+		allow = {
+			NOT = { war_with = TAI	}
+			NOT = { truce_with = TAI }
+			OR = {
+				AND = {
+					is_our_vassal = TAI
+					
+				}		
+			}
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			set_country_flag = annexed_takasago
+			badboy = 5
+			
+			random_country = {
+				limit = {
+					tag = TAI
+					ai = yes
+					civilized = no
+				}
+				annex_to = THIS
+			}
+			
+			random_country = {
+				limit = {
+					tag = TAI
+					ai = yes
+					civilized = yes
+				}
+				civilized = no
+				annex_to = THIS
+			}
+			
+			random_country = {
+				limit = {
+					tag = TAI
+					exists = no
+				}
+				civilized = yes
+			}
+			
+			random_country = {
+				limit = {
+					tag = TAI
+					ai = no
+				}
+				casus_belli = {
+					target = THIS
+					type = become_independent
+					months = 12
+				}
+				war = {
+					target = THIS
+					attacker_goal = {
+						casus_belli = become_independent
+					}
+				}
 			}
 		}
-
-		allow = {
-			KOR = { all_core = { owned_by = THIS } }
-			is_greater_power = yes
-			nationalism_n_imperialism = 1
-			prestige = 60
-		}
-
-		effect = {
-			badboy = 10
-			set_country_flag = cor_kor
-			prestige = 20
-			KOR = { all_core = { add_core = THIS } }
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
 		}
 	}
 }

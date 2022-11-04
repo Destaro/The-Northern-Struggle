@@ -4,7 +4,7 @@ become_rhine = {
         potential = {
 		OR = {
             tag = WES
-			
+			tag = BAD
 			}
             NOT = { exists = RHI }
         }
@@ -32,6 +32,7 @@ become_rhine = {
         }
 
         effect = {
+		set_global_flag = rhineland_formed
 		add_core = 543
 		add_core = 383
 		add_core = 385
@@ -55,7 +56,114 @@ become_rhine = {
         }
         ai_will_do = { factor = 1 }
     }
+	
+	
+	destroy_lotharingia = {
+        potential = {
+		OR = {
+            tag = GER
+			tag = RHI
+			}
+			exists = FRC
+			has_global_flag = rhineland_formed
+            NOT = {  has_global_flag = destroy_lotharingia }
+        }
 
+        allow = {
+		revolution_n_counterrevolution = 1
+            prestige = 200
+			military_score = 200
+            war = no
+			is_greater_power = yes
+          RHI = { all_core = { owned_by = THIS } }
+        }
 
+        effect = {
+		set_global_flag = destroy_lotharingia
+		badboy = 20
+		
+		
+		war = {
+	target = FRC
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = acquire_all_cores
+	                         }
+						
+						
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+	defender_goal = { 
+	casus_belli = acquire_state
+	country = THIS
+	state_province_id = 579 }
+	
+	defender_goal = { 
+	casus_belli = acquire_state
+	country = THIS
+	state_province_id = 587 }
+
+        }
+	}
+        ai_will_do = { factor = 1 }
+    }
+
+core_lotharingia = {
+        potential = {
+		OR = {
+            tag = GER
+			tag = RHI
+			}
+            NOT = { has_global_flag = core_lotharingia }
+			has_global_flag = destroy_lotharingia 
+			owns = 576
+        }
+
+        allow = {
+            year = 1880
+            war = no
+           owns = 576
+		   owns = 411
+		   owns = 432
+		   owns = 398
+		   owns = 387
+        }
+
+        effect = {
+		set_global_flag = core_lotharingia
+		add_core = 3551
+		add_core = 432
+		add_core = 3553
+		add_core = 414
+		add_core = 411
+		add_core = 3555
+		add_core = 412
+		add_core = 573
+		add_core = 3376
+		add_core = 397
+        add_core = 398
+		add_core = 3377
+		add_core = 396
+		add_core = 395
+		add_core = 577
+		add_core = 381 
+		add_core = 390
+		add_core = 387
+		add_core = 3372
+		add_core = 391
+		add_core = 379
+		add_core = 380
+        add_core = 378
+            prestige = 50
+            
+            badboy = 10
+        }
+        ai_will_do = { factor = 1 }
+    }
 
 }

@@ -15,11 +15,11 @@ form_slavia = {
             prestige = 250
             war = no
             revolution_n_counterrevolution = 1
-			owns = 994
+			
 			owns = 812
 			owns = 643
 			owns = 706
-			owns = 996
+			owns = 1008
 			owns = 360
 			owns = 958
         }
@@ -37,6 +37,7 @@ form_slavia = {
 		   EST = { all_core = { add_core = THIS } }
 		   LAT = { all_core = { add_core = THIS } }
 		   IZH = { all_core = { add_core = THIS } }
+		   BUL = { all_core = { add_core = THIS } }
 		    add_accepted_culture = ukranian
 			add_accepted_culture = byelorussian
 			add_accepted_culture = bulgarian
@@ -51,6 +52,61 @@ form_slavia = {
         ai_will_do = { factor = 1 }
     }
 
+
+rescue_the_sorbians = {
+        potential = {
+		
+        tag = SLA
+			
+            NOT = { has_country_flag = rescue_the_sorbians }
+        }
+
+        allow = {
+		war = no
+	       year = 1900
+		   is_greater_power = yes
+		   SLA = { all_core = { owned_by = THIS } }
+        }
+
+        effect = {
+		set_country_flag = rescue_the_sorbians
+		infamy = 10
+   BDB = { all_core = { add_core = THIS } }
+            add_accepted_culture = sorbian
+        }
+        ai_will_do = { factor = 1 }
+    }
+	
+	
+	claim_the_northern_slavs = {
+        potential = {
+		
+        tag = SLA
+			
+            NOT = { has_country_flag = claim_the_northern_slavs }
+        }
+
+        allow = {
+		war = no
+	       year = 1890
+		   is_greater_power = yes
+		   SLA = { all_core = { owned_by = THIS } }
+		  NOT = { is_vassal = NOV }
+        }
+
+        effect = {
+		
+		relation = {
+			who = SWE
+			value = -200 
+		}
+		set_country_flag = claim_the_northern_slavs
+		infamy = 5
+   NOV = { all_core = { add_core = THIS } }
+            add_accepted_culture = novgorodian
+        }
+        ai_will_do = { factor = 1 }
+    }
 
 
 }

@@ -1,7 +1,8 @@
-owner = ORA
-controller = ORA
+owner = `ZUL
+controller = `ZUL
 add_core = SUA
 trade_goods = grain
 life_rating = 35
 
-add_core = ORA
+
+add_core = `ZUL

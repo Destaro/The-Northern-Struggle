@@ -256,35 +256,7 @@ army = {
 navy = {
 	name = "Imperial Fleet"
 	location = 1657
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "6th Transport Flotilla"
-		type = clipper_transport
-	}
+	
 	
 	ship = {
 		name= "Yusosentai"
@@ -292,44 +264,64 @@ navy = {
 	}
 	
 	ship = {
-		name= "HMS Good Hope"
+		name= "Yusosentai 2"
+		type = manowar
+	}
+	ship = {
+		name= "Yusosentai 3"
+		type = manowar
+	}
+	ship = {
+		name= "Yusosentai 4"
 		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 5"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 6"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 7"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 8"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 9"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 10"
+		type = frigate
+	}
+	ship = {
+		name= "Yusosentai 11"
+		type = clipper_transport
 	}
 	
 	ship = {
-		name= "HMS Good Hope"
-		type = frigate
+		name= "Yusosentai 12"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Yusosentai 13"
+		type = clipper_transport
 	}
 	
 	ship = {
-		name= "HMS Good Hope"
-		type = frigate
+		name= "Yusosentai 14"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Yusosentai 15"
+		type = clipper_transport
 	}
 	
-	ship = {
-		name= "HMS Good Hope"
-		type = frigate
-	}
-	
-	ship = {
-		name= "HMS Good Hope"
-		type = frigate
-	}
-	
-	ship = {
-		name= "HMS Good Hope"
-		type = frigate
-	}
-	
-	ship = {
-		name= "HMS Good Hope"
-		type = frigate
-	}
-	
-	ship = {
-		name= "HMS Good Hope"
-		type = frigate
-	}
 	
 
 }

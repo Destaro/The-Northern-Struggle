@@ -1,5 +1,5 @@
-owner = ORA
-controller = ORA
+owner = GAZ
+controller = GAZ
 add_core = ZOU
 add_core = GAZ
 add_core = MAT
@@ -15,4 +15,3 @@ life_rating = 15
 	life_rating = 35
 }
 
-add_core = ORA
