@@ -646,6 +646,9 @@ political_decisions = {
 		}
 
 		effect = {
+		        add_accepted_culture = bulgarian
+			 add_accepted_culture = pannonian
+		      
 			set_global_flag = yugoslavia_formed
 			prestige = 20
 			all_core = { add_core = YUG }
@@ -684,19 +687,28 @@ political_decisions = {
 			}
 			any_country = {
 				limit = {
-					war = no
-					is_culture_group = south_slavic
-					NOT = {
-						tag = ALB
-						has_country_flag = post_colonial_country
-					}
 					OR = {
-						in_sphere = THIS
-						sphere_owner = { is_sphere_leader_of = THIS }
-						relation = { who = THIS value = 100 }
+						tag = BUL
+						tag = PNN
+						tag = MON
+						tag = BOS
+					
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
 					}
 				}
-				country_event = 11120
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = BUL
+					is_core = PNN
+					is_core = MON
+					is_core = BOS
+				}
+				add_core = YUG
 			}
 		}
 
