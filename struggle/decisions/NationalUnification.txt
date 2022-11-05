@@ -11,7 +11,7 @@ political_decisions = {
 				exists = GER
 				exists = GCF
 				tag = DNB
-				tag = AUS
+				
 				tag = KUK
 				tag = GCF
 				has_country_flag = inherit_sgf
@@ -241,21 +241,24 @@ political_decisions = {
 	form_north_german_confederation = {
 		potential = {
 			is_greater_power = yes
-			primary_culture = north_german
+			OR = {
+			       tag = BDB
+				   tag = WES 
+				   }
 			capital_scope = { continent = europe }
 			NOT = {
 				has_country_flag = post_colonial_country
 				exists = GER
 				exists = GCF
 				exists = NGF
-				tag = UBD
+				
 			}
 		}	
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
-			OR = {
-				GER = {
+			
+				BDB = {
 					all_core = {
 						OR = {
 							OR = {
@@ -274,13 +277,30 @@ political_decisions = {
 						}
 					}
 				}
-				AND = {
-					year = 1865
-					has_country_flag = brothers_war_winner
-					ai = yes
-					NOT = { war_exhaustion = 1 }
+				
+				WES = {
+					all_core = {
+						OR = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+									OR = {
+										is_vassal = no
+										vassal_of = THIS
+									}
+									war = no
+									is_greater_power = no
+								}
+							}
+							NOT = { culture = north_german }
+						}
+					}
 				}
-			}
+				
+				
+				
+			
 		}
 		
 		effect = {
@@ -310,10 +330,10 @@ political_decisions = {
 			}
 			any_country = {
 				limit = {
-					NOT = { tag = UBD }
+					
 					OR = {
 						primary_culture = north_german
-						tag = SCH
+						tag = WEI
 					}
 					in_sphere = THIS 
 					NOT = { tag = THIS }
@@ -417,6 +437,7 @@ political_decisions = {
 			OR = {
 				tag = NGF
 				tag = SGF
+				tag = RHI
 			}
 			NOT = { exists = GER exists = GCF }
 		}
@@ -425,32 +446,11 @@ political_decisions = {
 			prestige = 45
 			nationalism_n_imperialism = 1
 			is_greater_power = yes
-			NOT = { 
-				war_with = FRA 
-				war_with = BOR
-			}
-			OR = {
-				has_country_flag = ems_dispatch_sent 
-				has_global_flag = germany_has_renamed_elsass 
-				ALS = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-								OR = {
-									is_vassal = no
-									vassal_of = THIS
-								}
-								war = no
-								is_greater_power = no
-							}
-						}
-					}				
-				}
-			}
-			OR = {
-				GER = {
+			war = no
+			
+		
+			
+				BDB = {
 					all_core = {
 						OR = {
 							owned_by = THIS
@@ -466,94 +466,75 @@ political_decisions = {
 						}
 					}
 				}
-				AND = {
-					NGF = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-									OR = {
-										is_vassal = no
-										vassal_of = THIS
-									}
-									war = no
-									is_greater_power = no
-								}
-							}
-						}				
-					}
-					OR = {
-						BAV = {
-							is_greater_power = yes
-							ai = yes
-							NOT = { rank = 8 }
-						}
-						AND = {
-							NGF = {
-								ai = yes
-							}
-							BAV = {
-								ai = yes
-								is_greater_power = yes
-							}
-						}
-						BAV = {
-							ai = yes
-							is_greater_power = no
-							part_of_sphere = no
-						}
-						BAV = {
-							all_core = {
+				
+				WES = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
 								OR = {
-									owned_by = THIS
-									owner = {
-										in_sphere = THIS
-										OR = {
-											is_vassal = no
-											vassal_of = THIS
-										}
-										war = no
-										is_greater_power = no
-									}
+									is_vassal = no
+									vassal_of = THIS
 								}
-							}					
+								war = no
+								is_greater_power = no
+							}
 						}
-					}
-					WUR = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-									OR = {
-										is_vassal = no
-										vassal_of = THIS
-									}
-									war = no
-									is_greater_power = no
-								}
-							}
-						}					
-					}
-					BAD = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-									OR = {
-										is_vassal = no
-										vassal_of = THIS
-									}
-									war = no
-									is_greater_power = no
-								}
-							}
-						}					
 					}
 				}
-			}
+				
+				BAD = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+					}
+				}
+				
+				AUS = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+					}
+				}
+				
+				WEI = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+					}
+				}
+				
 		}
 		
 		effect = {
@@ -567,74 +548,25 @@ political_decisions = {
 			change_tag = GER
 			add_accepted_culture = north_german
 			add_accepted_culture = south_german
-			add_accepted_culture = siebenburger
+			
 			add_accepted_culture = volga_german
 			random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
 			random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
 			random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
 			random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
 			set_global_flag = 3hurrahs
-			random_country = {
-				limit = {
-					tag = AUS
-					exists = yes
-					is_greater_power = no
-					in_sphere = THIS
-					war = no
-					OR = {
-						vassal_of = THIS
-						is_vassal = no
-					}
-					NOT = {
-						any_owned_province = {
-							NOT = { 
-								OR = {
-									is_core = AUS
-									is_core = GER
-									is_colonial = yes
-								}
-							}
-						}
-					}
-				}
-				country_event = 31530
-			}
-			random_country = {
-				limit = {
-					OR = {
-						tag = AUS
-						tag = KUK
-					}
-					exists = yes
-					is_greater_power = no
-					in_sphere = THIS
-					war = no
-					OR = {
-						vassal_of = THIS
-						is_vassal = no
-					}
-					any_owned_province = {
-						NOT = { 
-							OR = {
-								is_core = AUS
-								is_core = GER
-								is_colonial = yes
-							}
-						}
-					}
-				}
-				country_event = 31515
-			}
+			
+		
 			any_country = {
 				limit = {
 					is_culture_group = germanic
 					exists = no
-					NOT = { tag = AUS }
+					
 					NOT = { tag = KUK }
 					NOT = { tag = DNB }
 					NOT = { tag = PRU }
 					NOT = { tag = BAN }
-					NOT = { tag = UBD }
+					
 					NOT = { has_country_flag = post_colonial_country }
 					OR = {
 						all_core = { owned_by = THIS }
@@ -644,29 +576,43 @@ political_decisions = {
 				}
 				country_event = 11105
 			}
-			any_country = {
-				limit = {
-					OR = {
-						tag = AUS
-						tag = KUK
-						tag = DNB
-					}
-					exists = no
-					THIS = { capital = 619 }
-				}
-				country_event = 11105
-			}
-			any_country = {
-				limit = {
-					tag = PRU
-					exists = no
-					THIS = { capital = 549 }
-				}
-				country_event = 11105
-			}
+		
+			
 			any_country = {
 				limit = {
 					tag = BAV
+					exists = no
+				}
+				country_event = 11105
+			}
+			
+			any_country = {
+				limit = {
+					tag = WES
+					exists = no
+				}
+				country_event = 11105
+			}
+			
+			any_country = {
+				limit = {
+					tag = WEI
+					exists = no
+				}
+				country_event = 11105
+			}
+			
+			any_country = {
+				limit = {
+					tag = BDB
+					exists = no
+				}
+				country_event = 11105
+			}
+			
+			any_country = {
+				limit = {
+					tag = AUS
 					exists = no
 				}
 				country_event = 11105
@@ -706,11 +652,11 @@ political_decisions = {
 					}
 					NOT = { 
 						tag = KUK
-						tag = AUS
+						
 						tag = DNB
 						tag = BAN
-						tag = UBD
-						tag = LIE
+						
+						
 						tag = VLG
 						tag = SIE
 						capital_scope = { continent = africa }
