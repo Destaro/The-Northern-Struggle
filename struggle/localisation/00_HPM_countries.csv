@@ -1902,12 +1902,12 @@ PHL_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;x
 PHL_anarcho_liberal;Partido Libertad;Partido Libertad;Partido Libertad;;;;;;;;;;;x
 PHL_conservative;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;x
 PHL_fascist;Partido Nacional Socialista;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-PLC;The Polish-Lithuanian Commonwealth;;;;;;;;;;;;x
-PLC_ADJ;Polish-Lithuanian;;;;;;;;;;;;x
-PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
-PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
-PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
-PLC_democracy;Poland-Lithuania;;;;;;;;;;;;x
+PLC;The Polish-Ruthenian Commonwealth;;;;;;;;;;;;x
+PLC_ADJ;Polish-Ruthenian;;;;;;;;;;;;x
+PLC_proletarian_dictatorship;The Polish-Ruthenian Republic;;;;;;;;;;;;x
+PLC_fascist_dictatorship;The Polish-Ruthenian Republic;;;;;;;;;;;;x
+PLC_presidential_dictatorship;The Polish-Ruthenian Republic;;;;;;;;;;;;x
+PLC_democracy;Poland-Ruthenia;;;;;;;;;;;;x
 PML;Pomerelia;;;;;;;;;;;;x
 PML_ADJ;Pomerelian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x

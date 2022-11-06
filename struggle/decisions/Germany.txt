@@ -709,6 +709,81 @@ political_decisions = {
 		}
 	}
 
+
+claim_silesia = {
+		picture = become_poland
+		potential = {
+			OR = {
+				tag = BDB
+				tag = NGF
+				tag = GER
+				tag = GCF
+			}
+			NOT = { has_country_flag = claim_silesia } 
+		}
+		
+		allow = {
+			war = no
+			SLS = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+		}
+		
+		effect = {
+		set_country_flag = claim_silesia
+			badboy = 2
+			prestige = 5
+			SLS = { all_core = { add_core = THIS } }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+		}
+	}
+	
+	
+	
+	annex_bohemia = {
+		picture = become_poland
+		potential = {
+			OR = {
+				tag = GER
+				
+			}
+			NOT = { has_country_flag = core_bohemia } 
+			
+		}
+		
+		allow = {
+			war = no
+			BOH = { in_sphere = THIS }
+			is_greater_power = yes
+			owns = 682
+			revolution_n_counterrevolution = 1
+			BOH = { is_greater_power = no }
+			BOH = { relation = { who = THIS value = 200 } }
+		}
+		
+		effect = {
+		set_country_flag = annex_bohemia
+			badboy = 10
+			prestige = 15
+			inherit = BOH
+			any_pop = {
+				limit = { is_primary_culture = czech }
+				militancy = 5
+			}
+			any_pop = {
+				limit = { is_primary_culture = silesian }
+				militancy = 4
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+		}
+	}
 #	sudeteland_exchange = {
 #		picture = treaty_signing
 #		potential = {

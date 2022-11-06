@@ -45,7 +45,8 @@ become_rhine = {
            WES = { all_core = { add_core = THIS } }
 		   BAD = { all_core = { add_core = THIS } }
 		   add_accepted_culture = north_german
-
+           add_accepted_culture = frisian
+		   add_accepted_culture = dutch
             add_accepted_culture = south_german
             prestige = 30
             change_tag = RHI

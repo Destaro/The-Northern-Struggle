@@ -36,6 +36,49 @@ country_event = {
 	}
 }
 
+
+#italian anger
+country_event = {
+
+	id = 700700
+
+	is_triggered_only = yes
+		
+	
+	
+	fire_only_once = yes
+ 
+
+	title = "EVTNAME700700"
+	desc = "EVTDESC700700"
+	picture = "smoking"
+
+	option = {
+	any_pop = {
+			limit = {
+				has_pop_culture = north_italian
+			}
+			militancy = 5
+		}
+	random_country = {
+	 limit = {
+	 
+	 primary_culture = north_italian
+				primary_culture = south_italian
+	}
+	 
+	add_casus_belli = {
+			target = THIS
+			type = liberate_country
+			months = 6
+		               }
+	              
+	          }
+	      }
+		
+	}
+
+
 country_event = {
 
 	id = 31502

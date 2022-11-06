@@ -1437,6 +1437,7 @@ country_event = {
 			secede_province = JAP
 		}
 		JAP = { inherit = THIS }
+		JAP = { add_core = THIS }
 		ai_chance = {
 			factor = 100
 		}
