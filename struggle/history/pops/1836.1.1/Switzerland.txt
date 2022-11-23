@@ -2,37 +2,37 @@
 #Zurich (560000/140000 POPS)
 603 = {
 	aristocrats = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 1300
 	}
 
 	capitalists = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 100
 	}
 
 	clerks = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 60
 	}
 
 	craftsmen = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 21200
 	}
 
 	artisans = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 1150
 	}
@@ -44,55 +44,55 @@
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = allemanic
 		religion = protestant
 		size = 67890
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 500
 	}
 
 	clerks = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 30
 	}
 
 	craftsmen = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = allemanic
 		religion = catholic
 		size = 49020
 	}
@@ -459,7 +459,7 @@
 #Neuchatel (56000/14000 POPS)
 608 = {
 	aristocrats = {
-		culture = north_german
+		culture = allemanic
 		religion = protestant
 		size = 100
 	}

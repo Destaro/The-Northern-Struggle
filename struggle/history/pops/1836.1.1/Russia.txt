@@ -2056,13 +2056,13 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size = 1000
 	}

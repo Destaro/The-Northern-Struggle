@@ -4208,19 +4208,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = lusitanian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = north_german
+		culture = lusitanian
 		religion = protestant
 		size = 220
 	}
 
 	farmers = {
-		culture = north_german
+		culture = lusitanian
 		religion = protestant
 		size = 275
 	}
@@ -5723,19 +5723,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 5675
 	}
@@ -6307,19 +6307,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 6600
 	}
@@ -6369,19 +6369,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 9425
 	}
@@ -6413,19 +6413,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 6600
 	}
@@ -6475,19 +6475,19 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = north_german
+		culture = karolean
 		religion = protestant
 		size = 7550
 	}

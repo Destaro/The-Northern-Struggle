@@ -3,61 +3,61 @@
 #Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
 	aristocrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 750 
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 3100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 10150
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 1600
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 450 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 12500
 	}
@@ -69,193 +69,193 @@
 	}
 	
 	serfs = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 20000
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 450
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 1250  
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 275 
 	}
 
 	officers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 11100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 175  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 33000  
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 100  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 6450 
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50 
 	}
 	
 	officers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 35 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 2750  
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 35 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 50  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 4000  
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 200  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 18925  
 	}

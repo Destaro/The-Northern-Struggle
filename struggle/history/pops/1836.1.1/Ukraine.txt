@@ -23,7 +23,7 @@
 	farmers = {
 		culture = croat
 		religion = orthodox
-		size = 9425 
+		size = 12425 
 	}
 
 	clergymen = {
@@ -90,42 +90,6 @@
 		culture = polish
 		religion = catholic
 		size = 3810
-	}
-
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 35
-	}
-
-	officers = {
-		culture = south_german
-		religion = catholic
-		size = 40  
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 200  
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 2650   
 	}
 
 	clergymen = {
@@ -806,30 +770,6 @@
 		religion = jewish
 		size = 10950
 	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 1825
-	}
 }
 #Belz
 3320 = {
@@ -928,30 +868,6 @@
 		religion = jewish
 		size = 10950
 	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 1825
-	}
 }
 #Stryi (404000/101000 POPS) #now part of Ukraine  
 951 = {
@@ -1031,30 +947,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 5475
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 920
 	}
 }
 #Ternopil (1136000/284000 POPS) #now part of Ukraine  
@@ -1258,30 +1150,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 5475
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 920
 	}
 }
 #Volhynia-Podolia Region (1892000)

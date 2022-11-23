@@ -73,7 +73,7 @@
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 500
 	}
