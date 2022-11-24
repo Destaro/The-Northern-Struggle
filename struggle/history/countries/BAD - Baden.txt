@@ -1,5 +1,6 @@
 capital = 586
-primary_culture = south_german
+primary_culture = allemanic
+culture = bavarian
 culture = romansh
 religion = catholic
 government = absolute_monarchy

@@ -7138,86 +7138,38 @@
 #Kapnigrad (380000/95000 POPS)
 3668 = {
 	aristocrats = {
-		culture = pannonian
+		culture = bavarian
 		religion = catholic
-		size = 50 
-	}
-	
-	clergymen = {
-		culture = pannonian
-		religion = catholic
-		size = 25 
+		size = 700 
 	}
 
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = catholic
-		size = 1280
-	}
-	
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 65 
+		size = 450
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 100
+		size = 2250
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 50
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bavarian
+		religion = catholic
+		size = 1050
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 6080
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = protestant
-		size = 25 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = protestant
-		size = 20
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = protestant
-		size = 420 
-	}
-	
-	farmers = {
-		culture = pannonian
-		religion = protestant
-		size = 2675 
+		size = 35150
 	}
 }

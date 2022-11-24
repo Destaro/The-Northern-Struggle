@@ -1,5 +1,8 @@
 capital = 544
-primary_culture = north_german
+primary_culture = baltic_german
+culture = high_saxon
+culture = low_saxon
+culture = swedish
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

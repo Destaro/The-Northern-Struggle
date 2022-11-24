@@ -1895,30 +1895,6 @@
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 225
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 3700
-	}
-
-	clergymen = {
 		culture = ashkenazi
 		religion = jewish
 		size = 100
@@ -2002,30 +1978,6 @@
 		culture = polish
 		religion = protestant
 		size = 2800
-	}
-
-	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 200
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 3750  
 	}
 
 	clergymen = {
@@ -2918,42 +2870,6 @@
 		religion = jewish
 		size = 10600
 	}
-	
-	aristocrats = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	officers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 2500
-	}
-
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 3400
-	}
 }
 #Suwalki (196000/49000 POPS)
 707 = {
@@ -3102,30 +3018,6 @@
 		religion = jewish
 		size = 4425
 	}
-
-	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 275
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 2690
-	}
 }
 #Plock (396000/99000 POPS)
 708 = {
@@ -3193,30 +3085,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 4425
-	}
-
-	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 275
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 2690
 	}
 }
 #Lomza (200000/50000 POPS)
@@ -3347,30 +3215,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 6900
-	}
-
-	clergymen = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = volga_german
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 1725
 	}
 }
 #Siedlice (472000/118000 POPS)
