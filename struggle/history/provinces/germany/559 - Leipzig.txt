@@ -1,9 +1,8 @@
 owner = WEI
 controller = WEI
+add_core = WEI
 add_core = BDB
 add_core = GER
 trade_goods = coal
 life_rating = 40
 terrain = leipzig
-
-add_core = WEI

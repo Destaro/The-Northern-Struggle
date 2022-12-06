@@ -28,44 +28,44 @@
 	}
 	
 	aristocrats = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 75
 	}
 	
 	officers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 25
 	}
 	
 	soldiers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 1000
 	}
 	
@@ -104,26 +104,26 @@
 	}
 
 	artisans = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 30
 	}
 	
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 200
 	}
 }
@@ -154,8 +154,8 @@
 	}
 
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 5
 	}
 	
@@ -192,14 +192,14 @@
 	}
 	
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 25
 	}
 	
 	bureaucrats = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 10
 	}
 
@@ -242,26 +242,26 @@
 	}
 	
 	artisans = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 200
 	}
 
@@ -294,8 +294,8 @@
 	}
 
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 5
 	}
 	
@@ -332,8 +332,8 @@
 	}
 
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 5
 	}
 	
@@ -370,14 +370,14 @@
 	}
 
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 5
 	}
 	
@@ -414,8 +414,8 @@
 	}
 
 	farmers = {
-		culture = australian
-		religion = protestant
+		culture = nankaiganese
+		religion = catholic
 		size = 5
 	}
 	

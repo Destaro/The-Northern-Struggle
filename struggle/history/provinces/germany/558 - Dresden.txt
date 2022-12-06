@@ -1,7 +1,8 @@
 owner = WEI
 controller = WEI
+add_core = WEI
+add_core = BDB
 add_core = BOH
-add_core = SAX
 add_core = GER
 trade_goods = coal
 life_rating = 40
@@ -11,6 +12,3 @@ state_building = {
 	building = fabric_factory
 	upgrade = yes
 }
-
-add_core = BDB
-add_core = WEI

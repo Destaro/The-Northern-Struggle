@@ -1,4 +1,4 @@
-add_core = AST
+add_core = NMG
 trade_goods = cattle
 terrain = savanna
 life_rating = 20

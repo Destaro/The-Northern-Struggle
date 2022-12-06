@@ -17,17 +17,17 @@ political_decisions = {
 			GER = {
 				all_core = {
 					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
-						NOT = {
-							OR = {
-								primary_culture = allemanic
-								primary_culture = franconian
-								primary_culture = bavarian
+						owner = {
+							NOT = {
+								OR = {
+									primary_culture = allemanic
+									primary_culture = franconian
+									primary_culture = bavarian
+								}
 							}
 						}
 					}
@@ -80,23 +80,23 @@ political_decisions = {
 				exists = GER
 				exists = NGF
 			}
-		}	
+		}
 		allow = {
 			war = no
 			GER = {
 				all_core = {
 					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
-						NOT = {
-							OR = {
-								primary_culture = low_saxon
-								primary_culture = high_saxon
-								primary_culture = baltic_german
+						owner = {
+							NOT = {
+								OR = {
+									primary_culture = low_saxon
+									primary_culture = high_saxon
+									primary_culture = baltic_german
+								}
 							}
 						}
 						is_core = POL

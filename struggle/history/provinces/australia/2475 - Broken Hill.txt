@@ -1,4 +1,5 @@
-add_core = AST
+add_core = NMG
+add_core = NJP
 trade_goods = grain
 terrain = savanna
 life_rating = 20

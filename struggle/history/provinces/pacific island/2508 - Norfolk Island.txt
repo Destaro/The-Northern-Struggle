@@ -1,6 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NJP
+controller = NJP
+add_core = NJP
 trade_goods = fish
 life_rating = 30
 colonial = 2

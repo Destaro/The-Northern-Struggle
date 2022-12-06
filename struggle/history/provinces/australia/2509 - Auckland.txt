@@ -1,6 +1,7 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NJP
+controller = NJP
+add_core = NJP
+add_core = AOT
 trade_goods = cattle
 life_rating = 30
 terrain = auckland
