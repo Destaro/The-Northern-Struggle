@@ -22,16 +22,7 @@ political_decisions = {
             war = {
                 target = BOH
                 attacker_goal = {
-                    casus_belli = acquire_state
-                    state_province_id = 684
-                }
-                attacker_goal = {
-                    casus_belli = acquire_state
-                    state_province_id = 682
-                }
-                attacker_goal = {
-                    casus_belli = acquire_state
-                    state_province_id = 687
+                    casus_belli = acquire_all_cores
                 }
                 defender_goal = { casus_belli = make_puppet }
             }

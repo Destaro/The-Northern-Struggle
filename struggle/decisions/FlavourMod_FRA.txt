@@ -710,7 +710,6 @@ political_decisions = {
 			FRA = { set_country_flag = black_stain }
 			BOR = { set_country_flag = black_stain }
 			prestige = 10
-			FRA_412 = { add_core = THIS }
 			any_pop = {
 				limit = { is_culture_group = french }
 				militancy = -2

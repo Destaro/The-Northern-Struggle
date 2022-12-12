@@ -67,7 +67,6 @@ political_decisions = {
 				}	
 				country_event = 19200
 			}
-			FRA_412 = { add_core = GER }
 			set_country_flag = ems_dispatch_sent
 			set_global_flag = franco_prussian_war_started
 			any_pop = {
@@ -623,7 +622,6 @@ political_decisions = {
 		effect = {
 			clr_country_flag = lost_alsace_lorraine
 			badboy = 5
-			FRA_412 = { add_core = GER }
 			random_country = {
 				limit = {
 					owns = 412
@@ -709,81 +707,6 @@ political_decisions = {
 		}
 	}
 
-
-claim_silesia = {
-		picture = become_poland
-		potential = {
-			OR = {
-				tag = BDB
-				tag = NGF
-				tag = GER
-				tag = GCF
-			}
-			NOT = { has_country_flag = claim_silesia } 
-		}
-		
-		allow = {
-			war = no
-			SLS = { all_core = { owned_by = THIS } }
-			is_greater_power = yes
-		}
-		
-		effect = {
-		set_country_flag = claim_silesia
-			badboy = 2
-			prestige = 5
-			SLS = { all_core = { add_core = THIS } }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			
-		}
-	}
-	
-	
-	
-	annex_bohemia = {
-		picture = become_poland
-		potential = {
-			OR = {
-				tag = GER
-				
-			}
-			NOT = { has_country_flag = core_bohemia } 
-			
-		}
-		
-		allow = {
-			war = no
-			BOH = { in_sphere = THIS }
-			is_greater_power = yes
-			owns = 682
-			revolution_n_counterrevolution = 1
-			BOH = { is_greater_power = no }
-			BOH = { relation = { who = THIS value = 200 } }
-		}
-		
-		effect = {
-		set_country_flag = annex_bohemia
-			badboy = 10
-			prestige = 15
-			inherit = BOH
-			any_pop = {
-				limit = { is_primary_culture = czech }
-				militancy = 5
-			}
-			any_pop = {
-				limit = { is_primary_culture = silesian }
-				militancy = 4
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-			
-		}
-	}
 #	sudeteland_exchange = {
 #		picture = treaty_signing
 #		potential = {

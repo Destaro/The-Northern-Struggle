@@ -161,12 +161,12 @@ country_event = {
 	year = 1850
 	tag = LOM
 	war = no
-	742 = {
-	   owned_by = LOM
+	3622 = {
+	   owned_by = PAP
 	                  }
 	
-	724 = {
-	   owned_by = LOM
+	3641 = {
+	   owned_by = TUS
 	                  }
 	
 	
@@ -190,7 +190,7 @@ country_event = {
 		set_global_flag = papal_war
 		
 		
-		badboy = -22
+		
 		
 		war = {
 	target = PAP
@@ -234,7 +234,7 @@ war = {
 		}
 		
 		ai_chance = {
-			factor = 100
+			factor = 50
 		}
 	}
 	
@@ -286,7 +286,7 @@ country_event = {
 		name = "EVTOPTA513" 
 		set_global_flag = padanian_war
 		
-		badboy = -44
+		
 		
 		
 		war = {

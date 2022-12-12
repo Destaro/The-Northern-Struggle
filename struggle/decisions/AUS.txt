@@ -27,78 +27,13 @@ political_decisions = {
 		}
 	}
 
-	integrate_bohemia = {
-		picture = become_poland
-		potential = {
-			OR = {
-				tag = GER
-				tag = SGF
-			}
-			NOT = { has_country_flag = integrate_bohemia } 
-			has_global_flag = victory_over_bohemia
-		}
-		
-		allow = {
-			war = no
-			BOH = { all_core = { owned_by = THIS } }
-			is_greater_power = yes
-			revolution_n_counterrevolution = 1
-		}
-		
-		effect = {
-		set_country_flag = integrate_bohemia
-			badboy = 2
-			prestige = 5
-			add_accepted_culture = silesian
-		}
-		
-		ai_will_do = {
-			factor = 1
-			
-		}
-	}
 	
-	core_bohemia = {
-		picture = become_poland
-		potential = {
-			OR = {
-				tag = GER
-				tag = SGF
-			}
-			NOT = { has_country_flag = core_bohemia } 
-			has_global_flag = victory_over_bohemia
-		}
-		
-		allow = {
-			war = no
-			BOH = { all_core = { owned_by = THIS } }
-			is_greater_power = yes
-			military_score = 100
-			prestige = 150
-			
-		}
-		
-		effect = {
-		set_country_flag = core_bohemia
-			badboy = 5
-			prestige = 10
-			BOH = { all_core = { add_core = THIS } }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			
-		}
-	}
 	
 	
 tirol_is_ours_aus = {
 potential = { 
     exists = TST
-	OR = {
 	tag = SGF
-	tag = AUS
-	          }
       NOT = { has_country_flag = tirol_is_ours_aus
 	 
 	                   }
@@ -115,62 +50,6 @@ potential = {
 		prestige = 10
 		set_country_flag = tirol_is_ours_aus
 		relation = { who = VEN value = -200 }
-		
-		         }
-                   
-         }
-		 
-		 
-		 the_southern_ports = {
-potential = { 
-    exists = TST
-	OR = {
-	tag = SGF
-	tag = AUS
-	tag = GER
-	          }
-			  has_global_flag = victory_over_bohemia
-      NOT = { has_country_flag = the_southern_ports
-	 
-	                   }
-					}
-		allow = {
-		war = no
-		is_greater_power = yes 
-		owns = 768
-		owns = 735
-		owns = 733
-		owns = 729
-		owns = 770
-		}
-		
-		effect = { 
-		add_core = 768
-		add_core = 735
-		add_core = 733
-		add_core = 3262
-		add_core = 770
-		add_core = 2761
-		add_core = 737
-		add_core = 769
-		add_core = 736
-		add_core = 3637
-		add_core = 3639
-		add_core = 733
-		add_core = 3644
-		add_core = 3645
-		add_core = 3529
-		add_core = 773
-		add_core = 774
-		add_core = 3565
-		add_core = 3646
-		add_core = 778
-		add_core = 3527
-		add_core = 3638
-		prestige = 10
-		event = 700700
-		set_global_flag = the_southern_ports
-		relation = { who = LOM value = -200 }
 		
 		         }
                    

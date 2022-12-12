@@ -15,8 +15,7 @@ form_slavia = {
             prestige = 250
             war = no
             revolution_n_counterrevolution = 1
-			
-			owns = 812
+			owns = 647
 			owns = 643
 			owns = 706
 			owns = 1008
@@ -25,18 +24,14 @@ form_slavia = {
         }
 
         effect = {
-		
+           PLC = { all_core = { add_core = THIS } }
            MUS = { all_core = { add_core = THIS } }
 		   RUT = { all_core = { add_core = THIS } }
 		   POL = { all_core = { add_core = THIS } }
-		   LIT = { all_core = { add_core = THIS } }
 		   HUN = { all_core = { add_core = THIS } }
 		   PNN = { all_core = { add_core = THIS } }
 		   MON = { all_core = { add_core = THIS } }
 		   BOS = { all_core = { add_core = THIS } }
-		   EST = { all_core = { add_core = THIS } }
-		   LAT = { all_core = { add_core = THIS } }
-		   IZH = { all_core = { add_core = THIS } }
 		   BUL = { all_core = { add_core = THIS } }
 		    add_accepted_culture = ukranian
 			add_accepted_culture = byelorussian
@@ -55,10 +50,8 @@ form_slavia = {
 
 rescue_the_sorbians = {
         potential = {
-		
         tag = SLA
-			
-            NOT = { has_country_flag = rescue_the_sorbians }
+        NOT = { has_country_flag = rescue_the_sorbians }
         }
 
         allow = {
@@ -71,8 +64,24 @@ rescue_the_sorbians = {
         effect = {
 		set_country_flag = rescue_the_sorbians
 		infamy = 10
-   BDB = { all_core = { add_core = THIS } }
+		SAX_687 = { add_core = LUZ }
+		PRU_556 = { add_core = LUZ }
+		PRU_549 = { add_core = LUZ }
+		PRU_546 = { add_core = LUZ }
+		PRU_544 = { add_core = LUZ }
+		557 = { add_core = LUZ }
+		680 = { remove_core = LUZ }
+		692 = { remove_core = LUZ }
+		LUZ = { all_core = { add_core = LUZ } }
             add_accepted_culture = sorbian
+			war = {
+                target = BDB
+                attacker_goal = {
+                    casus_belli = acquire_all_cores
+                }
+                defender_goal = { casus_belli = humiliate }
+            }
+            set_country_flag = great_boh
         }
         ai_will_do = { factor = 1 }
     }

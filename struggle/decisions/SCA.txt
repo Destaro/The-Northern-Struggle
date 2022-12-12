@@ -719,6 +719,7 @@
 	
 	#integrates finland and estonia
 	integrate_finland_and_estonia = {
+	picture = concede_finland
 	potential = {
 	OR = {
 	tag = SCA
@@ -755,6 +756,7 @@
 	
 	#integrates finland incase estonia is lost
 	integrate_finland = {
+	picture = concede_finland
 	potential = {
 	OR = {
 	tag = SCA

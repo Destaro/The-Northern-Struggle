@@ -1,33 +1,5 @@
 political_decisions = {
 
-	concede_finland = {
-		picture = concede_finland
-		potential = {
-			NOT = { has_country_flag = annexed_finland }
-			tag = SWE
-			NOT = { tag = FIN }
-		}
-		
-		allow = {
-			year = 1852
-			war = no
-		}
-		
-		effect = {
-			badboy = -4
-			prestige = -2
-			add_accepted_culture = finnish
-			add_accepted_culture = estonian
-			inherit = FIN
-			inherit = EST
-			FIN = { all_core = { add_core = SWE } }
-			EST = { all_core = { add_core = SWE } }
-			any_pop = { militancy = -1 }
-			set_country_flag = annexed_finland
-		}
-		ai_will_do = { factor = 1 }
-	}
-
 	svenska_pansarbats_foreningen = {
 		potential = {
 			OR = {

@@ -86,7 +86,7 @@ political_decisions = {
 			random_owned = {
 				limit = { owner = { primary_culture = polish } }
 				owner = {
-					
+					add_accepted_culture = lithuanian
 					add_accepted_culture = ukrainian
 					add_accepted_culture = byelorussian
 					all_core = {
