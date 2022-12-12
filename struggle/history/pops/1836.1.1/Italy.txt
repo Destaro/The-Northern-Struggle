@@ -2364,7 +2364,7 @@
 	}
 
 	soldiers = {
-		culture = allemanic
+		culture = south_german
 		religion = catholic
 		size = 200
 	}

@@ -2056,13 +2056,13 @@
 	}
 
 	clergymen = {
-		culture = baltic_german
+		culture = north_german
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = baltic_german
+		culture = north_german
 		religion = catholic
 		size = 1000
 	}
@@ -4995,6 +4995,24 @@
 		religion = sunni
 		size = 7275
 	}
+	
+	farmers = {
+		culture = volga_german
+		religion = protestant
+		size = 10650
+	}
+
+	clergymen = {
+		culture = volga_german
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = catholic
+		size = 2300
+	}
 }
 #Syzran (540000/135000 POPS)
 1035 = {
@@ -5143,6 +5161,66 @@
 	}
 
 	clergymen = {
+		culture = volga_german
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = protestant
+		size = 5000
+	}
+
+	soldiers = {
+		culture = volga_german
+		religion = protestant
+		size = 900
+	}
+
+	farmers = {
+		culture = volga_german
+		religion = protestant
+		size = 22650
+	}
+
+	clergymen = {
+		culture = volga_german
+		religion = catholic
+		size = 350
+	}
+	
+	bureaucrats = {
+		culture = volga_german
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = catholic
+		size = 3900
+	}
+
+	soldiers = {
+		culture = volga_german
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = volga_german
+		religion = catholic
+		size = 10750
+	}
+	
+	aristocrats = {
+		culture = volga_german
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
 		culture = tatar
 		religion = sunni
 		size = 100
@@ -5203,6 +5281,42 @@
 		religion = sunni
 		size = 67725
 	}
+	
+	clergymen = {
+		culture = volga_german
+		religion = catholic
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = volga_german
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = catholic
+		size = 4250
+	}
+
+	farmers = {
+		culture = volga_german
+		religion = catholic
+		size = 8540
+	}
+	
+	soldiers = {
+		culture = volga_german
+		religion = catholic
+		size = 500
+	}
+
+	aristocrats = {
+		culture = volga_german
+		religion = catholic
+		size = 950
+	}	
 }
 #Tsaritsyn (1072000/268000 POPS)
 1039 = {
@@ -5693,6 +5807,31 @@
 		religion = sunni
 		size = 37800
 	}
+
+	clergymen = {
+		culture = volga_german
+		religion = catholic
+		size = 25  
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = catholic
+		size = 2000 
+	}
+
+	soldiers = {
+		culture = volga_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = volga_german
+		religion = catholic
+		size = 3875  
+	}
+
 }
 #Kuban Region (520000)
 #under the rule of Russia in 1836

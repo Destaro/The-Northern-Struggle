@@ -1,5 +1,5 @@
-owner = PNN
-controller = PNN
-add_core = PNN
+owner = BOS
+controller = BOS
+add_core = BOS
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,5 @@
 owner = WEI
 controller = WEI
-add_core = BOH
 add_core = SAX
 add_core = GER
 trade_goods = coal

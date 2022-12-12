@@ -1,7 +1,5 @@
 capital = 521
-primary_culture = portuguese
-culture = galician
-culture = leonese
+primary_culture = visigothic
 religion = catholic
 government = hms_government
 plurality = 25.0

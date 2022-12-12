@@ -1,8 +1,5 @@
-owner = AUS
-controller = AUS
-
-add_core = AUS
+owner = MRV
+controller = MRV
+add_core = MRV
 trade_goods = grain
 life_rating = 35
-
-add_core = GER

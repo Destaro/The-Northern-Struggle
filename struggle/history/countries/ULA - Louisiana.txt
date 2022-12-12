@@ -1,4 +1,4 @@
-capital = 139
+capital = 205
 primary_culture = new_frankish
 culture = afro_frankish
 religion = catholic

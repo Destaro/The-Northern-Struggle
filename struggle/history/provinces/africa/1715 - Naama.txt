@@ -1,7 +1,6 @@
-owner = ALD
-controller = ALD
+owner = MGH
+controller = MGH
 add_core = MGH
-add_core = ALD
 trade_goods = wool
 life_rating = 31
 terrain = semidesert

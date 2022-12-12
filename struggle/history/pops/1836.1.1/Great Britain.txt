@@ -1917,7 +1917,7 @@
 	}
 	
 	farmers = {
-		culture = low_saxon
+		culture = north_german
 		religion = protestant
 		size = 1050
 	}

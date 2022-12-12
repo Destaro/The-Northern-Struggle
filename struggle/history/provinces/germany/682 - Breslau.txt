@@ -1,7 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = CZH
+owner = MRV
+controller = MRV
+add_core = MRV
 add_core = SLS
 trade_goods = grain
 life_rating = 40
@@ -44,5 +43,3 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
-
-add_core = BDB

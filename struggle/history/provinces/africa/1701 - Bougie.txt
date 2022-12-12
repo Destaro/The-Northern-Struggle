@@ -1,5 +1,5 @@
-owner = TUN
-controller = TUN
+owner = ALD
+controller = ALD
 add_core = TUN
 add_core = ALD
 trade_goods = grain

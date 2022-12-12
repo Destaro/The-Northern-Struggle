@@ -1,6 +1,6 @@
-owner = BOH
-controller = BOH
-
+owner = MRV
+controller = MRV
+add_core = MRV
 add_core = BOH
 
 trade_goods = coal

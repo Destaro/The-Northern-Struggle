@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = TUN
+controller = TUN
+add_core = TUN
+add_core = MOR
 trade_goods = fruit
 life_rating = 35
 naval_base = 1

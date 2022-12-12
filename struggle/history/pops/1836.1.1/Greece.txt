@@ -1420,7 +1420,13 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 700
+		size = 100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 600
 	}
 
 	farmers = {

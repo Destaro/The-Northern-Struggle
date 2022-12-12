@@ -1,6 +1,6 @@
-owner = LIT
-controller = LIT
-add_core = UBD
-add_core = LIT
+owner = POL
+controller = POL
+add_core = PRD
+add_core = POL
 trade_goods = grain
 life_rating = 35

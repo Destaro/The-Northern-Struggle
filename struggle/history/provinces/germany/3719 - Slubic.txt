@@ -1,8 +1,6 @@
-owner = BDB
-controller = BDB
-add_core = BOH
-add_core = LUZ
-add_core = BDB
+owner = WEI
+controller = WEI
+add_core = WEI
 add_core = GER
 trade_goods = fruit
 life_rating = 40

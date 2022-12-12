@@ -921,7 +921,7 @@
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = south_german
 		religion = catholic
 		size = 750
 	}
@@ -1505,13 +1505,13 @@
 	clergymen = {
 		culture = croat
 		religion = orthodox
-		size = 425 
+		size = 250 
 	}
 
 	artisans = {
 		culture = croat
 		religion = orthodox
-		size = 1850
+		size = 1250
 	}
 
 	soldiers = {
@@ -1523,7 +1523,13 @@
 	farmers = {
 		culture = croat
 		religion = orthodox
-		size = 28550 
+		size = 24250 
+	}
+
+	clergymen = {
+		culture = croat
+		religion = orthodox
+		size = 125   
 	}
 
 	artisans = {
@@ -1572,6 +1578,30 @@
 		culture = croat
 		religion = catholic
 		size = 2100  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 600  
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 4300    
 	}
 
 	clergymen = {
