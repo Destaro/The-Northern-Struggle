@@ -1,6 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NMG
+controller = NMG
+add_core = NMG
 trade_goods = cattle
 life_rating = 15
 colonial = 2

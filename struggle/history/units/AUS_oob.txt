@@ -5,8 +5,8 @@
 #German Minors
 BAD = {	
 	value = 125
-	level = 5
-	influence_value = 0
+	level = 4
+	influence_value = 5
 }
 FRE = {	
 	value = 125

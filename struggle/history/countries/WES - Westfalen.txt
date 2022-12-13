@@ -1,7 +1,7 @@
 capital = 581
-primary_culture = north_german
-culture = south_german
-religion = catholic
+primary_culture = low_saxon
+culture = franconian
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

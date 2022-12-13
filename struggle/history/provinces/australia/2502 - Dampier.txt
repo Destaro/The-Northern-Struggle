@@ -1,6 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NPR
+controller = NPR
+add_core = NPR
 trade_goods = grain
 terrain = savanna
 life_rating = 20

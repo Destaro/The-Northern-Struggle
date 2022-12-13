@@ -1,7 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NMG
+controller = NMG
+add_core = NMG
 trade_goods = tropical_wood
 terrain = savanna
 life_rating = 30
-colonial = 2

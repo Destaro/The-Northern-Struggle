@@ -1,6 +1,7 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = NMG
+controller = NMG
+add_core = NMG
+add_core = NJP
 trade_goods = grain
 life_rating = 30
 colonial = 2

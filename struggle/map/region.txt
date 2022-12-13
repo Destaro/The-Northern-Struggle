@@ -1564,21 +1564,32 @@ ARG_2398 = { 2131 2398 2399 2400 2396 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
-
-ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
-
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
-
-ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
-
 ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
 
 ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
 
-ENG_2509 = { 2509 2510 2511 2512 2571 } #North Island - Aotearoa
+ENG_2509 = { 2508 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
+
+NJP_2482 = { 2482 } #Japanese Tasmania
+
+NJP_2476 = { 2476 2477 2478 2479 2480 2472 } #Japanese Victoria
+
+NJP_2491 = { 2481 2491 2493 2494 } #Japanese South Australia
+
+NJP_2492 = { 2492 2495 2496 } #Japanese Southern Australia (West)
+
+NMG_2468 = { 2468 2469 2471 } #Mongol New South Wales
+
+NMG_2483 = { 2483 2486 2470 } #Mongol Queensland (South)
+
+NMG_2487 = { 2487 2484 2485 2488 2604 } #Mongol Queensland (North)
+
+NMG_2490 = { 2489 2490 } #Mongol Queensland (Interior)
+
+NMG_2473 = { 2473 2474 2475 } #New South Wales (Interior)
+
 
 
 ### Pacific Islands
