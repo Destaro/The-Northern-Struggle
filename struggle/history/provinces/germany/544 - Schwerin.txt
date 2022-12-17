@@ -1,9 +1,9 @@
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = POM
+owner = WES
+controller = WES
+add_core = WES
 add_core = BDB
 add_core = GER
 trade_goods = grain
 life_rating = 40
 #naval_base = 1
+1861.1.1 = { railroad = 3 }

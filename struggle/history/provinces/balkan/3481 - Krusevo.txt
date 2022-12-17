@@ -1,7 +1,6 @@
-owner = AOM
-controller = AOM
-add_core = RUM
-add_core = AOM
-add_core = ROM
-trade_goods = wool
+owner = ORL
+controller = ORL
+add_core = ORL
+add_core = POI
+trade_goods = fish
 life_rating = 35

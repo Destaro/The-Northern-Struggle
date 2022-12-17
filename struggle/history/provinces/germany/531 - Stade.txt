@@ -1,6 +1,5 @@
-owner = SWH
-controller = SWH
-add_core = SWH
+owner = WES
+controller = WES
 add_core = WES
 add_core = GER
 trade_goods = cattle

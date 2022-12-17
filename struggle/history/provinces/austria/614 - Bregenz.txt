@@ -1,6 +1,6 @@
-owner = BAD
-controller = BAD
-add_core = BAD
-add_core = GER
+owner = TST
+controller = TST
+add_core = TST
+add_core = ITA
 trade_goods = timber
 life_rating = 35

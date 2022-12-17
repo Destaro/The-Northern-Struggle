@@ -1,7 +1,6 @@
-owner = BDB
-controller = BDB
+owner = WES
+controller = WES
 add_core = WES
-add_core = BDB
 add_core = GER
 terrain = braunschweig
 trade_goods = fruit
