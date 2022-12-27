@@ -1,5 +1,6 @@
-owner = DAG
-controller = DAG
+owner = ALN
+controller = ALN
+add_core = ALN
 add_core = DAG
 trade_goods = silk
 life_rating = 35

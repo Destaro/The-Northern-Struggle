@@ -1,5 +1,6 @@
-owner = NOR
-controller = NOR
+owner = WHA
+controller = WHA
+add_core = WHA
 add_core = SCO
 trade_goods = coal
 naval_base = 2 

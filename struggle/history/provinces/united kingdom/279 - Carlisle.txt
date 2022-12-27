@@ -1,6 +1,6 @@
-owner = NTU
-controller = NTU
-add_core = NTU
+owner = WHA
+controller = WHA
+add_core = WHA
 trade_goods = grain
 life_rating = 35
 party_loyalty = {

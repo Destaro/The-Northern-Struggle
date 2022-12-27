@@ -1,12 +1,6 @@
-owner = FLA
-controller = FLA
-add_core = FLA
-add_core = BEL
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = fish
 life_rating = 30
 naval_base = 1
-1861.1.1 = { 
-	railroad = 3
-}
-
-add_core = FRC

@@ -1,7 +1,6 @@
 owner = ALN
 controller = ALN
 add_core = ALN
-add_core = CHY
 trade_goods = wool
 life_rating = 35
 1861.1.1 = {

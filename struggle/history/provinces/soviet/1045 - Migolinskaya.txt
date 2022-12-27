@@ -1,8 +1,5 @@
-owner = TAR
-controller = TAR
-add_core = TAR
-add_core = DON
+owner = ALN
+controller = ALN
+add_core = ALN
 trade_goods = cattle
 life_rating = 35
-
-add_core = MUS

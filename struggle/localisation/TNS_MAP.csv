@@ -347,11 +347,14 @@ RUS_1052;Avarestan;;;;;;;;;;;;;;;;;;x;;;;
 TIM_1055;Tön'jak Kavkaz;;;;;;;;;;;;;;;;;;x;;;;
 SWE_357;Courland;;;;;;;;;;;;x
 PROV1049;Shapsug;;;;;;;;;;;;x
-PROV1050;Kabardia;;;;;;;;;;;;x
+PROV1050;Kæcær;;;;;;;;;;;;x
 PROV1052;Darband;;;;;;;;;;;;;;;;;;x;;;;
+ALN_1055;Noxçiyçö;;;;;;;;;;;;x
 ALN_1056;Âllonšton;;;;;;;;;;;;x
+RUS_3318;Xazari;;;;;;;;;;;;x
 TNT_1068;Tagna Urianhai;;;;;;;;;;;;x
-CIR_3312;East Circassia;;;;;;;;;;;;x
+RUS_1048;Iugond Cerkes;;;;;;;;;;;;x
+CIR_3312;Skæsæn Cerkes;;;;;;;;;;;;x
 TUN_1726;Qart'hagenia;;;;;;;;;;;;x
 TUN_1725;Africa Cartajennia;;;;;;;;;;;;x
 PROV1056;Khokhifondz;;;;;;;;;;;;x
@@ -368,7 +371,7 @@ PROV3288;Shushi;;;;;;;;;;;;x
 PROV3289;Qazakh;;;;;;;;;;;;x
 PROV3290;Ilisu;;;;;;;;;;;;x
 PROV3291;Gori;;;;;;;;;;;;x
-PROV3292;Cxæta;;;;;;;;;;;;x
+PROV3292;Meçeta;;;;;;;;;;;;x
 PROV3293;Kakheti;;;;;;;;;;;;x
 PROV3294;Naftqaleh;;;;;;;;;;;;x
 PROV3295;Gümse;;;;;;;;;;;;x
@@ -386,8 +389,8 @@ PROV3306;Kaitag;;;;;;;;;;;;x
 PROV3307;Agwali;;;;;;;;;;;;x
 PROV3308;Akusha;;;;;;;;;;;;x
 PROV3309;Tshakur;;;;;;;;;;;;x
-PROV3310;Cistærki;;;;;;;;;;;;x
-PROV3311;Kæcær;;;;;;;;;;;;x
+PROV3310;Näsare;;;;;;;;;;;;x
+PROV3311;Mæsdega;;;;;;;;;;;;x
 PROV3312;Elbrus;;;;;;;;;;;;x
 PROV3313;Abdzakh;;;;;;;;;;;;x
 PROV3314;Besleney;;;;;;;;;;;;x
@@ -557,7 +560,7 @@ PROV975;Doneçk;;;;;;;;;;;;x
 PROV976;Kalamöz;;;;;;;;;;;;x
 PROV979;Rüstiye;;;;;;;;;;;;x
 PROV1047;Azaq;;;;;;;;;;;;x
-PROV1048;Qoban;;;;;;;;;;;;x
+PROV1048;Quban;;;;;;;;;;;;x
 PROV3317;Papaklya;;;;;;;;;;;;x
 RUS_969;Yediszan;;;;;;;;;;;;x
 RUS_955;Etelköz;;;;;;;;;;;;x
@@ -616,10 +619,10 @@ PROV3528;Tesino;;;;;;;;;;;;x
 PROV3529;Velika Gorica;;;;;;;;;;;;x
 PROV3530;Tarazona;;;;;;;;;;;;x
 PROV3531;Utebo;;;;;;;;;;;;x
-PROV3532;Pavlovsk;;;;;;;;;;;;x
+PROV3532;Vožnæ;;;;;;;;;;;;x
 PROV3533;Skopin;;;;;;;;;;;;x
 PROV3534;Michurinsk;;;;;;;;;;;;x
-PROV3535;Uvarovo;;;;;;;;;;;;x
+PROV3535;Ljubaši;;;;;;;;;;;;x
 PROV3536;Yoshkar-Ola;;;;;;;;;;;;x
 PROV3537;Arzamas;;;;;;;;;;;;x
 PROV3538;Supaskar;;;;;;;;;;;;x
@@ -999,12 +1002,13 @@ PROV1044;Drujba;;;;;;;;;;;;;;;;;;x;;;;
 PROV1060;Jamanqala;;;;;;;;;;;;;;;;;;x;;;;
 PROV1082;Atirau;;;;;;;;;;;;;;;;;;x;;;;
 PROV1182;Saraychyq;;;;;;;;;;;;;;;;;;x;;;;
-PROV1039;Sary Su;;;;;;;;;;;;;;;;;;x;;;;
-PROV1040;Sok;;;;;;;;;;;;;;;;;;x;;;;
-PROV1041;Elst;;;;;;;;;;;;;;;;;;x;;;;
+PROV1036;Astarxan;;;;;;;;;;;;;;;;;;x;;;;
+PROV1039;Burdon;;;;;;;;;;;;;;;;;;x;;;;
+PROV1040;Saxin;;;;;;;;;;;;;;;;;;x;;;;
+PROV1041;Bækšima;;;;;;;;;;;;;;;;;;x;;;;
 PROV1045;Meskeçi;;;;;;;;;;;;;;;;;;x;;;;
 PROV2610;Isan;;;;;;;;;;;;;;;;;;x;;;;
-PROV1046;Cir;;;;;;;;;;;;;;;;;;x;;;;
+PROV1046;Sarkæl;;;;;;;;;;;;;;;;;;x;;;;
 PROV1038;Janaozen;;;;;;;;;;;;;;;;;;x;;;;
 PROV1037;Ukek;;;;;;;;;;;;;;;;;;x;;;;
 PROV1035;Cinghyley;;;;;;;;;;;;;;;;;;x;;;;
@@ -1015,6 +1019,7 @@ PROV1044;Orynbor;;;;;;;;;;;;;;;;;;x;;;;
 PROV1060;Jamanqala;;;;;;;;;;;;;;;;;;x;;;;
 PROV1059;Iset;;;;;;;;;;;;;;;;;;x;;;;
 PROV1031;Ydmyrtir;;;;;;;;;;;;;;;;;;x;;;;
+PROV1057;Qyzlar;;;;;;;;;;;;;;;;;;x;;;; 
 PROV1058;Miass;;;;;;;;;;;;;;;;;;x;;;; 
 PROV1021;Bortaslar;;;;;;;;;;;;;;;;;;x;;;; 
 PROV1020;Nijgar;;;;;;;;;;;;;;;;;;x;;;; 

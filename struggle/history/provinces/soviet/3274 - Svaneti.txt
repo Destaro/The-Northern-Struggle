@@ -1,6 +1,8 @@
-owner = GEO
-controller = GEO
-add_core = GEO
+owner = SVA
+controller = SVA
 add_core = SVA
+add_core = CIR
+add_core = ALN
+add_core = GEO
 trade_goods = wool
 life_rating = 35

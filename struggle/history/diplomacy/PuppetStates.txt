@@ -5,10 +5,28 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-#Circassian Autonomy
+#Alan Puppets
 substate = {
-	first = HUN
+	first = ALN
 	second = ABK
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+substate = {
+	first = ALN
+	second = CIR
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+substate = {
+	first = ALN
+	second = SVA
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+substate = {
+	first = ALN
+	second = CHY
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }

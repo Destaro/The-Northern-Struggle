@@ -1,5 +1,5 @@
-owner = KMK
-controller = KMK
-add_core = KMK
+owner = ALN
+controller = ALN
+add_core = ALN
 trade_goods = coal
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = ORL
-controller = ORL
-add_core = POI
-add_core = ORL
-add_core = FRC
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = cattle
 life_rating = 30
 #state_building = {

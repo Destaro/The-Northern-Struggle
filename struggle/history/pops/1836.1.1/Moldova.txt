@@ -115,36 +115,6 @@
 		religion = orthodox
 		size = 4625  
 	}
-	
-	clergymen = {
-		culture = volga_german
-		religion = catholic
-		size = 75    
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = catholic
-		size = 1400  
-	}
-
-	soldiers = {
-		culture = volga_german
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = catholic
-		size = 1050     
-	}
-	
-	aristocrats = {
-		culture = volga_german
-		religion = catholic
-		size = 800 
-	}
 }
 #Balti (320000/80000 POPS)  
 677 = {

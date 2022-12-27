@@ -1,5 +1,6 @@
-owner = ALN
-controller = ALN
+owner = ABK
+controller = ABK
+add_core = ABK
 add_core = CIR
 add_core = ALN
 trade_goods = grain

@@ -3,33 +3,81 @@
 #Sydney (64000/16000 POPS)
 2468 = {
 	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
+		culture = australian
+		religion = protestant
+		size = 50
 	}
-
+	
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 35
+	}
+	
 	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 65
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 25
 	}
 
 	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3000
 	}
 
 	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 1100
 	}
 
 	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
+		culture = british
+		religion = protestant
+		size = 4300
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2975
 	}
 
 	clergymen = {
@@ -53,35 +101,67 @@
 }
 #Newcastle (16000/4000 POPS)
 2469 = {
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
 	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
+		culture = british
+		religion = protestant
+		size = 25
 	}
 
 	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
+		culture = british
+		religion = protestant
+		size = 250
 	}
 
 	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
+		culture = british
+		religion = protestant
+		size = 50
 	}
 
 	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
+		culture = british
+		religion = protestant
+		size = 1445
 	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+	
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 10
+	}
+
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1100
+	}
+
 	clergymen = {
 		culture = aborigine
 		religion = animist
@@ -102,34 +182,52 @@
 }
 #Port Macquarie (12000/3000 POPS)
 2470 = {
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
 	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
+		culture = british
+		religion = protestant
+		size = 25
 	}
 
 	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
+		culture = british
+		religion = protestant
+		size = 50
 	}
 
 	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
+		culture = british
+		religion = protestant
+		size = 25
 	}
 
 	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
+		culture = british
+		religion = protestant
+		size = 700
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 20
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 160
 	}
 	
 	aristocrats = {
@@ -154,36 +252,6 @@
 #Eden (12000/3000 POPS)
 2472 = {
 	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 900
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 500
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2200
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 450
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 40275
-	}
-
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 10
@@ -207,30 +275,73 @@
 		religion = animist
 		size = 900
 	}
-}
-#Wagga Wagga (12000/3000 POPS)
-2473 = {
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 25
-	}
 
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 50
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 125
 	}
 
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
+		culture = british
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
+		culture = british
+		religion = protestant
+		size = 1625
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+	
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+	
+}
+#Wagga Wagga (12000/3000 POPS)
+2473 = {
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
 		size = 3000
 	}
 
@@ -263,34 +374,28 @@
 #Ophir - Bathurst (8000/2000 POPS)
 2471 = {
 
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
 	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 3
 	}
-
+	
 	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
+		culture = australian
+		religion = protestant
+		size = 20
 	}
 	
 	aristocrats = {
@@ -373,34 +478,47 @@
 #uncolonized in 1836
 #Melbourne (12000/3000 POPS)
 2476 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 150
-	}
 
+	aristocrats = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 5
 	}
 
 	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 5000
+		culture = australian
+		religion = protestant
+		size = 10
 	}
-
+	
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 300
 	}
-
+	
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 41000
+		culture = australian
+		religion = protestant
+		size = 500
 	}
 
 	aristocrats = {
@@ -424,36 +542,6 @@
 }
 #Warnambool (8000/2000 POPS)
 2477 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2000
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 16000
-	}
-	
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -481,36 +569,6 @@
 #Ballarat (8000/2000 POPS)
 2478 = {
 	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2100
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 17000
-	}
-
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 25
@@ -536,35 +594,6 @@
 }
 #Sale (8000/2000 POPS)
 2479 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 195
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 1800
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 15000
-	}
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -592,35 +621,6 @@
 #Beechworth (4000/1000 POPS)
 2480 = {
 	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2000
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 16000
-	}
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 10
@@ -646,36 +646,6 @@
 }
 #Swan Hill (4000/1000 POPS)
 2481 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2000
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 16000
-	}
-
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -705,76 +675,59 @@
 #ruled by Britain 1836
 #Hobart (36000/9000 POPS)
 2482 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
-	}
-
 	bureaucrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 75
+		culture = british
+		religion = protestant
+		size = 25
 	}
 
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 425
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 1110
+		culture = british
+		religion = protestant
+		size = 100
 	}
 
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 250
+		culture = british
+		religion = protestant
+		size = 100
 	}
 
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 27650
+		culture = british
+		religion = protestant
+		size = 8675
 	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 20
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 60
+	}
+
 }
 #Queensland Region : 64000
 #ruled by Britain 1836
 #2483 - Brisbane (12000/3000 POPS)
 2483 = {
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
-	}
-
-	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
-	}
-
-	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
-	}
-
-	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
-	}
-
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -798,38 +751,80 @@
 		religion = animist
 		size = 190
 	}
+	
+	aristocrats = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+	
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 875
+	}
 }
 #uncolonized in 1836
 #Gladstone (8000/2000 POPS)
 2484 = {
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
 	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 3
 	}
-
+	
 	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
+		culture = australian
+		religion = protestant
+		size = 20
 	}
 	aristocrats = {
 		culture = aborigine
@@ -858,35 +853,6 @@
 #Clermont (4000/1000 POPS)
 2485 = {
 	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
-	}
-
-	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
-	}
-
-	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
-	}
-
-	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
-	}
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 10
@@ -912,36 +878,6 @@
 }
 #Toowoomba (8000/2000 POPS)
 2486 = {
-	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
-	}
-
-	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
-	}
-
-	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
-	}
-
-	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
-	}
-
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -969,36 +905,6 @@
 #Townsville (8000/2000 POPS)
 2487 = {
 	aristocrats = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	clergymen = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 500
-	}
-
-	artisans = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 2200
-	}
-
-	soldiers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 450
-	}
-
-	farmers = {
-		culture = new_mongol
-		religion = gelugpa
-		size = 40275
-	}
-
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 25
@@ -1014,6 +920,18 @@
 		culture = aborigine
 		religion = animist
 		size = 25
+	}
+
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 500
 	}
 
 	farmers = {
@@ -1139,33 +1057,51 @@
 #Adelaide (12000/3000 POPS)
 2491 = {
 	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 80
+		culture = australian
+		religion = protestant
+		size = 2
 	}
-
+	
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 2
+	}
+	
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
+		culture = australian
+		religion = protestant
+		size = 3
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 3
 	}
 
 	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 2000
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 16000
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+	
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 20
 	}
 	
 	aristocrats = {
@@ -1195,34 +1131,28 @@
 }
 #Port Lincoln (4000/1000 POPS)
 2492 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 40
-	}
-
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 50
+		culture = australian
+		religion = protestant
+		size = 3
 	}
 
 	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 500
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 50
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 4000
+		culture = australian
+		religion = protestant
+		size = 20
 	}
 	
 	
@@ -1253,36 +1183,6 @@
 #Robe (4000/1000 POPS)
 2493 = {
 	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 40
-	}
-
-	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 190
-	}
-
-	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 1800
-	}
-
-	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 14000
-	}
-
-	aristocrats = {
 		culture = aborigine
 		religion = animist
 		size = 10
@@ -1308,36 +1208,30 @@
 }
 #Port Augusta (4000/1000 POPS)
 2494 = {
-	aristocrats = {
-		culture = nankaiganese
-		religion = catholic
-		size = 40
-	}
-
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
-		size = 100
+		culture = australian
+		religion = protestant
+		size = 3
 	}
-
+	
 	artisans = {
-		culture = nankaiganese
-		religion = catholic
-		size = 1000
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	soldiers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 100
+		culture = australian
+		religion = protestant
+		size = 5
 	}
-
+	
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
-		size = 8000
+		culture = australian
+		religion = protestant
+		size = 20
 	}
-
+	
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -1964,14 +1858,15 @@
 #Norfolk Island (1000/250 POPS)
 2508 = {
 	clergymen = {
-		culture = nankaiganese
-		religion = catholic
+		culture = australian
+		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = nankaiganese
-		religion = catholic
+		culture = australian
+		religion = protestant
 		size = 235
 	}
+
 }

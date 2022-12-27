@@ -358,7 +358,7 @@
 	}
 	
 	serfs = {
-		culture = north_german
+		culture = bavarian
 		religion = catholic
 		size = 8800 
 	}
@@ -492,7 +492,7 @@
 	}
 	
 	farmers = {
-		culture = north_german
+		culture = bavarian
 		religion = catholic
 		size = 13825
 	}

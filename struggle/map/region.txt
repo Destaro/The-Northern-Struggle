@@ -4,7 +4,9 @@ LST_3331 = { } #pre-organized
 LST_3332 = { } #pre-organized
 LST_3333 = { } #pre-organized
 
-ALN_1056 = { 1056 1054 1091 3310 3311 3292 1055 } #Ossetia
+ALN_1056 = { 1056 1054 1091 3311 } #Ossetia
+
+ALN_1055 = { 3310 3292 1055 3295 } #Chechnya
 
 USA_1 = { 1 2 3 4 5 7 2599 2630 2631 6 } #Alaska
 
@@ -148,52 +150,54 @@ ENG_260 = { 260 261 262 } #Munster
 
 ENG_263 = { 263 264 265 } #Leinster
 
-ENG_266 = { 266 267 1724 3522 270 } #Highlands
+ENG_266 = { 266 267 1724 3522 268 } #Highlands
 
-ENG_271 = { 271 269 268 272 } #Lowlands
+ENG_271 = { 271 269 270 272 } #Lowlands
 
-ENG_273 = { 273 274 275 276 } #Wales
+ENG_273 = { 273 274 275 276 295 289 } #Wales
 
-ENG_277 = { 277 278 285 304 } #North West England
+ENG_277 = { 277 278 285 304 279 } #North West England
 
-ENG_280 = { 280 281 282 283 279 288 } #North East England
+ENG_280 = { 280 281 282 283 } #North East England
 
-ENG_284 = { 284 286 287 296 } #Midlands
+ENG_284 = { 284 286 287 296 288 } #Midlands
 
-ENG_291 = { 291 292 293 295 289 290 } #Eastern Counties
+ENG_291 = { 291 292 293 290 3373 302 } #Eastern Counties
 
 ENG_296 = { 299 297 298 3268 } #South West England
 
-ENG_300 = { 300 294 301 302 303 3269 } #South East England
+ENG_300 = { 300 294 301 303 3269 } #South East England
 
 
 ### Scandinavia
 
 DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
-SWE_308 = { 308 305 } #Nordnoge
+SWE_308 = { 308 314 309 } #Nordnoge
 
-SWE_309 = { 309 311 310 312 } #Vestlandet
+SWE_309 = { 311 310 } #Vestlandet
 
-SWE_313 = { 313 316 314 315 } #Ostlandet
+SWE_313 = { 313 316 315 312 } #Ostlandet
 
 SWE_318 = { 318 317 320 321 } #Norrland
 
-SWE_306 = { 306 307 3515 3516 319 } #Lappland
+SWE_306 = { 306 307 3515 3516 319 305 } #Lappland
 
-SWE_322 = { 322 324 326 325 348  } #Stockholm
+SWE_322 = { 322 324 326 348 323 } #Stockholm
 
-SWE_329 = { 329 328 327 323 330 } #Goteburg
+SWE_329 = { 329 328 327 330 } #Goteburg
 
-SWE_334 = { 334 332 331 333 335 } #Malmo
+SWE_334 = { 334 332 331 333 335 325 } #Malmo
 
-RUS_336 = { 338 982 3517 } #Northern Finland
+RUS_336 = { 982 3517 2587 983 } #Northern Finland
 
 RUS_337 = { 337 342 3296 984 } #West Karelia
 
-RUS_343 = { 343 344 341 340 339 3370 } #Helsinki
+RUS_343 = { 343 344 345 347 } #Helsinki
 
-RUS_345 = { 336 345 346 347 3297 } #Turku
+RUS_341 = { 341 340 339 3736 } #Heruli Karelia
+
+RUS_345 = { 336 338 346 3297 } #Turku
 
 DEN_367 = { 367 366 368 2557 } #Jylland
 
@@ -214,7 +218,7 @@ NET_385 = { 385 383 543 3259 3505 533 } #Friesland
 
 BEL_387 = { 379 380 387 390 391 3372 378 } #Brabant
 
-BEL_394 = { 394 392 404 } #Wallonia
+BEL_394 = { 394 392 404 3562 } #Wallonia
 
 BEL_395 = { 381 577 576 } #Mastrig
 
@@ -227,7 +231,7 @@ FRA_400 = { 400 399 393 388 389 } #Flanders
 
 FRA_406 = { 403 406 408 3375 } #Champagne
 
-FRA_404 = { 401 3369 3373 3374 } #Nord-Pas-De-Calais/Artois
+FRA_404 = { 401 3369 402 } #Nord-Pas-De-Calais/Artois
 
 FRA_411 = { 411 412 573 414 3555 } #Lorraine
 
@@ -243,7 +247,7 @@ PRU_575 = { 575 572 574 3378 } #Rheinland
 
 LUX_397 = { 397 396 398 3376 3377 395 } #Luksburg
 
-FRA_418 = { 418 415 416 417 419 402 } #Normandie
+FRA_418 = { 418 415 416 417 419 } #Normandie
 
 FRA_420 = { 420 421 422 } #Bretagne 
 
@@ -265,7 +269,7 @@ FRA_451 = { 451 452 431 433 } #Rhone
 
 FRA_453 = { 453 3271 } #Cisjurania
 
-FRA_455 = { 462 449 448 } #Le Midi
+FRA_455 = { 462 449 448 3374 } #Le Midi
 
 FRA_458 = { 458 459 455 } #Aquitaine
 
@@ -347,7 +351,7 @@ HES_2560 = { 564 565 566 567 568 2560 3257 3270 596 } #Hessen
 
 #PRU_570 = { } #Palatinate
 
-LUX_405 = { 3562 405 3558 } #Neter Luksburg
+LUX_405 = { 405 3558 } #Neter Luksburg
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 
@@ -708,7 +712,7 @@ AFG_1212 = { 1212 3442 3445 3446 3403 3413 } #East Khorasan
 
 RUS_349 = { 349 350 353 } #Estonia
 
-RUS_354 = { 354 355 356 351 352 } #Latvia
+RUS_354 = { 354 355 351 352 997 } #Latvia
 
 SWE_357 = { 357 358 359 } #Courland
 
@@ -718,7 +722,7 @@ RUS_363 = { 363 364 365 698 } #Samogitia
 
 RUS_361 = { 361 362 936 707 } #Suwalki
 
-RUS_339 = { 995 988 2587 983 993 2588 } #Karelia
+RUS_339 = { 995 988 993 2588 } #Karelia
 
 RUS_706 = { 706 708 709 711 719 } #Masovia
 
@@ -748,35 +752,35 @@ RUS_964 = { 967 966 964 3500 3501 3502 3503 } #Crimea
 
 RUS_969 = { 968 969 676 678 } #Yedisan
 
-RUS_973 = { 976 973 975 965 979 974 } #Kherson-Zaporizhia
+RUS_973 = { 976 973 975 965 974 } #Kherson-Zaporizhia
 
 RUS_955 = { 972 971 970 } #Yekaterinoslav
 
 RUS_977 = { 977 1017 1018 } #Kursk
 
-RUS_3533 = { 3533 3534 3543 3550 1019 } #Kursk
+RUS_3533 = { 3533 3543 3550 1019 } #Kursk
 
-RUS_978 = { 978 980 } #Kharkov
+#RUS_978 = { } #Kharkov
 
-RUS_963 = { 963 3545 3546 3547 } #Poltava
+RUS_963 = { 963 3545 3546 3547 978 } #Poltava
 
 RUS_962 = { 962 3548 3549 } #Chernigov
 
-RUS_979 = { 1047 1048 3317 } #Don Host Oblast
+RUS_979 = { 1047 1048 3317 980 979 } #Don Host Oblast
 
-RUS_3318 = { 3318 3301 1041 1046 } #Kamassia
+RUS_3318 = { 3318 3301 1041 1046 1045 } #Khazaria
 
 RUS_981 = { 981 986 } #Arkhangelsk
 
-RUS_990 = { 990 987 1024 1023 } #Galich
+RUS_990 = { 990 987 1024 1027 } #Galich
 
-RUS_994 = { 994 996 997 3736 } #Ingria
+RUS_994 = { 994 996 3370 2580 } #Ingria
 
-RUS_998 = { 998 1001 992 989 991 1000 } #Tver
+RUS_998 = { 998 1001 992 989 991 1000 1023 } #Tver
 
-RUS_1003 = { 1003 1004 1005 2580 3734 3735 } #Novgorod
+RUS_1003 = { 1003 1004 1005 3734 3735 } #Novgorod
 
-RUS_1006 = { 1006 1007 3560 } #Pskov
+RUS_1006 = { 1006 1007 3560 356 } #Pskov
 
 RUS_1008 = { 1008 1011 1012 1013 1022 } #Moscow
 
@@ -784,13 +788,13 @@ RUS_1009 = { 1009 1010 1014 1015 1016 } #Bryansk
 
 RUS_1020 = { 1030 1032 1033 3538 3539 } #Kazan
 
-RUS_3536 = { 3536 1027 1028 1029 1031 } #Outer Kazan - Mari El-Udmurtia
+RUS_3536 = { 3536 1028 1029 1031 } #Outer Kazan - Mari El-Udmurtia
 
 RUS_3537 = { 1020 3537 1021 } #Nizhni-Novgorod
 
 RUS_1026 = { 1026 2689 2700 3540 } #Perm
 
-RUS_1037 = { 1037 1025 3535 1045 3532 } #Tartaria
+RUS_1037 = { 1037 1025 3535 3532 3534 } #Tartaria
 
 RUS_1041 = { 1036 1040 2610 1038 1039 } #Astrakhan
 
@@ -798,7 +802,7 @@ RUS_1048 = { 1049 1051 3302 3315 3316 3499 } #Circassia
 
 CIR_3312 = { 3303 3312 3313 3314 1050 } #East Circassia
 
-TIM_1055 = { 1057 3305 3300 3295 } #Northern Caucasus
+TIM_1055 = { 1057 3305 3300 } #Northern Caucasus
 
 RUS_1052 = { 1103 1052 1053 3299 3306 3309 3308 3307 3304 } #Avarestan
 

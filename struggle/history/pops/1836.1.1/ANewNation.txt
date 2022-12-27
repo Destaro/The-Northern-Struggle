@@ -141,37 +141,37 @@
 #Reutte
 3253 = {
 	aristocrats = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = catholic
 		size = 20000
 	}
 	
 	farmers = {
-		culture = south_german
+		culture = bavarian
 		religion = protestant
 		size = 4725
 	}
