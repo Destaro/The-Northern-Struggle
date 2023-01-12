@@ -68,7 +68,7 @@ USA_121 = { 120 154 117 } #South Dakota
 
 USA_124 = { 123 124 127 125 } #Nebraska
 
-USA_126 = { 126 128 107 129 } #Kansas
+USA_126 = { 126 128 107 129 135 } #Kansas
 
 #USA_129 = { 130 131 } #Oklahoma
 
@@ -150,7 +150,7 @@ ENG_260 = { 260 261 262 } #Munster
 
 ENG_263 = { 263 264 265 } #Leinster
 
-ENG_266 = { 266 267 1724 3522 268 } #Highlands
+ENG_266 = { 266 267 1724 3522 268 3857 3859 } #Highlands
 
 ENG_271 = { 271 269 270 272 } #Lowlands
 
@@ -158,7 +158,7 @@ ENG_273 = { 273 274 275 276 295 289 } #Wales
 
 ENG_277 = { 277 278 285 304 279 } #North West England
 
-ENG_280 = { 280 281 282 283 } #North East England
+ENG_280 = { 280 281 282 283 3858 } #North East England
 
 ENG_284 = { 284 286 287 296 288 } #Midlands
 
@@ -229,7 +229,7 @@ FRA_400 = { 400 399 393 388 389 } #Flanders
 
 #FRA_399 = { 403 } #Picardie
 
-FRA_406 = { 403 406 408 3375 } #Champagne
+FRA_406 = { 403 406 408 } #Champagne
 
 FRA_404 = { 401 3369 402 } #Nord-Pas-De-Calais/Artois
 
@@ -351,7 +351,7 @@ HES_2560 = { 564 565 566 567 568 2560 3257 3270 596 } #Hessen
 
 #PRU_570 = { } #Palatinate
 
-LUX_405 = { 405 3558 } #Neter Luksburg
+LUX_405 = { 405 3558 3375 } #Neter Luksburg
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 
@@ -1398,7 +1398,7 @@ MAD_2121 = { 2121 2115 2120 2119 } #North Madagascar
 
 MEX_2138 = { 2137 2140 2141 100 } #Sonora
 
-MEX_2142 = { 2142 2143 2145 2157 105 135 } #Chihuahua
+MEX_2142 = { 2142 2143 2145 2157 105 } #Chihuahua
 
 MEX_2149 = { 2147 2152 136 137 2144 43 } #Cohauila
 
