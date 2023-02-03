@@ -33,9 +33,11 @@ form_slavia = {
 		   MON = { all_core = { add_core = THIS } }
 		   BOS = { all_core = { add_core = THIS } }
 		   BUL = { all_core = { add_core = THIS } }
+		   BOH = { all_core = { add_core = THIS } }
 		    add_accepted_culture = ukranian
 			add_accepted_culture = byelorussian
 			add_accepted_culture = bulgarian
+			add_accepted_culture = czech
 			add_accepted_culture = slovak
 		   add_accepted_culture = pannonian
            add_accepted_culture = polish
@@ -81,41 +83,13 @@ rescue_the_sorbians = {
                 }
                 defender_goal = { casus_belli = humiliate }
             }
-            set_country_flag = great_boh
+            
         }
         ai_will_do = { factor = 1 }
     }
 	
 	
-	claim_the_northern_slavs = {
-        potential = {
-		
-        tag = SLA
-			
-            NOT = { has_country_flag = claim_the_northern_slavs }
-        }
-
-        allow = {
-		war = no
-	       year = 1890
-		   is_greater_power = yes
-		   SLA = { all_core = { owned_by = THIS } }
-		  NOT = { is_vassal = NOV }
-        }
-
-        effect = {
-		
-		relation = {
-			who = SWE
-			value = -200 
-		}
-		set_country_flag = claim_the_northern_slavs
-		infamy = 5
-   NOV = { all_core = { add_core = THIS } }
-            add_accepted_culture = novgorodian
-        }
-        ai_will_do = { factor = 1 }
-    }
+	
 
 
 }
