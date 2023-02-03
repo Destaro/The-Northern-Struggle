@@ -1,7 +1,9 @@
-owner = FIN
-controller = FIN
+owner = SCA
+controller = SCA
 add_core = FIN
 add_core = SWE
 trade_goods = iron
 terrain = boreal
 life_rating = 10
+
+add_core = SCA

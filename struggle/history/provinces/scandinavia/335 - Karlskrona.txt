@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
+owner = SCA
+controller = SCA
 add_core = SWE
 trade_goods = fish
 life_rating = 35
@@ -8,3 +8,5 @@ naval_base = 1
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = SCA
