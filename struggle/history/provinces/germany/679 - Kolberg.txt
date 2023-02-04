@@ -8,3 +8,4 @@ life_rating = 40
 1861.1.1 = { railroad = 3 }
 
 add_core = SWE
+add_core = SCA
