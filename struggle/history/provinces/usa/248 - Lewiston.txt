@@ -1,5 +1,5 @@
-owner = NEN
-controller = NEN
+owner = LST
+controller = LST
 add_core = NEN
 add_core = ACA
 trade_goods = timber
@@ -19,3 +19,5 @@ party_loyalty = {
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = LST

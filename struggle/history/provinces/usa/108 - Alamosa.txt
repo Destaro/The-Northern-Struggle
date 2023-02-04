@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
+owner = LST
+controller = LST
 add_core = UNM
 colonial = 2
 trade_goods = cattle
@@ -10,3 +10,4 @@ controller = USA
 add_core = USA
 remove_core = UNB
 }
+add_core = LST

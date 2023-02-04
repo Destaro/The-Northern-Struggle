@@ -1,5 +1,5 @@
-owner = RPL
-controller = RPL
+owner = LST
+controller = LST
 
 trade_goods = wool
 life_rating = 35
@@ -11,3 +11,4 @@ life_rating = 35
 }
 
 add_core = RPL
+add_core = LST

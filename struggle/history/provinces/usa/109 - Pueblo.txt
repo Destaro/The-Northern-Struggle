@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
+owner = LST
+controller = LST
 add_core = UNM
 trade_goods = cattle
 life_rating = 35
@@ -10,3 +10,4 @@ controller = USA
 add_core = USA
 remove_core = UNB
 }
+add_core = LST

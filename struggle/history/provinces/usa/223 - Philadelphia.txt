@@ -1,6 +1,6 @@
-owner = USA
+owner = LST
 
-controller = USA
+controller = LST
 
 add_core = USA
 trade_goods = iron
@@ -42,3 +42,5 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = LST

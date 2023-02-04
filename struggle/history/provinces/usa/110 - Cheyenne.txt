@@ -1,5 +1,5 @@
-owner = MTC
-controller = MTC
+owner = LST
+controller = LST
 add_core = MTC
 add_core = UNB
 colonial = 2
@@ -13,3 +13,5 @@ life_rating = 35
 	remove_core = UNB
 	add_core = USA
 }
+
+add_core = LST

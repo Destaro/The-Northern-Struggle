@@ -1,5 +1,5 @@
-owner = KNT
-controller = KNT
+owner = LST
+controller = LST
 add_core = KNT
 trade_goods = grain
 life_rating = 35
@@ -21,3 +21,4 @@ party_loyalty = {
 		loyalty_value = 12
 	}
 }
+add_core = LST

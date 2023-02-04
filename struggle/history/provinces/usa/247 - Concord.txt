@@ -1,5 +1,5 @@
-owner = NEN
-controller = NEN
+owner = LST
+controller = LST
 add_core = NEN
 add_core = ACA
 trade_goods = timber
@@ -27,3 +27,5 @@ state_building = {
 }
 
 1861.1.1 = { railroad = 3 }
+
+add_core = LST

@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = LST
+controller = LST
 add_core = ULA
 add_core = USAtrade_goods = coal
 life_rating = 35
@@ -18,3 +18,5 @@ party_loyalty = {
 		loyalty_value = 12
 	}
 }
+
+add_core = LST

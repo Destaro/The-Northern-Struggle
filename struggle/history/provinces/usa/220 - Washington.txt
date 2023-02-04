@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = LST
+controller = LST
 add_core = USA
 trade_goods = grain
 life_rating = 35
@@ -27,3 +27,5 @@ party_loyalty = {
 	add_core = CSA
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = LST

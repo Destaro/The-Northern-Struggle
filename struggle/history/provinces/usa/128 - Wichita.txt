@@ -1,5 +1,5 @@
-owner = MTC
-controller = MTC
+owner = LST
+controller = LST
 add_core = MTC
 add_core = UNB
 trade_goods = grain
@@ -12,3 +12,5 @@ colonial = 2
 	remove_core = CHE
 	colonial = 0
 }
+
+add_core = LST

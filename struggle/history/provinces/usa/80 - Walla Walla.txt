@@ -1,5 +1,5 @@
-owner = RPL
-controller = RPL
+owner = LST
+controller = LST
 
 trade_goods = timber
 life_rating = 35
@@ -12,3 +12,4 @@ remove_core = COL
 }
 
 add_core = RPL
+add_core = LST

@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = LST
+controller = LST
 
 trade_goods = timber
 life_rating = 35
@@ -12,3 +12,4 @@ colonial = 2
 }
 
 add_core = RPL
+add_core = LST
