@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SCA
+controller = SCA
 add_core = KNT
 trade_goods = cattle
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SCA
+controller = SCA
 add_core = DEN
 trade_goods = grain
 life_rating = 35
@@ -32,3 +32,5 @@ fort = 1
 		upgrade = yes
 	}
 }
+
+add_core = SCA

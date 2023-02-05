@@ -1,5 +1,7 @@
-owner = KNT
-controller = KNT
+owner = LST
+controller = LST
 add_core = KNT
 trade_goods = coal
 life_rating = 35
+
+add_core = LST

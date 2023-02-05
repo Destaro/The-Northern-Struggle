@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = LST
+controller = LST
 add_core = ULA
 add_core = USA
 trade_goods = tobacco
@@ -20,3 +20,5 @@ party_loyalty = {
 	add_core = CSA
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = LST

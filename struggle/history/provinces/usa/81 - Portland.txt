@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = RPL
+controller = RPL
 
 trade_goods = fish
 life_rating = 20

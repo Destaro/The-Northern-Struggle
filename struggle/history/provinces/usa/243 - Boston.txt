@@ -1,5 +1,5 @@
-owner = NEN
-controller = NEN
+owner = LST
+controller = LST
 add_core = NEN
 trade_goods = grain
 life_rating = 35
@@ -30,3 +30,5 @@ state_building = {
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = LST

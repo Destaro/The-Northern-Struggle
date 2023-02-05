@@ -374,3 +374,62 @@ country_event = {
 		}
 	}
 }
+
+
+
+
+
+country_event = {
+
+	id = 4004005
+
+	title = "EVTNAME4004005" #recovery of the baltic
+	desc = "EVTDESC4004005"
+	picture = "danishgovernment"
+
+	trigger = {
+		owns = 360
+		owns = 354
+		owns = 349
+		war = no
+		tag = SCA
+	}
+	option = {
+		name = "EVT4004005PTA"
+		create_vassal = LAT
+		create_vassal = CUR
+		create_vassal = EST
+		create_vassal = LIT
+		any_owned = {
+				limit = {
+					is_core = EST
+					
+				}
+				secede_province = EST
+			}
+			
+		any_owned = {
+				limit = {
+					is_core = CUR
+					
+				}
+				secede_province = CUR
+			}
+		
+		any_owned = {
+				limit = {
+					is_core = LAT
+					
+				}
+				secede_province = LAT
+			}
+			
+		any_owned = {
+				limit = {
+					is_core = LIT
+					
+				}
+				secede_province = LIT
+			}
+	}
+}

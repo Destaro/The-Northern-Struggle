@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SCA
+controller = SCA
 add_core = NYK
 trade_goods = precious_goods
 life_rating = 32

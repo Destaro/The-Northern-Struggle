@@ -1,5 +1,5 @@
-owner = VIN
-controller = VIN
+owner = MTC
+controller = MTC
 add_core = MTC
 add_core = DAK
 add_core = VIN

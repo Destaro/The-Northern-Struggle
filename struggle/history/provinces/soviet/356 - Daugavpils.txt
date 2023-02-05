@@ -1,5 +1,5 @@
-owner = LAT
-controller = LAT
+owner = LIT
+controller = LIT
 add_core = UBD
 add_core = LAT
 add_core = EST
@@ -7,3 +7,5 @@ trade_goods = grain
 life_rating = 35
 
 1861.1.1 = { railroad = 2 }
+
+add_core = LIT

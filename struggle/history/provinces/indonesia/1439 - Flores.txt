@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCA
+controller = SCA
 add_core = BAL
 trade_goods = coffee
 life_rating = 31

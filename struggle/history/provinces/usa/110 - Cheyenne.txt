@@ -13,3 +13,4 @@ life_rating = 35
 	remove_core = UNB
 	add_core = USA
 }
+

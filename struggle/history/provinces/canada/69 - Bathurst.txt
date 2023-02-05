@@ -1,5 +1,5 @@
-owner = NEN
-controller = NEN
+owner = LST
+controller = LST
 add_core = NEN
 add_core = ACA
 add_core = MRU
@@ -9,3 +9,4 @@ colonial = 2
 1861.1.1 = {
 	remove_core = NEN
 }
+add_core = LST

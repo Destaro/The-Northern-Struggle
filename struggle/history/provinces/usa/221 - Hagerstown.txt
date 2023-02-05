@@ -1,6 +1,6 @@
-owner = USA
+owner = LST
 
-controller = USA
+controller = LST
 
 add_core = USA
 trade_goods = tobacco
@@ -29,3 +29,5 @@ party_loyalty = {
 		upgrade = yes
 	}}
 1861.1.1 = { railroad = 3 }
+
+add_core = LST

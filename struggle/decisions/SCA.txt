@@ -727,8 +727,8 @@
 	        }
 	NOT = { has_country_flag = integrate_finland_and_estonia
 	        has_country_flag = integrate_finland      }
-	      is_vassal = FIN
-		  is_vassal = EST
+	      FIN = { vassal_of = THIS }
+	   EST = { vassal_of = THIS }
 		  
 		  }
 		  
@@ -764,7 +764,7 @@
 	        }
 	NOT = { has_country_flag = integrate_finland_and_estonia
 	        has_country_flag = integrate_finland }
-	      is_vassal = FIN
+	      FIN = { vassal_of = THIS }
 		  
 		  }
 		  
@@ -798,8 +798,8 @@
 	        }
 	NOT = { has_country_flag = integrate_livonia
 	                                              }
-	      is_vassal = IZH
-		  is_vassal = LAT
+	      IZH = { vassal_of = THIS }
+		  LAT = { vassal_of = THIS }
 		  
 		  }
 		  
@@ -826,6 +826,42 @@
 	prestige = 20
 	IZH = { all_core = { add_core = THIS } }
 	LAT = { all_core = { add_core = THIS } }
+	            }
+	}
+	
+	
+	
+	integrate_lithuania = {
+	potential = {
+	OR = {
+	tag = SCA
+	tag = SWE
+	        }
+	NOT = { has_country_flag = integrate_lithuania
+	                                              }
+	      
+		  is_vassal = LIT
+		  
+		  }
+		  
+	allow = {
+	
+	nationalism_n_imperialism = 1
+	year = 1860
+	war = no
+	   
+	is_greater_power = 1
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_lithuania
+	inherit = LIT
+	
+	prestige = 20
+	
+	LIT = { all_core = { add_core = THIS } }
 	            }
 	}
 	
