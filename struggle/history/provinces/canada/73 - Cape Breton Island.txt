@@ -1,9 +1,10 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = NEN
 add_core = ACA
 add_core = MRU
 trade_goods = coal
 life_rating = 30
 colonial = 2
-add_core = LST
+
+add_core = AVA

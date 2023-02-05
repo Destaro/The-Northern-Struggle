@@ -1,5 +1,5 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = ULA
 trade_goods = tobacco
 life_rating = 35
@@ -25,4 +25,5 @@ party_loyalty = {
 	naval_base = 3
 }
 
-add_core = LST
+
+add_core = AVA

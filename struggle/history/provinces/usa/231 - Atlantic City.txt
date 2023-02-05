@@ -1,6 +1,6 @@
-owner = LST
+owner = AVA
 
-controller = LST
+controller = AVA
 
 add_core = USA
 trade_goods = fish
@@ -32,4 +32,5 @@ party_loyalty = {
 	railroad = 3 
 }
 
-add_core = LST
+
+add_core = AVA

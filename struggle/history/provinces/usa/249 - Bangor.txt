@@ -1,5 +1,5 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = NEN
 add_core = ACA
 trade_goods = timber
@@ -16,4 +16,5 @@ party_loyalty = {
 
 1861.1.1 = { railroad = 1 }
 
-add_core = LST
+
+add_core = AVA

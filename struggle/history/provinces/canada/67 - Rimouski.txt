@@ -1,9 +1,10 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = NEN
 add_core = ACA
 trade_goods = grain
 life_rating = 30
 colonial = 2
 1861.1.1 = { railroad = 2 }
-add_core = LST
+
+add_core = AVA

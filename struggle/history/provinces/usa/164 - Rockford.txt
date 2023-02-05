@@ -1,7 +1,8 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = KNT
 trade_goods = coal
 life_rating = 35
 
-add_core = LST
+
+add_core = AVA

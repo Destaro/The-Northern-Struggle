@@ -1,5 +1,5 @@
-owner = LST
-controller = LST
+owner = AVA
+controller = AVA
 add_core = KNT
 trade_goods = coal
 life_rating = 35
@@ -38,4 +38,5 @@ party_loyalty = {
 }
 1861.1.1 = { railroad = 3 }
 
-add_core = LST
+
+add_core = AVA

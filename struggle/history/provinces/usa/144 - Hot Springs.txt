@@ -1,6 +1,6 @@
-owner = LST
-controller = LST
-add_core = LST
+owner = AVA
+controller = AVA
+
 trade_goods = grain
 life_rating = 35
 
@@ -24,3 +24,4 @@ party_loyalty = {
 		upgrade = yes
 	}
 }
+add_core = AVA
