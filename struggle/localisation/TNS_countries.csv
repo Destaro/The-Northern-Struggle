@@ -570,6 +570,9 @@ MOR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Frakti
 MOR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
 MOR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;
 ;;;;;;x;;;;
+AVA;Avalon;Avalon;Avalon;;;;;;;;;;;
+AVA_ADJ;Avalonian;Avalonian;Avalonian;;;;;;;;;;;
+;;;;;;x;;;;
 LST;Lusitania;Lusitanie;Lusitania;;;;;;;;;;;
 LST_ADJ;Lusitano;Lusitanien;Lusitano;;;;;;;;;;;
 LST_conservative_1;Converxencia Nacionalista Lusitana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
