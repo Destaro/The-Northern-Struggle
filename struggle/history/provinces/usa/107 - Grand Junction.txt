@@ -1,5 +1,5 @@
-owner = LST
-controller = LST
+owner = MTC
+controller = MTC
 add_core = MTC
 add_core = UNB
 trade_goods = cattle
@@ -10,4 +10,3 @@ controller = USA
 add_core = USA
 remove_core = UNB
 }
-add_core = LST

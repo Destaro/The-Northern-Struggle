@@ -1,5 +1,5 @@
-owner = LST
-controller = LST
+owner = RPL
+controller = RPL
 
 trade_goods = fish
 life_rating = 20
@@ -13,4 +13,3 @@ colonial = 2
 }
 
 add_core = RPL
-add_core = LST

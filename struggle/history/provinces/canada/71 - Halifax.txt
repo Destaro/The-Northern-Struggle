@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = LST
+controller = LST
 add_core = NEN
 add_core = ACA
 add_core = MRU
@@ -11,3 +11,4 @@ fort = 1
 1861.1.1 = { 
 	railroad = 2 
 }
+add_core = LST
