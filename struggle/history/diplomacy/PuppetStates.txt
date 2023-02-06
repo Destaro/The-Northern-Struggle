@@ -412,6 +412,16 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+
+
+# Toledan Empire
+vassal = {
+	first = TLD
+	second = VNS
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
 ### Southern Roman Empire ###
 # Carthage-Numidia
 substate = {
@@ -431,6 +441,14 @@ substate = {
 substate = {
 	first = TUN
 	second = MGH
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+# Carthage-Lusitania
+substate = {
+	first = TUN
+	second = LST
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }

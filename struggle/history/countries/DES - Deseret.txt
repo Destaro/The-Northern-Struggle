@@ -6,7 +6,7 @@ government = theocracy
 plurality = 0.2
 nationalvalue = nv_liberty
 literacy = 0.50
-civilized = yes
+civilized = no
 
 # Political reforms
 slavery = no_slavery

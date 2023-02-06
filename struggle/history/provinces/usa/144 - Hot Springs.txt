@@ -1,5 +1,5 @@
-owner = AVA
-controller = AVA
+owner = MTC
+controller = MTC
 
 trade_goods = grain
 life_rating = 35
@@ -24,4 +24,5 @@ party_loyalty = {
 		upgrade = yes
 	}
 }
-add_core = AVA
+
+add_core = MTC

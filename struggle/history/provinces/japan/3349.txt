@@ -1,6 +1,6 @@
-owner = TAI
-controller = TAI
-add_core = TAI
+owner = PHL
+controller = PHL
+add_core = PHL
 add_core = JAP
 trade_goods = cattle
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = AVA
-controller = AVA
+owner = MTC
+controller = MTC
 
 trade_goods = sulphur
 life_rating = 35
@@ -19,4 +19,5 @@ party_loyalty = {
 	add_core = CSA}
 1861.1.1 = { railroad = 1 }
 
-add_core = AVA
+
+add_core = MTC

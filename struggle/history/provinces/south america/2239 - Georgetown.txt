@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
+owner = VNG
+controller = VNG
 add_core = GUY
 trade_goods = fruit
 terrain = plains
@@ -7,3 +7,6 @@ life_rating = 32
 colonial = 2
 naval_base = 1
 1861.1.1 = { railroad = 1 }
+
+add_core = GCO
+add_core = VNG

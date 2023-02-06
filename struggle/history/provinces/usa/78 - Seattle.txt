@@ -1,5 +1,5 @@
-owner = RPL
-controller = RPL
+owner = SCA
+controller = SCA
 
 trade_goods = timber
 life_rating = 35

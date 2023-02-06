@@ -1,8 +1,9 @@
-owner = LIT
-controller = LIT
+owner = SCA
+controller = SCA
 add_core = UBD
 add_core = EST
 trade_goods = grain
 life_rating = 35
 
 add_core = LIT
+add_core = SCA

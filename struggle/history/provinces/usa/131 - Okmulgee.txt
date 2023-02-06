@@ -1,5 +1,5 @@
-owner = AVA
-controller = AVA
+owner = MTC
+controller = MTC
 
 trade_goods = grain
 life_rating = 35
@@ -10,4 +10,5 @@ life_rating = 35
 	add_core = CSA
 	add_core = USA
 }
-add_core = AVA
+
+add_core = MTC

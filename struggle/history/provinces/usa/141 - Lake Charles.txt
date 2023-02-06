@@ -1,5 +1,5 @@
-owner = AVA
-controller = AVA
+owner = TEX
+controller = TEX
 
 trade_goods = sulphur
 life_rating = 35
@@ -19,4 +19,5 @@ party_loyalty = {
 	owner = CSA
 	add_core = CSA
 }
-add_core = AVA
+
+add_core = TEX

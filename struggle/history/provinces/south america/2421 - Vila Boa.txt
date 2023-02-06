@@ -1,5 +1,11 @@
+owner = PRG
+controller = PRG
+
+
 add_core = KRT
-add_core = BRZ
+
 trade_goods = tropical_wood
 terrain = savanna
 life_rating = 25
+
+add_core = PRG

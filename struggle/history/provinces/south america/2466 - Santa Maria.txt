@@ -1,5 +1,5 @@
-owner = PRG
-controller = PRG
+owner = RGS
+controller = RGS
 add_core = LPL
 add_core = PRG
 trade_goods = timber
@@ -8,3 +8,5 @@ life_rating = 35
 	owner = BRZ
 	controller = BRZ
 }
+
+add_core = RGS
