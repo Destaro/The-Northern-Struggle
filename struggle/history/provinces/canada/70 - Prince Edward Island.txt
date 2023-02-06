@@ -1,10 +1,6 @@
 owner = AVA
 controller = AVA
-add_core = NEN
-add_core = ACA
-add_core = MRU
+add_core = AVA
 trade_goods = fish
 life_rating = 30
 colonial = 2
-
-add_core = AVA

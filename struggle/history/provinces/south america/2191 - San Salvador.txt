@@ -1,5 +1,5 @@
-owner = VNS
-controller = VNS
+owner = MEX
+controller = MEX
 add_core = ELS
 trade_goods = coffee
 life_rating = 32
@@ -8,4 +8,3 @@ naval_base = 1
 	owner = ELS
 	controller = ELS
 }
-add_core = VNS

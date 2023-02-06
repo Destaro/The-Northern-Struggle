@@ -1,15 +1,2 @@
-owner = MTC
-controller = MTC
-add_core = MTC
-add_core = UNB
 trade_goods = grain
 life_rating = 35
-colonial = 2
-1861.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = CHE
-	colonial = 0
-}
-

@@ -1,7 +1,2 @@
-owner = VIN
-controller = VIN
-add_core = MTC
-add_core = VIN
 trade_goods = grain
 life_rating = 30
-colonial = 2

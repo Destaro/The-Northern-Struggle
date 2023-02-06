@@ -1,15 +1,5 @@
-owner = AVA
-controller = AVA
-add_core = CAL
+owner = AMG
+controller = AMG
+add_core = AMG
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = {
-	colonial = 0
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = CAN
-}
-
-
-add_core = AVA

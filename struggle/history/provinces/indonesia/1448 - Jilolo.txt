@@ -1,6 +1,5 @@
-owner = SCA
-controller = SCA
+owner = MAL
+controller = MAL
 add_core = MAL
 trade_goods = fish
 life_rating = 31
-colonial = 2

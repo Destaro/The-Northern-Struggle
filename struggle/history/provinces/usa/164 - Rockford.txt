@@ -1,8 +1,5 @@
 owner = AVA
 controller = AVA
-add_core = KNT
+add_core = AVA
 trade_goods = coal
 life_rating = 35
-
-
-add_core = AVA

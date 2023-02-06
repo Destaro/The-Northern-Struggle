@@ -10650,72 +10650,72 @@
 #Albany (332000/83000 POPS)
 234 = {
 	bureaucrats = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 150
 	}
 
 	officers = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 4475
 	}
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 975
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 3125
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 70775
 	}
@@ -11208,135 +11208,57 @@
 #Boston (444000/111000 POPS)
 243 = {
 	clergymen = {
-		culture = sjaellander
-		religion = catholic
-		size = 50
+		culture = avalonian
+		religion = protestant
+		size = 750
 	}
 
 	clerks = {
-		culture = sjaellander
-		religion = catholic
-		size = 50
+		culture = avalonian
+		religion = protestant
+		size = 875
 	}
 
 	craftsmen = {
-		culture = sjaellander
-		religion = catholic
-		size = 1100
+		culture = avalonian
+		religion = protestant
+		size = 17350
 	}
 
 	artisans = {
-		culture = sjaellander
-		religion = catholic
-		size = 3950
+		culture = avalonian
+		religion = protestant
+		size = 51875
 	}
 
 	soldiers = {
-		culture = sjaellander
-		religion = catholic
-		size = 75
-	}
-	
-	clergymen = {
-		culture = sjaellander
-		religion = catholic
-		size = 25
+		culture = avalonian
+		religion = protestant
+		size = 2075
 	}
 
 	capitalists = {
-		culture = sjaellander
-		religion = catholic
-		size = 15
+		culture = avalonian
+		religion = protestant
+		size = 365
 	}
 
 	bureaucrats = {
-		culture = sjaellander
-		religion = catholic
-		size = 15
+		culture = avalonian
+		religion = protestant
+		size = 315
 	}
 	
 	farmers = {
-		culture = sjaellander
-		religion = catholic
-		size = 2875
-	}
-	
-	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
-		size = 300
+		size = 25020
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 150
-	}
-
-	capitalists = {
-		culture = sjaellander
-		religion = protestant
-		size = 350
-	}
-
-	clergymen = {
-		culture = sjaellander
-		religion = protestant
-		size = 675
-	}
-
-	clerks = {
-		culture = sjaellander
-		religion = protestant
-		size = 825
-	}
-
-	craftsmen = {
-		culture = sjaellander
-		religion = protestant
-		size = 16250
-	}
-
-	artisans = {
-		culture = sjaellander
-		religion = protestant
-		size = 10000
-	}
-
-	artisans = {
-		culture = sjaellander
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = sjaellander
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = sjaellander
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = sjaellander
-		religion = protestant
-		size = 7925
-	}
-
-	soldiers = {
-		culture = sjaellander
-		religion = protestant
-		size = 2000
-	}
-
-	farmers = {
-		culture = sjaellander
-		religion = protestant
-		size = 22145
 	}
 
 	clergymen = {
@@ -11360,61 +11282,61 @@
 #New Bedford (132000/33000 POPS)
 244 = {
 	clergymen = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 2950
 	}
 	
 	craftsmen = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 100
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 225
 	}
 
 	clerks = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 1125
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 27025
 	}
@@ -11440,37 +11362,37 @@
 #Pittsfield (84000/21000 POPS)
 245 = {
 	clergymen = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 25
 	}
 	
 	farmers = {
-		culture = sjaellander
-		religion = catholic
+		culture = avalonian
+		religion = protestant
 		size = 200
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 1050
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 19575
 	}

@@ -1,11 +1,5 @@
-owner = SCA
-controller = SCA
-
+owner = AMG
+controller = AMG
+add_core = AMG
 trade_goods = coal
 life_rating = 31
-colonial = 2
-1861.1.1 = {
-	naval_base = 1
-}
-
-add_core = RPL

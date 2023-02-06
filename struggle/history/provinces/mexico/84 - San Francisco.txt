@@ -1,1 +1,5 @@
-owner = CALcontroller = CALadd_core = CALtrade_goods = cattlelife_rating = 30colonial = 21861.1.1 = {	owner = USA	controller = USA	add_core = USA	remove_core = CAL	colonial = 0}1861.1.1 = {	naval_base = 1	fort = 1}
+owner = AMG
+controller = AMG
+add_core = AMG
+trade_goods = cattle
+life_rating = 30
