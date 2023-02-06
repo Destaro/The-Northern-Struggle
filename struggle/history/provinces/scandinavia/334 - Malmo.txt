@@ -1,6 +1,8 @@
-owner = SWE
-controller = SWE
+owner = SCA
+controller = SCA
 add_core = SWE
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+
+add_core = SCA

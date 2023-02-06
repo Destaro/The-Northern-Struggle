@@ -4,3 +4,5 @@ add_core = FIN
 add_core = SWE
 trade_goods = timber
 life_rating = 35
+
+add_core = SCA

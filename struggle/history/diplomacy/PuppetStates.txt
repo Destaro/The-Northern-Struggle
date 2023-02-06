@@ -84,21 +84,21 @@ substate = {
 
 # Denmark-Nye Sjaelland
 substate = {
-	first = DEN
+	first = SCA
 	second = NEN
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
 # Denmark-Karlant
 substate = {
-	first = DEN
+	first = SCA
 	second = KNT
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
 # Denmark-Brynaich
 substate = {
-	first = DEN
+	first = SCA
 	second = NTU
 	start_date = 1815.1.1
 	end_date = 1936.1.1
@@ -164,7 +164,7 @@ vassal = {
 
 #Sweden-Finland
 vassal = {
-	first = SWE
+	first = SCA
 	second = FIN
 	start_date = 1815.1.1
 	end_date = 1863.1.1
@@ -172,19 +172,13 @@ vassal = {
 
 #Sweden-Novgorod
 vassal = {
-	first = SWE
+	first = SCA
 	second = NOV
 	start_date = 1815.1.1
 	end_date = 1863.1.1
 }
 
-#Sweden-Ireland
-vassal = {
-	first = SWE
-	second = IRE
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
+
 
 ##Sokoto - Adamawa Emirate
 #vassal = {
@@ -219,7 +213,7 @@ substate = {
 
 # Denmark-Schleswig-Holstein
 vassal = {
-	first = DEN
+	first = SCA
 	second = SWH
 	start_date = 1773.1.1
 	end_date = 1864.10.30
@@ -444,35 +438,29 @@ substate = {
 ### Swedish Empire ###
 # Livland
 substate = {
-	first = SWE
+	first = SCA
 	second = LAT
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
 # Estland
 substate = {
-	first = SWE
+	first = SCA
 	second = EST
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
 # Ingermanland
 substate = {
-	first = SWE
+	first = SCA
 	second = IZH
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-# Bretland
-substate = {
-	first = SWE
-	second = WHA
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
+
 # Nya Sverige
 substate = {
-	first = SWE
+	first = SCA
 	second = USA
 	start_date = 1800.1.1
 	end_date = 1936.1.1
@@ -489,14 +477,14 @@ substate = {
 ### Norwegian Empire ###
 #Norway - Vinland
 substate = {
-	first = NOR
+	first = SCA
 	second = VIN
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
 #Norway - Vestlandet
 substate = {
-	first = NOR
+	first = SCA
 	second = RPL
 	start_date = 1805.1.1
 	end_date = 1936.1.1

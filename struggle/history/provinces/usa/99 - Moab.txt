@@ -11,3 +11,4 @@ life_rating = 35
 	remove_core = MEX
 	colonial = 1
 }
+

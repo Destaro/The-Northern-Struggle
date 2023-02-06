@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SCA
+controller = SCA
 add_core = SAK
 add_core = INO
 trade_goods = timber
