@@ -593,7 +593,7 @@ war = {
 			
 
 war = {
-	target = MRV
+	target = BOH
 	attacker_goal = { 
 	casus_belli = conquest_any
 	

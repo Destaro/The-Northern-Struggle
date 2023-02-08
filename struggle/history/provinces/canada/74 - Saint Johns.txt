@@ -4,4 +4,3 @@ add_core = VIN
 trade_goods = fish
 terrain = stjohn
 life_rating = 30
-colonial = 2

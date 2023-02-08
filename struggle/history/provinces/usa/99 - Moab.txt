@@ -1,7 +1,7 @@
 owner = UNM
 controller = UNM
 add_core = UNM
-colonial = 2
+
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
