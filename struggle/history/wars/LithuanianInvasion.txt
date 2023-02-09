@@ -1,24 +1,29 @@
-name = "Lithuanian Invasion of the Baltics"
+name = "Lithuanian Invasion Of The Baltics"
 
-1830.4.19 = {
+1835.10.2 = {
 	add_attacker = LIT
 	add_defender = SCA
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = SCA
+		receiver = LIT
+	}
 	
 	war_goal = {
 		casus_belli = humiliate
 		actor = LIT
 		receiver = SCA
 	}
-	
-	war_goal = {
-		casus_belli = conquest
-		actor = SCA
-		receiver = LIT
-	}
 
 }
 
-1848.9.3 = {
+1836.6.6 = {
 	rem_attacker = LIT
 	rem_defender = SCA
 }
