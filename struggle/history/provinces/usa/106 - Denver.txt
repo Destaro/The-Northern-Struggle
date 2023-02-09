@@ -1,6 +1,8 @@
-owner = UNM
-controller = UNM
+owner = MEX
+controller = MEX
 add_core = UNM
 
 trade_goods = cattle
 life_rating = 35
+
+add_core = MEX

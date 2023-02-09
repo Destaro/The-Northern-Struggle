@@ -944,6 +944,9 @@ unite_sogdia = {
 		}
 		
 		effect = {
+		    add_accepted_culture = avalonian
+			add_accepted_culture = vinlander
+			add_accepted_culture = new_frankish
 			prestige = 25
 			any_country = {
 				limit = {

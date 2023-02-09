@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
+owner = MEX
+controller = MEX
 add_core = UNM
 
 trade_goods = cattle
@@ -10,3 +10,5 @@ controller = USA
 add_core = USA
 remove_core = UNB
 }
+
+add_core = MEX

@@ -1,6 +1,8 @@
-owner = UNM
-controller = UNM
+owner = MEX
+controller = MEX
 add_core = UNM
 terrain = new_world_semidesert
 trade_goods = grain
 life_rating = 30
+
+add_core = MEX

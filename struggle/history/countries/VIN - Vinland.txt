@@ -1,5 +1,6 @@
 capital = 65
 primary_culture = vinlander
+culture = anglo_canadian
 religion = protestant
 government = colonial_company
 plurality = 0.3

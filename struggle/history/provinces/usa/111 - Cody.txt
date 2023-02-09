@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
+owner = MEX
+controller = MEX
 add_core = UNM
 trade_goods = coal
 life_rating = 35
@@ -8,3 +8,5 @@ life_rating = 35
 	colonial = 0 
 	remove_core = COL
 }
+
+add_core = MEX

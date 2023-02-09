@@ -642,49 +642,49 @@
 #Sacramento (9600/2400 POPS)
 84 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 350
 	}
 	
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 500
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 	
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
@@ -771,19 +771,19 @@
 		size = 1700
 	}
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 500
 	}
 	
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
@@ -792,37 +792,37 @@
 #Monterey (6400/1600 POPS)
 87 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 12
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 525
 	}
 	
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 150
 	}
@@ -886,24 +886,24 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 900
 	}
@@ -933,37 +933,37 @@
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 400
 	}
 	
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 	
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 75
 	}
 	
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 150
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
 	
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
@@ -971,19 +971,19 @@
 #San Diego (12000/3000 POPS)
 90 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 900
 	}
@@ -1007,31 +1007,31 @@
 	}
 	
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 500
 	}
 	
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 	
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 150
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
@@ -2817,37 +2817,37 @@
 131 = {
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
@@ -2899,43 +2899,43 @@
 #Houston (16000/4000 POPS)
 132 = {
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10
 	}
 	
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1550
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4550
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 250
 	}
@@ -3030,13 +3030,13 @@
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 200
 	}
@@ -3476,67 +3476,67 @@
 #New Orleans (128000/32000 POPS)
 139 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 8250
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 8550
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = jewish
 		size = 50
 	}
@@ -3568,85 +3568,85 @@
 #Baton Rouge (72000/18000 POPS)
 140 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 45
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4430
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 2470
 	}
@@ -3678,55 +3678,55 @@
 #Lake Charles (36000/9000 POPS)
 141 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1025
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 55
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 3525
 	}
@@ -3758,55 +3758,55 @@
 #Lake Charles (36000/9000 POPS)
 3331 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1025
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 55
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 3525
 	}
@@ -3838,43 +3838,43 @@
 #Shreveport (44000/11000 POPS)
 142 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 3050
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 75
 	}
 	
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 1550
 	}
@@ -3908,43 +3908,43 @@
 #Little Rock (56000/14000 POPS)
 143 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 9150
 	}
@@ -3976,43 +3976,43 @@
 #Little Rock (56000/14000 POPS)
 3336 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 9150
 	}
@@ -4044,43 +4044,43 @@
 #Little Rock (56000/14000 POPS)
 3337 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 9150
 	}
@@ -4112,25 +4112,25 @@
 #Hot Springs (16000/4000 POPS)
 144 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 3675
 	}
@@ -4138,25 +4138,25 @@
 #Fayetteville (16000/4000 POPS)
 145 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 3675
 	}
@@ -4166,91 +4166,91 @@
 #Saint Louis (188000/47000 POPS)
 146 = {
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 500
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1175
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 23650
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 220
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 275
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 675
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 15875
 	}
@@ -4262,31 +4262,31 @@
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 2915
 	}
@@ -4336,25 +4336,25 @@
 #Joplin (25000/5000 POPS)
 147 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
@@ -4362,25 +4362,25 @@
 #Joplin (25000/5000 POPS)
 3332 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
@@ -4388,25 +4388,25 @@
 #Joplin (25000/5000 POPS)
 3333 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
@@ -4414,25 +4414,25 @@
 #Joplin (25000/5000 POPS)
 3334 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
@@ -4440,25 +4440,25 @@
 #Joplin (25000/5000 POPS)
 3335 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
@@ -4466,55 +4466,55 @@
 #Malden (40000/10000 POPS)
 148 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1850
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4500
 	}
@@ -4546,37 +4546,37 @@
 #Jefferson City (56000/14000 POPS)
 149 = {
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 45
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4430
 	}
@@ -4650,97 +4650,97 @@
 #Kansas City (56000/14000 POPS)
 150 = {
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 35
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 60
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 6075
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 15
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 50
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 15
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 1400
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 225
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4600
 	}
@@ -4774,61 +4774,61 @@
 #Des Moines (12000/3000 POPS)
 151 = {
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 	
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 900
 	}
@@ -4872,25 +4872,25 @@
 #Oskaloosa (8000/2000 POPS)
 152 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1850
 	}
@@ -4898,43 +4898,43 @@
 #Cedar Rapids (16000/4000 POPS)
 153 = {
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 35
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 2790
 	}
@@ -4961,25 +4961,25 @@
 154 = {
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
@@ -5002,37 +5002,37 @@
 155 = {
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 30
 	}
@@ -5077,37 +5077,37 @@
 156 = {
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 30
 	}
@@ -5212,43 +5212,43 @@
 #Milwaukee (16000/4000 POPS)
 159 = {
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 200
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 3700
 	}
@@ -5363,31 +5363,31 @@
 #Madison (8000/2000 POPS)
 162 = {
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1835
 	}
@@ -5397,49 +5397,49 @@
 #Chicago (172000/43000 POPS)
 163 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 2130
 	}
 	
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 275
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 2150
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 38125
 	}
@@ -5447,25 +5447,25 @@
 #Rockford (44000/11000 POPS)
 164 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10250
 	}
@@ -5473,25 +5473,25 @@
 #Champaign (36000/9000 POPS)
 165 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 8400
 	}
@@ -5499,49 +5499,49 @@
 #Peoria (100000/25000 POPS)
 166 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 23350
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 100
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 350
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 4000
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = mormon
 		size = 250
 	}
@@ -5549,61 +5549,61 @@
 #Springfield (36000/9000 POPS)
 167 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = catholic
 		size = 130
 	}
 	
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 8075
 	}
@@ -5611,25 +5611,25 @@
 #Carbondale (68000/17000 POPS)
 168 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 175
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 14925
 	}
@@ -5657,85 +5657,85 @@
 #Indianapolis (276000/69000 POPS)
 169 = {
 	aristocrats = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 275
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 3200
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 64225
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 5675
 	}
@@ -5743,25 +5743,25 @@
 #Evansville (196000/49000 POPS)
 170 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2300
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 42925
 	}
@@ -5803,19 +5803,19 @@
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 300
 	}
@@ -5823,25 +5823,25 @@
 #South Bend (44000/11000 POPS)
 171 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10275
 	}
@@ -5849,25 +5849,25 @@
 #Fort Wayne (128000/32000 POPS)
 172 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1600
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 29850
 	}
@@ -5975,25 +5975,25 @@
 #Grand Rapids (POPS)
 174 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 5550
 	}
@@ -6191,43 +6191,43 @@
 #Cleveland (208000/52000 POPS)
 178 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 2000
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2250
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 41950
 	}
@@ -6253,73 +6253,73 @@
 #Columbus (268000/67000 POPS)
 179 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 2000
 	}
 	
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 575
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 275
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 575
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 45775
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 6600
 	}
@@ -6345,43 +6345,43 @@
 #Sandusky (188000/47000 POPS)
 180 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 350
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1850
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 34525
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 9425
 	}
@@ -6389,43 +6389,43 @@
 #Dayton (224000/56000 POPS)
 181 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 525
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2450
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 45725
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 6600
 	}
@@ -6433,61 +6433,61 @@
 #Cincinnati (296000/74000 POPS)
 182 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 2000
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 575
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2650
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 525
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 49450
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 7550
 	}
@@ -6531,25 +6531,25 @@
 #Marietta (160000/40000 POPS)
 183 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1950
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 36425
 	}
@@ -6895,55 +6895,55 @@
 #Paducah (108000/27000 POPS)
 187 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 4625
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 275
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 12850
 	}
@@ -7111,55 +7111,55 @@
 #Memphis (128000/32000 POPS)
 189 = {
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1475
 	}
 
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 10300
 	}
@@ -7419,43 +7419,43 @@
 #Jackson (164000/41000 POPS)
 192 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 525
 	}
 
 	bureaucrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1650
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 20050
 	}
@@ -7487,31 +7487,31 @@
 #Vicksburg (100000/25000 POPS)
 193 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 9325
 	}
@@ -7543,31 +7543,31 @@
 #Biloxi (76000/19000 POPS)
 194 = {
 	aristocrats = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture = mexican
 		religion = protestant
 		size = 7675
 	}
@@ -9659,61 +9659,61 @@
 #Hagerstown (56000/14000 POPS)
 221 = {
 	aristocrats = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 5325
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 8000
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1650
 	}
 
 	slaves = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1000
 	}
@@ -9723,73 +9723,73 @@
 #Dover (76000/19000 POPS)
 222 = {
 	aristocrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 5015
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 7000
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 5150
 	}
 
 	slaves = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
@@ -9799,109 +9799,109 @@
 #Philadelphia (468000/117000 POPS)
 223 = {
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 250
 	}
 
 	clerks = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 5
 	}
 
 	craftsmen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 2045
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15400
 	}
 	
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1800
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	capitalists = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 550
 	}
 
 	clerks = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 60
 	}
 
 	craftsmen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1200
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 740
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 66950
 	}
@@ -9943,13 +9943,13 @@
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = jewish
 		size = 490
 	}
@@ -9957,49 +9957,49 @@
 #Coudersport - Formerly Fort Chimo (2400/600 POPS)
 2627 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 14000
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 55
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 6225
 	}
@@ -10025,49 +10025,49 @@
 #Scranton (164000/41000 POPS)
 224 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2050
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 425
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 38225
 	}
@@ -10075,25 +10075,25 @@
 #Williamsport (172000/43000 POPS)
 225 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2150
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 425
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 40100
 	}
@@ -10101,49 +10101,49 @@
 #Harrisburg (292000/73000 POPS)
 226 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 130
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 3650
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 66800
 	}
@@ -10151,49 +10151,49 @@
 #Pittsburgh (332000/83000 POPS)
 227 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 2250
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 37300
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 120
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 10500
 	}
@@ -10237,25 +10237,25 @@
 #Erie (108000/27000 POPS)
 228 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1350
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 25175
 	}
@@ -10265,55 +10265,55 @@
 #Newark (156000/39000 POPS)
 229 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1550
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 	
 	craftsmen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 27925
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 3700
 	}
@@ -10339,73 +10339,73 @@
 #Trenton (96000/24000 POPS)
 230 = {
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 70
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1050
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 21105
 	}
 
 	bureaucrats = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 2735
 	}
@@ -10413,49 +10413,49 @@
 #Atlantic City (88000/22000 POPS)
 231 = {
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = catholic
 		size = 130
 	}
 	
 	clergymen = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = karolean
+		culture = avalonian
 		religion = protestant
 		size = 20525
 	}
@@ -10465,97 +10465,97 @@
 #New York (440000/110000 POPS)
 232 = {
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 1875
 	}
 	
 	capitalists = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 5
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 	
 	capitalists = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 675
 	}
 
 	clerks = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 25000
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 8375
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 95125
 	}
@@ -10585,13 +10585,13 @@
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = jewish
 		size = 490
 	}
@@ -10599,50 +10599,50 @@
 #Islip (100000/25000 POPS)
 233 = {
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 175
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 23325
 	}
@@ -10723,49 +10723,49 @@
 #Binghamton (352000/88000 POPS)
 235 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 130
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 4400
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 80975
 	}
@@ -10773,62 +10773,62 @@
 #Buffalo (244000/61000 POPS)
 236 = {
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 250
 	}
 	
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 875
 	}
 
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 3050
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 625
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 56000
 	}
@@ -10836,25 +10836,25 @@
 #Rochester (176000/44000 POPS)
 237 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 2200
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 41025
 	}
@@ -10862,67 +10862,67 @@
 #Syracuse (304000/76000 POPS)
 238 = {
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 230
 	}
 	
 	craftsmen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 675
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 525
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 3800
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 40000
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 29000
 	}
@@ -10930,25 +10930,25 @@
 #Watertown (116000/29000 POPS)
 239 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 1450
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 27025
 	}
@@ -10956,31 +10956,31 @@
 #Plattsburgh (76000/19000 POPS)
 240 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 950
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 17725
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 10725
 	}
@@ -10990,73 +10990,73 @@
 #Hartford (304000/76000 POPS)
 241 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 	
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 3200
 	}
 	
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	capitalists = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 550
 	}
 
 	clerks = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 3050
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 64560
 	}
@@ -11084,67 +11084,67 @@
 #Providence (104000/26000 POPS)
 242 = {
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	capitalists = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 175
 	}
 
 	clerks = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 750
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 4175
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 9000
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 	
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 5000
 	}
@@ -11156,13 +11156,13 @@
 	}
 	
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
@@ -11174,7 +11174,7 @@
 	}
 	
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
@@ -11186,7 +11186,7 @@
 	}
 	
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 15
 	}
@@ -11402,85 +11402,85 @@
 #Montpelier (284000/71000 POPS)
 246 = {
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 3150
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 50200
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 21790
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 15475
 	}
@@ -11490,103 +11490,103 @@
 #Concord (POPS)
 247 = {
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 2000
 	}
 	
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 925
 	}
 	
 	craftsmen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 1000
 	}
 	
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 150
 	}
 
 	capitalists = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	clerks = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	craftsmen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 3000
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 2150
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 2925
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 55700
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 6000
 	}
 	
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 3000
 	}
 	
 	craftsmen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 5000
 	}
@@ -11596,67 +11596,67 @@
 #Lewiston (240000/60000 POPS)
 248 = {
 	farmers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 3500
 	}
 	
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 	
 	bureaucrats = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 175
 	}
 
 	officers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 450
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 600
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 35675
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 14000
 	}
@@ -11664,73 +11664,73 @@
 #Bangor (156000/44000 POPS)
 249 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 1575
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 1900
 	}
 
 	soldiers = {
-		culture = sjaellander
+		culture = avalonian
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 35475
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 4000
 	}
@@ -11739,79 +11739,79 @@
 #Caribou (36000/9000 POPS)
 250 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = catholic
 		size = 175
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 4625
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 525
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = avalonian
 		religion = protestant
 		size = 2725
 	}
