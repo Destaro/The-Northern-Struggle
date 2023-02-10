@@ -1,5 +1,5 @@
-owner = BUL
-controller = BUL
+owner = MRV
+controller = MRV
 add_core = BUL
 trade_goods = wool
 life_rating = 35

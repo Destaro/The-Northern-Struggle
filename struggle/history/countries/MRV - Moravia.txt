@@ -9,7 +9,6 @@ nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
 prestige = 70
-oob = "MRV_oob.txt"
 
 # Social Reforms
 wage_reform = no_minimum_wage
