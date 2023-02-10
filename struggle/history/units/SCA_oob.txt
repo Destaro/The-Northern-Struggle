@@ -578,7 +578,7 @@ navy = {
 
 navy = {
 	name = "Kubanska Flottan"
-	location = 44
+	location = 2223
 	
 	ship = {
 		name = "Santiago"
@@ -625,8 +625,8 @@ navy = {
 
 
 navy = {
-	name = "Nye Sverige Flottan"
-	location = 231
+	name = "Vinland Flottan"
+	location = 74
 	
 	
 	
@@ -1521,7 +1521,7 @@ navy = {
 
 navy = {
 	name = "1st Transport Squadron"
-	location = 71
+	location = 74
 	ship = {
 		name= "1st Transport Flotilla"
 		type = clipper_transport
@@ -1871,32 +1871,7 @@ navy = {
 
 
 
-navy = {
-    name = "Vinlandic post"
-    location = 74
 
-
-    
-	
-   
-
-    ship = {
-        name= "1st Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "2nd Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "3rd Transport Flotilla"
-        type = clipper_transport
-    }
-
-   
-}
 
 navy = {
     name = "Indonesian post"

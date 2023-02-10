@@ -1,5 +1,5 @@
-owner = NTU
-controller = NTU
+owner = SCA
+controller = SCA
 add_core = NTU
 trade_goods = coal
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = LBN
-controller = LBN
+owner = SYR
+controller = SYR
 add_core = LBN
 add_core = ISR
 add_core = PLS
@@ -10,3 +10,5 @@ life_rating = 35
 	controller = TUR 
 	owner = TUR
 }
+
+add_core = SYR

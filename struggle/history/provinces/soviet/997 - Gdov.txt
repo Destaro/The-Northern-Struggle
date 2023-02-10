@@ -1,5 +1,5 @@
-owner = IZH
-controller = IZH
+owner = LIT
+controller = LIT
 add_core = IZH
 add_core = SWE
 trade_goods = grain

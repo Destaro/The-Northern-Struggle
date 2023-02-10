@@ -163,7 +163,7 @@ vassal = {
 }
 
 #Sweden-Finland
-vassal = {
+substate = {
 	first = SCA
 	second = FIN
 	start_date = 1815.1.1
@@ -171,7 +171,7 @@ vassal = {
 }
 
 #Sweden-Novgorod
-vassal = {
+substate = {
 	first = SCA
 	second = NOV
 	start_date = 1815.1.1
@@ -475,6 +475,15 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+
+# Curland
+substate = {
+	first = SCA
+	second = CUR
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
 
 # Nya Sverige
 substate = {
