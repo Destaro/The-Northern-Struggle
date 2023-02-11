@@ -3,6 +3,7 @@ primary_culture = swedish
 culture = finnish
 culture = norwegian
 culture = danish
+culture = baltic_german
 prestige = 100
 religion = protestant
 government = hms_government
