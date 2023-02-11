@@ -5471,42 +5471,6 @@ indo_iranian = {
 	}
 }
 
-pan_indonesian = {
-	leader = asian
-	unit = AsianGC
-	malay = {
-		color = {85 78 89}
-		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
-			
-		}
-		
-		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
-               
-		}
-	}
-	javan = {
-		color = {154 32 88}
-		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom 
-			
-		}
-		
-		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat
-               
-		}
-	}
-	moluccan = {
-		color = {90 132 76}
-		first_names = { Ellyas Ignacio Jordao Michael Sonny Denny Mohammad Edinho Jos Levi
-			
-		}
-		
-		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
-               
-		}
-	}
-	union = INO
-}
-
 southeast_asian = {
 	leader = asian
 	unit = AsianGC
@@ -5651,6 +5615,16 @@ southeast_asian = {
                
 		}
 	}
+	malay = {
+		color = {85 78 89}
+		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
+			
+		}
+		
+		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
+               
+		}
+	}
 	taiwanese = {
 		color = {99 150 116}
 		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
@@ -5668,6 +5642,26 @@ southeast_asian = {
 		}
 		
 		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
+               
+		}
+	}
+	javan = {
+		color = {154 32 88}
+		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom 
+			
+		}
+		
+		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat
+               
+		}
+	}
+	moluccan = {
+		color = {90 132 76}
+		first_names = { Ellyas Ignacio Jordao Michael Sonny Denny Mohammad Edinho Jos Levi
+			
+		}
+		
+		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
                
 		}
 	}
@@ -6323,12 +6317,6 @@ neo_european_cultures = {
 		Folsach Güntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe
 		Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg
 		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
-	}
-	avalonian = { 
-		color = { 117  161  67}
-		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
-		
-		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
 	}
 }
 

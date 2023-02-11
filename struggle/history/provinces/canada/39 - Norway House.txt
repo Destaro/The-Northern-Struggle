@@ -8,5 +8,5 @@ life_rating = 15
 	owner = VIN
 	controller = VIN
 	add_core = RPL
-	
+	colonial = 2
 }

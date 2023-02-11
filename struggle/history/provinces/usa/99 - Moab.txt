@@ -1,7 +1,7 @@
-owner = MEX
-controller = MEX
+owner = UNM
+controller = UNM
 add_core = UNM
-
+colonial = 2
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
@@ -11,6 +11,3 @@ life_rating = 35
 	remove_core = MEX
 	colonial = 1
 }
-
-
-add_core = MEX

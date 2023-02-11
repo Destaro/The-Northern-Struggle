@@ -1,8 +1,6 @@
-owner = TUN
-controller = TUN
+owner = POR
+controller = POR
 trade_goods = coffee
 life_rating = 35
 colonial = 2
 terrain = mountain
-
-add_core = TUN

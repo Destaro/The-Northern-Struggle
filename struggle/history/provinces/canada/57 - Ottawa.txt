@@ -4,6 +4,6 @@ controller = VIN
 trade_goods = grain
 life_rating = 35
 terrain = ottawa
-
+colonial = 2
 
 add_core = VIN

@@ -1,7 +1,6 @@
 owner = BRU
 controller = BRU
 add_core = KLM
-add_core = INO
 trade_goods = grain
 life_rating = 15
 

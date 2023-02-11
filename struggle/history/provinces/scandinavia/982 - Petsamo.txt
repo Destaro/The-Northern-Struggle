@@ -5,5 +5,3 @@ add_core = KRL
 add_core = SWE
 trade_goods = iron
 life_rating = 10
-
-add_core = SCA

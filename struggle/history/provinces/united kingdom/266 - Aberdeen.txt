@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = NOR
+controller = NOR
 add_core = NOR
 add_core = SCO
 trade_goods = wool

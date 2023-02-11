@@ -1,23 +1,22 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = SWE
 add_core = IZH
-add_core = FIN
 trade_goods = grain
 life_rating = 42
 terrain = stpetersburg
 naval_base = 1
 fort = 1
-state_building = {
-	level = 1
-	building = lumber_mill
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = cement_factory
-	upgrade = yes
-}
+#state_building = {
+#	level = 1
+#	building = lumber_mill
+#	upgrade = yes
+#}
+#state_building = {
+#	level = 1
+#	building = cement_factory
+#	upgrade = yes
+#}
 1861.1.1 = { 
 	state_building = {
 		level = 1
@@ -39,4 +38,3 @@ state_building = {
 	railroad = 2
 	fort = 2
 }
-add_core = SCA

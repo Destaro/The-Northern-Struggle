@@ -1,8 +1,8 @@
-owner = LAN
-controller = LAN
-add_core = LAN
+owner = BRU
+controller = BRU
 add_core = KLM
-add_core = INO
+add_core = LAN
 trade_goods = grain
 life_rating = 32
 
+add_core = BRU

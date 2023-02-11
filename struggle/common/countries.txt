@@ -72,8 +72,7 @@ NTU = "countries/Northumbria.txt"
 NJP = "countries/Nankaigan.txt"
 NMG = "countries/New Mongolia.txt"
 NPR = "countries/New Persia.txt"
-AVA		= "countries/Avalon.txt"
-AMG		= "countries/American Mongolia.txt"
+AVA = "countries/Avalon.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

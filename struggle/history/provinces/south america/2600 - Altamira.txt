@@ -1,6 +1,4 @@
-
-
 add_core = KRT
-
+add_core = BRZ
 trade_goods = grain
 life_rating = 20

@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = LIB
 trade_goods = coffee
 life_rating = 35

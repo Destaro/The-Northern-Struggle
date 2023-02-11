@@ -1,7 +1,5 @@
-
-
 add_core = KRT
-
+add_core = BRZ
 trade_goods = fruit
 terrain = savanna
 life_rating = 25

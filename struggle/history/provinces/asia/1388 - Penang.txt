@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = JOH
 add_core = SIA
 trade_goods = timber

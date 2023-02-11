@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = FRI
 trade_goods = fish
 life_rating = 35

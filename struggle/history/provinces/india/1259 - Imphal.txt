@@ -1,5 +1,5 @@
-owner = ASM
-controller = ASM
+owner = MNP
+controller = MNP
 add_core = ASM
 add_core = MNP
 trade_goods = cattle

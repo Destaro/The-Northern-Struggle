@@ -1,7 +1,8 @@
-owner = MEX
-controller = MEX
+owner = VNS
+controller = VNS
 add_core = UCA
 add_core = GUA
 trade_goods = fish
 life_rating = 31
 
+add_core = VNS

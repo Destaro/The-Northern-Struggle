@@ -1,7 +1,5 @@
-owner = LIT
-controller = LIT
+owner = CUR
+controller = CUR
 add_core = CUR
 trade_goods = grain
 life_rating = 35
-
-add_core = LIT

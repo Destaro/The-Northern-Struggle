@@ -439,7 +439,7 @@ country_event = {
 		war = {
 	target = PRD
 	attacker_goal = { 
-	casus_belli = conquest_any_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -526,7 +526,7 @@ country_event = {
 		war = {
 	target = CPL
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -612,7 +612,7 @@ country_event = {
 		war = {
 	target = CPL
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -625,7 +625,7 @@ country_event = {
 war = {
 	target = PRD
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 

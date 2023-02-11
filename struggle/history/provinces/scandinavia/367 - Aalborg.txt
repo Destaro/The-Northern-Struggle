@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = DEN
+controller = DEN
 add_core = DEN
 trade_goods = cattle
 life_rating = 35
@@ -14,5 +14,3 @@ naval_base = 1
 #	building = glass_factory
 #	upgrade = yes
 #}
-
-add_core = SCA

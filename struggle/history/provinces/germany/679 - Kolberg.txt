@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = BDB
 add_core = GER
 #add_core = POL
@@ -8,4 +8,3 @@ life_rating = 40
 1861.1.1 = { railroad = 3 }
 
 add_core = SWE
-add_core = SCA

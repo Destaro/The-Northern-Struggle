@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = LPL
+controller = LPL
 add_core = LPL
 
 trade_goods = fruit
@@ -8,5 +8,3 @@ life_rating = 35
 	owner = BOL
 	controller = BOL
 }
-
-add_core = VOP

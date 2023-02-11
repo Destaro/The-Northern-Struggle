@@ -1,5 +1,4 @@
-owner = MEX
-controller = MEX
+owner = VNScontroller = VNS
 add_core = NIC
 trade_goods = fish
 life_rating = 31
@@ -7,3 +6,4 @@ life_rating = 31
 	owner = NIC
 	controller = NIC
 }
+add_core = VNS

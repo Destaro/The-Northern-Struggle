@@ -1,7 +1,5 @@
-owner = KRT
-controller = KRT
 add_core = KRT
-
+add_core = BRZ
 add_core = LPL
 add_core = PRG
 trade_goods = sulphur

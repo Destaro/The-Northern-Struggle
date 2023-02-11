@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = LPL
+controller = LPL
 add_core = LPL
 trade_goods = fish
 terrain = new_world_desert
@@ -9,5 +9,3 @@ life_rating = 15
 	controller = CHL
 }
 
-
-add_core = VOP

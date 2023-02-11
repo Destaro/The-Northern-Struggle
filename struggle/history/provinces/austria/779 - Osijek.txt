@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = PNN
+controller = PNN
 add_core = PNN
 trade_goods = cattle
 life_rating = 35

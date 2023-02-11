@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = BNG
 trade_goods = precious_goods
 life_rating = 35

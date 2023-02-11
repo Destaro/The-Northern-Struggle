@@ -1,6 +1,4 @@
-
-
 add_core = KRT
-
+add_core = BRZ
 trade_goods = fruit
 life_rating = 25

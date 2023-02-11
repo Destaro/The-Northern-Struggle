@@ -1,8 +1,6 @@
-owner = KRT
-controller = KRT
-
+owner = BRZ
+controller = BRZ
+add_core = BRZ
 trade_goods = fruit
 terrain = dryhills
 life_rating = 35
-
-add_core = KRT

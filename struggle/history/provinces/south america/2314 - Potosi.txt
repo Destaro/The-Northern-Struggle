@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = LPL
+controller = LPL
 add_core = LPL
 
 trade_goods = grain
@@ -9,5 +9,3 @@ terrain = new_world_semidesert
 	owner = BOL
 	controller = BOL
 }
-
-add_core = VOP

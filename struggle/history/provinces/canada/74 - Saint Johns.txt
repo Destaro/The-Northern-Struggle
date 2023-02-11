@@ -1,7 +1,9 @@
-owner = SCA
-controller = SCA
-add_core = VIN
+owner = NOR
+controller = NOR
+add_core = NEW
 trade_goods = fish
 terrain = stjohn
 life_rating = 30
 colonial = 2
+
+add_core = VIN

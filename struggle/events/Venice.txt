@@ -36,7 +36,7 @@ country_event = {
 		war = {
 	target = DLM
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	 }
 	defender_goal = { 
 	casus_belli = acquire_all_cores }
@@ -292,11 +292,11 @@ country_event = {
 		war = {
 	target = AQU
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
-	casus_belli = conquest_any 
+	casus_belli = conquest 
 	                         }
 	
 }
@@ -304,7 +304,7 @@ country_event = {
 war = {
 	target = LOM
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	                    }
 	defender_goal = { 
@@ -388,11 +388,11 @@ country_event = {
 		war = {
 	target = SVY
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
-	casus_belli = conquest_any 
+	casus_belli = conquest 
 	                         }
 	
 }

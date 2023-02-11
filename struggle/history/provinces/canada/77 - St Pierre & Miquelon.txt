@@ -1,6 +1,5 @@
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = FRA
+controller = FRA
 trade_goods = fish
 life_rating = 30
 colonial = 2

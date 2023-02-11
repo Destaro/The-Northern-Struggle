@@ -1,2 +1,7 @@
+owner = VIN
+controller = VIN
+add_core = MTC
+add_core = VIN
+colonial = 2
 trade_goods = coal
 life_rating = 30

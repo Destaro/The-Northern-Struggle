@@ -1,9 +1,6 @@
-owner = VNG
-controller = VNG
+owner = LUX
+controller = LUX
 add_core = VNZ
 add_core = GUY
 trade_goods = fruit
 life_rating = 31
-
-add_core = GCO
-add_core = VNG

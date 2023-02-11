@@ -8,7 +8,6 @@ literacy = 0.13
 non_state_culture_literacy = 0.1
 civilized = yes
 prestige = 40
-oob = "TLD_oob.txt"
 
 # Political reforms
 slavery = no_slavery

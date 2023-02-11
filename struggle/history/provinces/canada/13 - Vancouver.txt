@@ -1,6 +1,9 @@
-owner = AMG
-controller = AMG
-add_core = AMG
+owner = RPL
+controller = RPL
+
 trade_goods = fish
 life_rating = 35
 terrain = vancouver
+
+
+add_core = RPL

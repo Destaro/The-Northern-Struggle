@@ -1,9 +1,10 @@
-capital = 232
-primary_culture = avalonian
+capital = 273
+primary_culture = welsh
+culture = british
 religion = protestant
-government = democracy
+government = hms_government
 plurality = 0.1
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
 

@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = NOR
+controller = NOR
 add_core = NOR
 trade_goods = precious_metal
 naval_base = 1
@@ -7,5 +7,3 @@ life_rating = 35
 1861.1.1 = {
 	naval_base = 2
 }
-
-add_core = SCA

@@ -1,5 +1,11 @@
-owner = AMG
-controller = AMG
-add_core = AMG
+owner = RPL
+controller = RPL
+
 trade_goods = grain
 life_rating = 30
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
+add_core = RPL

@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = POR
+controller = POR
 trade_goods = cotton
 life_rating = 35
 colonial = 2

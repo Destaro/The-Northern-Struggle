@@ -3,7 +3,7 @@ controller = VIN
 
 trade_goods = fish
 life_rating = 35
-
+colonial = 2
 1861.1.1 = { railroad = 3 }
 
 add_core = VIN

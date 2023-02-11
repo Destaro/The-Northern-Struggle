@@ -1,8 +1,6 @@
-owner = MEX
-controller = MEX
+owner = UNM
+controller = UNM
 add_core = UNM
 terrain = new_world_semidesert
 trade_goods = fish
 life_rating = 30
-
-add_core = MEX

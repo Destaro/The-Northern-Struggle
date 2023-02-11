@@ -1,5 +1,5 @@
-owner = LPL
-controller = LPL
+owner = ARC
+controller = ARC
 
 add_core = PTG
 trade_goods = fish
@@ -7,4 +7,3 @@ terrain = montane_forest
 life_rating = 35
 
 add_core = ARC
-add_core = LPL

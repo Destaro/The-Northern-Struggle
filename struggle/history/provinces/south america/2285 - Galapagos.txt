@@ -1,9 +1,7 @@
-owner = VNG
-controller = VNG
-add_core = GCO
+owner = LST
+controller = LST
+add_core = LST
 add_core = ECU
 trade_goods = fish
 life_rating = 30
 terrain = new_world_plains
-
-add_core = VNG

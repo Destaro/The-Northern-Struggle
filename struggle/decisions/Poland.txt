@@ -547,19 +547,29 @@ southern_campaing_prc = {
 			nationalism_n_imperialism = 1
 			war = no
 			exists = BUL
-			
+			exists = PNN
 			
 		}
 		
 		effect = {
 			set_country_flag = southern_campaing_prc
 			badboy = 5
-			
+			war = {
+	target = PNN
+	attacker_goal = { 
+	casus_belli = conquest
+	
+	 }
+	defender_goal = { 
+	casus_belli = cut_down_to_size
+	                         }
+	
+}
 
 war = {
 	target = BUL
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -573,41 +583,7 @@ war = {
 		}
 	}
 	
-	western_campaing_prc = {
-		picture = become_poland
-		potential = {
-			tag = PLC
-			NOT = { has_country_flag = western_campaing_prc }
-		}
-		allow = {
-			nationalism_n_imperialism = 1
-			war = no
-			exists = BUL
-			
-			
-		}
-		
-		effect = {
-			set_country_flag = western_campaing_prc
-			badboy = 5
-			
-
-war = {
-	target = BOH
-	attacker_goal = { 
-	casus_belli = conquest_any
 	
-	 }
-	defender_goal = { 
-	casus_belli = cut_down_to_size
-	                         }
-	
-}
-		}
-		ai_will_do = {
-			factor = 1 
-		}
-	}
 	
 	eastern_campaing_prc = {
 		picture = become_poland
@@ -629,7 +605,7 @@ war = {
 			war = {
 	target = MUS
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -645,19 +621,17 @@ war = {
 		}
 	}
 	
-#northern campaing incase the baltic is controlled by sca
+#northern campaing incase the baltic is controlled by sweden
 	northern_campaing_prc_swedish_puppets = {
 		picture = become_poland
 		potential = {
 			tag = PLC
-			NOT = { has_country_flag = northern_campaing_prc_swedish_puppets
+			NOT = { has_country_flag = northern_campaing_prc
                            }
-						   OR = {
-			EST = { vassal_of = SCA }
-			LAT = { vassal_of = SCA }
-			IZH = { vassal_of = SCA }
-			}
-			
+			EST = { vassal_of = SWE }
+			LAT = { vassal_of = SWE }
+			IZH = { vassal_of = SWE }
+			exists = CUR 
 		}
 		allow = {
 		is_greater_power = yes
@@ -675,7 +649,7 @@ war = {
 			war = {
 	target = CUR
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -686,7 +660,7 @@ war = {
 
 
 war = {
-	target = SCA
+	target = SWE
 	attacker_goal = { 
 	casus_belli = release_puppet 
 	tag = EST
@@ -734,12 +708,10 @@ war = {
 			tag = PLC
 			NOT = { has_country_flag = northern_campaing_prc_free_baltic
                                 }
-								OR = {
 			exists = EST
 			exists = LAT
 			exists = IZH
 			exists = CUR
-			}
 		}
 		allow = {
 		is_greater_power = yes
@@ -758,7 +730,7 @@ war = {
 			war = {
 	target = CUR
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 
@@ -771,7 +743,7 @@ war = {
 war = {
 	target = EST
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	 
@@ -785,7 +757,7 @@ war = {
 			  war = {
 	target = IZH
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	 
@@ -799,7 +771,7 @@ war = {
 	war = {
 	target = LAT
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	 
@@ -845,7 +817,7 @@ war = {
 			war = {
 	target = HUN
 	attacker_goal = { 
-	casus_belli = conquest_any
+	casus_belli = conquest
 	
 	 }
 	defender_goal = { 

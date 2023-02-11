@@ -1295,7 +1295,7 @@
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = metis
 		religion = protestant
 		size = 1000
 	}
@@ -1631,13 +1631,13 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 20
+		size = 2
 	}
 
 	artisans = {
 		culture = vinlander
 		religion = protestant
-		size = 300
+		size = 5
 	}
 
 	soldiers = {
@@ -1649,7 +1649,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 1500
+		size = 15
 	}
 
 	farmers = {
@@ -1670,25 +1670,25 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 50
+		size = 5
 	}
 
 	artisans = {
 		culture = vinlander
 		religion = protestant
-		size = 500
+		size = 5
 	}
 
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 50
+		size = 5
 	}
 	
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 20000
+		size = 20
 	}
 	
 	farmers = {
@@ -1727,7 +1727,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 32000
+		size = 20
 	}
 
 	farmers = {
@@ -1748,13 +1748,13 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 100
+		size = 5
 	}
 
 	artisans = {
 		culture = vinlander
 		religion = protestant
-		size = 410
+		size = 10
 	}
 
 	soldiers = {
@@ -1766,7 +1766,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 50050
+		size = 50
 	}
 
 	farmers = {
@@ -1873,7 +1873,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 79000
+		size = 39000
 	}
 }
 #Windsor (36000/9000 POPS)
@@ -1899,7 +1899,7 @@
 	labourers = {
 		culture = vinlander
 		religion = protestant
-		size = 28350
+		size = 8350
 	}
 }
 #Hamilton (68000/17000 POPS)
@@ -1925,7 +1925,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 45700
+		size = 15700
 	}
 }
 #Kingston (72000/18000 POPS)
@@ -1945,13 +1945,13 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1750
+		size = 175
 	}
 
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 53925
+		size = 13925
 	}
 
 	clergymen = {
@@ -1995,13 +1995,13 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1000
+		size = 100
 	}
 
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 16550
+		size = 6550
 	}
 
 	clergymen = {
@@ -2260,13 +2260,13 @@
 	soldiers = {
 		culture = vinlander
 		religion = catholic
-		size = 900
+		size = 400
 	}
 
 	farmers = {
 		culture = vinlander
 		religion = catholic
-		size = 66000
+		size = 36000
 	}
 }
 #Chicoutimi (11200/2800 POPS)

@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = LPL
+controller = LPL
 add_core = LPL
 
 trade_goods = cattle
@@ -9,5 +9,3 @@ terrain = lapaz
 	owner = BOL
 	controller = BOL
 }
-
-add_core = VOP

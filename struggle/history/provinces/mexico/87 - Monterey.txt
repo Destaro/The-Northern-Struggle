@@ -1,5 +1,12 @@
-owner = AMG
-controller = AMG
-add_core = AMG
+owner = CAL
+controller = CAL
+add_core = CAL
 trade_goods = fruit
 life_rating = 35
+1861.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	remove_core = CAL
+	colonial = 0
+}

@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = AUS
+controller = AUS
 add_core = PNN
 add_core = AUS
 trade_goods = cattle

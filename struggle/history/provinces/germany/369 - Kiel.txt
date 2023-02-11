@@ -1,5 +1,5 @@
-owner = WES
-controller = WES
+owner = SWH
+controller = SWH
 add_core = SWH
 add_core = HOL
 add_core = GER
@@ -16,4 +16,3 @@ naval_base = 1
 		upgrade = yes
 	}
 }
-add_core = WES

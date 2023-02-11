@@ -1,9 +1,8 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
 add_core = BDB
 add_core = GER
 trade_goods = fruit
 life_rating = 40
 
 add_core = SWE
-add_core = SCA

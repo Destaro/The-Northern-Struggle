@@ -1,6 +1,16 @@
-owner = MEX
-controller = MEX
+owner = TEX
+controller = TEX
+add_core = TEX
 add_core = MEX
+add_core = VNS
 trade_goods = cattle
 life_rating = 35
-fort = 1
+fort = 1 #Remember the Alamo!
+
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	add_core = USA
+	remove_core = MEX
+}

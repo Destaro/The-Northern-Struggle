@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = BUL
+controller = BUL
 add_core = BUL
 add_core = CRO
 trade_goods = fruit

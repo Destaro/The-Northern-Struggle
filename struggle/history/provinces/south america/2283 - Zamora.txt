@@ -1,5 +1,5 @@
-owner = VNG
-controller = VNG
+owner = VOP
+controller = VOP
 add_core = GCO
 add_core = ECU
 add_core = VNG

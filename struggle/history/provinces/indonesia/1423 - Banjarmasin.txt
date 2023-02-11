@@ -1,7 +1,6 @@
-owner = SCA
-controller = SCA
+owner = DEN
+controller = DEN
 add_core = KLM
-add_core = INO
 trade_goods = sulphur
 life_rating = 38
 colonial = 2

@@ -1,8 +1,6 @@
-owner = TLD
-controller = TLD
+owner = POR
+controller = POR
 add_core = GLC
-
+add_core = POR
 trade_goods = fruit
 life_rating = 35
-
-add_core = TLD

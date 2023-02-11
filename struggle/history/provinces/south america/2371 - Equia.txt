@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = LPL
+controller = LPL
 add_core = LPL
 trade_goods = timber
 life_rating = 31
@@ -10,5 +10,3 @@ life_rating = 31
 	remove_core = ARC
 	remove_core = BOL
 }
-
-add_core = VOP

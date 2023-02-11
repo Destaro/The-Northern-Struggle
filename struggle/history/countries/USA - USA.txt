@@ -1,7 +1,8 @@
 capital = 220
-primary_culture = avalonian
-culture = new_frankish
-culture = vinlander
+primary_culture = yankee
+culture = dixie
+culture = texan
+culture = cajun
 religion = protestant
 government = colonial_company
 plurality = 30.0

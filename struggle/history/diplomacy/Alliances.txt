@@ -9,21 +9,7 @@ alliance = {
 
 
 
-#Abyssinia-sudanese-guys
 
-alliance = {
-	first = ETH
-	second = SHW
-	start_date = 1386.9.5
-	end_date = 1936.1.1
-}
-
-alliance = {
-	first = ETH
-	second = SUD
-	start_date = 1386.9.5
-	end_date = 1936.1.1
-}
 
 #lombardi-aquilea
 

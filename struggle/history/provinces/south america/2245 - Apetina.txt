@@ -1,3 +1,5 @@
+owner = VOP
+controller = VOP
 add_core = PEU
 add_core = VOP
 terrain = new_world_jungle

@@ -1,13 +1,41 @@
 political_decisions = {
 
- 
-
-
- saxon_claims_in_pomerania = {
+ great_BOH = {
         potential = {
-            tag = WES
-            
-            NOT = { has_country_flag = saxon_claims_in_pomerania }
+            tag = BDB
+            exists = BOH
+            NOT = { has_country_flag = great_boh }
+            is_vassal = no
+        }
+        allow = {
+		 WEI = { exists = no }
+            prestige = 40
+            war = no
+            BOH = {
+                NOT = {
+                    alliance_with = BRG
+                    in_sphere = BRG
+                }
+            }
+        }
+        effect = {
+            war = {
+                target = BOH
+                attacker_goal = {
+                    casus_belli = acquire_all_cores
+                }
+                defender_goal = { casus_belli = make_puppet }
+            }
+            set_country_flag = great_boh
+        }
+    }
+
+
+ brandemburgs_claims_in_pomerania = {
+        potential = {
+            tag = BDB
+            has_country_flag = great_boh
+            NOT = { has_country_flag = brandemburgs_claims_in_pomerania }
             is_vassal = no
         }
         allow = {
@@ -35,9 +63,9 @@ political_decisions = {
         potential = {
 		OR = {
 		    tag = NGF
-            tag = WES
+            tag = BDB
 			          }
-            has_country_flag = saxon_claims_in_pomerania
+            has_country_flag = brandemburgs_claims_in_pomerania
             NOT = { has_country_flag = march_east }
             is_vassal = no
         }
@@ -60,27 +88,27 @@ political_decisions = {
 		war = {
                 target = POL 
                 attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                     state_province_id = 691
                 }
                 attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                     state_province_id = 695
                 }
                 attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                     state_province_id = 694
 					}
 					 attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                     state_province_id = 697
 					}
                 defender_goal = { 
-				    casus_belli = acquire_state_any
+				    casus_belli = acquire_state
                     state_province_id = 546 }
 					
 			    defender_goal = { 
-				    casus_belli = acquire_state_any
+				    casus_belli = acquire_state
                     state_province_id = 684 }
             
 			
@@ -93,11 +121,11 @@ political_decisions = {
         potential = {
             OR = {
 		    tag = NGF
-            tag = WES
+            tag = BDB
 			tag = GER
 			          }
             has_country_flag = march_east
-			
+			has_country_flag = great_boh
             NOT = { has_country_flag = integrate_the_east }
             is_vassal = no
         }
@@ -139,12 +167,11 @@ political_decisions = {
 				  
         especial_claims_in_poland = {
         potential = {
-            
-			
-		    
+            OR = {
+		    tag = NGF
             tag = GER
-			          
-					  
+			          }
+					  has_country_flag = great_boh
             has_country_flag = integrate_the_east
             NOT = { has_country_flag = especial_claims_in_poland }
             

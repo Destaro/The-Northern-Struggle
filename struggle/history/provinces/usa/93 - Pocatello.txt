@@ -1,5 +1,13 @@
-owner = AMG
-controller = AMG
-add_core = AMG
+owner = RPL
+controller = RPL
+
+colonial = 2
 trade_goods = cattle
 life_rating = 35
+1861.1.1 = {
+	owner = USA
+	controller = USA
+	remove_core = COL
+}
+
+add_core = RPL

@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = DEN
+controller = DEN
 add_core = DEN
 add_core = ENL
 trade_goods = fish

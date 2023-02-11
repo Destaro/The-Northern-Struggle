@@ -1,2 +1,1 @@
-trade_goods = coal
-life_rating = 35
+owner = UILcontroller = UILadd_core = UILadd_core = DAKtrade_goods = coallife_rating = 35colonial = 21861.1.1 = { colonial = 0 }

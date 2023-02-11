@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = SPA
+controller = SPA
 add_core = IOT
 trade_goods = fish
 life_rating = 32

@@ -3,19 +3,19 @@ name = "War of the Frankish League"
 1830.4.19 = {
 	add_attacker = NDY
 	add_attacker = ORL
-	add_defender = SCA
-	add_defender = FIN
-	add_defender = VIN
+	add_defender = DEN
+	add_defender = KNT
+	add_defender = NEN
 	
 	war_goal = {
 		casus_belli = become_independent
 		actor = NDY
-		receiver = SCA
+		receiver = DEN
 	}
 	
 	war_goal = {
 		casus_belli = make_puppet
-		actor = SCA
+		actor = DEN
 		receiver = NDY
 	}
 
@@ -23,5 +23,5 @@ name = "War of the Frankish League"
 
 1848.9.3 = {
 	rem_attacker = BRT
-	rem_defender = SCA
+	rem_defender = SWE
 }

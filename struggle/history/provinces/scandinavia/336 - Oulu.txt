@@ -5,5 +5,3 @@ add_core = SWE
 trade_goods = timber
 terrain = boreal
 life_rating = 10
-
-add_core = SCA

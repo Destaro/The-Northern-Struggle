@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = LBN
+controller = LBN
 add_core = ISR
 add_core = PLS
 add_core = LBN
@@ -11,5 +11,3 @@ life_rating = 35
 	owner = TUR
 	colonial = 0
 }
-
-add_core = SYR

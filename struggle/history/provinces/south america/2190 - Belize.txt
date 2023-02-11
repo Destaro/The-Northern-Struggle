@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
+owner = VNS
+controller = VNS
 add_core = BLZ
 add_core = UCA
 add_core = GUA
@@ -9,3 +9,4 @@ colonial = 2
 1861.1.1 = {
 	remove_core = UCA
 }
+add_core = VNS

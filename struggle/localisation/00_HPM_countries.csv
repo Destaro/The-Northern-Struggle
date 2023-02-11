@@ -1,11 +1,4 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-AVA;Avalon;x
-AVA_ADJ;Avalonian;x
-AVA_absolute_monarchy;Kingdom of Avalon;x
-AVA_prussian_constitutionalism;Kingdom of Avalon;x
-AVA_hms_government;Kingdom of Avalon;x
-AVA_proletarian_dictatorship;Union of Avalon;x
-avalonian;Avalonian;x
 ATC;Antillean Confederation;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ATC_ADJ;Antillean;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PPG;Papua New Guinea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -2584,7 +2577,7 @@ UOR_anarcho_liberal;Libertarian Party;;;;;;;;;;;;;x
 UOR_socialist;Socialist Party;;;;;;;;;;;;;x
 UOR_communist;Communist Party;;;;;;;;;;;;;x
 UOR_fascist;Cascadians;;;;;;;;;;;;;x
-URA;Perm;;;;;;;;;;;;;x
+URA;Ural Republic;;;;;;;;;;;;;x
 URA_absolute_monarchy;Great Perm;;;;;;;;;;;;;x
 URA_prussian_constitutionalism;Great Perm;;;;;;;;;;;;;x
 URA_hms_government;Great Perm;;;;;;;;;;;;;x
@@ -2685,8 +2678,8 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
-WHA;Prydain;;;;;;;;;;;;;x
-WHA_ADJ;Prydish;;;;;;;;;;;;;x
+WHA;Cymru;;;;;;;;;;;;;x
+WHA_ADJ;Cymraig;;;;;;;;;;;;;x
 WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
 WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
 WHA_socialist;Plaid Cymru;;;;;;;;;;;;;x
