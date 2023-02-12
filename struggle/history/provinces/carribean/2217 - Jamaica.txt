@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = TLD
+controller = TLD
 add_core = JAM
 trade_goods = sulphur
 life_rating = 35

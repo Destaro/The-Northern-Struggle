@@ -1,5 +1,5 @@
-owner = TUN
-controller = TUN
+owner = TLD
+controller = TLD
 add_core = TUN
 add_core = MOR
 trade_goods = fish

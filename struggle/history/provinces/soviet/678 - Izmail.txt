@@ -1,5 +1,5 @@
-owner = BUL
-controller = BUL
+owner = MRV
+controller = MRV
 add_core = HUN
 add_core = CRO
 add_core = BUL

@@ -1,5 +1,5 @@
-owner = PRG
-controller = PRG
+owner = LPL
+controller = LPL
 add_core = LPL
 add_core = PRG
 trade_goods = fruit

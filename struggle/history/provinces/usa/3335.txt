@@ -1,6 +1,6 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = TLD
+controller = TLD
+
 trade_goods = cattle
 life_rating = 35
 
@@ -14,3 +14,5 @@ party_loyalty = {
 }
 
 1861.1.1 = { railroad = 3 }
+
+add_core = TLD

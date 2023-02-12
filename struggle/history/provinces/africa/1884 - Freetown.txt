@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = TLD
+controller = TLD
 add_core = SLE
 trade_goods = grain
 naval_base = 1

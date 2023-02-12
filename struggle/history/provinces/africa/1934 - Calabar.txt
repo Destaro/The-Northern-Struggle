@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = TLD
+controller = TLD
 add_core = CLA
 add_core = ARO
 trade_goods = fish

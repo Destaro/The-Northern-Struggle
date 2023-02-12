@@ -1,5 +1,5 @@
-owner = BAS
-controller = BAS
+owner = SCA
+controller = SCA
 add_core = BAS
 add_core = ORI
 trade_goods = fish
@@ -10,3 +10,5 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 }
+
+add_core = SCA

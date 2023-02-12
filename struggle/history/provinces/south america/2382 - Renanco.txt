@@ -1,5 +1,5 @@
-owner = ARC
-controller = ARC
+owner = LPL
+controller = LPL
 add_core = ARC
 trade_goods = wool
 life_rating = 15
@@ -8,3 +8,5 @@ life_rating = 15
 	controller = ARG
 	add_core = ARG
 	}
+
+add_core = LPL

@@ -1,11 +1,7 @@
-owner = SWH
-controller = SWH
-add_core = SWH
-add_core = HOL
-add_core = LUB
+owner = WES
+controller = WES
+add_core = WES
 add_core = GER
 trade_goods = fish
 terrain = lubeck
 life_rating = 40
-#naval_base = 1
-1861.1.1 = { railroad = 3 }

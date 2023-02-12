@@ -1,7 +1,8 @@
-owner = VOP
-controller = VOP
+owner = VNG
+controller = VNG
 add_core = PEU
 add_core = VOP
 trade_goods = timber
 life_rating = 20
 	
+add_core = VNG

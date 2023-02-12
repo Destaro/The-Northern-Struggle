@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
+owner = SCA
+controller = SCA
 add_core = SWE
 trade_goods = coal
 life_rating = 40
@@ -21,3 +21,5 @@ state_building = {
 	upgrade = yes
 }
 
+
+add_core = SCA

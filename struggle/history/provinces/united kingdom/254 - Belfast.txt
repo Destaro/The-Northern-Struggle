@@ -1,6 +1,6 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = WHA
+controller = WHA
+
 add_core = IRE
 trade_goods = cattle
 naval_base = 1
@@ -27,3 +27,5 @@ party_loyalty = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = WHA

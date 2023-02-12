@@ -1,6 +1,6 @@
-owner = ARC
+owner = LPL
 
-controller = ARC
+controller = LPL
 
 add_core = ARC
 trade_goods = fruit
@@ -12,3 +12,5 @@ life_rating = 35
 	add_core = ARG
 	remove_core = ARC
 	}
+
+add_core = LPL

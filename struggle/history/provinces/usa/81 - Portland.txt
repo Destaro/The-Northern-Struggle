@@ -1,15 +1,5 @@
-owner = NOR
-controller = NOR
-
+owner = AMG
+controller = AMG
+add_core = AMG
 trade_goods = fish
-life_rating = 20
-colonial = 1
-1861.1.1 = {
-owner = USA
-controller = USA
-add_core = USA
-remove_core = COL
-colonial = 2
-}
-
-add_core = RPL
+life_rating = 35

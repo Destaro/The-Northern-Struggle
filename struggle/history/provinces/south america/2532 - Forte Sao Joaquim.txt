@@ -1,5 +1,8 @@
-owner = LUX
-controller = LUX
+owner = VNG
+controller = VNG
 add_core = GUY
 trade_goods = tropical_wood
 life_rating = 15
+
+add_core = GCO
+add_core = VNG

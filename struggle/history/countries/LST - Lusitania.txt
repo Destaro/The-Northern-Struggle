@@ -1,5 +1,5 @@
 capital = 139
-primary_culture = lusitanian
+primary_culture = visigothic
 religion = catholic
 government = hms_government
 plurality = 0.0

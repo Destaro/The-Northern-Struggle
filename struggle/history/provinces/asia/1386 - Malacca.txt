@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SCA
+controller = SCA
 add_core = JOH
 trade_goods = tropical_wood
 life_rating = 37

@@ -1,13 +1,5 @@
-owner = DES
-controller = DES
-add_core = DES
-add_core = CAL
+owner = AMG
+controller = AMG
+add_core = AMG
 trade_goods = coal
 life_rating = 35
-colonial = 2
-1861.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	colonial = 0
-}

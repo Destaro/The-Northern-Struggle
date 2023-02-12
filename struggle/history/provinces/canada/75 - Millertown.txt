@@ -1,9 +1,7 @@
-owner = NOR
-controller = NOR
-add_core = NEW
+owner = SCA
+controller = SCA
+add_core = VIN
 trade_goods = iron
 terrain = new_world_boreal
 life_rating = 30
 colonial = 2
-
-add_core = VIN

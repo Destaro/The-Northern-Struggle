@@ -1,8 +1,7 @@
-owner = SWH
-controller = SWH
-add_core = DEN
-add_core = SCH
+owner = WES
+controller = WES
+add_core = SCA
+add_core = WES
 add_core = GER
-add_core = SWH
 trade_goods = cattle
 life_rating = 35

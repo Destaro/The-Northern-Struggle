@@ -1,12 +1,6 @@
-owner = CAL
-controller = CAL
-add_core = CALtrade_goods = iron
+owner = AMG
+controller = AMG
+add_core = AMG
+trade_goods = iron
 life_rating = 35
 terrain = new_world_semidesert
-colonial = 2
-1861.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	colonial = 0
-}

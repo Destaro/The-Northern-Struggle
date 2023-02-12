@@ -1,5 +1,7 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = KRT
+controller = KRT
+
 trade_goods = tropical_wood
 life_rating = 35
+
+add_core = KRT

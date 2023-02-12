@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCA
+controller = SCA
 add_core = DEN
 add_core = ICL
 trade_goods = fish
@@ -7,3 +7,4 @@ life_rating = 32
 colonial = 2
 
 add_core = NOR
+add_core = SCA

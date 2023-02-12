@@ -1,5 +1,5 @@
-owner = VOP
-controller = VOP
+owner = VNG
+controller = VNG
 add_core = ECU
 add_core = PEU
 trade_goods = timber
@@ -7,3 +7,4 @@ terrain = montane_forest
 life_rating = 31
 
 add_core = VOP
+add_core = VNG

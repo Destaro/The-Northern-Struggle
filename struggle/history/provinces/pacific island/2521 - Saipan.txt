@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = TLD
+controller = TLD
 add_core = PHL
 trade_goods = fish
 life_rating = 30

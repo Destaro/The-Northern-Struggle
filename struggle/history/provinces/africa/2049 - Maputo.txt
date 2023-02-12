@@ -1,5 +1,5 @@
-owner = GAZ
-controller = GAZ
+owner = TLD
+controller = TLD
 add_core = GAZ
 trade_goods = fish
 terrain = savanna

@@ -1,11 +1,8 @@
-owner = SWH
-controller = SWH
-add_core = SWH
-add_core = HOL
-add_core = HAM
+owner = WES
+controller = WES
+add_core = WES
 add_core = GER
 trade_goods = fruit
 life_rating = 42
 terrain = hamburg
 fort = 1
-1861.1.1 = { railroad = 3 }

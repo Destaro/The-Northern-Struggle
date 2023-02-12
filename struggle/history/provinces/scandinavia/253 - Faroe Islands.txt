@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCA
+controller = SCA
 add_core = DEN
 add_core = FRO
 trade_goods = fish
@@ -8,3 +8,4 @@ terrain = small_island
 colonial = 2
 
 add_core = NOR
+add_core = SCA

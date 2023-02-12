@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
+owner = WHA
+controller = WHA
 add_core = IRE
 trade_goods = fish
 life_rating = 35
@@ -18,3 +18,5 @@ party_loyalty = {
 1861.1.1 = { 
 	railroad = 3 
 }
+
+add_core = WHA

@@ -1,8 +1,9 @@
-owner = VOP
-controller = VOP
+owner = VNG
+controller = VNG
 add_core = PEU
 trade_goods = grain
 terrain = dryhills
 life_rating = 35
 
 add_core = VOP
+add_core = VNG
