@@ -389,8 +389,6 @@ country_event = {
 
 	trigger = {
 		owns = 360
-		owns = 354
-		owns = 349
 		war = no
 		tag = SCA
 	}
