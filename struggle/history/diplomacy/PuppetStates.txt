@@ -30,14 +30,14 @@ substate = {
 
 substate = {
 	first = MRV
-	second = MON
+	second = SIE
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
 
 substate = {
 	first = MRV
-	second = SLV
+	second = CPL
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }

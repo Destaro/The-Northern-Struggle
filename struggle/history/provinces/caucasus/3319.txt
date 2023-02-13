@@ -1,5 +1,5 @@
-owner = SLV
-controller = SLV
+owner = CPL
+controller = CPL
 add_core = GLM
 add_core = POL
 add_core = CPL

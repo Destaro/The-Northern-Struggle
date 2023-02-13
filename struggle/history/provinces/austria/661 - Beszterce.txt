@@ -1,8 +1,9 @@
-owner = MON
-controller = MON
+owner = SIE
+controller = SIE
 add_core = BUL
 add_core = CRO
 trade_goods = grain
 life_rating = 35
 
-add_core = MON
+
+add_core = SIE

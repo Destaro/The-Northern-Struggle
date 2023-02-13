@@ -1,18 +1,78 @@
 political_decisions = {
 
+ integrate_lausic = {
+ potential = {
+             
+			OR = {
+			tag = WES
+			tag = NGF
+			tag = GER
+			
+			}
+         NOT = {
+            has_country_flag = integrate_lausic		 
+		 }
+                      }
+					  
+	    allow = {
+		 LUZ = { add_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		badboy = 1
+		LUZ = { all_core = { add_core = THIS } }
+		set_country_flag = integrate_lausic
+		
+		}
+       
  
+ }
+ 
+ 
+ integrate_frisia = {
+ potential = {
+             
+			OR = {
+			tag = WES
+			tag = NGF
+			tag = GER
+			
+			}
+         NOT = {
+            has_country_flag = integrate_frisia	 
+		 }
+                      }
+					  
+	    allow = {
+		 FRI = { add_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		badboy = 1
+		FRI = { all_core = { add_core = THIS } }
+		set_country_flag = integrate_frisia
+		
+		}
+       
+ 
+ }
 
 
  saxon_claims_in_pomerania = {
         potential = {
-            tag = WES
-            
+            OR = { 
+			tag = WES
+            tag = NGF
+            tag = GER			
+							 }
             NOT = { has_country_flag = saxon_claims_in_pomerania }
             is_vassal = no
         }
         allow = {
 		war = no
-		BDB = { all_core = { owned_by = THIS } }
+		WES = { all_core = { owned_by = THIS } }
 		NOT = {
 		POL = { OR = { 
 		           alliance_with = THIS 
@@ -25,7 +85,7 @@ political_decisions = {
 		badboy = 1
            add_core = 680
 		   add_core = 692
-            set_country_flag = brandemburgs_claims_in_pomerania
+            set_country_flag = saxon_claims_in_pomerania
         }
     }
 	
@@ -36,6 +96,7 @@ political_decisions = {
 		OR = {
 		    tag = NGF
             tag = WES
+			tag = GER
 			          }
             has_country_flag = saxon_claims_in_pomerania
             NOT = { has_country_flag = march_east }
@@ -44,7 +105,7 @@ political_decisions = {
         allow = {
 		nationalism_n_imperialism = 1
 		war = no
-		BDB = { all_core = { owned_by = THIS } }
+		WES = { all_core = { owned_by = THIS } }
 		NOT = {
 		exists = PRD
 		POL = { OR = { 
@@ -59,29 +120,40 @@ political_decisions = {
 		
 		war = {
                 target = POL 
-                attacker_goal = {
+                
+				attacker_goal = {
                     casus_belli = acquire_state_any
+                    state_province_id = 680
+                }
+                attacker_goal = {
+                    casus_belli = acquire_substate_region
+					country = PRD
                     state_province_id = 691
                 }
-                attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 695
+				
+				attacker_goal = {
+                    casus_belli = acquire_substate_region
+					country = PRD
+                    state_province_id = 696
                 }
+				
                 attacker_goal = {
                     casus_belli = acquire_state_any
                     state_province_id = 694
 					}
-					 attacker_goal = {
+				
+				attacker_goal = {
                     casus_belli = acquire_state_any
-                    state_province_id = 697
+                    state_province_id = 3508
 					}
+					
                 defender_goal = { 
 				    casus_belli = acquire_state_any
-                    state_province_id = 546 }
+                    state_province_id = 550 }
 					
 			    defender_goal = { 
 				    casus_belli = acquire_state_any
-                    state_province_id = 684 }
+                    state_province_id = 681 }
             
 			
                    }
@@ -96,7 +168,7 @@ political_decisions = {
             tag = WES
 			tag = GER
 			          }
-            has_country_flag = march_east
+           
 			
             NOT = { has_country_flag = integrate_the_east }
             is_vassal = no
@@ -106,7 +178,7 @@ political_decisions = {
 		empiricism = 1
 		functionalism = 1
 		war = no
-		BDB = { all_core = { owned_by = THIS } }
+		WES = { all_core = { owned_by = THIS } }
 		NOT = {
 		exists = PRD
 		            }
@@ -154,9 +226,7 @@ political_decisions = {
 		revolution_n_counterrevolution = 1
 		war = no
 		GER = { all_core = { owned_by = THIS } }
-		NOT = {
-		exists = PRD
-		            }
+		
 		owns = 700
 		owns = 699
 		owns = 701

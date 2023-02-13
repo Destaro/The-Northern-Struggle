@@ -22,3 +22,4 @@ terrain = stettin
 
 add_core = SWE
 add_core = SCA
+add_core = WES

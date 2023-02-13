@@ -1,5 +1,7 @@
-owner = MON
-controller = MON
-add_core = MON
+owner = SIE
+controller = SIE
+
 trade_goods = grain
 life_rating = 35
+
+add_core = SIE
