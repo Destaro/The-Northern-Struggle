@@ -109,6 +109,48 @@
 		religion = punic_church
 		size = 66825
 	}
+	
+	aristocrats = {
+		culture = punic
+		religion = punic_church
+		size = 1850
+	}
+
+	bureaucrats = {
+		culture = punic
+		religion = punic_church
+		size = 200
+	}
+
+	officers = {
+		culture = punic
+		religion = punic_church
+		size = 300
+	}
+
+	clergymen = {
+		culture = punic
+		religion = punic_church
+		size = 775
+	}
+
+	artisans = {
+		culture = punic
+		religion = punic_church
+		size = 3600
+	}
+
+	soldiers = {
+		culture = punic
+		religion = punic_church
+		size = 15100
+	}
+
+	farmers = {
+		culture = new_roman
+		religion = punic_church
+		size = 50825
+	}
 
 	clergymen = {
 		culture = guarani
@@ -125,13 +167,13 @@
 	soldiers = {
 		culture = guarani
 		religion = punic_church
-		size = 18250
+		size = 11250
 	}
 
 	farmers = {
 		culture = guarani
 		religion = punic_church
-		size = 38425
+		size = 30425
 	}
 
 	clergymen = {
