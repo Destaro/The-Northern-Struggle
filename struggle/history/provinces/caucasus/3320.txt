@@ -1,8 +1,11 @@
-owner = CPL
-controller = CPL
+owner = SLV
+controller = SLV
 add_core = RUT
 add_core = UKR
 add_core = CPL
 add_core = POL
 trade_goods = coal
 life_rating = 35
+
+add_core = BKV
+add_core = SLV

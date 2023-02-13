@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = MON
+controller = MON
 add_core = BUL
 add_core = MON
 trade_goods = grain

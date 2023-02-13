@@ -1,6 +1,8 @@
-owner = MRV
-controller = MRV
+owner = MON
+controller = MON
 add_core = BUL
 add_core = CRO
 trade_goods = coal
 life_rating = 35
+
+add_core = MON

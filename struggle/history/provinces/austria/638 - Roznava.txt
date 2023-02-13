@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = SLV
+controller = SLV
 add_core = MRV
 add_core = PNN
 add_core = SLV

@@ -5,6 +5,57 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+
+#MoravianSubstates
+substate = {
+	first = MRV
+	second = CRO
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = BUL
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = BKV
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = MON
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = SLV
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = AUS
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = MRV
+	second = PNN
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
 #Alan Puppets
 substate = {
 	first = ALN
@@ -44,22 +95,6 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-
-#MoravianPuppets
-substate = {
-	first = MRV
-	second = BUL
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = MRV
-	second = CRO
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
 #Mittelafrika
 substate = {
 	first = GER

@@ -76,7 +76,7 @@ SPA = { value = 0 }
 
 army = {
 	name = "I. Armee"
-	location = 602
+	location = 624
 	regiment = {
 		name= "1.1. Kavalleriedivision"
 		type = cuirassier
@@ -126,82 +126,6 @@ army = {
 	}
 }
 
-army = {
-	name = "II. Armee"
-	location = 767
-
-	regiment = {
-		name= "2.6. Infanteriedivision"
-		type = infantry
-		home = 767
-	}
-
-	regiment = {
-		name= "3.6. Infanteriedivision"
-		type = infantry
-		home = 616
-	}
-
-	regiment = {
-		name= "1.7. Infanteriedivision"
-		type = infantry
-		home = 630
-	}
-
-	regiment = {
-		name= "2.7. Infanteriedivision"
-		type = infantry
-		home = 624
-	}
-
-	regiment = {
-		name= "3.7. Infanteriedivision"
-		type = infantry
-		home = 3467
-	}
-
-}
-
-army = {
-	name = "III. Armee"
-	location = 619
-	regiment = {
-		name= "1.8. Infanteriedivision"
-		type = infantry
-		home = 622
-	}
-
-	regiment = {
-		name= "2.8. Infanteriedivision"
-		type = infantry
-		home = 622
-	}
-
-	regiment = {
-		name= "3.8. Infanteriedivision"
-		type = infantry
-		home = 621
-	}
-
-	regiment = {
-		name= "1.9. Infanteriedivision"
-		type = infantry
-		home = 767
-	}
-
-	regiment = {
-		name= "2.9. Infanteriedivision"
-		type = infantry
-		home = 617
-	}
-
-	regiment = {
-		name= "3.9. Infanteriedivision"
-		type = infantry
-		home = 623
-	}
-
-}
 
 
 

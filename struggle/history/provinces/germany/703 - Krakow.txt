@@ -1,5 +1,5 @@
-owner = CPL
-controller = CPL
+owner = SLV
+controller = SLV
 add_core = POL
 add_core = CPL
 trade_goods = coal
@@ -10,3 +10,5 @@ terrain = krakow
 	controller = AUS
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = SLV

@@ -1,6 +1,8 @@
-owner = MRV
-controller = MRV
+owner = SLV
+controller = SLV
 add_core = POL
 add_core = CPL
 trade_goods = grain
 life_rating = 35
+
+add_core = SLV
