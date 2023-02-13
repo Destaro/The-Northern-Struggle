@@ -1,5 +1,3 @@
-
-
 BDB = {	
 	value = 125
 	level = 5
@@ -94,7 +92,7 @@ FIN = {
 
 
 leader = {
-	name = "Carl Nordenskjöld"
+	name = "Carl NordenskjÃ¶ld"
 	date = 1834.1.1
 	type = sea
 	personality = disciplined
@@ -121,7 +119,7 @@ leader = {
 }
 
 leader = {
-	name = "Axel Mörner"
+	name = "Axel MÃ¶rner"
 	date = 1818.1.1
 	type = land
 	personality = unruly
@@ -139,7 +137,7 @@ leader = {
 }
 
 leader = {
-	name = "C. Cederström"
+	name = "C. CederstrÃ¶m"
 	date = 1824.1.1
 	type = land
 	personality = strange
@@ -166,7 +164,7 @@ leader = {
 }
 
 army = {
-	name = "Bretagne Armén"
+	name = "Bretagne ArmÃ©n"
 	location = 420
 	regiment = {
 		name= "Svea Livgarde"
@@ -175,13 +173,13 @@ army = {
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "SÃ¶dermanlands Regemente"
 		type = infantry
 		home = 326
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "FÃ¶rsta LivgrenadjÃ¤rregementet"
 		type = infantry
 		home = 325
 	}
@@ -193,7 +191,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 330
 	}
@@ -205,13 +203,13 @@ army = {
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "JÃ¶nkÃ¶pings Regemente"
 		type = infantry
 		home = 333
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "SÃ¶dra SkÃ¥nska Infanteriregementet"
 		type = infantry
 		home = 334
 	}
@@ -231,7 +229,7 @@ army = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "Svenska ArmÃ©n"
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
@@ -240,13 +238,13 @@ army = {
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "SÃ¶dermanlands Regemente"
 		type = infantry
 		home = 317
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "FÃ¶rsta LivgrenadjÃ¤rregementet"
 		type = guard
 		home = 323
 	}
@@ -254,7 +252,7 @@ army = {
 	
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 328
 	}
@@ -262,19 +260,19 @@ army = {
 	
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "JÃ¶nkÃ¶pings Regemente"
 		type = infantry
 		home = 329
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "SÃ¶dra SkÃ¥nska Infanteriregementet"
 		type = infantry
 		home = 334
 	}
 	
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 323
 	}
@@ -282,25 +280,25 @@ army = {
 	
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "JÃ¶nkÃ¶pings Regemente"
 		type = infantry
 		home = 327
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "SÃ¶dra SkÃ¥nska Infanteriregementet"
 		type = infantry
 		home = 3515
 	}
 	
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "JÃ¶nkÃ¶pings Regemente"
 		type = infantry
 		home = 343
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "SÃ¶dra SkÃ¥nska Infanteriregementet"
 		type = infantry
 		home = 546
 	}
@@ -316,18 +314,18 @@ army = {
 }
 
 army = {
-	name = "Pommern Armén"
+	name = "Pommern ArmÃ©n"
 	location = 546
 	
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "SÃ¶dermanlands Regemente"
 		type = infantry
 		home = 547
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "FÃ¶rsta LivgrenadjÃ¤rregementet"
 		type = infantry
 		home = 545
 	}
@@ -339,7 +337,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 548
 	}
@@ -358,18 +356,18 @@ army = {
 
 
 army = {
-	name = "Malmo Armén"
+	name = "Malmo ArmÃ©n"
 	location = 334
 	
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "SÃ¶dermanlands Regemente"
 		type = infantry
 		home = 343
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "FÃ¶rsta LivgrenadjÃ¤rregementet"
 		type = infantry
 		home = 994
 	}
@@ -381,7 +379,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 548
 	}
@@ -404,13 +402,13 @@ army = {
 	
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "SÃ¶dermanlands Regemente"
 		type = infantry
 		home = 254
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "FÃ¶rsta LivgrenadjÃ¤rregementet"
 		type = infantry
 		home = 255
 	}
@@ -422,7 +420,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "VÃ¤stgÃ¶ta Regemente"
 		type = artillery
 		home = 263
 	}
@@ -450,7 +448,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Fäderneslandet"
+		name= "FÃ¤derneslandet"
 		type = manowar
 	}
 
@@ -588,7 +586,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hespérides"
+		name = "HespÃ©rides"
 		type = manowar
 	}
 	
@@ -603,7 +601,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Cristóbal Colón"
+		name = "CristÃ³bal ColÃ³n"
 		type = frigate
 	}
 	
@@ -630,55 +628,7 @@ navy = {
 	name = "Vinland Flottan"
 	location = 74
 	
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "6th Transport Flotilla"
-		type = clipper_transport
-	}
 	
-	ship = {
-		name= "23th Transport Flotilla"
-		type = clipper_transport
-	}
-	
-	 ship = {
-        name= "1st Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "2nd Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "3rd Transport Flotilla"
-        type = clipper_transport
-    }
 	
 	ship = {
 		name = "Centinela"
@@ -691,7 +641,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Cristóbal Colón"
+		name = "CristÃ³bal ColÃ³n"
 		type = frigate
 	}
 	
@@ -713,11 +663,53 @@ navy = {
 
 
 
+navy = {
+	name = "Irish station"
+	location = 254
+	
+	
+	
+	
+	
+	ship = {
+		name = "Isla de Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "CristÃ³bal ColÃ³n"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+}
 
 
 navy = {
-	name = "Gambian Station"
+	name = "gambian station"
 	location = 1887
 	
 	
@@ -736,84 +728,6 @@ navy = {
 		type = clipper_transport
 	}
 }
-
-NTU = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-NOR = {	
-	value = 25
-	level = 4
-	influence_value = 0
-}
-
-NEN = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-OCC = {	
-	value = 25
-	level = 4
-	influence_value = 0
-}
-
-BEN = {	
-	value = 25
-	level = 3
-	influence_value = 0
-}
-
-KNT = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-SWH = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-AUS = {
-	value = 55
-}
-
-ENG = {
-
-	value = 125
-}
-
-
-PRU = {
-
-	value = 0
-
-}
-SWE = {
-
-	value = 100
-}
-
-NOR = {
-
-	value = 200
-
-}
-FRA = {
-
-	value = 85
-}
-
-RUS = {
-
-	value = 150
-}
-
 
 
 leader = {
@@ -894,7 +808,7 @@ leader = {
 
 leader = {
 
-	name = "Frederik Rubeck Henrik Bülow"
+	name = "Frederik Rubeck Henrik BÃ¼low"
 
 	picture = european_general_16
 	date = 1836.1.1
@@ -1605,7 +1519,46 @@ navy = {
 }
 
 
+navy = {
+	name = "1st Transport Squadron"
+	location = 74
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+
+}
 
 navy = {
 	name = "Borneo Station"
@@ -1625,24 +1578,6 @@ navy = {
 		type = frigate
 	}
 
-}
-
-VIN = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-FLA = {	
-	value = 25
-	level = 3
-	influence_value = 0
-}
-
-RPL = {	
-	value = 125
-	level = 5
-	influence_value = 0
 }
 
 
@@ -1674,7 +1609,7 @@ leader = {
 }
 
 leader = {
-    name = "Johan Henrich Spørck"
+    name = "Johan Henrich SpÃ¸rck"
     date = 1832.1.1
     type = land
     personality = no_personality
@@ -1684,7 +1619,7 @@ leader = {
 
 
 army = {
-    name = "Hæren"
+    name = "HÃ¦ren"
     location = 313
 
     regiment = {
@@ -1737,8 +1672,8 @@ army = {
 }
 
 army = {
-    name = "Scottish Army"
-    location = 268
+    name = "scottish army"
+    location = 269
 
     regiment = {
         name= "1. Akershusiske brigade"
@@ -1749,19 +1684,19 @@ army = {
     regiment = {
         name= "2. Akershusiske brigade"
         type = infantry
-        home = 292
+        home = 271
     }
 
     regiment = {
         name= "1. Trondhjemske brigade"
         type = infantry
-        home = 3373
+        home = 268
     }
 
     regiment = {
         name= "1. Bergenhusiske brigade"
         type = cuirassier
-        home = 3373
+        home = 270
     }
 
     
@@ -1833,7 +1768,7 @@ navy = {
     }
 
     ship = {
-        name= "Fredriksværn"
+        name= "FredriksvÃ¦rn"
         type = manowar
     }
 
@@ -1843,7 +1778,7 @@ navy = {
     }
 
     ship = {
-        name= "SamsÃ¸e"
+        name= "SamsÃƒÂ¸e"
         type = frigate
     }
 	
@@ -1900,42 +1835,9 @@ navy = {
 
 navy = {
     name = "Scottish Armada"
-    location = 267
+    location = 269
 
-    ship = {
-		name = "Isla de Cuba"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Cristóbal Colón"
-		type = frigate
-	}
-	
-	ship = {
-		name= "1a Flotilla de Transporte"
-		type = clipper_transport
-	}
 
-	ship = {
-		name= "2a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3a Flotilla de Transporte"
-		type = clipper_transport
-	}
-	
-	ship = {
-		name= "2a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3a Flotilla de Transporte"
-		type = clipper_transport
-	}
     
 	
     ship = {

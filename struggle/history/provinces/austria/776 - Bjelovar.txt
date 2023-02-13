@@ -1,5 +1,5 @@
-owner = BOS
-controller = BOS
+owner = MRV
+controller = MRV
 add_core = BOS
 trade_goods = grain
 life_rating = 35

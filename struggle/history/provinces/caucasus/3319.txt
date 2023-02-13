@@ -5,5 +5,3 @@ add_core = POL
 add_core = CPL
 trade_goods = coal
 life_rating = 35
-
-add_core = SLV

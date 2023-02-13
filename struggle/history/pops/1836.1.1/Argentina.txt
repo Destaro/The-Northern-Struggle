@@ -335,14 +335,14 @@
 	}
 
 	clergymen = {
-		culture = brazilian
-		religion = catholic
+		culture = new_roman
+		religion = punic_church
 		size = 50
 	}
 
 	farmers = {
-		culture = brazilian
-		religion = catholic
+		culture = new_roman
+		religion = punic_church
 		size = 1825
 	}
 }
@@ -361,14 +361,14 @@
 	}
 
 	clergymen = {
-		culture = brazilian
-		religion = catholic
+		culture = new_roman
+		religion = punic_church
 		size = 50
 	}
 
 	farmers = {
-		culture = brazilian
-		religion = catholic
+		culture = new_roman
+		religion = punic_church
 		size = 1825
 	}
 

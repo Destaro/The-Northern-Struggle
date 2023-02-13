@@ -1,6 +1,6 @@
 army = {
 	name = "3-i Armeiskii Korpus" #Vilna/Marijampole - Baltic Army
-	location = 362
+	location = 997
 
 	regiment = {
 		name = "3.1-ya Pekhotnaya Diviziya"
@@ -29,23 +29,47 @@ army = {
 	regiment = {
 		name = "3.5-ya Pekhotnaya Diviziya"
 		type = infantry
+		home = 718
+	}
+
+	regiment = {
+		name = "3.6-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 355
+	}
+	
+	regiment = {
+		name = "3.7-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 945
+	}
+	
+	regiment = {
+		name = "3.8-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 350
+	}
+	
+	regiment = {
+		name = "3.9-ya Pekhotnaya Diviziya"
+		type = infantry
 		home = 360
 	}
 	
 	regiment = {
-		name = "3.6-ya Pekhotnaya Diviziya"
+		name = "3.10-ya Pekhotnaya Diviziya"
 		type = infantry
 		home = 940
 	}
 	
 	regiment = {
-		name = "3.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name = "3.11-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
 		home = 362
 	}
 
 	regiment = {
-		name = "3.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name = "3.12-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
 		home = 361
 	}

@@ -1,5 +1,5 @@
-owner = CPL
-controller = CPL
+owner = MRV
+controller = MRV
 add_core = POL
 add_core = GLM
 trade_goods = coal
@@ -7,4 +7,3 @@ life_rating = 35
 1861.1.1 = { railroad = 3 }
 
 add_core = CPL
-add_core = SLV

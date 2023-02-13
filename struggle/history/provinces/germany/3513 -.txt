@@ -1,9 +1,7 @@
-owner = LUZ
-controller = LUZ
+owner = MRV
+controller = MRV
 add_core = MRV
 add_core = SLS
 trade_goods = coal
 life_rating = 40
 1861.1.1 = { railroad = 3 }
-
-add_core = LUZ

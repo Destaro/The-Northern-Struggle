@@ -1,9 +1,10 @@
-capital = 2428
+capital = 2447
 primary_culture = new_roman
+culture = punic
 religion = punic_church
-government = hms_government
+government = absolute_monarchy
 plurality = 0.0
-prestige = 10
+prestige = 15
 nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
