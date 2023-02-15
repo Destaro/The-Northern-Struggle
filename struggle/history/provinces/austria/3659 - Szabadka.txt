@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = PNN
+controller = PNN
 add_core = PNN
 add_core = SER
 trade_goods = grain

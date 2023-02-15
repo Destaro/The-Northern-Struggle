@@ -1,6 +1,9 @@
-owner = MRV
-controller = MRV
+owner = SIE
+controller = SIE
 add_core = PNN
 add_core = SER
 trade_goods = fruit
 life_rating = 35
+
+
+add_core = SIE

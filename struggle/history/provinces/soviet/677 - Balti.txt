@@ -1,7 +1,8 @@
-owner = RUT
-controller = RUT
+owner = CRO
+controller = CRO
 add_core = RUT
 trade_goods = fruit
 life_rating = 35
 
 add_core = RUS
+add_core = CRO

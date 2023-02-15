@@ -1,7 +1,6 @@
 owner = MRV
 controller = MRV
 add_core = MRV
-add_core = LUZ
 add_core = BOH
 add_core = SLS
 trade_goods = coal

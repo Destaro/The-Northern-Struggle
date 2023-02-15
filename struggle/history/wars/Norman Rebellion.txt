@@ -4,8 +4,8 @@ name = "War of the Frankish League"
 	add_attacker = NDY
 	add_attacker = ORL
 	add_defender = SCA
-	add_defender = FIN
 	add_defender = VIN
+	add_defender = FIN
 	
 	war_goal = {
 		casus_belli = become_independent
@@ -22,6 +22,6 @@ name = "War of the Frankish League"
 }
 
 1848.9.3 = {
-	rem_attacker = BRT
+	rem_attacker = NDY
 	rem_defender = SCA
 }

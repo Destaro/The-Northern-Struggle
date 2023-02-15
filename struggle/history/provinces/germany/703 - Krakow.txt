@@ -10,3 +10,5 @@ terrain = krakow
 	controller = AUS
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = SLV
