@@ -5957,7 +5957,7 @@ native_american = {
 		Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
 	}
 	guarani = {
-		color = {89 80 175}
+		color = {89 80 105}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
 		Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
 		Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
@@ -6404,7 +6404,7 @@ latin_american_cultures = {
 		radicalism = 10
 	}
 	north_andean = {
-		color = {146 156 116}
+		color = {10 46 63}
 		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
 		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
 		Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
@@ -6488,22 +6488,25 @@ latin_american_cultures = {
 	new_roman = {
 		color = { 140 30 45 }
 		first_names = { 
-		 Abibus Ablabius Abudimus Acacius Acilius Acisclus Acius Aconius Adrianus Aedesius Aelius Aemilian Aemilius Aetius Agapius Albinus Alypius Ambrosius 
-		Anastasius Andronicus Anicius Anthimus Antoninus Apolinaris Arcadius Arius Artemius Asterius Atilius Augustinus Aurelius Auxentius Avienus Avitus 
-		Bazilius Bazianus Caecilianus Caecilius Cezari Callinicus Calliopius Caprasius Carinus Carus Cassius Celsus Chrysanthius Claudius Clearchus Constans 
-		Constancius Constantinus Cornelius Crispianus Crispus Dalmatius Damasus Decentius Decimus Decius Demetrius Dexippus Didymus Diodorus Diomedes Diophantus 
-		Domitius Domninus Donatus Dositheus Ennoius Epiphanius Erasmus Eudoxius Eulalius Eusebius Eustathius Evargius Fabius Faustus Felix Fidelis Flavianus Flavius 
-		Florentinus Florentius Gabinus Gaius Galerius Gallienus Gaudentius Germanus Gratianus Gregorius Hannibalianus Heraclius Hierax Hilarion Hilarius Hypatius 
-		Ieronimus Ioannes Iovianus Iulianus Iulius Iunius Iustinus Lactantius Leontius Libianus Libius Longinus Lucianus Lucius Macarius Macedonius Macrinus Magnus 
-		Maiorianus Marcellinus Marcellus Marcianus Marcus Marinus Maximianus Maximus Meletius Menas Narcissus Nectarius Nicetas Nicomachus Nonius Numerius Nummius 
-		Octavius Olympiodorus Orentius Orestes Oribasius Pachomius Palladius Pamphilius Pantoleon Paulus Pelagius Petronius Petrus Philagrius Phillipicus Phillipus 
-		Philostrogius Phocas Placidus Polemius Pompeius Porphyrus Priscianus Probus Procopius Proclus Proculus Promotus Prudentius Quintus Romanus Romanianus Romulus 
-		Rufinus Sallustius Saturninus Sebastianus Secundianus Secundus Seleucus Septimius Sergius Severus Simplicius Sygarius Symmachus Synesius Taurus Telemachus 
-		Terentius Tertullus Themistius Theodorus Theophylactus Theon Tiberius Timasius Titus Traianus Triphyllius Ulpius Ursicinus Valentinianus Valentinus Valerius 
-		Varanes Victorius Virius Vitalianus Volusius Zoilus Zosimus 
+		 Abdemelgar Adrianu Albinu Albu Alescandru Abbrosiu Andrea Antala Antzioccu Antoninu Apullu Ermanu Arsogu Atanarigu
+        Ugustinu Urellu Bargetu Bartolomeu Barumini Basillu Bassu Benedittu Biccentziu Bimmelgar Capussa Cargasanu Cegillu Cilestinu
+		Cipari Ciprianu Cremen Crementziu Comita Corona Cosma Costantinu Cusila Cutzina Daniel Diodoru Dominigu Dominu Donatu
+		Egidziu Imiliu Ebisu Fabriciu Fagundu Feligz Firmu Froru Gelasiu Garmelu Casparru Gabinu Gabrielu Cetanu Gelimeru
+		Gesserigu Gitimelu Gratzianu Gregoriu Guenfanu Guntrigu Gundamundu Egrillu Idderigu Ugu Unerigu Igideru Innatziu Lurentziu
+		Luga Lugiu Margu Margellu Mariu Marianu Mascuinu Massuna Muru Mascimillanu Matteu Mazigu Merguriu Metasca Miccelu Migali
+		Mugedi Martinu Nigola Nubelu Pascalu Pulu Peregrinu Petru Pirillu Pontziu Porgellu Pretu Pupa Rafael Solomon Salvator
+		Samaritanu Samuel Saraginu Saturnu Suina Serafinu Sergiu Sigerigu Simon Sisinniu Stefanu Teodorigu Teodoru Teofanu Tobia
+		Tolemeu Toma Tomassu Trassamundu Uriegu Ursu Bibianu Bocciu Bonifagiu Bonnannaro Giagobu Giago Giaroa Gierominu Giohanne
+		Giosefu Giuba Giullanu Giullu Giustinu Giustu Etziu Alarigu Anastasiu Anigiu Anniu Argadiu Belisariu Crudiu Cornellu Crassu
+		Diocretzianu Drusu Urigu Fustu Frugianu Friderigu Galeriu Gisaligu Gundemar Ercullu Idderidu Unuilla Isarnu Giudila
+		Giustinianu Leontziu Mannu Mascimu Ottuianu Odulfu Obidu Bobbiu Cintu Regaredu Roderigu Romanu Romulu Rufinu Rutillu
+		Segerigu Suintila Simmaccu Tagitu Torimundu Tiberiu Totila Tragianu Bandalariu Bittor Balla 
 		}
 		last_names = { 
-		Apolinaris Arcadius Zoilus Vitus Cyrdes Sero Lussiga Hibbo Barteni Zernicea Severus Cezari Cartana Cocynta Aqimanni Berima Arazui Sermina Rusaddi
+		 Vandalo Thevestiu Gaius Naevia Nicola Yuba Dorsale Oea Gitimelu Barumini Metaxsu Andemiu Bandalliu Baruminiu Beddicu Birunu
+		Bictorinu Potzitzia Cato Catziu Cammiu Cani Cinna Cocceiu Degiu Dossalle Tzitu Tzingiu Tzeddatu Tzillicho Eanu Ingenuu 
+		Crassu Filagilu Feligz Giuba Friganu Sinnu Sigericingiu Secundianu Tolsiu Gaddicu Gitzimellanu Geminu Guiu Zulleu
+		Ellu Furgillu Pubrillu Memmiu Sciu Carpurniu Fabiu Acciu Gaddoniu Rosciu
 		}
 	}
 }
@@ -6543,14 +6546,28 @@ african_diaspora_cultures = {
 		Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
 	}
 	afro_brazilian = {
-		color = {87 164 95}
-		first_names = { Afonso Aleixo Alexandre Anderson André Artur Cândido Carlos Denílson Djalma
-		Félix Francisco Guilherme Itamar João Joaquim Jorge José Kléber Leandro
-		Luís Manuel Marco Marcos Maurício Mauro Nilo Procópio Ricardo Ronaldo }
-	
-		last_names = { Aragão Assunçao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
-		"de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis" Nunes Oliveira
-		Otelo Paim Pandeiro Peçanha Pereira Pitanga Rodrigues Santos Silva Teixeira }
+		color = {206 45 69}
+		first_names = {
+		 Abdemelgar Adrianu Albinu Albu Alescandru Abbrosiu Andrea Antala Antzioccu Antoninu Apullu Ermanu Arsogu Atanarigu
+        Ugustinu Urellu Bargetu Bartolomeu Barumini Basillu Bassu Benedittu Biccentziu Bimmelgar Capussa Cargasanu Cegillu Cilestinu
+		Cipari Ciprianu Cremen Crementziu Comita Corona Cosma Costantinu Cusila Cutzina Daniel Diodoru Dominigu Dominu Donatu
+		Egidziu Imiliu Ebisu Fabriciu Fagundu Feligz Firmu Froru Gelasiu Garmelu Casparru Gabinu Gabrielu Cetanu Gelimeru
+		Gesserigu Gitimelu Gratzianu Gregoriu Guenfanu Guntrigu Gundamundu Egrillu Idderigu Ugu Unerigu Igideru Innatziu Lurentziu
+		Luga Lugiu Margu Margellu Mariu Marianu Mascuinu Massuna Muru Mascimillanu Matteu Mazigu Merguriu Metasca Miccelu Migali
+		Mugedi Martinu Nigola Nubelu Pascalu Pulu Peregrinu Petru Pirillu Pontziu Porgellu Pretu Pupa Rafael Solomon Salvator
+		Samaritanu Samuel Saraginu Saturnu Suina Serafinu Sergiu Sigerigu Simon Sisinniu Stefanu Teodorigu Teodoru Teofanu Tobia
+		Tolemeu Toma Tomassu Trassamundu Uriegu Ursu Bibianu Bocciu Bonifagiu Bonnannaro Giagobu Giago Giaroa Gierominu Giohanne
+		Giosefu Giuba Giullanu Giullu Giustinu Giustu Etziu Alarigu Anastasiu Anigiu Anniu Argadiu Belisariu Crudiu Cornellu Crassu
+		Diocretzianu Drusu Urigu Fustu Frugianu Friderigu Galeriu Gisaligu Gundemar Ercullu Idderidu Unuilla Isarnu Giudila
+		Giustinianu Leontziu Mannu Mascimu Ottuianu Odulfu Obidu Bobbiu Cintu Regaredu Roderigu Romanu Romulu Rufinu Rutillu
+		Segerigu Suintila Simmaccu Tagitu Torimundu Tiberiu Totila Tragianu Bandalariu Bittor Balla 
+		}
+		last_names = {
+		 Vandalo Thevestiu Gaius Naevia Nicola Yuba Dorsale Oea Gitimelu Barumini Metaxsu Andemiu Bandalliu Baruminiu Beddicu Birunu
+		Bictorinu Potzitzia Cato Catziu Cammiu Cani Cinna Cocceiu Degiu Dossalle Tzitu Tzingiu Tzeddatu Tzillicho Eanu Ingenuu 
+		Crassu Filagilu Feligz Giuba Friganu Sinnu Sigericingiu Secundianu Tolsiu Gaddicu Gitzimellanu Geminu Guiu Zulleu
+		Ellu Furgillu Pubrillu Memmiu Sciu Carpurniu Fabiu Acciu Gaddoniu Rosciu
+		}
 	}
 	afro_antillean = { 
 		color = {24 44 49}
@@ -7455,22 +7472,25 @@ african_romance_group = {
 	african_romance = {
 		color = { 122 24 50 }
 		first_names = { 
-		  "Aulus Iulus" Abibus Ablabius Abudimus Acacius Acilius Acisclus Acius Aconius Adrianus Aedesius Aelius Aemilian Aemilius Aetius Agapius Albinus Alypius Ambrosius 
-		Anastasius Andronicus Anicius Anthimus Antoninus Apolinaris Arcadius Arius Artemius Asterius Atilius Augustinus Aurelius Auxentius Avienus Avitus 
-		Bazilius Bazianus Caecilianus Caecilius Cezari Callinicus Calliopius Caprasius Carinus Carus Cassius Celsus Chrysanthius Claudius Clearchus Constans 
-		Constancius Constantinus Cornelius Crispianus Crispus Dalmatius Damasus Decentius Decimus Decius Demetrius Dexippus Didymus Diodorus Diomedes Diophantus 
-		Domitius Domninus Donatus Dositheus Ennoius Epiphanius Erasmus Eudoxius Eulalius Eusebius Eustathius Evargius Fabius Faustus Felix Fidelis Flavianus Flavius 
-		Florentinus Florentius Gabinus Gaius Galerius Gallienus Gaudentius Germanus Gratianus Gregorius Hannibalianus Heraclius Hierax Hilarion Hilarius Hypatius 
-		Ieronimus Ioannes Iovianus Iulianus Iulius Iunius Iustinus Lactantius Leontius Libianus Libius Longinus Lucianus Lucius Macarius Macedonius Macrinus Magnus 
-		Maiorianus Marcellinus Marcellus Marcianus Marcus Marinus Maximianus Maximus Meletius Menas Narcissus Nectarius Nicetas Nicomachus Nonius Numerius Nummius 
-		Octavius Olympiodorus Orentius Orestes Oribasius Pachomius Palladius Pamphilius Pantoleon Paulus Pelagius Petronius Petrus Philagrius Phillipicus Phillipus 
-		Philostrogius Phocas Placidus Polemius Pompeius Porphyrus Priscianus Probus Procopius Proclus Proculus Promotus Prudentius Quintus Romanus Romanianus Romulus 
-		Rufinus Sallustius Saturninus Sebastianus Secundianus Secundus Seleucus Septimius Sergius Severus Simplicius Sygarius Symmachus Synesius Taurus Telemachus 
-		Terentius Tertullus Themistius Theodorus Theophylactus Theon Tiberius Timasius Titus Traianus Triphyllius Ulpius Ursicinus Valentinianus Valentinus Valerius 
-		Varanes Victorius Virius Vitalianus Volusius Zoilus Zosimus 
+		 Abdemelgar Adrianu Albinu Albu Alescandru Abbrosiu Andrea Antala Antzioccu Antoninu Apullu Ermanu Arsogu Atanarigu
+        Ugustinu Urellu Bargetu Bartolomeu Barumini Basillu Bassu Benedittu Biccentziu Bimmelgar Capussa Cargasanu Cegillu Cilestinu
+		Cipari Ciprianu Cremen Crementziu Comita Corona Cosma Costantinu Cusila Cutzina Daniel Diodoru Dominigu Dominu Donatu
+		Egidziu Imiliu Ebisu Fabriciu Fagundu Feligz Firmu Froru Gelasiu Garmelu Casparru Gabinu Gabrielu Cetanu Gelimeru
+		Gesserigu Gitimelu Gratzianu Gregoriu Guenfanu Guntrigu Gundamundu Egrillu Idderigu Ugu Unerigu Igideru Innatziu Lurentziu
+		Luga Lugiu Margu Margellu Mariu Marianu Mascuinu Massuna Muru Mascimillanu Matteu Mazigu Merguriu Metasca Miccelu Migali
+		Mugedi Martinu Nigola Nubelu Pascalu Pulu Peregrinu Petru Pirillu Pontziu Porgellu Pretu Pupa Rafael Solomon Salvator
+		Samaritanu Samuel Saraginu Saturnu Suina Serafinu Sergiu Sigerigu Simon Sisinniu Stefanu Teodorigu Teodoru Teofanu Tobia
+		Tolemeu Toma Tomassu Trassamundu Uriegu Ursu Bibianu Bocciu Bonifagiu Bonnannaro Giagobu Giago Giaroa Gierominu Giohanne
+		Giosefu Giuba Giullanu Giullu Giustinu Giustu Etziu Alarigu Anastasiu Anigiu Anniu Argadiu Belisariu Crudiu Cornellu Crassu
+		Diocretzianu Drusu Urigu Fustu Frugianu Friderigu Galeriu Gisaligu Gundemar Ercullu Idderidu Unuilla Isarnu Giudila
+		Giustinianu Leontziu Mannu Mascimu Ottuianu Odulfu Obidu Bobbiu Cintu Regaredu Roderigu Romanu Romulu Rufinu Rutillu
+		Segerigu Suintila Simmaccu Tagitu Torimundu Tiberiu Totila Tragianu Bandalariu Bittor Balla 
 		}
 		last_names = { 
-		Vandus Apolinaris Arcadius Zoilus Vitus Cyrdes Sero Lussiga Hibbo Barteni Zernicea Severus Cezari Cartana Cocynta Aqimanni Berima Arazui Sermina Rusaddi
+		 Vandalo Thevestiu Gaius Naevia Nicola Yuba Dorsale Oea Gitimelu Barumini Metaxsu Andemiu Bandalliu Baruminiu Beddicu Birunu
+		Bictorinu Potzitzia Cato Catziu Cammiu Cani Cinna Cocceiu Degiu Dossalle Tzitu Tzingiu Tzeddatu Tzillicho Eanu Ingenuu 
+		Crassu Filagilu Feligz Giuba Friganu Sinnu Sigericingiu Secundianu Tolsiu Gaddicu Gitzimellanu Geminu Guiu Zulleu
+		Ellu Furgillu Pubrillu Memmiu Sciu Carpurniu Fabiu Acciu Gaddoniu Rosciu
 		}
 	}
 }

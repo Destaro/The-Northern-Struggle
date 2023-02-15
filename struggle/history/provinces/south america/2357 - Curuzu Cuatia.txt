@@ -1,5 +1,5 @@
-owner = LPL
-controller = LPL
+owner = KRT
+controller = KRT
 add_core = LPL
 add_core = PRG
 trade_goods = cattle
@@ -13,3 +13,5 @@ life_rating = 35
 	remove_core = CRT
 	remove_core = ARC
 }
+
+add_core = KRT

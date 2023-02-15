@@ -1,7 +1,5 @@
-owner = PNN
-controller = PNN
+owner = MRV
+controller = MRV
 add_core = MON
 trade_goods = grain
 life_rating = 35
-
-add_core = PNN

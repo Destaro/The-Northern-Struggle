@@ -5,3 +5,4 @@ add_core = VOP
 trade_goods = wool
 terrain = jungle
 life_rating = 31
+

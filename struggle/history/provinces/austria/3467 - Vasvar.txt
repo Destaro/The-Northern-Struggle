@@ -1,5 +1,5 @@
-owner = PNN
-controller = PNN
+owner = MRV
+controller = MRV
 add_core = PNN
 add_core = AUS
 trade_goods = fruit

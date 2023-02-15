@@ -1,0 +1,176 @@
+political_decisions = {
+
+ 
+
+
+ saxon_claims_in_pomerania = {
+        potential = {
+            tag = WES
+            
+            NOT = { has_country_flag = saxon_claims_in_pomerania }
+            is_vassal = no
+        }
+        allow = {
+		war = no
+		BDB = { all_core = { owned_by = THIS } }
+		NOT = {
+		POL = { OR = { 
+		           alliance_with = THIS 
+		           vassal_of = THIS 
+				                     }
+				   }
+		        }
+        }
+        effect = {
+		badboy = 1
+           add_core = 680
+		   add_core = 692
+            set_country_flag = brandemburgs_claims_in_pomerania
+        }
+    }
+	
+	
+	
+	 march_east = {
+        potential = {
+		OR = {
+		    tag = NGF
+            tag = WES
+			          }
+            has_country_flag = saxon_claims_in_pomerania
+            NOT = { has_country_flag = march_east }
+            is_vassal = no
+        }
+        allow = {
+		nationalism_n_imperialism = 1
+		war = no
+		BDB = { all_core = { owned_by = THIS } }
+		NOT = {
+		exists = PRD
+		POL = { OR = { 
+		           alliance_with = THIS 
+		           vassal_of = THIS  }
+				   }
+		        }
+        }
+        effect = {
+		badboy = 5
+        set_country_flag = march_east
+		
+		war = {
+                target = POL 
+                attacker_goal = {
+                    casus_belli = acquire_state_any
+                    state_province_id = 691
+                }
+                attacker_goal = {
+                    casus_belli = acquire_state_any
+                    state_province_id = 695
+                }
+                attacker_goal = {
+                    casus_belli = acquire_state_any
+                    state_province_id = 694
+					}
+					 attacker_goal = {
+                    casus_belli = acquire_state_any
+                    state_province_id = 697
+					}
+                defender_goal = { 
+				    casus_belli = acquire_state_any
+                    state_province_id = 546 }
+					
+			    defender_goal = { 
+				    casus_belli = acquire_state_any
+                    state_province_id = 684 }
+            
+			
+                   }
+                 }
+	 }
+	 
+	 
+	 integrate_the_east = {
+        potential = {
+            OR = {
+		    tag = NGF
+            tag = WES
+			tag = GER
+			          }
+            has_country_flag = march_east
+			
+            NOT = { has_country_flag = integrate_the_east }
+            is_vassal = no
+        }
+        allow = {
+		is_greater_power = 1
+		empiricism = 1
+		functionalism = 1
+		war = no
+		BDB = { all_core = { owned_by = THIS } }
+		NOT = {
+		exists = PRD
+		            }
+		owns = 680
+		owns = 691
+		owns = 696
+		owns = 693
+		owns = 697
+		                 }    
+		effect = {
+		prestige = 20
+		badboy = 2
+        set_country_flag = integrate_the_east
+		add_core = 691
+		add_core = 690
+		add_core = 693
+		add_core = 694
+		add_core = 3511
+		add_core = 3508
+		add_core = 3507
+		add_core = 3506
+		add_core = 697
+		add_core = 3510
+		add_core = 696
+		add_core = 695
+		add_core = 3509
+                         }
+	              }
+				  
+				  
+        especial_claims_in_poland = {
+        potential = {
+            
+			
+		    
+            tag = GER
+			          
+					  
+            has_country_flag = integrate_the_east
+            NOT = { has_country_flag = especial_claims_in_poland }
+            
+        }
+        allow = {
+		is_greater_power = 1
+		revolution_n_counterrevolution = 1
+		war = no
+		GER = { all_core = { owned_by = THIS } }
+		NOT = {
+		exists = PRD
+		            }
+		owns = 700
+		owns = 699
+		owns = 701
+		
+		                 }    
+		effect = {
+		prestige = 10
+		badboy = 1
+        set_country_flag = especial_claims_in_poland
+		add_core = 700
+		add_core = 699
+		add_core = 701
+		
+                         }
+	              }
+
+}

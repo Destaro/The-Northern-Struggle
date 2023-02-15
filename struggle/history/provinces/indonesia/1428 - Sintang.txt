@@ -1,6 +1,5 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = LAN
+controller = LAN
 add_core = LAN
 add_core = KLM
 add_core = INO

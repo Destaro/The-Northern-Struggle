@@ -1,8 +1,6 @@
-owner = MRV
-controller = MRV
+owner = WEI
+controller = WEI
 add_core = WEI
 add_core = GER
 trade_goods = iron
 life_rating = 35
-
-add_core = MRV

@@ -1,5 +1,5 @@
-owner = LUZ
-controller = LUZ
+owner = MRV
+controller = MRV
 add_core = MRV
 add_core = LUZ
 trade_goods = fruit
