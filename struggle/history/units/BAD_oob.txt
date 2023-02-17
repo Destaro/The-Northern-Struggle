@@ -49,28 +49,28 @@ army = {
 	regiment = {
 		name = "1. Reiter-Regiment König Karl" #Anachronistic by 30 years
 		type = cavalry
-		home = 592
+		home = 589
 	}
 	regiment = {
 		name = "1. Infanterie-Regiment Königin Olga" #Anachronistic by 30 years
 		type = infantry
-		home = 587
+		home = 589
 	}
 	regiment = {
 		name = "2. Infanterie-Regiment"
 		type = infantry
-		home = 3667
+		home = 606
 	}
 	
 	{
 		name = "3. Infanterie-Regiment Königin Olga" #Anachronistic by 30 years
 		type = infantry
-		home = 611
+		home = 603
 	}
 	regiment = {
 		name = "1. Artilery-Regiment"
 		type = artillery
-		home = 614
+		home = 591
 	}
 }
 
@@ -83,24 +83,20 @@ army = {
 	regiment = {
 		name = "1. Badische Infanterie-Brigade"
 		type = infantry
-		home = 603
+		home = 594
 	}
 	
 	regiment = {
 		name = "2. Badische Infanterie-Brigade"
 		type = infantry
-		home = 611
+		home = 593
 	}
 	
-	regiment = {
-		name = "7. Infanterie-Regiment"
-		type = infantry
-		home = 589
-	}
+
 	regiment = {
 		name = "1. Bataillon FußArtillerie"
 		type = artillery
-		home = 606
+		home = 593
 	}
 }
 

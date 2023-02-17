@@ -33,7 +33,12 @@ political_decisions = {
 tirol_is_ours_aus = {
 potential = { 
     exists = TST
+	OR = {
 	tag = SGF
+	tag = GER
+	tag = BAV
+	tag = BAD
+	}
       NOT = { has_country_flag = tirol_is_ours_aus
 	 
 	                   }

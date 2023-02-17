@@ -774,7 +774,8 @@
 	war = no
 	   FIN = { vassal_of = THIS }
 	   
-	is_greater_power = 1
+	is_greater_power = yes
+	
 	
 	
 	}
@@ -813,7 +814,7 @@
 	war = no
 	   IZH = { vassal_of = THIS }
 	   LAT = { vassal_of = THIS }
-	is_greater_power = 1
+	is_greater_power = yes
 	
 	
 	}
@@ -840,7 +841,7 @@
 	NOT = { has_country_flag = integrate_lithuania
 	                                              }
 	      
-		  is_vassal = LIT
+		  LIT = { vassal_of = THIS } 
 		  
 		  }
 		  
@@ -850,7 +851,7 @@
 	year = 1860
 	war = no
 	   
-	is_greater_power = 1
+	is_greater_power = yes
 	
 	
 	}
@@ -874,7 +875,7 @@
 	        }
 	NOT = { has_country_flag = integrate_novgorod
 	                                              }
-	      is_vassal = NOV
+	      NOV = { vassal_of = THIS }
 		  
 		  }
 		  

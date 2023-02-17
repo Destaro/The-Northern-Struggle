@@ -398,42 +398,6 @@ army = {
 
 }
 
-army = {
-	name = "army of ireland"
-	location = 254
-	
-
-	regiment = {
-		name= "Södermanlands Regemente"
-		type = infantry
-		home = 254
-	}
-
-	regiment = {
-		name= "Första Livgrenadjärregementet"
-		type = infantry
-		home = 255
-	}
-
-	regiment = {
-		name= "Upplands Regemente"
-		type = infantry
-		home = 256
-	}
-
-	regiment = {
-		name= "Västgöta Regemente"
-		type = artillery
-		home = 263
-	}
-
-
-
-	
-
-	
-
-}
 
 
 navy = {
@@ -1110,7 +1074,7 @@ army = {
 		
 		type = infantry
 		
-		home = 289
+		home = 281
 	
 	}
 	
@@ -1180,7 +1144,7 @@ army = {
 	regiment = {
 		name= "2nd Regiment Royal Artillery"
 		type = artillery
-		home = 295
+		home = 994
 	}
 	
 	regiment = {
@@ -1192,7 +1156,7 @@ army = {
 	regiment = {
 		name= "9th Regiment Royal Artillery"
 		type = artillery
-		home = 297
+		home = 300
 	}
 	
 }
@@ -1453,156 +1417,6 @@ navy = {
 
 }
 
-navy = {
-	name = "Channel Fleet"
-	location = 3269
-	
-
-	ship = {
-		name= "HMS Camperdown"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Carnatic"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Clarence"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Formidable"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Ganges"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Hastings"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Hawke"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Malabar"
-		type = manowar
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-	
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-	
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-	
-	ship = {
-		name= "3rd Transport Flotilla"
-
-		type = clipper_transport
-
-	}
-
-	ship = {
-		name= "HMS America"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Castor"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Conquestadore"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Eagle"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Forth"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Gloucester"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Pique"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Seahorse"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Stag"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Thalia"
-		type = frigate
-	}
-
-	
-
-	ship = {
-		name= "HMS Medea"
-		type = commerce_raider
-	}
-
-	ship = {
-		name= "HMS Phoenix"
-		type = commerce_raider
-	}
-
-}
 
 
 
@@ -1685,7 +1499,7 @@ leader = {
 
 army = {
     name = "Hæren"
-    location = 313
+    location = 994
 
     regiment = {
         name= "1. Akershusiske brigade"
@@ -1743,7 +1557,7 @@ army = {
     regiment = {
         name= "1. Akershusiske brigade"
         type = infantry
-        home = 269
+        home = 3373
     }
 
     regiment = {

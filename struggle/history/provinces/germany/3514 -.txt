@@ -1,6 +1,6 @@
 owner = LUZ
 controller = LUZ
-add_core = MRV
+
 add_core = SLS
 trade_goods = coal
 life_rating = 40

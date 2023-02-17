@@ -1,51 +1,111 @@
 army = {
 	name = "I. Armee"
-	location = 581
+	location = 549
 	regiment = {
 		name= "1.1. Kavalleriedivision"
 		type = cuirassier
-		home = 581
+		home = 549
 	}
 
 	regiment = {
 		name= "2.1. Kavalleriedivision"
 		type = infantry
-		home = 581
+		home = 534
 	}
 
 	regiment = {
 		name= "3.1. Kavalleriedivision"
 		type = infantry
-		home = 2561
+		home = 534
 	}
 
 	regiment = {
 		name= "2.2. Infanteriedivision"
 		type = infantry
-		home = 540
+		home = 565
 	}
 
 	regiment = {
 		name= "3.2. Infanteriedivision"
 		type = infantry
-		home = 565
+		home = 581
 	}
 
 	regiment = {
 		name= "1.3. Infanteriedivision"
 		type = infantry
-		home = 535
+		home = 581
 	}
 
 	regiment = {
 		name= "2.3. Infanteriedivision"
 		type = infantry
-		home = 566
+		home = 369
 	}
 
 	regiment = {
 		name= "3.3. Infanteriedivision"
 		type = artillery
-		home = 581
+		home = 553
 	}
+}
+
+army = {
+	name = "II. Armee-Korps"
+	location = 532
+	
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = cuirassier
+		home = 532
+	}
+	
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = infantry
+		home = 557
+	}
+
+	regiment = {
+		name= "VIII. Linieninfanteriebrigade"
+		type = infantry
+		home = 531
+	}
+
+	regiment = {
+		name= "IX. Linieninfanteriebrigade"
+		type = infantry
+		home = 565
+	}
+
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = engineer
+		home = 578
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = infantry
+		home = 556
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = infantry
+		home = 531
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = infantry
+		home = 529
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery
+		home = 580
+	}
+
 }

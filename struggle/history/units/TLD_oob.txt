@@ -1,131 +1,6 @@
-#Sphere of Influence
-#Europe
-POR = {
-	value = 150		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-
-VND = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-#North America
-MEX = {
-	value = 75		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-UCA = {
-	value = 100		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-
-#South America
-
-VNS = {	
-	value = 125
-	level = 5
-	influence_value = 0
-}
-
-VOP = {
-	value = 100		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-
-VNG = {
-	value = 100		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-BRZ = {
-	value = 100		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-
-
-#Africa
-MOR = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-BEN = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-EGY = {
-	value = 0		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-ASH = {
-	value = 50
-}
-BEN = {
-	value = 50
-}
-DAH = {
-	value = 30
-}
-OYO = {
-	value = 30
-}
-ARO = {
-	value = 40
-}
-CLA = {
-	value = 50
-}
-WRI = {
-	value = 30
-}
-KON = {
-	value = 40
-}
-LOA = {
-	value = 30
-}
-GBU = {
-	value = 50
-}
-TOO = {
-	value = 50
-}
-WOL = {
-	value = 50
-}
-
-#Asia
-QNG ={
-	value = -10
-	level = 0
-	influence_value = 0
-}
-
-
-#Other GP's
-ENG = { value = -75 }
-FRA = { value = 125 }
-AUS = { value = 0 }
-USA = { value = -25 }
-PRU = { value = 0 }
-TUR = { value = 25 }
-RUS = { value = 0 }
-
-
 #Army
 army = {
-	name = "EjÈrcito Cristino del Centro"
+	name = "Ej√©rcito Cristino del Centro"
 	location = 487
 	regiment = {
 		name= "1. Granaderos del Rey"
@@ -146,19 +21,19 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Brigada de InfanterÌa 'El Ramillete'"
+		name= "1. Brigada de Infanter√≠a 'El Ramillete'"
 		type = infantry
 		home = 503
 	}
 
 	regiment = {
-		name= "2. Brigada de InfanterÌa"
+		name= "2. Brigada de Infanter√≠a"
 		type = infantry
 		home = 509
 	}
 
 	regiment = {
-		name= "3. Brigada de InfanterÌa"
+		name= "3. Brigada de Infanter√≠a"
 		type = infantry
 		home = 513
 	}
@@ -189,77 +64,77 @@ army = {
 }
 
 army = {
-	name = "EjÈrcito del Norte"
+	name = "Ej√©rcito del Norte"
 	location = 498
 	
 	regiment = {
-		name= "4. Brigada de InfanterÌa 'San Jorge'"
+		name= "4. Brigada de Infanter√≠a 'San Jorge'"
 		type = infantry
 		home = 498
 	}
 
 	regiment = {
-		name= "1. Brigada de ArtillerÌa"
+		name= "1. Brigada de Artiller√≠a"
 		type = artillery
 		home = 476
 	}
 	
 	regiment = {
-		name= "5. Brigada de InfanterÌa"
+		name= "5. Brigada de Infanter√≠a"
 		type = infantry
 		home = 482
 	}
 	
 	regiment = {
-		name= "6. Brigada de InfanterÌa 'La Granja'"
+		name= "6. Brigada de Infanter√≠a 'La Granja'"
 		type = infantry
 		home = 483
 	}
 
 	regiment = {
-		name= "7. Brigada de InfanterÌa"
+		name= "7. Brigada de Infanter√≠a"
 		type = infantry
 		home = 497
 	}
 }
 
 army = {
-	name = "EjÈrcito del Sur"
+	name = "Ej√©rcito del Sur"
 	location = 512
 
 	regiment = {
-		name= "8. Brigada de InfanterÌa"
+		name= "8. Brigada de Infanter√≠a"
 		type = infantry
 		home = 512
 	}
 
 	regiment = {
-		name= "9. Brigada de InfanterÌa"
+		name= "9. Brigada de Infanter√≠a"
 		type = infantry
 		home = 514
 	}
 
 	regiment = {
-		name= "10. Brigada de InfanterÌa"
+		name= "10. Brigada de Infanter√≠a"
 		type = infantry
 		home = 510
 	}
 
 	regiment = {
-		name= "11. Brigada de InfanterÌa"
+		name= "11. Brigada de Infanter√≠a"
 		type = infantry
 		home = 516
 	}
 	
 	regiment = {
-		name= "12. Brigada de InfanterÌa"
+		name= "12. Brigada de Infanter√≠a"
 		type = infantry
 		home = 515
 	}
 }
 
 army = {
-	name = "EjÈrcito de Cuba"
+	name = "Ej√©rcito de Cuba"
 	location = 2209
 	
 	regiment = {
@@ -276,7 +151,7 @@ army = {
 }
 
 army = {
-	name = "EjÈrcito de Puerto Rico"
+	name = "Ej√©rcito de Puerto Rico"
 	location = 2222
 	
 	regiment = {
@@ -287,7 +162,7 @@ army = {
 }
 
 army = {
-	name = "EjÈrcito de Filipinas"
+	name = "Ej√©rcito de Filipinas"
 	location = 1455
 	
 	regiment = {
@@ -298,7 +173,7 @@ army = {
 }
 
 army = {
-	name = "EjÈrcito de Mindanao"
+	name = "Ej√©rcito de Mindanao"
 	location = 1463
 	
 	regiment = {
@@ -335,7 +210,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Nuestra SeÒora del Patrocinio"
+		name = "Nuestra Se√±ora del Patrocinio"
 		type = frigate
 	}
 	
@@ -356,7 +231,7 @@ navy = {
 }
 
 navy = {
-	name = "Armada Real EspaÒola"
+	name = "Armada Real Espa√±ola"
 	location = 506
 	ship = {
 		name= "San Raimundo"
@@ -364,7 +239,7 @@ navy = {
 	}
 
 	ship = {
-		name= "HÈroe"
+		name= "H√©roe"
 		type = manowar
 	}
 
@@ -384,12 +259,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Nuestra SeÒora de AsunciÛn"
+		name= "Nuestra Se√±ora de Asunci√≥n"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra SeÒora de Atocha"
+		name= "Nuestra Se√±ora de Atocha"
 		type = frigate
 	}
 
@@ -433,7 +308,7 @@ leader = {
 }
 
 leader = {
-	name = "Narv·ez"
+	name = "Narv√°ez"
 	date = 1836.1.1
 	type = land
 	personality = efficient
@@ -442,7 +317,7 @@ leader = {
 }
 
 leader = {
-	name = "GerÛnimo ValdÈs"
+	name = "Ger√≥nimo Vald√©s"
 	date = 1836.1.1
 	type = land
 	personality = competent
@@ -460,7 +335,7 @@ leader = {
 }
 
 leader = {
-	name = "JosÈ RamÛn Rodil"
+	name = "Jos√© Ram√≥n Rodil"
 	date = 1824.1.1
 	type = land
 	personality = merciless

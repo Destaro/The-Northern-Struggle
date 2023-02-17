@@ -1,0 +1,222 @@
+army = {
+	name = "Army of Ireland"
+	location = 254
+	
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 284
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 299
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 264
+	}
+	
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 270
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 287
+	}
+
+
+regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 259
+	}
+	
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 260
+	}
+	
+	regiment = {
+		name= "Västgöta Regemente"
+		type = hussar
+		home = 262
+	}
+	
+
+	
+
+}
+
+
+navy = {
+	name = "Channel Fleet"
+	location = 254
+	
+
+	ship = {
+		name= "HMS Camperdown"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Carnatic"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Clarence"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Formidable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Ganges"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hastings"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hawke"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Malabar"
+		type = manowar
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+	
+	ship = {
+		name= "3rd Transport Flotilla"
+
+		type = clipper_transport
+
+	}
+
+	ship = {
+		name= "HMS America"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Castor"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Conquestadore"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Eagle"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Forth"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Gloucester"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Seahorse"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Stag"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thalia"
+		type = frigate
+	}
+
+	
+
+	ship = {
+		name= "HMS Medea"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "HMS Phoenix"
+		type = commerce_raider
+	}
+
+}
