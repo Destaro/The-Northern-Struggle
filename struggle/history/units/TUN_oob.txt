@@ -35,6 +35,48 @@ TRZ = {
 	influence_value = 0
 }
 
+CSZ = {	
+	value = -200
+	level = 0
+	influence_value = 0
+}
+
+MEL = {	
+	value = -175
+	level = 0
+	influence_value = 0
+}
+
+AVR = {	
+	value = -175
+	level = 0
+	influence_value = 0
+}
+
+PAP = {	
+	value = -200
+	level = 0
+	influence_value = 0
+}
+
+TUS = {	
+	value = -150
+	level = 0
+	influence_value = 0
+}
+
+SVY = {	
+	value = -150
+	level = 0
+	influence_value = 0
+}
+
+LOM = {	
+	value = -135
+	level = 0
+	influence_value = 0
+}
+
 
 
 
