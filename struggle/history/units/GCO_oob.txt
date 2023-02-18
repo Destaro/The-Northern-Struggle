@@ -1,0 +1,120 @@
+army = {
+	name = "Ejército de Colombia"
+	location = 2253
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry
+		home = 2252
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2254
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballería"
+		type = cuirassier
+		home = 2250
+	}
+
+}
+
+leader = {
+	name = "Leon Cordero"
+	date = 1850.1.1
+	type = land
+	personality = resourceful
+	background = professor
+	prestige = 0.2
+}
+
+leader = {
+	name = "Juan Falcón"
+	date = 1857.1.1
+	type = land
+	personality = balanced_p
+	background = corrupt
+	prestige = 0.1
+}
+
+army = {
+	name = "Ejército de Venezuela"
+	location = 2264
+	regiment = {
+		name= "1.1ra división"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "2.1ra división"
+		type = infantry
+		home = 2267
+	}
+
+	regiment = {
+		name= "3.1ra división"
+		type = cuirassier
+		home = 2268
+	}
+
+	regiment = {
+		name= "1.2ra división"
+		type = infantry
+		home = 2269
+	}
+
+	regiment = {
+		name= "2.2ra división"
+		type = infantry
+		home = 2270
+	}
+
+	regiment = {
+		name= "3.2ra división"
+		type = cuirassier
+		home = 2271
+	}
+
+}
+
+leader = {
+	name = "Garcia Moreno"
+	date = 1859.1.1
+	type = land
+	personality = deeply_religious
+	background = politician
+	prestige = 0.1
+}
+
+army = {
+	name = "Ejército de Ecuador"
+	location = 2279
+	regiment = {
+		name= "1.1ra división de infantería"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "2.1ra división de infantería"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "3.1ra división de infantería"
+		type = infantry
+		home = 2279
+	}
+
+}
+
