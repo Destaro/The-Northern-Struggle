@@ -1,7 +1,7 @@
 #Army
 army = {
 	name = "Ejército Cristino del Centro"
-	location = 487
+	location = 489
 	regiment = {
 		name= "1. Granaderos del Rey"
 		type = infantry
@@ -65,7 +65,7 @@ army = {
 
 army = {
 	name = "Ejército del Norte"
-	location = 498
+	location = 490
 	
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
@@ -100,7 +100,7 @@ army = {
 
 army = {
 	name = "Ejército del Sur"
-	location = 512
+	location = 488
 
 	regiment = {
 		name= "8. Brigada de Infantería"
@@ -148,38 +148,87 @@ army = {
 		type = infantry
 		home = 2209
 	}
-}
-
-army = {
-	name = "Ejército de Puerto Rico"
-	location = 2222
 	
 	regiment = {
 		name = "3. Brigada Colonial"
 		type = infantry
 		home = 475
 	}
-}
-
-army = {
-	name = "Ejército de Filipinas"
-	location = 1455
 	
 	regiment = {
 		name = "4. Brigada Colonial"
 		type = infantry
 		home = 1455
 	}
-}
-
-army = {
-	name = "Ejército de Mindanao"
-	location = 1463
 	
 	regiment = {
 		name = "5. Brigada Colonial"
-		type = infantry
+		type = hussar
 		home = 1463
+	}
+}
+
+army = {
+	name = "Exército Português"
+	location = 521
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 521
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 522
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 524
+	}
+
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 525
+	}
+
+	regiment = {
+		name= "5. Brigada de Infantaria"
+		type = infantry
+		home = 523
+	}
+
+	regiment = {
+		name= "6. Brigada de Infantaria"
+		type = infantry
+		home = 2135
+	}
+
+	regiment = {
+		name= "7. Brigada de Infantaria"
+		type = infantry
+		home = 2134
+	}
+
+	regiment = {
+		name= "8. Brigada de Infantaria"
+		type = infantry
+		home = 527
+	}
+	
+	regiment = {
+		name= "1. Brigada de Artilharia"
+		type = artillery
+		home = 518
+	}
+	
+	regiment = {
+		name= "1. Brigada Hussar"
+		type = hussar
+		home = 521
 	}
 }
 
@@ -187,7 +236,7 @@ army = {
 
 navy = {
 	name = "Armada de Filipinas"
-	location = 1455
+	location = 521
 	
 	ship = {
 		name = "Alerta"
@@ -232,7 +281,7 @@ navy = {
 
 navy = {
 	name = "Armada Real Española"
-	location = 506
+	location = 521
 	ship = {
 		name= "San Raimundo"
 		type = manowar
@@ -342,3 +391,52 @@ leader = {
 	background = adventurer
 	prestige = 0.1
 }
+
+leader = {
+	name = "Vicente de Mesquita"
+	date = 1840.1.1
+	type = land
+	personality = dauntless
+	background = madman
+	prestige = 0.3
+}
+
+leader = {
+	name = "Duke of Saldanha"
+	picture = european_general_55
+	type = land
+	date = 1825.8.20
+	background = aristocrat
+	personality = soldierly
+	prestige = 0.1
+	}
+	
+leader = {
+	name = "José Joaquim da Rosa Coelho"
+	picture = european_admiral_5
+	type = sea
+	date = 1820.12.14
+	background = generals_aide
+	personality = stout
+	prestige = 0.05
+	}
+
+leader = {
+	name = "Nunes Vidigal"
+	date = 1808.1.1
+	type = land
+	personality = aggressive
+	background = hated
+	prestige = 0.2
+}
+
+leader = {
+	name = "Luís Barreto"
+	date = 1824.1.1
+	type = land
+	personality = resolute
+	background = gifted_administrator
+	prestige = 0.2
+}
+
+
