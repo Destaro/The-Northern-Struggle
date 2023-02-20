@@ -49,20 +49,20 @@
 2235 = {
 	
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = north_andean
+		religion = catholic
 		size = 1
 	}
 	
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = north_andean
+		religion = catholic
 		size = 25
 	}
 	
 	farmers = {
-		culture = dutch
-		religion = protestant
+		culture = north_andean
+		religion = catholic
 		size = 400
 	}
 

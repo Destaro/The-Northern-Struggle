@@ -1,3 +1,27 @@
+MEL = {	
+	value = 200
+	level = 0
+	influence_value = 0
+}
+
+AVR = {	
+	value = 200
+	level = 0
+	influence_value = 0
+}
+
+CSZ = {	
+	value = 200
+	level = 0
+	influence_value = 0
+}
+
+TUN = {	
+	value = -200
+	level = 0
+	influence_value = 0
+}
+
 leader = {
 	name = "Filippo Resta"
 	date = 1815.1.1
