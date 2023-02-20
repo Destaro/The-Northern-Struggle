@@ -1,8 +1,6 @@
-owner = POL
-controller = POL
+owner = PML
+controller = PML
 add_core = PML
-add_core = POL
-add_core = DZG
 trade_goods = fish
 life_rating = 40
 terrain = danzig

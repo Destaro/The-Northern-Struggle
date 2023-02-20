@@ -1,7 +1,8 @@
-owner = MRV
-controller = MRV
-add_core = MRV
-add_core = SLS
+owner = WES
+controller = WES
+add_core = WES
+add_core = BDB
+add_core = GER
 trade_goods = iron
 terrain = forest
 life_rating = 35

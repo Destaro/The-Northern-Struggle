@@ -1,7 +1,19 @@
-#AOG
+#Saxony
 substate = {
-	first = GER
-	second = AOG
+	first = WES
+	second = RHI
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+substate = {
+	first = WES
+	second = WEI
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+substate = {
+	first = WES
+	second = FRI
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -78,13 +90,6 @@ substate = {
 substate = {
 	first = ALN
 	second = CHY
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-#Greater - Lesser Poland
-substate = {
-	first = POL
-	second = CPL
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }

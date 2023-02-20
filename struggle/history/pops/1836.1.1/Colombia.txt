@@ -5,97 +5,97 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 3250
+		size = 1250
 	}
 
 	bureaucrats = {
 		culture = north_andean
 		religion = catholic
-		size = 777
+		size = 225
 	}
 
 	officers = {
 		culture = north_andean
 		religion = catholic
-		size = 400
+		size = 175
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 1200
+		size = 525
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 5600
+		size = 2600
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 4300
+		size = 1100
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 106875
+		size = 76875
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 77
+		size = 25
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 7975
+		size = 2475
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 2950
+		size = 1250
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = catholic
-		size = 150
+		size = 50
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = catholic
-		size = 770
+		size = 200
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = catholic
-		size = 200
+		size = 50
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = catholic
-		size = 7700
+		size = 3700
 	}
 }
 #Ibaque (88000/22000 POPS)
@@ -103,19 +103,7 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 650
-	}
-
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 150
-	}
-
-	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 125
+		size = 450
 	}
 
 	clergymen = {
@@ -127,73 +115,73 @@
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 950
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 200
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 56875
+		size = 17200
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
-	artisans = {
-		culture = afro_frankish
-		religion = catholic
-		size = 400
-	}
-
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 10
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 5475
+		size = 680
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 8000
+		size = 250
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = native_american_minor
 		religion = catholic
-		size = 500
+		size = 25
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = native_american_minor
 		religion = catholic
-		size = 1500
+		size = 100
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = native_american_minor
 		religion = catholic
-		size = 125
+		size = 25
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = native_american_minor
 		religion = catholic
-		size = 3400
+		size = 1850
 	}
 }
 #Tunja (56000/14000 POPS)
@@ -257,31 +245,19 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 650
-	}
-
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 150
-	}
-
-	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 125
+		size = 625
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 200
+		size = 275
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 1450
 	}
 
 	soldiers = {
@@ -293,61 +269,7 @@
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 56875
-	}
-
-	clergymen = {
-		culture = afro_frankish
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_frankish
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 5475
-	}
-
-	slaves = {
-		culture = afro_frankish
-		religion = catholic
-		size = 8000
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 2800
+		size = 26650
 	}
 }
 #Cucuta (84000/21000 POPS)
@@ -355,97 +277,55 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 650
+		size = 350
 	}
 
-	bureaucrats = {
+	clergymen = {
 		culture = north_andean
 		religion = catholic
 		size = 150
 	}
 
-	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 200
-	}
-
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 800
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 175
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 56875
+		size = 14525
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = native_american_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_frankish
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 5475
-	}
-
-	slaves = {
-		culture = afro_frankish
-		religion = catholic
-		size = 8000
-	}
-
-	clergymen = {
 		culture = native_american_minor
 		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = catholic
-		size = 150
+		size = 250
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = catholic
-		size = 2800
+		size = 4650
 	}
 }
 #Antioquia Region (452000)
@@ -495,31 +375,31 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 5475
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 8000
 	}
@@ -581,31 +461,31 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 1500
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 5000
 	}
@@ -643,31 +523,31 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 15675
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 4000
 	}
@@ -704,94 +584,82 @@
 		size = 650
 	}
 
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 150
-	}
-
-	officers = {
+	clergymen = {
 		culture = north_andean
 		religion = catholic
 		size = 125
 	}
 
-	clergymen = {
+	artisans = {
 		culture = north_andean
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 35725
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
 	farmers = {
-		culture = north_andean
+		culture = afro_caribeno
 		religion = catholic
-		size = 56875
+		size = 14800
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3000
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = amazonian #guajiro
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = amazonian #guajiro
 		religion = catholic
 		size = 50
 	}
 
-	artisans = {
-		culture = afro_frankish
-		religion = catholic
-		size = 400
-	}
-
 	soldiers = {
-		culture = afro_frankish
+		culture = amazonian #guajiro
 		religion = catholic
-		size = 75
+		size = 10
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = amazonian #guajiro
 		religion = catholic
-		size = 5475
-	}
-
-	slaves = {
-		culture = afro_frankish
-		religion = catholic
-		size = 8000
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 2800
+		size = 930
 	}
 }
 #Ruled by Colombia 1836
@@ -801,31 +669,31 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 650
+		size = 475
 	}
 
 	bureaucrats = {
 		culture = north_andean
 		religion = catholic
-		size = 150
+		size = 100
 	}
 
 	officers = {
 		culture = north_andean
 		religion = catholic
-		size = 125
+		size = 100
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 200
+		size = 175
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 1100
+		size = 850
 	}
 
 	soldiers = {
@@ -837,61 +705,43 @@
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 56875
+		size = 14300
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 400
+		size = 150
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 50
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 5475
+		size = 2000
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
-		size = 8000
+		size = 750
 	}
 
 	clergymen = {
-		culture = amazonian
-		religion = catholic
-		size = 500
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = amazonian
-		religion = catholic
-		size = 3400
+		culture = native_american_minor
+		religion = animist
+		size = 50
 	}
 
 	artisans = {
@@ -917,73 +767,31 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 650
+		size = 350
 	}
 
-	bureaucrats = {
+	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 150
+		size = 100
 	}
 
-	officers = {
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 550
+	}
+
+	soldiers = {
 		culture = north_andean
 		religion = catholic
 		size = 125
 	}
 
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 56875
-	}
-
-	clergymen = {
-		culture = afro_frankish
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_frankish
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = afro_frankish
-		religion = catholic
-		size = 5475
-	}
-
-	slaves = {
-		culture = afro_frankish
-		religion = catholic
-		size = 8000
+		size = 9875
 	}
 
 	clergymen = {
@@ -1043,31 +851,31 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 1800
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 5000
 	}
@@ -1311,31 +1119,31 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 1550
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = afro_caribeno
 		religion = catholic
 		size = 1250
 	}

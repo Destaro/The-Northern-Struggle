@@ -1274,7 +1274,7 @@ czecho_slovak_culture_group = {
 	unit = EuropeanGC
 
 	czech = {
-		color = {120 120 255}
+		color = { 186 77 65 }
 		first_names = { Perihär Racifrít Féfrít Fölthär Frýfrít Márkus Oltrik Kónröt Borivoj Möksmílian 
 		Rútolf Ölprecht Frítrik Önton Herpärt Önton Ernšt Lútvik Höns Fencäl Fencäl Hejlmön }
 
