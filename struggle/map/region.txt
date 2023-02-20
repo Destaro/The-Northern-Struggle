@@ -288,13 +288,13 @@ FRA_470 = { 470 471 } #Costa Azzurra
 
 SPA_474 = { 474 476 3339 518 519 } #Galicia
 
-SPA_479 = { 479 494 481 3530 3333 } #Castilla
+SPA_479 = { 479 494 481 3530 } #Castilla
 
 SPA_477 = { 477 475 480 478 3338 } #León
 
-SPA_484 = { 485 483 487 3335 } #Extremadura
+SPA_484 = { 485 483 487 482 488 489 490 } #Extremadura
 
-SPA_487 = { 488 489 490 491 3334 } #Castilla la Nueva
+SPA_487 = { 491 3334 3332 } #Castilla la Nueva
 
 SPA_492 = { 492 3848 3853 } #Euskadia 1
 
@@ -306,21 +306,21 @@ SPA_3850 = { 3849 3850 3851 } #Euskadia 4
 
 SPA_495 = { 499 464 3252 463 461 498 } #Aragón
 
-SPA_498 = { 495 496 3531 500 501 } #Catalonia
+SPA_498 = { 495 496 500 501 } #Catalonia
 
-SPA_503 = { 503 504 497 3332 } #Valencia
+SPA_503 = { 503 504 497 3531 } #Valencia
 
 SPA_505 = { 505 506 507 508 } #Valencia
 
-SPA_512 = { 512 509 510 511 484 513 516 } #Andalucia
+SPA_512 = { 512 509 510 511 513 516 } #Andalucia
 
 SPA_513 = { 514 515 517 } #Granada
 
-POR_518 = { 520 522 482 486 } #Douro
+#POR_518 = { } #Douro
 
-POR_521 = { 521 523 524 } #Estremadura
+POR_521 = { 521 523 520 522 3335 3333 } #Estremadura
 
-POR_525 = { 525 526 527 } #Alentejo
+POR_525 = { 525 526 527 524 486 484 } #Alentejo
 
 POR_2134 = { 2134 2135 2136 } #Macaronesia
 
@@ -333,19 +333,19 @@ HAN_534 = { 534 536 537 585 3267 } #Hannover
 
 HAN_540 = { 539 541 535 531 540 } #Engern
 
-PRU_544 = { 545 547 548 550 } #Mecklenburg
+PRU_544 = { 545 547 548 550 3519 } #Mecklenburg
 
-PRU_546 = { 546 679 680 681 692 3855 3856 } #Pomerania
+PRU_546 = { 546 679 681 3513 3855 } #Pomerania
 
-PRU_556 = { 556 559 560 558 } #Ostthuringen
+PRU_556 = { 559 560 558 3719 3255 } #Ostthuringen
 
-PRU_554 = { 554 561 562 563 3256 3255 3521 } #Westthüringen
+PRU_554 = { 554 561 562 563 3256 3521 } #Westthüringen
 
 #SAX_558 = { 560 } #Saxony
 
-PRU_549 = { 549 551 555 544 529 } #Brandenburg
+PRU_549 = { 549 551 555 556 544 529 } #Brandenburg
 
-SAX_687 = { 687 552 3512 3513 3514 } #Lausic
+SAX_687 = { 687 552 3512 } #Lausic
 
 HES_2560 = { 564 565 566 567 568 2560 3257 3270 596 } #Hessen
 
@@ -375,40 +375,40 @@ SWI_607 = { 3628 605 607 608 609 } #Romanda
 
 #SWI_2568 = { 2568 } #Alpen
  
-PRU_682 = { 682 683 3519 } #Lower Silesia
+PRU_682 = { 682 683 3514 } #Lower Silesia
 
 PRU_684 = { 684 685 688 632 } #Upper Silesia
 
-PRU_690 = { 690 691 3854 } #Westpreußen
+PRU_690 = { 690 691 680 3854 692 } #Westpreußen
 
 PRU_695 = { 695 3509 3510 697 } #Prusija
 
 PRU_3506 = { 3506 3507 3508 696 } #Mazury
 
-PRU_701 = { 700 701 699 710 712 717 } #Posen
+PRU_701 = { 700 701 699 717 694 } #Posen
 
 
 ### Austria
 
 #AUS_612 = { } #Tirol
 
-AUS_613 = { 616 3668 3671 639 } #Steiermark
+AUS_613 = { 616 3668 3672 } #Steiermark
 
 AUS_617 = { 3670 622 3681 613 } #Steiermark
 
 AUS_615 = { 615 3527 3638 3528 } #Carizia
 
-AUS_619 = { 3672 620 617 } #Österreich
+AUS_619 = { 620 617 3671 } #Österreich
 
 AUS_623 = { 640 643 644 779 3467 3468 } #Transdanubia
 
-AUS_624 = { 623 624 633 } #Burgenland-Corridor
+AUS_624 = { 623 624 639 } #Burgenland-Corridor
 
-AUS_625 = { 625 626 627 628 629 630 3469 3719 } #Bohemia
+AUS_625 = { 625 626 627 628 629 630 3469 } #Bohemia
 
-AUS_626 = { 619 631 3470 3466 621 } #Moravia/Sudetes
+AUS_626 = { 619 631 3466 621 633 } #Moravia/Sudetes
 
-AUS_633 = { 634 636 689 2584 } #Slovakia
+AUS_633 = { 634 636 689 2584 3470 } #Slovakia
 
 AUS_635 = { 635 637 646 642 } #S-Slovakia
 
@@ -430,7 +430,7 @@ AUS_657 = { 657 659 655 656 3662 } #Southern Transylvania
 
 AUS_662 = { 953 702 951 3320 } #East Galicia
 
-RUS_715 = { 715 3319 713 716 703 705 } #West Galicia
+RUS_715 = { 715 3319 713 716 703 705 712 3856 } #West Galicia
 
 #AUS_733 = { 733 736 } #Friuli
 
@@ -510,7 +510,7 @@ WAL_665 = { 664 665 666 668 667 669 } #Wallachia
 
 MOL_673 = { 673 672 670 671 663 662 } #Moldavia
 
-TUR_674 = { 674 675 3492 3493 3494 } #Dobrudja
+TUR_674 = { 674 675 3493 3494 } #Dobrudja
 
 #MOL_676 = { 676 678 } #Bessarabia
 
@@ -546,7 +546,7 @@ TUR_832 = { 832 833 836 837 827 } #Thessalia
 
 GRE_837 = { 834 835 838 845 } #Attica - Central Greece
 
-EGY_843 = { 848 843 844 846 847 } #Aegean Islands
+EGY_843 = { 848 843 844 846 847 3492 } #Aegean Islands
 
 TUR_853 = { 850 851 852 3656 3669 } #Albania
 
@@ -561,27 +561,27 @@ TUR_860 = { 828 829 830 3691 } #Thrace
 
 ### Middle East
 
-TUR_863 = { 863 861 862 864 865 3479 } #Hudavendigar
+TUR_863 = { 863 861 862 3479 } #Hudavendigar
 
-TUR_869 = { 869 870 872 } #Aydin
+TUR_869 = { 869 870 872 864 3325 865 } #Aydin
 
 TUR_873 = { 873 3649 3652 3653 } #Konya
 
 TUR_875 = { 874 875 3651 } #Antalya
 
-TUR_876 = { 876 877 3650 } #Ankara
+TUR_876 = { 876 3650 3805 } #Ankara
 
 DUL_3417 = { 3485 889 878 } #Dulkadir
 
 TUR_866 = { 866 867 868 871 } #Afyon
 
-TUR_880 = { 880 881 883 } #Kastamonu
+TUR_880 = { 880 881 883 877 } #Kastamonu
 
-TUR_882 = { 882 884 3497 3498 } #Trabizond
+TUR_882 = { 882 884 3497 } #Trabizond
 
 TUR_879 = { 887 888 3459 3504 } #Erzincan
 
-TUR_879 = { 879 3491 3654 } #Northern Kapadokya - now Sivas
+TUR_879 = { 879 3491 3654 3327 3498 } #Northern Kapadokya - now Sivas
 
 TUR_885 = { 885 886 1093 1099 } #Kars
 
@@ -589,23 +589,23 @@ TUR_890 = { 890 891 892 } #Van
 
 TUR_893 = { 893 3456 3648 3281 } #Diyarbakir
 
-TUR_899 = { 899 3328 3276 3329 2414 3460 } #Raqqa
+TUR_899 = { 899 3328 3276 3329 2414 3809 } #Raqqa
 
-TUR_894 = { 894 895 3490 3483 } #Adana
+TUR_894 = { 894 895 3490 3483 900 } #Adana
 
-EGY_897 = { 897 905 900 896 898 904 } #Aleppo
+EGY_897 = { 897 896 898 907 904 905 } #Aleppo
 
-EGY_903 = { 902 903 906 } #Syria
+EGY_903 = { 914 903 3326 920 } #Syria
 
-EGY_910 = { 908 909 910 } #Transjordan
+EGY_910 = { 908 909 910 3330 } #Transjordan
 
-EGY_915 = { 913 912 914 3325 3326 3327 915 916 3324 } #Lebanon
+EGY_915 = { 913 912 915 916 902 906 } #Lebanon
 
-EGY_921 = { 917 921 920 919 918 3330 } #Palestine
+EGY_921 = { 917 921 919 918 } #Palestine
 
-TUR_923 = { 3458 901 927 } #Mosul
+TUR_923 = { 3806 3807 3808 927 } #Mosul
 
-ASY_923 = { 923 3805 3806 3807 3808 3809 } #Assyria
+ASY_923 = { 3458 923 3460 901 } #Assyria
 
 TUR_931 = { 926 934 928 3457 929 } #Baghdad
 
@@ -647,7 +647,7 @@ PER_1220 = { 3410 1213 3414 3417 } #Hazarestan
 
 PER_1147 = { 3394 3395 1148 } #Kohestan
 
-PER_3423 = { 3423 1190 1189 } #Qirgiz
+PER_3423 = { 3423 1190 1189 3451 3453 } #Qirgiz
 
 PER_1221 = { 3407 1221 1222 } #East Baluchistan
 
@@ -669,19 +669,19 @@ PER_924 = { 924 925 3436 3437 3438 } #Mosul
 
 PER_1189 = { 1185 1197 1193 29 2612 3461 3462 } #Syr Darna
 
-PER_1211 = { 1210 1211 3426 } #Qonduz
+#PER_1211 = { } #Qonduz
 
 PER_1196 = { 1196 1191 1192 3435 3440 } #Kwharazm
 
-PER_1195 = { 1195 1202 1201 3451 3452 3453 1203 } #Ferghana
+PER_1195 = { 1195 1202 1201 3452 1203 } #Ferghana
 
-KHI_1191 = { 1198 1199 1200 1206 3444 3447 } #Bukhara
+KHI_1191 = { 1198 1199 1206 3444 3447 } #Bukhara
 
 HDJ_1151 = { 1151 1152 1153 1154 } #Hedjaz
 
 NEJ_1156 = { 1160 1156 1158 911 922 } #Hail
 
-EGY_907 = { 907 3279 931 } #North Arabian Desert
+EGY_907 = { 3279 931 3324 } #North Arabian Desert
 
 NEJ_1157 = { 1157 1161 1159 3277 3275 } #Nejd
 
@@ -697,9 +697,9 @@ YEM_1178 = { 1178 1179 1180 1155 3496 } #Sanaa
 
 KOK_1190 = { 1208 3419 3420 3450 } #Kirghizia
 
-KOK_1207 = { 1207 3448 3449 } #Kirghizia
+KOK_1207 = { 1207 1211 3448 3449 1200 1210 } #Kirghizia
 
-AFG_1209 = { 1209 1217 1216 3421 } #Pashtunistan
+AFG_1209 = { 1209 1217 1216 3421 3426 } #Pashtunistan
 
 AFG_1218 = { 1218 1223 3411 } #Kabulestan
 
@@ -726,7 +726,7 @@ RUS_339 = { 995 988 993 2588 } #Karelia
 
 RUS_706 = { 706 708 709 711 719 } #Masovia
 
-POL_708 = { 694 693 3511 } #Plock
+POL_708 = { 693 3511 710 } #Plock
 
 #RUS_707 = { } #Brêst
 
@@ -864,7 +864,7 @@ RUS_1042 = { 1042 1059 1058 3541 3542 } #Bashkurdia
 
 
 
-PAN_1224 = { 1224 1225 3381 3418 3715 3759 } #Kashmir
+PAN_1224 = { 1224 1225 3381 3418 3715 } #Kashmir
 
 PAN_1232 = { 1232 1230 3415 } #Shahpur
 
@@ -1105,7 +1105,7 @@ CHI_1578 = { 1578 1580 1582 1584 1586 3696 3698 3700 3707 3708 3710 3709 3711 37
 
 CHI_1579 = { 1579 1581 1583 } #East Sichuan
 
-CHI_1594 = { 1594 1597 1598 2607 3341 3342 3343 3368 3689 3740 3741 } #Kashgar
+CHI_1594 = { 1594 1597 1598 2607 3341 3342 3343 3368 3689 3740 3741 3576 3759 } #Kashgar
 
 CHI_1600 = { 1600 1595 1596 1599 } #Urumqui
 
@@ -1199,7 +1199,7 @@ EGY_1755 = { 1755 1756 1757 } #Sinai
 
 EGY_1758 = { 1765 1759 1761 1760 } #Egyptian Desert
 
-TRI_2585 = { 1758 3576 3577 1754 3756 } #Libyian Desert
+TRI_2585 = { 1758 3577 1754 3756 } #Libyian Desert
 
 EGY_1762 = { 1763 1762 2559 1764 1772 } #Middle Egypt
 

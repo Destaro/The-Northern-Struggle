@@ -861,15 +861,15 @@ political_decisions = {
 			set_global_flag = bohemia_rename_czh
 			prestige = 2
 			625 = {
-				change_province_name = "Prák"
-				state_scope = { change_region_name = "Bémän" }
+				change_province_name = "Casôrgü"
+				state_scope = { change_region_name = "Buiuhemä" }
 			}
-			626 = { change_province_name = "Kénikrec" }
-			627 = { change_province_name = "Kórlspot" }
-			628 = { change_province_name = "Aúsik" }
-			629 = { change_province_name = "Pilsän" }
-			630 = { change_province_name = "Putvejs" }
-			3469 = { change_province_name = "Horý Kotná" }
+			626 = { change_province_name = "Hradeth" }
+			627 = { change_province_name = "Jatû" }
+			628 = { change_province_name = "Litomerithe" }
+			629 = { change_province_name = "Prächeni" }
+			630 = { change_province_name = "Neâpule" }
+			3469 = { change_province_name = "Berüna" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -930,12 +930,14 @@ political_decisions = {
 		effect = {
 			set_global_flag = sudetes_rename_czh
 			prestige = 2
-			631 = { change_province_name = "Pryn"
-				state_scope = { change_region_name = "Mérän" } }
-			632 = { change_province_name = "Olmyc" }
-			688 = { change_province_name = "Tropau" }
-			3466 = { change_province_name = "Känau" }
-			3470 = { change_province_name = "Zlýn" }
+			631 = { change_province_name = "Bruna"
+				state_scope = { change_region_name = "Rümena" } }
+			632 = { change_province_name = "Olmut" }
+			688 = { change_province_name = "Opaviu" }
+			3466 = { change_province_name = "Viscov" }
+			3470 = { change_province_name = "Sëlinu" }
+			619 = { change_province_name = "Vindüböna" }
+			621 = { change_province_name = "Cremisa" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1438,14 +1440,14 @@ political_decisions = {
 					province_id = 682
 				}
 				682 = { 
-					change_province_name = "Preslau" 
-					state_scope = { change_region_name = "Nítär Šlésijen" }
+					change_province_name = "Boduregü" 
+					state_scope = { change_region_name = "Silezia Inferiuara" }
 				}
-				683 = { change_province_name = "Líknic"  }
-				684 = { change_province_name = "Ópäln"  
-					state_scope = { change_region_name = "Ópär Šlésijen" }
+				683 = { change_province_name = "Legnita"  }
+				684 = { change_province_name = "Bidoshtiu"  
+					state_scope = { change_region_name = "Silezia Süperiuara" }
 				}
-				685 = { change_province_name = "Kotovic"  }
+				685 = { change_province_name = "Siradiu"  }
 				owner = { 
 					set_global_flag = prussian_silesia_rename_czech
 					clr_global_flag = prussian_silesia_rename_german 
@@ -1457,9 +1459,9 @@ political_decisions = {
 					province_id = 689
 				}
 				689 = { 
-					change_province_name = "Tešän" 
+					change_province_name = "Teshin" 
 				}
-				2584 = { change_province_name = "Bjälsko"  }
+				2584 = { change_province_name = "Bilscu"  }
 				owner = { 
 					set_global_flag = austrian_silesia_rename_czech
 					clr_global_flag = austrian_silesia_rename_polish 
@@ -1853,13 +1855,13 @@ political_decisions = {
 				limit = {
 					province_id = 643
 				}
-			640 = { change_province_name = "Pécs" }
-			642 = { change_province_name = "Gyor" }
-			643 = { change_province_name = "Székesfehérvár"
-				state_scope = { change_region_name = "Dunántúl" } }
-			644 = { change_province_name = "Kaposvár" }
-			3467 = { change_province_name = "Kolonvár" }
-			3468 = { change_province_name = "Kapuvár" }
+			640 = { change_province_name = "Peci" }
+			642 = { change_province_name = "Arrabüne" }
+			643 = { change_province_name = "Alba Regala"
+				state_scope = { change_region_name = "Pânnunê" } }
+			644 = { change_province_name = "Copusoara" }
+			3467 = { change_province_name = "Cetatea Kanija" }
+			3468 = { change_province_name = "Cetatea Poarta" }
 			owner = {
 			set_global_flag = transdanubia_rename_hun
 			clr_global_flag = transdanubia_rename_pnn
@@ -1871,11 +1873,11 @@ political_decisions = {
 				limit = {
 					province_id = 623
 				}
-				633 = { change_province_name = "Pozsony" }
-				623 = { change_province_name = "Sopron"
-				state_scope = { change_region_name = "Örvidék" } }
-				639 = { change_province_name = "Zalaegerszeg" }
-				624 = { change_province_name = "Kismarton" }
+				633 = { change_province_name = "Pojon" }
+				623 = { change_province_name = "Sapron"
+				state_scope = { change_region_name = "Trïchîân" } }
+				639 = { change_province_name = "Igerseg" }
+				624 = { change_province_name = "Oash" }
 				owner = { 
 					set_global_flag = burgenland_renamed_hun
 					clr_global_flag = burgenland_renamed_aus

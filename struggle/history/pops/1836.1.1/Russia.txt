@@ -897,55 +897,55 @@
 #Chirskaya (92000/23000 POPS)  #mongol = kalmyk  
 1046 = {
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 9200
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 100
 	}
@@ -957,31 +957,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 100
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 50
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 250
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 50
 	}
 
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 4550
 	}
@@ -5337,85 +5337,85 @@
 #Elitsa (124000/31000 POPS)
 1041 = {
 	clergymen = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 25
 	}
 
 	artisans = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 50
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 900
 	}
 
 	aristocrats = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 875
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 650
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 275
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 1450
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 300
 	}
 
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 26325
 	}
@@ -5423,85 +5423,85 @@
 #Majar (124000/31000 POPS)
 3301 = {
 	clergymen = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 25
 	}
 
 	artisans = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 50
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 900
 	}
 
 	aristocrats = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = circassian
+		culture = tatar
 		religion = sunni
 		size = 875
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 650
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 275
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 1450
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 300
 	}
 
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = gelugpa
 		size = 26325
 	}
@@ -5699,37 +5699,37 @@
 #Ekaterinodar (136000/34000 POPS)
 1048 = {
 	aristocrats = {
-		culture = hungarian
+		culture = scythian
 		religion = orthodox
 		size = 400
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = scythian
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = scythian
 		religion = orthodox
 		size = 1400
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = scythian
 		religion = orthodox
 		size = 325
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = scythian
 		religion = orthodox
 		size = 30625
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = hungarian
 		religion = orthodox
 		size = 20000
 	}
@@ -5823,31 +5823,31 @@
 #Kuma (136000/34000 POPS)
 3318 = {
 	aristocrats = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 400
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 1400
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 325
 	}
 
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = orthodox
 		size = 30625
 	}
@@ -6616,7 +6616,7 @@
 	}
 
 	farmers = {
-		culture = scythian
+		culture = chechen
 		religion = animist
 		size = 43000
 	}
@@ -6681,25 +6681,25 @@
 1057 = {
 	
 	clergymen = {
-		culture = mongol
+		culture = scythian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mongol
+		culture = scythian
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = scythian
 		religion = sunni
 		size = 3075
 	}
 	
 	farmers = {
-		culture = mongol
+		culture = scythian
 		religion = sunni
 		size = 6000
 	}

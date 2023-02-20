@@ -519,7 +519,7 @@
 	}
 
 	farmers = {
-		culture = scythian
+		culture = chechen
 		religion = orthodox
 		size = 14917
 	}

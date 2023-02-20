@@ -1,5 +1,6 @@
-owner = CRL
-controller = CRL
-add_core = CRL
+owner = PNJ
+controller = PNJ
+add_core = PNJ
+add_core = KAS
 trade_goods = cotton
 life_rating = 35

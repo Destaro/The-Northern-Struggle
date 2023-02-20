@@ -1,12 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = BDB
-add_core = GER
-#add_core = POL
+owner = PML
+controller = PML
+add_core = PML
 trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }
-
-add_core = SWE
-add_core = SCA
-add_core = WES

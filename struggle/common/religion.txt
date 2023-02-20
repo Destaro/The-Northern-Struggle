@@ -79,6 +79,13 @@ zoroastrian_group = {
 	}
 }
 
+manichean_group = {
+	manichaeism = {
+		icon = 20
+		color = { 0.82 0.82 0.82 }
+	}
+}
+
 jewish_group = {
 	jewish = {
 		icon = 7

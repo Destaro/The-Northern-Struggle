@@ -1,30 +1,8 @@
-MEL = {	
-	value = 200
-	level = 0
-	influence_value = 0
-}
 
-AVR = {	
-	value = 200
-	level = 0
-	influence_value = 0
-}
-
-PAP = {	
-	value = 200
-	level = 0
-	influence_value = 0
-}
-
-TUN = {	
-	value = -200
-	level = 0
-	influence_value = 0
-}
 
 army = {
-	name = "Legione I"
-	location = 3600
+	name = "Guardia Reale"
+	location = 3597
 	regiment = {
 		name= "1. Guardia Reale"
 		type = guard
@@ -32,37 +10,39 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Fanteria"
+		name= "1. Truppe Svizzere"
 		type = infantry
 		home = 3599
 	}
 
 	regiment = {
-		name= "2. Fanteria armena"
+		name= "2. Truppe Svizzere"
 		type = infantry
 		home = 3598
 	}
 	
 	regiment = {
-		name= "1. Fanteria"
+		name= "1. Truppe Svizzere"
 		type = infantry
 		home = 3596
 	}
 
 	regiment = {
-		name= "2. Fanteria"
+		name= "2. Truppe Svizzere"
 		type = infantry
 		home = 3594
 	}
 
+	
+
 	regiment = {
-		name= "4. Fanteria"
+		name= "4. Truppe Svizzere"
 		type = artillery
 		home = 3595
 	}
 	
 	regiment = {
-		name= "4. Fanteria"
+		name= "4. Truppe Svizzere"
 		type = artillery
 		home = 3597
 	}

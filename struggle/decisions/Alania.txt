@@ -3,7 +3,7 @@ political_decisions = {
 integrate_the_west = {
    potential = {
       tag = ALN
-	  NOT = { has_country_flag = integrate_the_west }
+	  NOT = { has_country_flag = integrate_the_west}
    
    }
    
@@ -24,7 +24,7 @@ integrate_the_west = {
 		add_core = 973
 		add_core = 965
 		add_core = 976
-                            }
-                         }
+   }
+                               }
 
 }

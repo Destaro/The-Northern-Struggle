@@ -1,7 +1,5 @@
-capital = 3470
-primary_culture = moravian
-culture = slovak
-culture = pannonian
+capital = 631
+primary_culture = czech
 religion = catholic
 government = absolute_monarchy
 plurality = 0

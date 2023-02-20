@@ -1,9 +1,9 @@
-owner = LUZ
-controller = LUZ
-
-add_core = SLS
+owner = WES
+controller = WES
+add_core = PML
+add_core = WES
+add_core = BDB
+add_core = GER
 trade_goods = coal
 life_rating = 40
 1861.1.1 = { railroad = 3 }
-
-add_core = LUZ

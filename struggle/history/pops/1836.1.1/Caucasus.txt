@@ -761,7 +761,7 @@
 	}
 
 	farmers = {
-		culture = ingush
+		culture = scythian
 		religion = sunni
 		size = 15000
 	}
@@ -785,7 +785,7 @@
 	}
 
 	farmers = {
-		culture = scythian
+		culture = ingush
 		religion = animist
 		size = 48000
 	}
