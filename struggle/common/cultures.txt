@@ -1275,11 +1275,25 @@ czecho_slovak_culture_group = {
 
 	czech = {
 		color = { 186 77 65 }
-		first_names = { Perihär Racifrít Féfrít Fölthär Frýfrít Márkus Oltrik Kónröt Borivoj Möksmílian 
-		Rútolf Ölprecht Frítrik Önton Herpärt Önton Ernšt Lútvik Höns Fencäl Fencäl Hejlmön }
+		first_names = { Edzhedzui Emelleanui Emellui Etsui Abucatui Albinui Albui Allepsandri Ambarui Ambroshui Anaronacui Anastashui Andriai
+			Anerestui Anechui Anui Antoninui Antonui Aporonui Arcadzui Artapsiai Archemnui Achemnatui Acheporecui Augstui Augstinui
+			Aurelleanui Aurellui Auetui Bartoromeui Bashellui Bellesariui Benedeptui Benacui Bechellui Betumnatui Buldzhui Branodzhenui
+			Brenui Bretanecui Brezui Chechellui Chellestinui Chesa Camurodzhenui Carinui Carui Cashui Chershi Ciaudzui Ciementsui Cometai
+			Constani Constantinui Constantsui Cornellui Crasui Cheprianui Dadacui Dariui Dechemui Dechui Dentupei Desachentui Decashui
+			Zhocllechanui Zhodorui Zhoneshui Zhopui Zhosporui Domenecui Domechanui Dometsui Drusui Elpedzui Enodzui Eposomnatui
+			Eubarnacui Fabeanui Fabiui Fabrichui Faustui Felli Flaueanui Floreanui Dzheui Galleriui Gallenui Garui Dzherashui Dzhermanui
+			Dzhesatorecui Gordeanui Gracui Grachanui Adrian Eptapori Ercullui Onoriui Emnatsui Ellanui Ioani Ioueanui Esarnui
+			Iulleanui Iullui Iunui Iustinui Iuscheneanui Laurentsui Llo Llontsui Lleberiui Llechenui Luchui Madacui Magarui Mamnui
+			Marchelinui Marcherui Marcheanui Marcomamnui Marcui Marinui Mariui Martinui Mapsemeanui Mapseminui Mapsemui Mucapiui Nepochanui
+			Nerua Numereanui Optaueanui Optauiui Pascarui Paulinui Paurui Petronui Faranshi Fellepui Pompeiui Ponchanui Prescui Probui
+			Tollemeui Publlui Centui Rascui Resui Romanui Romurui Rufinui Rutsellui Sabeneanui Satrei Saturninui Scherai Samomnatui
+			Sandasatrui Shempronui Sheptsemiui Sherdzhui Sheuerinui Sheuerui Shepstui Sturanui Shemmacui Tachetui Tarutsenui Chuspai Chodoshui
+			Teberiui Teredatsei Chetsiui Chetui Treanui Urbanui Ualleni Uallenchenanui Uallereanui Ualleriui Uardani Uenantsui Uespasheanui
+			Ueptro Ueptorinui Uedzhellui Uetalleanui Uorusheanui }
 
-		last_names = { Permút Fencäl Fölthär Frýfrít Márkus Föltfít Hejlmön Sikfrít Föltfít 
-		Rútolf Ölprecht Majfrít "zu Hapšpurk" Kéork Órel Kácifrít Henrik }
+		last_names = { Amandui Bezo Dzhosoporeanui Optaueanui Uononei Ollebreui Uenusta Ueator Scheranui Shedzhenui Chechero Shero Chershei
+		Chensoreui Shemprona Shenellui Scordzescui Reparatui Pochentsenui Pomponui Procullui Probeanui Preuatui Panonui Aullecara Mellei Marchea 
+		Nepoi Llenturui Flaueui Eullui Dracontsui Dentupeanui Cochenui Cieuatui }
 		radicalism = 5
 	}
 	#union = CZH
