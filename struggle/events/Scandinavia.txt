@@ -387,13 +387,8 @@ country_event = {
 	desc = "EVTDESC4004005"
 	picture = "danishgovernment"
 
-	trigger = {
-		owns = 360
-		owns = 354
-		owns = 349
-		war = no
-		tag = SCA
-	}
+ is_triggered_only = yes
+
 	option = {
 		name = "EVT4004005PTA"
 		SCA = { create_vassal = LAT }
@@ -428,7 +423,11 @@ country_event = {
 		any_owned = {
 				limit = {
 					is_core = LIT
-					NOT = { is_core = SCA }
+					NOT = { is_core = SCA
+                            is_core = EST
+                            is_core = IZH
+                            is_core = LAT	
+                            is_core = CUR							}
 				}
 				secede_province = LIT
 			}

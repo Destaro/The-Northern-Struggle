@@ -81,7 +81,7 @@ mechanized_mining = 1
 basic_chemistry = 1
 
 #Inventions
-
+dragoon_activation = yes
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0

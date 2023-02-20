@@ -908,4 +908,30 @@
 	
 	
 	
+
+
+restore_the_baltic = {
+     potential = {
+	 OR = { 
+	 tag = SCA 
+	 tag = SWE
+	 }
+	 NOT = {  has_country_flag = restore_the_baltic}
+	            }
+     
+	 allow = {
+	 war = no
+	 360 = { owned_by = THIS }
+	 354 = { owned_by = THIS }
+	 349 = { owned_by = THIS }
+	 }
+	 
+	 effect = {
+	 prestige = 20
+	 set_country_flag = restore_the_baltic
+	 event = 4004005
+	 }
+
+      }
+
 }
