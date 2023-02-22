@@ -1,7 +1,9 @@
-owner = TUN
-controller = TUN
+owner = MRV
+controller = MRV
 add_core = TUN
 add_core = MOR
 terrain = farmlands
 trade_goods = grain
 life_rating = 35
+
+add_core = MRV

@@ -1,6 +1,8 @@
-owner = PRD
-controller = PRD
-add_core = PRD
+owner = BUL
+controller = BUL
+
 add_core = POL
 trade_goods = cattle
 life_rating = 40
+
+add_core = BUL

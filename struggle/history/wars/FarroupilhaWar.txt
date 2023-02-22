@@ -1,0 +1,23 @@
+name = "The Lusophone Insurrection"
+
+1835.10.2 = {
+	add_attacker = LPL
+	add_defender = RGS
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest_any
+		actor = LPL
+		receiver = RGS
+	}
+
+}
+
+1836.4.21 = {
+	rem_attacker = LPL
+	rem_defender = RGS
+}

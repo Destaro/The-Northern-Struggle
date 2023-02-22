@@ -1,7 +1,9 @@
-owner = KAM
-controller = KAM
+owner = RUS
+controller = RUS
 add_core = KAM
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 10
 colonial = 2
+
+add_core = RUS

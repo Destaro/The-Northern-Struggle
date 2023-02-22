@@ -1,7 +1,9 @@
-owner = RUT
-controller = RUT
+owner = BUL
+controller = BUL
 add_core = HUN
-add_core = RUT
+
 add_core = UKR
 trade_goods = coal
 life_rating = 35
+
+add_core = BUL

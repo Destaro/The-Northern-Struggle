@@ -1,8 +1,10 @@
-owner = TUN
-controller = TUN
+owner = MRV
+controller = MRV
 add_core = TUN
 add_core = MOR
 trade_goods = fish
 terrain = ceuta
 life_rating = 35
 colonial = 2
+
+add_core = MRV

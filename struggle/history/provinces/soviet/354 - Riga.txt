@@ -1,5 +1,5 @@
-owner = LIT
-controller = LIT
+owner = BUL
+controller = BUL
 add_core = LAT
 add_core = SWE
 trade_goods = fish
@@ -18,4 +18,5 @@ naval_base = 2
 		upgrade = yes
 	} 
 }
-add_core = LIT
+
+add_core = BUL

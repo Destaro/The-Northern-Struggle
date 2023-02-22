@@ -1,6 +1,6 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = RUS
+controller = RUS
+
 trade_goods = iron
 life_rating = 35
 colonial = 2
@@ -11,3 +11,5 @@ colonial = 2
 		upgrade = yes
 	} 
 }
+
+add_core = RUS

@@ -1,6 +1,8 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = RUS
+controller = RUS
+
 trade_goods = fish
 life_rating = 10
 colonial = 2
+
+add_core = RUS
