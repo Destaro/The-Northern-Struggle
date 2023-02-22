@@ -1,7 +1,7 @@
-owner = CPL
-controller = CPL
+owner = MRV
+controller = MRV
 add_core = POL
-add_core = CPL
+
 trade_goods = coal
 life_rating = 40
 terrain = krakow
@@ -12,3 +12,5 @@ terrain = krakow
 1861.1.1 = { railroad = 3 }
 
 add_core = SLV
+add_core = MOR
+add_core = MRV

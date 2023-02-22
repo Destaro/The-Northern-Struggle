@@ -1,8 +1,8 @@
-owner = SCA
-controller = SCA
-add_core = SWE
-add_core = IZH
-add_core = FIN
+owner = RUS
+controller = RUS
+
+
+
 trade_goods = grain
 life_rating = 42
 terrain = stpetersburg
@@ -39,4 +39,5 @@ state_building = {
 	railroad = 2
 	fort = 2
 }
-add_core = SCA
+
+add_core = RUS

@@ -1,7 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner = BUL
+controller = BUL
+
 add_core = UBD
 trade_goods = fish
 life_rating = 40
 1861.1.1 = { railroad = 3 }
+add_core = BUL

@@ -1,9 +1,11 @@
-owner = LIT
-controller = LIT
-add_core = RUT
-add_core = LIT
+owner = BUL
+controller = BUL
+
+
 add_core = BYE
 trade_goods = grain
 life_rating = 40
 terrain = vilnius
 1861.1.1 = { railroad = 2 }
+
+add_core = BUL

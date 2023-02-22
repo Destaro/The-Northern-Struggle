@@ -1,6 +1,6 @@
-owner = PNN
-controller = PNN
-add_core = PNN
+owner = MRV
+controller = MRV
+
 add_core = SER
 trade_goods = cattle
 life_rating = 35
@@ -12,3 +12,6 @@ fort = 1
 #	upgrade = yes
 #}
 1861.1.1 = { railroad = 3 }
+
+add_core = MOR
+add_core = MRV

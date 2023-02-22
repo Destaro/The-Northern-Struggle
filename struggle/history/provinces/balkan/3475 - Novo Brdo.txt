@@ -1,4 +1,4 @@
-owner = MOL
+owner = ROM
 controller = MOL
 add_core = MOL
 add_core = RUM

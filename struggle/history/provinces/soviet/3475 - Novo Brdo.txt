@@ -1,0 +1,8 @@
+owner = ROM
+controller = RUS
+add_core = MOL
+add_core = RUM
+add_core = ROM
+trade_goods = timber
+life_rating = 35
+

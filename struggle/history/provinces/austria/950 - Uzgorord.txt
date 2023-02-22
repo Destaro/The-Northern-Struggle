@@ -1,8 +1,10 @@
-owner = BKV
-controller = BKV
-add_core = PNN
+owner = MRV
+controller = MRV
+
 add_core = SER
 trade_goods = coal
 life_rating = 35
 
 add_core = BKV
+add_core = MOR
+add_core = MRV
