@@ -6,7 +6,8 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 1
+prestige = 5
+oob = "VND_oob.txt"
 
 # Political reforms
 slavery = yes_slavery
