@@ -1,6 +1,8 @@
-owner = POL
-controller = POL
+owner = BUL
+controller = BUL
 add_core = POL
-add_core = PRD
+
 trade_goods = grain
 life_rating = 35
+
+add_core = BUL

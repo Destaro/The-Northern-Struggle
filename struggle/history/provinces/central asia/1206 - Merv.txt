@@ -1,6 +1,9 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner = MRV
+controller = MRV
+
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
+
+add_core = MOR
+add_core = MRV

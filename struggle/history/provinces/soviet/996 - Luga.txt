@@ -1,7 +1,9 @@
-owner = IZH
-controller = IZH
-add_core = IZH
+owner = RUS
+controller = RUS
+
 add_core = SWE
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 2 }
+
+add_core = RUS

@@ -1,5 +1,5 @@
-owner = WEI
-controller = WEI
+owner = SAX
+controller = SAX
 add_core = SAX
 add_core = GER
 terrain = chemnitz

@@ -1,6 +1,6 @@
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = RUS
+controller = RUS
+
 trade_goods = timber
 life_rating = 40
 #state_building = {
@@ -15,4 +15,5 @@ life_rating = 40
 		upgrade = yes
 	}
 } 
-add_core = MUS
+
+add_core = RUS

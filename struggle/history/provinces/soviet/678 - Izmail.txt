@@ -1,8 +1,8 @@
-owner = CRO
-controller = CRO
+owner = MRV
+controller = MRV
 add_core = HUN
-add_core = CRO
-add_core = BUL
+
+
 trade_goods = fish
 life_rating = 35
 fort = 1
@@ -10,3 +10,6 @@ fort = 1
 	controller = ROM
 	owner = ROM
 }
+
+add_core = MOR
+add_core = MRV

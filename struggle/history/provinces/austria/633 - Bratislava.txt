@@ -1,10 +1,11 @@
 owner = MRV
 controller = MRV
 add_core = MRV
-add_core = PNN
+
 add_core = SLV
 
 trade_goods = cattle
 life_rating = 35
 terrain = bratislava
 1861.1.1 = { railroad = 2 }
+add_core = MOR

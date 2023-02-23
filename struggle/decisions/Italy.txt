@@ -675,33 +675,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			OR = {
-				nationalism_n_imperialism = 1
-				GCF = {
-					exists = yes
-					NOT = { capital = 619 }
-				}
-				exists = GER
-				AND = {
-					exists = AUS
-					AUS = {
-						is_greater_power = no
-						is_secondary_power = no
-					}
-				}
-				AND = {
-					exists = KUK
-					KUK = {
-						is_greater_power = no
-						is_secondary_power = no
-					}
-				}
-				AND = {
-					tag = SAR
-					year = 1855
-					ai = yes
-				}
-			}
+			nationalism_n_imperialism = 1
 			OR = {
 				is_greater_power = yes
 				AND = {

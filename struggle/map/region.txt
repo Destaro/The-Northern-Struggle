@@ -308,9 +308,9 @@ SPA_495 = { 499 464 3252 463 461 498 } #Aragón
 
 SPA_498 = { 495 496 500 501 } #Catalonia
 
-SPA_503 = { 503 504 497 3531 } #Valencia
+SPA_503 = { 503 504 497 508 } #Valencia
 
-SPA_505 = { 505 506 507 508 } #Valencia
+SPA_505 = { 505 506 507 3531 } #Valencia
 
 SPA_512 = { 512 509 510 511 513 516 } #Andalucia
 

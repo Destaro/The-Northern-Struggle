@@ -1,7 +1,7 @@
-owner = CRO
-controller = CRO
-add_core = BUL
-add_core = CRO
+owner = MRV
+controller = MRV
+
+
 trade_goods = grain
 life_rating = 35
 
@@ -9,3 +9,5 @@ life_rating = 35
 	controller = ROM
 	owner = ROM
 }
+add_core = MOR
+add_core = MRV

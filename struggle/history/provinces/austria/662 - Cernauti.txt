@@ -1,6 +1,9 @@
-owner = CRO
-controller = CRO
-add_core = BUL
-add_core = CRO
+owner = MRV
+controller = MRV
+
+
 trade_goods = fruit
 life_rating = 35
+
+add_core = MOR
+add_core = MRV

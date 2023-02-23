@@ -1,8 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner = BUL
+controller = BUL
+
 add_core = BYE
-add_core = RUT
+
 trade_goods = timber
 life_rating = 40
 #state_building = {
@@ -11,4 +11,5 @@ life_rating = 40
 #	upgrade = yes
 #}
 
-add_core = RUS
+
+add_core = BUL

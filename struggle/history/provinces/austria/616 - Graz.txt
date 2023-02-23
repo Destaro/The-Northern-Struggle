@@ -1,6 +1,9 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = MRV
+controller = MRV
+
 trade_goods = iron
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+
+add_core = MOR
+add_core = MRV

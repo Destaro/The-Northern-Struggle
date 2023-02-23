@@ -1,5 +1,5 @@
-owner = TLD
-controller = TLD
+owner = MRV
+controller = MRV
 add_core = TUN
 add_core = MOR
 trade_goods = fish
@@ -10,3 +10,5 @@ terrain = semidesert
 	controller = SPA
 	colonial = 2
 }
+
+add_core = MRV

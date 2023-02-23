@@ -1,6 +1,6 @@
-owner = PRD
-controller = PRD
-add_core = PRD
+owner = BUL
+controller = BUL
+
 add_core = POL
 trade_goods = cattle
 life_rating = 40
@@ -17,3 +17,4 @@ life_rating = 40
 	}
 }
 1861.1.1 = { railroad = 3 }
+add_core = BUL

@@ -1,6 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = RUS
+controller = RUS
+
 trade_goods = timber
 life_rating = 10
 colonial = 2
@@ -9,3 +9,5 @@ colonial = 2
 	controller = SIB
 	colonial = 2
 }
+
+add_core = RUS

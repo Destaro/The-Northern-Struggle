@@ -1,5 +1,5 @@
-owner = LIT
-controller = LIT
+owner = BUL
+controller = BUL
 add_core = UBD
 add_core = EST
 trade_goods = grain
@@ -8,4 +8,5 @@ terrain = reval
 fort = 1
 naval_base = 2
 
-add_core = LIT
+
+add_core = BUL

@@ -1,7 +1,9 @@
-owner = SZC
-controller = SZC
+owner = BUL
+controller = BUL
 add_core = SZC
 add_core = XBI
 add_core = CHI
 trade_goods = cattle
 life_rating = 32
+
+add_core = BUL
