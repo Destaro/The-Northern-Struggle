@@ -183,37 +183,37 @@
 	}
 
 	aristocrats = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = tamil
 		religion = protestant
 		size = 675
 	}

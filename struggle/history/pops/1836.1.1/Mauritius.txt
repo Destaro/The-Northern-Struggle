@@ -3,61 +3,61 @@
 #Mauritius (98000/24500 POPS)
 2125 = {
 	bureaucrats = {
-		culture = british
+		culture = visigothic
 		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture = british
+		culture = visigothic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = british
+		culture = visigothic
 		religion = protestant
 		size = 130
 	}
 
 	soldiers = {
-		culture = british
+		culture = visigothic
 		religion = protestant
 		size = 25
 	}
 
 	aristocrats = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 180
 	}
 
 	clergymen = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 20
 	}
 
 	farmers = {
-		culture = french
+		culture = visigothic
 		religion = catholic
 		size = 200
 	}

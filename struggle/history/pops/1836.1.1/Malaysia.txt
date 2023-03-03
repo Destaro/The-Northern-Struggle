@@ -109,13 +109,13 @@
 	}
 
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 50
 	}

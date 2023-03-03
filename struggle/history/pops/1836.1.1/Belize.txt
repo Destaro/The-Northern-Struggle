@@ -16,7 +16,7 @@
 	}
 
 	artisans = {
-		culture = british
+		culture = central_american
 		religion = protestant
 		size = 25
 	}

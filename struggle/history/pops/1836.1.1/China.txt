@@ -2760,7 +2760,7 @@
 	}
 	
 	artisans = {
-		culture = british
+		culture = hakka
 		religion = protestant
 		size = 150
 	}

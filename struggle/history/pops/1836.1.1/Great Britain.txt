@@ -1935,7 +1935,7 @@
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 400
 	}

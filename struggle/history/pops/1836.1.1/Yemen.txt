@@ -410,13 +410,13 @@
 #Aden (40000/10000 POPS)   
 1412 = {
 	aristocrats = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 50
 	}
 	
 	soldiers = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 150
 	}

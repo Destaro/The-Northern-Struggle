@@ -6,7 +6,7 @@ form_celts = {
 			OR = {
 			tag = SCO
 			tag = IRE
-			tag = WLL
+			tag = WHA
 			      }
 			
 			NOT = {
@@ -46,7 +46,47 @@ form_celts = {
 				}
 			}
 			
+			ENL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
 			
+				BRT = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+				WHA = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
 		}
 		
 		effect = {
@@ -56,12 +96,25 @@ form_celts = {
 		add_accepted_culture = welsh
 		add_accepted_culture = breton
 			prestige = 25
-					inherit = SCO
-					inherit = IRE
+				any_country = {
+				limit = {
+					OR = { 
+					primary_culture = welsh
+					primary_culture = breton 
+					primary_culture = scottish 
+					primary_culture = irish }
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
 					IRE = { all_core = { add_core = THIS } }
 					SCO = { all_core = { add_core = THIS } }
-					WLS = { all_core = { add_core = THIS } }
+					WHA = { all_core = { add_core = THIS } }
 					BRT = { all_core = { add_core = THIS } }
+					ENL = { all_core = { add_core = THIS } }
 			change_tag = CEL
 		}
 		ai_will_do = {
@@ -72,9 +125,83 @@ form_celts = {
 
 
 
+claim_scotland = {
+		potential = {
+			
+			OR = {
+			tag = WHA
+			      }
+			
+			NOT = {
+				
+				
+				has_country_flag = claim_scotland
+			}
+		}	
+		allow = {
+		
+			war = no
+			SCO = {	all_core = { owned_by = THIS }			}
+			
+			
+			
+			
+			
+		}
+		
+		effect = {
+		set_country_flag = claim_scotland
 
+			prestige = 5
+					
+					
+					SCO = { all_core = { add_core = THIS } }
+					
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 
+claim_england = {
+		potential = {
+			
+			OR = {
+			tag = WHA
+			      }
+			
+			NOT = {
+				
+				
+				has_country_flag = claim_england
+			}
+		}	
+		allow = {
+		
+			war = no
+			ENL = {	all_core = { owned_by = THIS }			}
+			
+			
+			
+			
+			
+		}
+		
+		effect = {
+		set_country_flag = claim_england
 
+			prestige = 5
+					
+					
+					ENL = { all_core = { add_core = THIS } }
+					
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 
 
 }

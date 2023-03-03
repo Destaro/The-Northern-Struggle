@@ -33,19 +33,19 @@
 	}
 	
 	aristocrats = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 50
 	}
 	
 	farmers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 500
 	}
 	
 	soldiers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 250
 	}
@@ -271,13 +271,13 @@
 #Bulawayo (136000/34000 POPS) 
 2071 = {
 	aristocrats = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 50
 	}
@@ -375,13 +375,13 @@
 #Hwange (96000/24000 POPS)
 2072 = {
 	aristocrats = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 50
 	}
@@ -479,19 +479,19 @@
 #Masvingo (72000/18000 POPS) 
 2073 = {
 	aristocrats = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 500
 	}
 	
 	soldiers = {
-		culture = british
+		culture = nguni
 		religion = protestant
 		size = 250
 	}
