@@ -4,7 +4,7 @@ add_core = BSQ
 trade_goods = iron
 life_rating = 35
 
-1861.1.1 = { 
+
 	state_building = {
 		level = 1
 		building = steamer_shipyard
@@ -15,5 +15,5 @@ life_rating = 35
 		building = steel_factory
 		upgrade = yes
 	}
-}
+
 1861.1.1 = { railroad = 3 }

@@ -1,22 +1,4 @@
-#Saxony
-substate = {
-	first = WES
-	second = RHI
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-substate = {
-	first = WES
-	second = WEI
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-substate = {
-	first = WES
-	second = FRI
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
+
 
 #MoravianSubstates
 substate = {

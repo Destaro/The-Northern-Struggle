@@ -3297,7 +3297,7 @@
 	}
 
 	officers = {
-		culture = portuguese
+		culture = vandalic
 		religion = catholic
 		size = 200
 	}
@@ -3309,25 +3309,25 @@
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 1700
 	}
 
 	officers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 170
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 4100
 	}
 	
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 2700
 	}
@@ -3339,13 +3339,13 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 3000
 	}
 	
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 2500
 	}
@@ -3357,19 +3357,19 @@
 	}
 
 	officers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 170
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1337
 	}
 
 	officers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 170
 	}

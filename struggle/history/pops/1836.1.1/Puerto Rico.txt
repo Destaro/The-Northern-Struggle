@@ -3,31 +3,31 @@
 #Puerto Rico (356000/89000 POPS)
 2222 = {
 	aristocrats = {
-		culture = spanish
+		culture = frankish
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = frankish
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = frankish
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = spanish
+		culture = frankish
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = frankish
 		religion = catholic
 		size = 50
 	}

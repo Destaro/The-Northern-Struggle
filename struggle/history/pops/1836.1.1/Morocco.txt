@@ -699,19 +699,19 @@
 #Melilla (500 POPS)
 1689 = {
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 40
 	}
@@ -770,37 +770,37 @@
 2590 = {
 
 	aristocrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 	
 	clergymen = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 150
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = visigothic
 		religion = catholic
 		size = 300
 	}
