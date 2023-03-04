@@ -3151,37 +3151,37 @@
 1498 = {
 
 	aristocrats = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = portuguese
+		culture = vietnamese
 		religion = catholic
 		size = 110
 	}

@@ -3,25 +3,25 @@
 #Luanda (164000/41000 POPS)
 1999 = {
 	aristocrats = {
-		culture = portuguese
+		culture = frankish
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = frankish
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = frankish
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = frankish
 		religion = catholic
 		size = 100
 	}

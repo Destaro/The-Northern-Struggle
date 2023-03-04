@@ -3525,19 +3525,19 @@
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 10
 	}
@@ -3655,25 +3655,25 @@
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = danish
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = danish
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = danish
 		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = danish
 		religion = catholic
 		size = 25
 	}

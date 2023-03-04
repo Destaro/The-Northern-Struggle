@@ -3,37 +3,37 @@
 #Cape Verde (76000/19000 POPS)
 1876 = {
 	aristocrats = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}
 	
 	officers = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = punic
 		religion = catholic
 		size = 100
 	}

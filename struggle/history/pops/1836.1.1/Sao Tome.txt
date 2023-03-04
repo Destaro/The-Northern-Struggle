@@ -1,33 +1,33 @@
 #Sao Tome e Principe (16000)
-#Under Portuguese Rule 1836
+#Under visigothic Rule 1836
 #Sao Tome (16000/4000 POPS)
 1954 = {
 	aristocrats = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = visigothic
 		religion = catholic
 		size = 5
 	}

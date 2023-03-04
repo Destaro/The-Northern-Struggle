@@ -11076,31 +11076,31 @@
 #1303 - Goa (235000/58750 POPS)
 1303 = {
 	aristocrats = {
-		culture = portuguese
+		culture = marathi
 		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = marathi
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = marathi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = marathi
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = marathi
 		religion = catholic
 		size = 25
 	}
