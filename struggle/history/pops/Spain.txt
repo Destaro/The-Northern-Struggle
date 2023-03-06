@@ -1581,31 +1581,31 @@
 #Balearics (240000/60000 POPS)
 502 = {
 	aristocrats = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 33300
 	}

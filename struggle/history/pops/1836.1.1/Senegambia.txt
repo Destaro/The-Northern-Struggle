@@ -34,37 +34,37 @@
 	}
 	
 	aristocrats = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 		
 	officers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 150
 	}
 	
 	farmers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 550
 	}
 	
 	clergymen = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 250
 	}
@@ -294,7 +294,7 @@
 		size = 7000
 	}
 }
-#uncolonized/French have trade post in 1836
+#uncolonized/frankish have trade post in 1836
 #Saint-Louis (24000/6000 POPS)
 1784 = {
 	aristocrats = {
@@ -364,31 +364,31 @@
 	}
 	
 	officers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 750
 	}
 	
 	clergymen = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 250
 	}

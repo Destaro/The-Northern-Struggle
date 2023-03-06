@@ -695,7 +695,7 @@
 	}
 
 	farmers = {
-		culture = french
+		culture = punic
 		religion = punic_church
 		size = 105
 	}

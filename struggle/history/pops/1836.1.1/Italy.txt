@@ -192,7 +192,7 @@
 	}
 	
 	farmers = {
-		culture = french
+		culture = frankish
 		religion = catholic
 		size = 5600
 	}
@@ -5079,7 +5079,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 4814
 	}
@@ -5111,7 +5111,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 3814
 	}
@@ -5144,7 +5144,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = vandalic
 		religion = catholic
 		size = 1814
 	}

@@ -60,21 +60,10 @@ political_decisions = {
 		war = {
                 target = POL 
                 attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = conquest_any
                     state_province_id = 691
                 }
-                attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 695
-                }
-                attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 694
-					}
-					 attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 697
-					}
+                
                 defender_goal = { 
 				    casus_belli = acquire_state_any
                     state_province_id = 546 }

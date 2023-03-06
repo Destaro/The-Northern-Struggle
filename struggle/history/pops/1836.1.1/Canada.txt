@@ -2973,7 +2973,7 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = vinlander
 		religion = catholic
 		size = 1
 	}

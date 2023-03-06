@@ -15,7 +15,7 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 LUZ = { add_core = { owned_by = THIS } }
+		 LUZ = { all_core = { owned_by = THIS } }
 		 war = no
 		}
 		
@@ -44,8 +44,8 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 owns = 684
-		 owns = 682
+		 684 = { owned_by = THIS }
+		 682 = { owned_by = THIS }
 		 war = no
 		}
 		
@@ -80,7 +80,7 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 owns = 366
+		366 = { owned_by = THIS }
 		 war = no
 		}
 		
@@ -112,7 +112,7 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 FRI = { add_core = { owned_by = THIS } }
+		 FRI = { all_core = { owned_by = THIS } }
 		 war = no
 		}
 		
@@ -141,7 +141,7 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 NET = { add_core = { owned_by = THIS } }
+		 NET = { all_core = { owned_by = THIS } }
 		 war = no
 		}
 		

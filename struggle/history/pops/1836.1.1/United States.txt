@@ -11064,7 +11064,7 @@
 	}
 	
 	farmers = {
-		culture = french
+		culture = irish
 		religion = catholic
 		size = 1900
 	}
