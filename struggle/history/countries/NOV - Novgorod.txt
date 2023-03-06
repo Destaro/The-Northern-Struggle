@@ -1,6 +1,6 @@
 capital = 1003
 primary_culture = novgorodian
-culture = russian
+culture = finnish
 religion = orthodox
 government = colonial_company
 plurality = 0.02
