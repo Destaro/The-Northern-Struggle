@@ -1,4 +1,4 @@
-capital = 1008
+capital = 998
 primary_culture = russian
 culture = novgorodian
 culture = volga_german
