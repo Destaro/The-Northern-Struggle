@@ -1,7 +1,6 @@
-owner = AOM
-controller = AOM
-add_core = RUM
-add_core = AOM
-add_core = ROM
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
 trade_goods = coal
 life_rating = 35

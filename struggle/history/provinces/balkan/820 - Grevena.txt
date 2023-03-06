@@ -1,9 +1,6 @@
-owner = AOM
-controller = AOM
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = GRE
-add_core = RUM
-add_core = AOM
-add_core = ALB
-add_core = ROM
 trade_goods = grain
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = DBJ
-controller = DBJ
-add_core = DBJ
-add_core = RUM
-add_core = ROM
-add_core = WAL
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
 trade_goods = grain
 life_rating = 35

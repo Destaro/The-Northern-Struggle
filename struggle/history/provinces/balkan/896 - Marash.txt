@@ -1,6 +1,7 @@
-owner = CLC
-controller = CLC
-add_core = CLC
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = TUR
 trade_goods = wool
 life_rating = 35
 

@@ -1,6 +1,6 @@
-owner = PNT
-controller = PNT
-add_core = PNT
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = ARM
 trade_goods = cattle
 life_rating = 35

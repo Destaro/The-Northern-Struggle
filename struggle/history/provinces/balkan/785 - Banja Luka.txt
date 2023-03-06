@@ -1,8 +1,8 @@
-owner = DLM
-controller = DLM
-add_core = DLM
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = BOS
-add_core = ITA
-trade_goods = fruit
+add_core = YUG
+add_core = SER
+trade_goods = fish
 life_rating = 35
-

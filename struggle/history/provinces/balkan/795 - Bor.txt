@@ -1,7 +1,6 @@
-owner = MOL
-controller = MOL
-add_core = MOL
-add_core = RUM
-add_core = ROM
+owner = SER
+controller = SER
+add_core = SER
+add_core = YUG
 trade_goods = grain
 life_rating = 35

@@ -1,7 +1,8 @@
-owner = ALB
-controller = ALB
-
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = BOS
-add_core = ALB
+add_core = YUG
+add_core = SER
 trade_goods = coal
 life_rating = 35

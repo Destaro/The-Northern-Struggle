@@ -1,6 +1,6 @@
-owner = ALB
-controller = ALB
-add_core = BOS
-add_core = ALB
+owner = SER
+controller = SER
+add_core = SER
+add_core = YUG
 trade_goods = grain
 life_rating = 35

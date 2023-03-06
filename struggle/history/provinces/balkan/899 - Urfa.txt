@@ -1,6 +1,5 @@
-owner = EDE
-controller = EDE
-add_core = EDE
-add_core = KDS
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = grain
 life_rating = 35

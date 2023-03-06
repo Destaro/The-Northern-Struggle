@@ -1,12 +1,13 @@
 political_decisions = {
 
 
-form_russia = {
+form_ruthenia = {
 		potential = {
 			is_greater_power = yes
 			OR = {
-			       tag = MUS
-				   tag = RUT
+			       tag = RUS
+				   tag = UKR
+				   tag = BUL
 				   }
 			NOT = {
 				exists = RUS
@@ -16,6 +17,35 @@ form_russia = {
 		allow = {
 			war = no
 			RUS = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			UKR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
+			
+			BUL = {
 				all_core = {
 					OR = {
 						OR = {
@@ -49,9 +79,9 @@ form_russia = {
 				limit = {
 					is_core = RUS
 				}
-				add_core = RUS
+				add_core = RUT
 			}			
-			change_tag = RUS
+			change_tag = RUT
 		}
 		ai_will_do = {
 			factor = 1

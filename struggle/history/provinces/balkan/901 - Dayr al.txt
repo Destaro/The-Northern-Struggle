@@ -1,6 +1,5 @@
-owner = IRQ
-controller = IRQ
-add_core = IRQ
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = grain
-terrain = semidesert
-life_rating = 20
+life_rating = 35

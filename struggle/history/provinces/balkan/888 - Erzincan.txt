@@ -1,6 +1,6 @@
-owner = EDE
-controller = EDE
-add_core = EDE
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = ARM
 trade_goods = iron
 life_rating = 35

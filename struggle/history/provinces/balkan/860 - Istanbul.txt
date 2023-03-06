@@ -1,9 +1,8 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = fruit
-life_rating = 40
-terrain = istanbul
+life_rating = 35
 naval_base = 1
 fort = 1
 #state_building = {

@@ -1,8 +1,5 @@
-owner = MKN
-controller = MKN
-add_core = MKN
-
-add_core = BDN
-add_core = KDS
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = fruit
 life_rating = 35

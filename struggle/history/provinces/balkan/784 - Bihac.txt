@@ -1,7 +1,8 @@
-owner = DLM
-controller = DLM
-add_core = DLM
-add_core = ITA
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BOS
+add_core = YUG
+add_core = SER
 trade_goods = grain
 life_rating = 35
-
