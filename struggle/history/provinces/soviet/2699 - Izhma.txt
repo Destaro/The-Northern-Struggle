@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = NOV
+controller = NOV
 
 trade_goods = timber
 terrain = boreal
@@ -7,3 +7,4 @@ life_rating = 10
 colonial = 2
 
 add_core = RUS
+add_core = NOV

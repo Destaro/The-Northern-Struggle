@@ -9,3 +9,4 @@ terrain = vilnius
 1861.1.1 = { railroad = 2 }
 
 add_core = BUL
+add_core = LIT

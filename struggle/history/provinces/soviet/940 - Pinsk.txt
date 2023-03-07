@@ -1,6 +1,6 @@
 owner = BUL
 controller = BUL
-
+add_core = LIT
 add_core = UKR
 add_core = BYE
 

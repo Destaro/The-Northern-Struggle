@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = FIN
+controller = FIN
 
 add_core = KRL
 add_core = SWE
@@ -9,3 +9,4 @@ life_rating = 10
 colonial = 2
 
 add_core = RUS
+add_core = FIN

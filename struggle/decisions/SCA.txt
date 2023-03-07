@@ -916,14 +916,13 @@ restore_the_baltic = {
 	 tag = SCA 
 	 tag = SWE
 	 }
-	 NOT = {  has_country_flag = restore_the_baltic}
+	 NOT = {  has_country_flag = restore_the_baltic }
 	            }
      
 	 allow = {
 	 war = no
-	 360 = { owned_by = THIS }
-	 354 = { owned_by = THIS }
-	 349 = { owned_by = THIS }
+	 351 = { owned_by = THIS }
+	 
 	 }
 	 
 	 effect = {

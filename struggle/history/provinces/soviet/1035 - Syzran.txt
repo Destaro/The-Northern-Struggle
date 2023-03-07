@@ -1,7 +1,8 @@
-owner = RUS
-controller = RUS
+owner = URK
+controller = URK
 
 trade_goods = grain
 life_rating = 35
 
 add_core = RUS
+add_core = URK

@@ -13,3 +13,4 @@ life_rating = 40
 
 
 add_core = BUL
+add_core = LIT

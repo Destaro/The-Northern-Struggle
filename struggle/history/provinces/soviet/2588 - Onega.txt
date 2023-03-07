@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = FIN
+controller = FIN
 
 add_core = KRL
 add_core = SWE
@@ -8,3 +8,4 @@ terrain = boreal
 life_rating = 10
 
 add_core = RUS
+add_core = FIN
