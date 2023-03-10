@@ -7,6 +7,14 @@ alliance = {
 	end_date = 1936.1.1
 }
 
+#saxony-thuringia
+
+alliance = {
+	first = WES
+	second = WEI
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
 
 
 #Abyssinia-sudanese-guys
@@ -80,9 +88,9 @@ alliance = {
 #########Prussia and their allies
 
 
-#Austria/Sphereling
+#saxony-franconia
 alliance = {
-	first = AUS
+	first = WES
 	second = FRE
 	start_date = 1835.1.1
 	end_date = 1981.1.1

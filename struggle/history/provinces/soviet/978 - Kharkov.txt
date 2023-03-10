@@ -1,5 +1,5 @@
-owner = URK
-controller = URK
+owner = UKR
+controller = UKR
 
 add_core = UKR
 trade_goods = coal
@@ -18,4 +18,3 @@ terrain = kharkov
 	} 
 }
 add_core = RUS
-add_core = URK

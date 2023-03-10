@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = HUN
+controller = HUN
 add_core = HUN
 
 
@@ -12,4 +12,3 @@ fort = 1
 }
 
 add_core = MOR
-add_core = MRV

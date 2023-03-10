@@ -92,6 +92,95 @@ FIN = {
 	influence_value = 0
 }
 
+leader = {
+	name = "von Hohenhausen"
+	date = 1842.1.1
+	type = land
+	personality = glory_hound
+	background = school_of_defense
+	prestige = 0.2
+}
+
+leader = {
+	name = "von Essen"
+	date = 1842.1.1
+	type = land
+	personality = cautious
+	background = professor
+	prestige = 0.2
+}
+
+leader = {
+	name = "Prins Oscar"
+	date = 1850.1.1
+	type = sea
+	personality = imperious
+	background = clueless
+	prestige = 0.1
+}
+
+leader = {
+	name = "Ehnemark"
+	date = 1853.1.1
+	type = sea
+	personality = competent
+	background = disgraced
+	prestige = 0.2
+}
+
+leader = {
+	name = "K. Adolf Virgin"
+	date = 1854.1.1
+	type = sea
+	personality = diplomatic
+	background = adventurer
+	prestige = 0.2
+}
+
+leader = {
+	name = "Carl Björnstjerna"
+	date = 1858.1.1
+	type = land
+	personality = calm
+	background = cavalry_school
+	prestige = 0.1
+}
+
+leader = {
+	name = "J. Björnstjerna"
+	date = 1858.1.1
+	type = land
+	personality = strange
+	background = warmonger
+	prestige = 0.1
+}
+
+leader = {
+	name = "Didrik Bildt"
+	date = 1861.1.1 #1859
+	type = land
+	personality = diplomatic
+	background = politician
+	prestige = 0.1
+}
+
+leader = {
+	name = "Reuterskiöld"
+	date = 1860.1.1
+	type = land
+	personality = skilled
+	background = politician
+	prestige = 0.1
+}
+
+leader = {
+	name = "Karl Magnus Thulstrup"
+	date = 1861.1.1
+	type = land
+	personality = openminded
+	background = professor
+}
+
 
 leader = {
 	name = "Carl Nordenskjöld"
@@ -326,17 +415,9 @@ army = {
 		home = 547
 	}
 
-	regiment = {
-		name= "Första Livgrenadjärregementet"
-		type = infantry
-		home = 545
-	}
+	
 
-	regiment = {
-		name= "Upplands Regemente"
-		type = infantry
-		home = 544
-	}
+	
 
 	regiment = {
 		name= "Västgöta Regemente"
@@ -374,12 +455,7 @@ army = {
 		home = 994
 	}
 
-	regiment = {
-		name= "Upplands Regemente"
-		type = infantry
-		home = 546
-	}
-
+	
 	regiment = {
 		name= "Västgöta Regemente"
 		type = artillery

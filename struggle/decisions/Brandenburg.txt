@@ -58,7 +58,7 @@ political_decisions = {
         set_country_flag = march_east
 		
 		war = {
-                target = POL 
+                target = PML 
                 attacker_goal = {
                     casus_belli = conquest_any
                     state_province_id = 691

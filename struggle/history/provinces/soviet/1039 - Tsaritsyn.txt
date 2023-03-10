@@ -1,8 +1,9 @@
-owner = URK
-controller = URK
+owner = UKR
+controller = UKR
 add_core = ALN
 add_core = AKH
 trade_goods = cattle
 life_rating = 35
 
-add_core = URK
+
+add_core = UKR
