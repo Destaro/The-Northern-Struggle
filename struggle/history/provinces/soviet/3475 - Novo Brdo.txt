@@ -1,8 +1,8 @@
-owner = ROM
-controller = RUS
+owner = AOM
+controller = AOM
 add_core = MOL
 add_core = RUM
-add_core = ROM
+add_core = AOM
 trade_goods = timber
 life_rating = 35
 

@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
+owner = MRV
+controller = MRV
 add_core = WAL
 add_core = ROM 
 trade_goods = grain
@@ -9,3 +9,4 @@ life_rating = 35
 	controller = ROM
 	owner = ROM
 }
+add_core = MRV

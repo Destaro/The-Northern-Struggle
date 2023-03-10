@@ -1,6 +1,8 @@
-owner = SER
-controller = SER
-add_core = SER
+owner = EPI
+controller = EPI
+
 add_core = YUG
 trade_goods = grain
 life_rating = 35
+
+add_core = EPI

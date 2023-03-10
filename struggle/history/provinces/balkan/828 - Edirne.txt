@@ -1,5 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = RUM
+controller = RUM
+
 trade_goods = grain
 life_rating = 35
+
+add_core = RUM

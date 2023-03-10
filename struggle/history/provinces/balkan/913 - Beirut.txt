@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = SYR
+controller = SYR
+
 add_core = TUR
 trade_goods = fruit
 life_rating = 35
@@ -17,3 +17,4 @@ life_rating = 35
 		upgrade = yes
 	}
 }
+add_core = SYR

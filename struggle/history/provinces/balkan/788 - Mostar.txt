@@ -1,8 +1,10 @@
-owner = TUR
-controller = TUR
+owner = DLM
+controller = DLM
 add_core = TUR
 add_core = BOS
 add_core = YUG
 add_core = SER
 trade_goods = grain
 life_rating = 35
+
+add_core = DLM

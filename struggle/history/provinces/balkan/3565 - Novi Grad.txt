@@ -1,4 +1,4 @@
-owner = ROM
+owner = DLM
 controller = DLM
 add_core = DLM
 add_core = ITA
@@ -6,4 +6,5 @@ trade_goods = fruit
 life_rating = 35
 
 
-add_core = ROM
+
+add_core = WAL

@@ -12,6 +12,7 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
+
 # Sark-i Rumeli Viyaleti
 vassal = {
 	first = RUM

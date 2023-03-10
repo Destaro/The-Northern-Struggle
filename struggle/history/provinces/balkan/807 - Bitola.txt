@@ -1,8 +1,10 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BUL
+owner = AOM
+controller = AOM
+
+
 add_core = SER
 add_core = YUG
 trade_goods = timber
 life_rating = 35
+
+add_core = AOM

@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = TUN
+controller = TUN
 add_core = TUN
 add_core = MOR
 trade_goods = fish
@@ -11,4 +11,3 @@ terrain = semidesert
 	colonial = 2
 }
 
-add_core = MRV

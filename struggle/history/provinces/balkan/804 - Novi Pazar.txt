@@ -1,7 +1,10 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = WAL
+controller = WAL
+
 add_core = SER
 add_core = YUG
 trade_goods = iron
 life_rating = 35
+
+add_core = MOL
+add_core = WAL

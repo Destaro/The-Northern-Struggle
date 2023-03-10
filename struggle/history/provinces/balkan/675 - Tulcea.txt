@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = DBJ
+controller = DBJ
+
 add_core = WAL
 add_core = ROM 
 trade_goods = coal
@@ -10,3 +10,4 @@ life_rating = 35
 	controller = ROM
 	owner = ROM
 }
+add_core = DBJ

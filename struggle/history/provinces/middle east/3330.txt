@@ -1,6 +1,5 @@
-owner = ISR
-controller = ISR
-add_core = ISR
+owner = SYR
+controller = SYR
 add_core = SYR
 add_core = PLS
 trade_goods = grain

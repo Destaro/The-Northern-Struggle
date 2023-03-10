@@ -1,5 +1,5 @@
-owner = ROM
-controller = RUS
+owner = DLM
+controller = DLM
 add_core = DLM
 add_core = ITA
 trade_goods = fruit
@@ -7,4 +7,3 @@ life_rating = 35
 
 
 
-add_core = ROM
