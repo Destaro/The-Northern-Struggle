@@ -1341,3 +1341,53 @@ country_event = {
 		}
 	}
 }
+
+
+country_event = {
+	id = 4006004
+	title = "EVTNAME4006004" #mexicanrebellion
+	desc = "EVTDESC4006004"
+	picture = "rosas_urquiza"
+	
+	fire_only_once = yes
+	
+	trigger = {
+	year = 1844
+		tag = MEX
+		vassal_of = { TLD }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+			
+	}
+
+		
+	option = {
+		name = "EVTOPT4006004A"
+		leave_alliance = ARC
+		add_country_modifier = { name = small_country_draft duration = 365 }
+		add_country_modifier = { name = unrecognized_country duration = 3650 }
+		TLD = {
+			release_vassal = MEX
+			
+		}
+		
+		war = {
+			target = TLD
+			attacker_goal = { casus_belli = status_quo }
+			defender_goal = { casus_belli = make_puppet }
+		}
+		set_global_flag = the_mexican_rebellion
+		ai_chance = { factor = 0.9 }
+	}
+		
+	option = {
+		name = "EVTOPT4006004B"
+		TLD = { inherit = MEX }
+		any_owned = {
+		               limit = { culture = mexican }
+		militancy = 7 }
+		ai_chance = { factor = 0.1 }
+	}
+}
