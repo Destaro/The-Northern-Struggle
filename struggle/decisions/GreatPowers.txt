@@ -157,8 +157,10 @@ political_decisions = {
 				is_greater_power = yes
 			
 			exists = JAV
+			JAV = { in_sphere = THIS }
 			JAV = { ai = yes }
 			NOT = { has_global_flag = rajasa_dynasty_over }
+			year = 1860
 		}
 		allow = {
 		military_score = 100

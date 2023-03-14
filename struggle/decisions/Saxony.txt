@@ -15,13 +15,13 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 LUZ = { all_core = { owned_by = THIS } }
+		 SAX = { all_core = { owned_by = THIS } }
 		 war = no
 		}
 		
 		effect = {
 		badboy = 1
-		LUZ = { all_core = { add_core = THIS } }
+		SAX = { all_core = { add_core = THIS } }
 		set_country_flag = integrate_lausic
 		
 		}
@@ -203,8 +203,8 @@ political_decisions = {
 		war = no
 		WES = { all_core = { owned_by = THIS } }
 		NOT = {
-		exists = PRD
-		POL = { OR = { 
+		
+		PML = { OR = { 
 		           alliance_with = THIS 
 		           vassal_of = THIS  }
 				   }
@@ -215,41 +215,20 @@ political_decisions = {
         set_country_flag = march_east
 		
 		war = {
-                target = POL 
+                target = PML
                 
 				attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = conquest_any
                     state_province_id = 680
                 }
-                attacker_goal = {
-                    casus_belli = acquire_substate_region
-					country = PRD
-                    state_province_id = 691
-                }
-				
-				attacker_goal = {
-                    casus_belli = acquire_substate_region
-					country = PRD
-                    state_province_id = 696
-                }
-				
-                attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 694
-					}
-				
-				attacker_goal = {
-                    casus_belli = acquire_state_any
-                    state_province_id = 3508
-					}
-					
+               
                 defender_goal = { 
 				    casus_belli = acquire_state_any
-                    state_province_id = 550 }
+                    state_province_id = 546 }
 					
 			    defender_goal = { 
 				    casus_belli = acquire_state_any
-                    state_province_id = 681 }
+                    state_province_id = 550 }
             
 			
                    }
@@ -275,9 +254,7 @@ political_decisions = {
 		functionalism = 1
 		war = no
 		WES = { all_core = { owned_by = THIS } }
-		NOT = {
-		exists = PRD
-		            }
+		
 		owns = 680
 		owns = 691
 		owns = 696
@@ -286,6 +263,7 @@ political_decisions = {
 		                 }    
 		effect = {
 		prestige = 20
+		add_accepted_culture = east_german
 		badboy = 2
         set_country_flag = integrate_the_east
 		add_core = 691

@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = VEN
+controller = VEN
+
 add_core = CRE
 add_core = GRE
 trade_goods = fruit
@@ -10,3 +10,4 @@ life_rating = 35
 	controller = TUR 
 	owner = TUR
 }
+add_core = VEN

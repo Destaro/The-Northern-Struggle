@@ -1,5 +1,6 @@
 capital = 581
 primary_culture = low_saxon
+culture = high_saxon
 culture = franconian
 religion = protestant
 government = absolute_monarchy

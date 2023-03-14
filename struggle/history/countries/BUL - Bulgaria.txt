@@ -1,5 +1,6 @@
-capital = 812
-primary_culture = bulgarian
+capital = 718
+primary_culture = byelorussian
+culture = ukrainian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.08
