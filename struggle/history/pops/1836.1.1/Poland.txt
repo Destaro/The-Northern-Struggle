@@ -80,6 +80,86 @@
 		size = 920   
 	}
 }
+
+3856 = {
+	aristocrats = {
+		culture = baltic_german
+		religion = protestant
+		size = 1250 
+	}
+
+	bureaucrats = {
+		culture = baltic_german
+		religion = protestant
+		size = 1300
+	}
+
+	officers = {
+		culture = baltic_german
+		religion = protestant
+		size = 350 
+	}
+
+	clergymen = {
+		culture = baltic_german
+		religion = protestant
+		size = 1125
+	}
+
+	artisans = {
+		culture = baltic_german
+		religion = protestant
+		size = 8250
+	}
+
+	soldiers = {
+		culture = baltic_german
+		religion = protestant
+		size = 3300 
+	}
+
+	farmers = {
+		culture = baltic_german
+		religion = protestant
+		size = 117125
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25 
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 975
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 20   
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 10    
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 920   
+	}
+}
 #Kolberg (160000/40000 POPS) #Part of Poland since 1945
 679 = {
 	aristocrats = {

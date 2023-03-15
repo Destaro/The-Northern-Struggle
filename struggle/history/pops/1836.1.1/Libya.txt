@@ -901,28 +901,28 @@
 }
 3519 = {
 	aristocrats = {
-		culture = tuareg
-		religion = punic_church
-		size = 25
+		culture = high_saxon
+		religion = protestant
+		size = 250
 	}
 
 	clergymen = {
-		culture = tuareg
-		religion = punic_church
-		size = 15
+		culture = high_saxon
+		religion = protestant
+		size = 515
 	}
 
 
 	soldiers = {
-		culture = tuareg
-		religion = punic_church
-		size = 65
+		culture = high_saxon
+		religion = protestant
+		size = 1665
 	}
 
 	farmers = {
-		culture = tuareg
-		religion = punic_church
-		size = 1900
+		culture = high_saxon
+		religion = protestant
+		size = 51900
 	}
 }
 3520 = {
@@ -959,32 +959,32 @@
 }
 3521 = {
 	aristocrats = {
-		culture = berber
+		culture = protestant
 		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
-		culture = berber
+		culture = protestant
 		religion = punic_church
 		size = 15
 	}
 
 
 	soldiers = {
-		culture = berber
+		culture = protestant
 		religion = punic_church
 		size = 65
 	}
 
 	farmers = {
-		culture = berber
+		culture = protestant
 		religion = punic_church
 		size = 900
 	}
 
 	farmers = {
-		culture = berber
+		culture = protestant
 		religion = punic_church
 		size = 1000
 	}

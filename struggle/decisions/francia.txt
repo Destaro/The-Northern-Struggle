@@ -1,0 +1,33 @@
+political_decisions = {
+
+reclaim_ocitania = {
+ potential = {
+             
+			tag = FRC
+			
+			
+         NOT = {
+            has_country_flag = reclaim_ocitania 
+		 }
+                      }
+					  
+	    allow = {
+		455 = { owned_by = THIS }
+		 war = no
+		}
+		
+		effect = {
+		prestige = 5
+		badboy = -1
+		OCC = { all_core = { add_core = THIS } }
+		set_country_flag = reclaim_ocitania
+		
+		}
+       
+ 
+ }
+ 
+
+
+ }
+ 

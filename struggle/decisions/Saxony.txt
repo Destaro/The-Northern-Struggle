@@ -263,7 +263,7 @@ political_decisions = {
 		                 }    
 		effect = {
 		prestige = 20
-		add_accepted_culture = east_german
+		add_accepted_culture = baltic_german
 		badboy = 2
         set_country_flag = integrate_the_east
 		add_core = 691

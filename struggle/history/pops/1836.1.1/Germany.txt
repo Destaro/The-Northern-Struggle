@@ -142,6 +142,44 @@
 		size = 33500
 	}
 }
+
+
+3855 = {
+	aristocrats = {
+		culture = low_saxon
+		religion = protestant
+		size = 350 
+	}
+
+	clergymen = {
+		culture = low_saxon
+		religion = protestant
+		size = 375 
+	}
+
+	artisans = {
+		culture = low_saxon
+		religion = protestant
+		size = 1825
+	}
+
+	soldiers = {
+		culture = low_saxon
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = low_saxon
+		religion = protestant
+		size = 33500
+	}
+	armers = {
+		culture = polish
+		religion = protestant
+		size = 13500
+	}
+}
 #Lower Elbe Region (557600)
 #Under rule of Hamburg 1836
 #Hamburg (150000/37500 POPS)
@@ -1302,6 +1340,39 @@
 }
 #Prenzlau (280000/70000 POPS)
 550 = {
+	aristocrats = {
+		culture = high_saxon
+		religion = protestant
+		size = 700 
+	}
+
+	clergymen = {
+		culture = high_saxon
+		religion = protestant
+		size = 675
+	}
+
+	artisans = {
+		culture = high_saxon
+		religion = protestant
+		size = 3500
+	}
+
+	soldiers = {
+		culture = high_saxon
+		religion = protestant
+		size = 2400 
+	}
+
+	farmers = {
+		culture = high_saxon
+		religion = protestant
+		size = 62500
+	}
+}
+
+
+3854 = {
 	aristocrats = {
 		culture = high_saxon
 		religion = protestant

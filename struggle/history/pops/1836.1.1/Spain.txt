@@ -842,6 +842,726 @@
 		size = 18850
 	}
 }
+
+3530 = {
+	aristocrats = {
+		culture = visigothic
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = visigothic
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = visigothic
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = visigothic
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = visigothic
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = visigothic
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = visigothic
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = visigothic
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = visigothic
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = visigothic
+		religion = catholic
+		size = 18850
+	}
+}
+
+3531 = {
+	aristocrats = {
+		culture = visigothic
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = visigothic
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = visigothic
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = visigothic
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = visigothic
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = visigothic
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = visigothic
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = visigothic
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = visigothic
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = visigothic
+		religion = catholic
+		size = 18850
+	}
+}
+
+3852 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3846 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3847 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3848 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3849 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3850 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3851 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
+
+3853 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 600
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 3000
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 51800
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 18850
+	}
+}
 #Pamplona (244000/61000 POPS)
 493 = {
 	aristocrats = {

@@ -43,6 +43,94 @@
 		size = 2000
 	}
 }
+
+3857 = {
+	aristocrats = {
+		culture = norn
+		religion = protestant
+		size = 200
+	}
+
+	officers = {
+		culture = norn
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = norn
+		religion = protestant
+		size = 1100
+	}
+
+	artisans = {
+		culture = norn
+		religion = protestant
+		size = 3400
+	}
+
+	labourers = {
+		culture = norn
+		religion = protestant
+		size = 25000
+	}
+
+	labourers = {
+		culture = scottish
+		religion = protestant
+		size = 15000
+	}
+	
+	farmers = {
+		culture = scottish
+		religion = catholic
+		size = 2000
+	}
+}
+
+3859 = {
+	aristocrats = {
+		culture = norn
+		religion = protestant
+		size = 200
+	}
+
+	officers = {
+		culture = norn
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = norn
+		religion = protestant
+		size = 1100
+	}
+
+	artisans = {
+		culture = norn
+		religion = protestant
+		size = 3400
+	}
+
+	labourers = {
+		culture = norn
+		religion = protestant
+		size = 25000
+	}
+
+	labourers = {
+		culture = scottish
+		religion = protestant
+		size = 15000
+	}
+	
+	farmers = {
+		culture = scottish
+		religion = catholic
+		size = 2000
+	}
+}
 #Inverness (328000/82000 POPS)
 267 = {
 	aristocrats = {
@@ -357,6 +445,39 @@
 }
 #Dumfries (168000/42000 POPS) 
 272 = {
+	aristocrats = {
+		culture = norn
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = scottish
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = norn
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = scottish
+		religion = protestant
+		size = 33800
+	}
+
+	farmers = {
+		culture = norn
+		religion = catholic
+		size = 5000
+	}
+
+}
+
+3858 = {
 	aristocrats = {
 		culture = norn
 		religion = protestant
