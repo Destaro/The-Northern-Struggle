@@ -650,7 +650,7 @@
         effect = {
             set_country_flag = emb_sco
             badboy = 2
-            add_accepted_culture = Scottish
+            add_accepted_culture = scottish
         }
 
         ai_will_do = { factor = 1 }
@@ -679,7 +679,7 @@
 	   owns = 695
 	   owns = 698
 	   owns = 994
-	is_greater_power = 1
+	is_greater_power = yes
 	
 	
 	}
@@ -738,7 +738,7 @@
 	war = no
 	   FIN = { vassal_of = THIS }
 	   EST = { vassal_of = THIS }
-	is_greater_power = 1
+	is_greater_power = yes
 	
 	
 	}

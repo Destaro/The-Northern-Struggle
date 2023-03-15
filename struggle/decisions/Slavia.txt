@@ -34,7 +34,7 @@ form_slavia = {
 		   BOS = { all_core = { add_core = THIS } }
 		   BUL = { all_core = { add_core = THIS } }
 		   BOH = { all_core = { add_core = THIS } }
-		    add_accepted_culture = ukranian
+		    add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
 			add_accepted_culture = bulgarian
 			add_accepted_culture = czech

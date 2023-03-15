@@ -249,7 +249,7 @@ political_decisions = {
             is_vassal = no
         }
         allow = {
-		is_greater_power = 1
+		is_greater_power = yes
 		empiricism = 1
 		functionalism = 1
 		war = no

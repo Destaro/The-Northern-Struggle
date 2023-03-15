@@ -7716,7 +7716,7 @@
 		religion = sunni
 		size = 2050
 	}
-}
+
 	aristocrats = {
 		culture = khorasani_persian
 		religion = shiite

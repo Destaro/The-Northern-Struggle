@@ -1,6 +1,6 @@
 army = {
 	name = "1-i Kavkazskii Korpus"
-	location = 1048
+	location = 1038
 	
 	regiment = {
 		name= "1.1-ya Kavkazskii Pekhotnaya Diviziya"
