@@ -44,7 +44,7 @@ become_wendiska = {
             set_global_flag = wendiska_formed
             add_accepted_culture = czech
             add_accepted_culture = silesian
-            add_accepted_culture = Sorbian
+            add_accepted_culture = sorbian
             
             inherit = BDB
 			inherit = WEI

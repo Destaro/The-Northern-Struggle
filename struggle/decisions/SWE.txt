@@ -195,7 +195,6 @@ political_decisions = {
 		prestige = 10
 		
 		add_core = 546
-		add_core = 680
 		add_core = 545
 		add_core = 544
 		add_core = 548

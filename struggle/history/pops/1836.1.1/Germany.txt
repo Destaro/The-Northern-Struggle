@@ -174,7 +174,7 @@
 		religion = protestant
 		size = 33500
 	}
-	armers = {
+	farmers = {
 		culture = polish
 		religion = protestant
 		size = 13500
