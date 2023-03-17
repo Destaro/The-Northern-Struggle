@@ -1,12 +1,12 @@
 # Ullah Millet
-vassal = {
+substate = {
 	first = RUM
 	second = AOM
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
 # Epir
-vassal = {
+substate = {
 	first = RUM
 	second = EPI
 	start_date = 1836.1.1
@@ -14,35 +14,35 @@ vassal = {
 }
 
 # Sark-i Rumeli Viyaleti
-vassal = {
+substate = {
 	first = RUM
 	second = WAL
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
 # Ellinikí Dimokratía
-vassal = {
+substate = {
 	first = RUM
 	second = GRE
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
 # Vilâyet-i Arnavid
-vassal = {
+substate = {
 	first = RUM
 	second = ALB
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
 # Moezya Eyaleti
-vassal = {
+substate = {
 	first = RUM
 	second = MOL
 	start_date = 1836.1.1
 	end_date = 1938.1.1
 }
 # Despotatul Dobrogei
-vassal = {
+substate = {
 	first = RUM
 	second = DBJ
 	start_date = 1836.1.1
