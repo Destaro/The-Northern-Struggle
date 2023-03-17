@@ -3504,67 +3504,67 @@
 #Penza (952000/238000 POPS)
 1021 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 3900
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2325
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 9400
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 108575
 	}
 	
 	serfs = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100000
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1775
 	}
@@ -3680,67 +3680,67 @@
 #Tambov (1244000/311000 POPS)
 1025 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 5850
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 3000
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 9200
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 112950
 	}
 	
 	serfs = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 160000
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1775
 	}
@@ -3811,7 +3811,7 @@
 #Uvarovo
 3535 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 150
 	}
@@ -3823,25 +3823,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 5100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 29775
 	}
@@ -5028,61 +5028,61 @@
 #Saratov (252000/83000 POPS)
 1037 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 4600
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 6500
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 20350
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2425
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 3425
 	}
