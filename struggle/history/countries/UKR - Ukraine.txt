@@ -1,4 +1,4 @@
-capital = 958
+capital = 1025
 primary_culture = ukrainian
 culture = russian
 religion = orthodox

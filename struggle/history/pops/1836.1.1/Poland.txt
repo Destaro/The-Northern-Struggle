@@ -83,43 +83,43 @@
 
 3856 = {
 	aristocrats = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 1250 
 	}
 
 	bureaucrats = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 1300
 	}
 
 	officers = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 1125
 	}
 
 	artisans = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 8250
 	}
 
 	soldiers = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 3300 
 	}
 
 	farmers = {
-		culture = baltic_german
+		culture = polish
 		religion = protestant
 		size = 117125
 	}

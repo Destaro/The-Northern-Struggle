@@ -1,9 +1,10 @@
-owner = BUL
-controller = BUL
+owner = POL
+controller = POL
 
-add_core = POL
+
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }
 
-add_core = BUL
+
+add_core = POL

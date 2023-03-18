@@ -1,4 +1,17 @@
+#BolkanianSubstates
+substate = {
+	first = BUL
+	second = PRD
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
 
+substate = {
+	first = BUL
+	second = POL
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
 
 #MoravianSubstates
 substate = {

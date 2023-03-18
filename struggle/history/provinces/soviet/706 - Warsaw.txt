@@ -1,7 +1,7 @@
-owner = BUL
-controller = BUL
+owner = POL
+controller = POL
 
-add_core = POL
+
 trade_goods = cattle
 life_rating = 40
 terrain = warsaw
@@ -18,4 +18,5 @@ state_building = {
 	} 
 }
 1861.1.1 = { railroad = 3 }
-add_core = BUL
+
+add_core = POL

@@ -1,5 +1,5 @@
-owner = BUL
-controller = BUL
+owner = PRD
+controller = PRD
 
 add_core = POL
 trade_goods = cattle
@@ -20,4 +20,5 @@ fort = 1
 	}
 }
 1861.1.1 = { railroad = 3 }
-add_core = BUL
+
+add_core = PRD
