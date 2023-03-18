@@ -46,6 +46,8 @@ country_event = {
 	                         }
 		
 	       }
+		   
+		   ai_chance = { factor = 50 }
        }
 	   
 	   option = { 
@@ -54,5 +56,6 @@ country_event = {
 	   release_vassal = PRD
 		release_vassal = POL
 		badboy = -5
+		ai_chance = { factor = 50 }
 	   }
 }
