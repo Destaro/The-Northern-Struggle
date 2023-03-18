@@ -1,0 +1,58 @@
+#western revolts
+country_event = {
+
+	id = 777007
+	title = "EVTNAME777007" #westernrevolts
+	desc = "EVTDESC777007"
+	picture = "danishgovernment"
+	fire_only_once = yes
+	trigger = {
+	POL = { vassal_of = THIS}
+	PRD = { vassal_of = THIS}
+	tag = BUL
+    year = 1842
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	option = {
+		name = "EVTOPTB777007" #westernrevolts
+		release_vassal = PRD
+		release_vassal = POL
+		prestige = 10
+		war = {
+	target = PRD
+	attacker_goal = { 
+	casus_belli = make_puppet
+	
+	 }
+	defender_goal = { 
+	casus_belli = humiliate 
+	                         }
+		
+	       }
+		   
+		   war = {
+	target = POL
+	attacker_goal = { 
+	casus_belli = make_puppet
+	
+	 }
+	defender_goal = { 
+	casus_belli = humiliate 
+	                         }
+		
+	       }
+       }
+	   
+	   option = { 
+	   name = "EVTOPTA777007" #westernrevolts
+	   prestige = -15
+	   release_vassal = PRD
+		release_vassal = POL
+		badboy = -5
+	   }
+}

@@ -113,7 +113,7 @@ country_event = {
 	trigger = {
 	tag = RUM
     year = 1840
-	
+	DBJ = { vassal_of = RUM }
 	}
 	
 	mean_time_to_happen = {
@@ -149,7 +149,7 @@ country_event = {
 	trigger = {
 	tag = RUM
     year = 1841
-	
+	MOL = { vassal_of = RUM }
 	}
 	
 	mean_time_to_happen = {
@@ -183,6 +183,7 @@ country_event = {
 	picture = "danishgovernment"
 	fire_only_once = yes
 	trigger = {
+	GRE = { vassal_of = RUM }
 	tag = RUM
     year = 1841
 	
@@ -219,6 +220,7 @@ country_event = {
 	picture = "danishgovernment"
 	fire_only_once = yes
 	trigger = {
+	ALB = { vassal_of = RUM }
 	tag = RUM
     year = 1842
 	
