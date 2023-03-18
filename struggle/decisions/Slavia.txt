@@ -3,7 +3,7 @@ political_decisions = {
 form_slavia = {
         potential = {
 		OR = {
-        tag = RUS
+        tag = RUT
 		tag = PLC
 		tag = YUG
 			}
@@ -15,25 +15,22 @@ form_slavia = {
             prestige = 250
             war = no
             revolution_n_counterrevolution = 1
-			owns = 647
-			owns = 643
 			owns = 706
-			owns = 1008
-			owns = 360
-			owns = 958
+			owns = 694
+			owns = 718
+			owns = 998
+			owns = 1025
         }
 
         effect = {
-           PLC = { all_core = { add_core = THIS } }
-           MUS = { all_core = { add_core = THIS } }
-		   RUT = { all_core = { add_core = THIS } }
+           POL = { all_core = { add_core = THIS } }
+           RUS = { all_core = { add_core = THIS } }
 		   POL = { all_core = { add_core = THIS } }
 		   HUN = { all_core = { add_core = THIS } }
 		   PNN = { all_core = { add_core = THIS } }
 		   MON = { all_core = { add_core = THIS } }
 		   BOS = { all_core = { add_core = THIS } }
 		   BUL = { all_core = { add_core = THIS } }
-		   BOH = { all_core = { add_core = THIS } }
 		    add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
 			add_accepted_culture = bulgarian
