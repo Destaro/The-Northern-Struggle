@@ -57,7 +57,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				primary_culture = polish
-				primary_culture = ukrainian
+				primary_culture = lithuanian
 			}
 			NOT = { exists = PLC }
 			NOT = { has_country_flag = post_colonial_country }
@@ -67,7 +67,7 @@ political_decisions = {
 			war = no
 			is_greater_power = yes
             
-			RUT = { all_core = { owned_by = THIS } }
+			BUL = { all_core = { owned_by = THIS } }
 			POL = { all_core = { owned_by = THIS } }
 			LIT = { all_core = { owned_by = THIS } }
 		}
@@ -94,7 +94,7 @@ political_decisions = {
 						remove_core = POL
 					}
 				}
-				RUT = {
+				BUL = {
 					all_core = { add_core = PLC }
 				}
 			}
@@ -573,27 +573,27 @@ war = {
 		}
 	}
 	
-	western_campaing_prc = {
+	western_campaing_rut = {
 		picture = become_poland
 		potential = {
-			tag = PLC
-			NOT = { has_country_flag = western_campaing_prc }
+			tag = RUT
+			NOT = { has_country_flag = western_campaing_rut }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			is_greater_power = yes
 			war = no
-			exists = BUL
+			exists = PML
 			
 			
 		}
 		
 		effect = {
-			set_country_flag = western_campaing_prc
-			badboy = 5
+			set_country_flag = western_campaing_rut
+			badboy = 2
 			
 
 war = {
-	target = BOH
+	target = PML
 	attacker_goal = { 
 	casus_belli = conquest_any
 	
@@ -618,7 +618,7 @@ war = {
 		allow = {
 			nationalism_n_imperialism = 1
 			war = no
-			exists = MUS
+			exists = RUS
 			
 			
 		}
@@ -627,7 +627,7 @@ war = {
 			set_country_flag = eastern_campaing_prc
 			badboy = 5
 			war = {
-	target = MUS
+	target = RUS
 	attacker_goal = { 
 	casus_belli = conquest_any
 	
@@ -825,14 +825,14 @@ war = {
 	
 	
 	
-	black_sea_campaing_prc = {
+	black_sea_campaing_rut = {
 		picture = become_poland
 		potential = {
-			tag = PLC
-			NOT = { has_country_flag = black_sea_campaing_prc }
+			tag = RUT
+			NOT = { has_country_flag = black_sea_campaing_rut }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			year = 1870
 			war = no
 			exists = HUN
 			
@@ -840,7 +840,7 @@ war = {
 		}
 		
 		effect = {
-			set_country_flag = black_sea_campaing_prc
+			set_country_flag = black_sea_campaing_rut
 			badboy = 5
 			war = {
 	target = HUN
