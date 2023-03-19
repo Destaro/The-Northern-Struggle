@@ -14,13 +14,71 @@ reclaim_ocitania = {
 	    allow = {
 		455 = { owned_by = THIS }
 		 war = no
+		 nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+		prestige = 15
+		badboy = -1
+		OCC = { all_core = { add_core = THIS } }
+		set_country_flag = reclaim_ocitania
+		
+		}
+       
+ 
+ }
+ 
+ reclaim_savoy = {
+ potential = {
+             
+			tag = FRC
+			
+			
+         NOT = {
+            has_country_flag = reclaim_savoy
+		 }
+                      }
+					  
+	    allow = {
+		720 = { owned_by = THIS }
+		revolution_n_counterrevolution = 1
+		 war = no
+		}
+		
+		effect = {
+		prestige = 10
+		badboy = 2
+		SVY = { all_core = { add_core = THIS } }
+		set_country_flag = reclaim_savoy
+		
+		}
+       
+ 
+ }
+ 
+  embrace_the_west_germs = {
+ potential = {
+             
+			tag = FRC
+			
+			
+         NOT = {
+            has_country_flag = embrace_the_west_germs
+		 }
+                      }
+					  
+	    allow = {
+		586 = { owned_by = THIS }
+		589 = { owned_by = THIS }
+		revolution_n_counterrevolution = 1
+		 war = no
 		}
 		
 		effect = {
 		prestige = 5
-		badboy = -1
-		OCC = { all_core = { add_core = THIS } }
-		set_country_flag = reclaim_ocitania
+		badboy = 1
+		add_accepted_culture = allemanic
+		set_country_flag = embrace_the_west_germs
 		
 		}
        
