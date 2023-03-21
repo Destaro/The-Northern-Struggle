@@ -11,4 +11,6 @@ fort = 1
 	owner = ROM
 }
 
-add_core = MOR
+
+
+add_core = CRO

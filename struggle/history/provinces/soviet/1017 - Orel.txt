@@ -1,9 +1,10 @@
-owner = UKR
-controller = UKR
+owner = BKV
+controller = BKV
 
 trade_goods = timber
 life_rating = 35
 
 
 
-add_core = UKR
+
+add_core = BKV

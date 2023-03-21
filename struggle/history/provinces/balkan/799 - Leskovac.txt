@@ -2,8 +2,9 @@ owner = EPI
 controller = EPI
 
 
-add_core = YUG
+
 trade_goods = timber
 life_rating = 35
 
 add_core = EPI
+add_core = ROM

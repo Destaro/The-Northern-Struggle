@@ -7,7 +7,7 @@ controller = MRV
 trade_goods = grain
 life_rating = 35
 
-add_core = BKV
-add_core = MOR
+
+
 
 add_core = MRV

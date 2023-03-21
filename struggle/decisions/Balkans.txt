@@ -585,9 +585,8 @@ political_decisions = {
 			SER = { all_core = { add_core = YUG } }
 			MON = { all_core = { add_core = YUG } }
 			CRO = { all_core = { add_core = YUG } }
-			BUL = { all_core = { add_core = YUG } }
 			PNN = { all_core = { add_core = YUG } }
-			
+			BOS = { all_core = { add_core = YUG } }
 			random_owned = {
 				limit = { owner = { accepted_culture = north_italian } }
 				owner = { remove_accepted_culture = north_italian }
@@ -989,62 +988,62 @@ political_decisions = {
 		}
 	}
 	
-	invite_bulgaria_to_YUG = {
-		picture = form_yugoslavia
-		potential = {
-			tag = YUG
-			BUL = {
-				exists = yes
-				NOT = { has_country_flag = not_join_yugoslavia }
-			}
-			NOT = { has_country_flag = invited_bulgarians_to_YUG }
-		}
-		
-		allow = {
-			war = no
-			revolution_n_counterrevolution = 1
-			BUL = {
-				war = no
-				neighbour = YUG
-				NOT = { truce_with = THIS }
-				OR = {
-					AND = {
-						is_vassal = no
-						in_sphere = THIS
-					}
-					vassal_of = THIS
-				}
-			}
-		}
-		
-		effect = {
-			set_country_flag = invited_bulgarians_to_YUG
-			BUL = { country_event = 11120 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				BUL = {
-					NOT = {
-						OR = {
-							AND = {
-								part_of_sphere = no
-								OR = {
-									has_country_flag = newly_released_nation
-									relation = { who = THIS value = 100 }
-								}
-							}
-							in_sphere = THIS
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-	}
-	
+	#invite_bulgaria_to_YUG = {
+	#	picture = form_yugoslavia
+	#	potential = {
+	#		tag = YUG
+	#		BUL = {
+	#			exists = yes
+	#			NOT = { has_country_flag = not_join_yugoslavia }
+	#		}
+	#		NOT = { has_country_flag = invited_bulgarians_to_YUG }
+	#	}
+	#	
+	#	allow = {
+	#		war = no
+	#		revolution_n_counterrevolution = 1
+	#		BUL = {
+	#			war = no
+	#			neighbour = YUG
+	#			NOT = { truce_with = THIS }
+	#			OR = {
+	#				AND = {
+	#					is_vassal = no
+	#					in_sphere = THIS
+	#				}
+	#				vassal_of = THIS
+	#			}
+	#		}
+	#	}
+	#	
+	#	effect = {
+	#		set_country_flag = invited_bulgarians_to_YUG
+	#		BUL = { country_event = 11120 }
+	#	}
+	#	
+	#	ai_will_do = {
+	#		factor = 1
+	#		modifier = {
+	#			factor = 0
+	#			BUL = {
+	#				NOT = {
+	#					OR = {
+	#						AND = {
+	#							part_of_sphere = no
+	#							OR = {
+	#								has_country_flag = newly_released_nation
+	#								relation = { who = THIS value = 100 }
+	#							}
+	#						}
+	#						in_sphere = THIS
+	#						vassal_of = THIS
+	#					}
+	#				}
+	#			}
+	#		}
+	#	}
+	#}
+	#
 	invite_macedonia_to_YUG = {
 		picture = form_yugoslavia
 		potential = {
@@ -1919,6 +1918,31 @@ political_decisions = {
 			MON = { all_core = { remove_core = CRO } }
 			MON = { all_core = { remove_core = DLM } }
 			MON = { all_core = { remove_core = KUK } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	
+	reclamation_of_pannonia = {
+		picture = montenegro_map
+		potential = {
+		tag = CRO
+		NOT = {
+		has_country_flag = reclamation_of_pannonia
+		             }
+		}
+		
+		allow = {
+			war = no
+			owns = 664
+			owns = 818
+		}
+		
+		effect = {
+			set_country_flag = reclamation_of_pannonia
+			SER = { all_core = { add_core = THIS } }
+			DBJ = { all_core = { add_core = THIS } }
+			PNN = { all_core = { add_core = THIS } }
 		}
 		ai_will_do = { factor = 1 }
 	}

@@ -1,7 +1,7 @@
 owner = MRV
 controller = MRV
 
-add_core = SER
+
 trade_goods = cattle
 life_rating = 35
 terrain = pest
@@ -13,5 +13,5 @@ fort = 1
 #}
 1861.1.1 = { railroad = 3 }
 
-add_core = MOR
+
 add_core = MRV

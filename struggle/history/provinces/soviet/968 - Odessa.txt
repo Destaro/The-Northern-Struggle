@@ -8,3 +8,5 @@ life_rating = 35
 terrain = odessa
 naval_base = 1
 
+
+add_core = CRO

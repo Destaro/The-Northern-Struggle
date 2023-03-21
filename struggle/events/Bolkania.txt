@@ -7,8 +7,8 @@ country_event = {
 	picture = "danishgovernment"
 	fire_only_once = yes
 	trigger = {
-	POL = { vassal_of = THIS}
-	PRD = { vassal_of = THIS}
+	POL = { vassal_of = BUL}
+	PRD = { vassal_of = BUL}
 	tag = BUL
     year = 1842
 	
@@ -23,6 +23,7 @@ country_event = {
 		release_vassal = PRD
 		release_vassal = POL
 		prestige = 10
+		set_global_flag = western_revolts
 		war = {
 	target = PRD
 	attacker_goal = { 
@@ -55,6 +56,57 @@ country_event = {
 	   prestige = -15
 	   release_vassal = PRD
 		release_vassal = POL
+		badboy = -5
+		ai_chance = { factor = 50 }
+	   }
+}
+
+
+#southernrevolt
+country_event = {
+
+	id = 777008
+	title = "EVTNAME777008" #southernrevolt
+	desc = "EVTDESC777008"
+	picture = "danishgovernment"
+	fire_only_once = yes
+	trigger = {
+	BYE = { vassal_of = BUL}
+	tag = BUL
+    year = 1843
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	option = {
+		name = "EVTOPTB777010" #southernrevolt
+		set_global_flag = southern_revolt
+		release_vassal = BYE
+		prestige = 10
+		war = {
+	target = BYE
+	attacker_goal = { 
+	casus_belli = make_puppet
+	
+	 }
+	defender_goal = { 
+	casus_belli = humiliate 
+	                         }
+		
+	       }
+		   
+		   
+		   
+		   ai_chance = { factor = 50 }
+       }
+	   
+	   option = { 
+	   name = "EVTOPTA777009" #southernrevolt
+	   prestige = -15
+	   release_vassal = BYE
 		badboy = -5
 		ai_chance = { factor = 50 }
 	   }

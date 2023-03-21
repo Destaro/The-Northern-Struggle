@@ -2,9 +2,10 @@ owner = WAL
 controller = WAL
 
 add_core = SER
-add_core = YUG
+
 trade_goods = iron
 life_rating = 35
 
 add_core = MOL
 add_core = WAL
+add_core = ROM

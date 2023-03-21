@@ -9,5 +9,5 @@ terrain = lodz
 
 add_core = SLV
 
-add_core = MOR
+
 add_core = MRV

@@ -2,8 +2,9 @@ owner = MOL
 controller = MOL
 
 add_core = SER
-add_core = YUG
+
 trade_goods = timber
 life_rating = 35
 
 add_core = MOL
+add_core = ROM

@@ -1,9 +1,9 @@
-owner = BUL
-controller = BUL
+owner = PRD
+controller = PRD
 
 add_core = UBD
 trade_goods = fish
 life_rating = 40
 1861.1.1 = { railroad = 3 }
-add_core = BUL
+add_core = PRD
 add_core = LIT

@@ -1,10 +1,11 @@
-owner = BUL
-controller = BUL
+owner = BKV
+controller = BKV
 
-add_core = BYE
+
 
 trade_goods = cattle
 life_rating = 35
 
 
-add_core = BUL
+
+add_core = BKV

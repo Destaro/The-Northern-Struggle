@@ -9,7 +9,7 @@ life_rating = 35
 terrain = lvov
 
 
-add_core = BKV
-add_core = MOR
+
+
 
 add_core = MRV

@@ -5,6 +5,7 @@ controller = MRV
 trade_goods = coal
 life_rating = 35
 
-add_core = BKV
-add_core = MOR
+
+
 add_core = MRV
+add_core = CRO

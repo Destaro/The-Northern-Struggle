@@ -1,6 +1,6 @@
-owner = UKR
-controller = UKR
-
+owner = BUL
+controller = BUL
+add_core = BUL
 add_core = UKR
 trade_goods = coal
 life_rating = 35

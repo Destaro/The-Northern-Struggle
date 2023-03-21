@@ -3,25 +3,25 @@
 #Oradea (844000/211000 POPS) #part of Romania today
 647 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1250  
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 6500  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1350
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 76900   
 	}
@@ -315,73 +315,73 @@
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 100  
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 400 
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 225 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 150  
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 700 
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 150
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 10500  
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 150 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 225    
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 1200   
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 21275     
 	}
@@ -443,19 +443,19 @@
 #Orsova (376000/94000 POPS) #part of Romania today
 653 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 225    
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 1200   
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 150
 	}
@@ -467,25 +467,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 600 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2600
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 52600 
 	}
@@ -531,25 +531,25 @@
 #Cluj (156000/44000 POPS)  
 654 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 225 
 	}
 	
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1200
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 250
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 20325 
 	}
@@ -671,31 +671,31 @@
 #Gyulafehervar/Alba Iulia (316000/79000 POPS)  
 655 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 525 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2800
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 25125 
 	}
 	
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 5000 
 	}
@@ -707,13 +707,13 @@
 	}
 	
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 20000 
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 600    
 	}
@@ -799,91 +799,91 @@
 #Deva (252000/63000 POPS)  
 656 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 425 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 31575 
 	}
 	
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 15000
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 550   
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 150  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 2175 
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 700  
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 50      
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 300    
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 4900      
 	}
@@ -915,31 +915,31 @@
 #Nagyszeben/Sibiu (276000/69000 POPS)  
 657 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 350 
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1800
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 350
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 31500
 	}
@@ -951,55 +951,55 @@
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 200   
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 125  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 2100   
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 350  
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 75      
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 250    
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 50
 	}
@@ -1037,25 +1037,25 @@
 #Brasso/Brasov (168000/42000 POPS)  
 659 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 225
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1250 
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 250
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 22275
 	}
@@ -1195,19 +1195,19 @@
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 750  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 12150   
 	}
@@ -1329,31 +1329,31 @@
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 600  
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 75      
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 400    
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 6850      
 	}
@@ -1439,31 +1439,31 @@
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 14175   
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 900  
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 300      
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 1600    
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 325
 	}
@@ -1527,19 +1527,19 @@
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 700 
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 14025   
 	}
@@ -1603,43 +1603,43 @@
 #Bucharest (260000/65000 POPS)  
 664 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 4100 
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 350 
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 300 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 600 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 10000
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 81650
 	}
@@ -1659,31 +1659,31 @@
 #Tirgu Jiu (172000/43000 POPS)  
 665 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 750 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 400 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1950
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 58500 
 	}
@@ -1703,31 +1703,31 @@
 #Craiova (196000/49000 POPS)  
 666 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 900 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 450 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2250
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 4050 
 	}	
 	
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
@@ -1745,7 +1745,7 @@
 	}	
 	
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 55950 
 	}
@@ -1759,31 +1759,31 @@
 #Tirgoviste (188000/47000 POPS)  
 667 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 750 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 425 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2150
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 52025
 	}
@@ -1803,19 +1803,19 @@
 #Braila (272000/68000 POPS)  
 668 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1200 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 625 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 3100
 	}
@@ -1833,13 +1833,13 @@
 	}	
 	
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 62075
 	}
@@ -1859,25 +1859,25 @@
 #Calarasi (140000/35000 POPS)  
 669 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 650 
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 325 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1600
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
@@ -1889,7 +1889,7 @@
 	}	
 	
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 50425
 	}
@@ -1959,7 +1959,7 @@
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 5000
 	}
@@ -2041,7 +2041,7 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 1050 
 	}
@@ -2097,7 +2097,7 @@
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 30000
 	}
@@ -2687,61 +2687,61 @@
 #Zalau (300000/75000 POPS)  
 3661 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 20 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 500 
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 2000 
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 40 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1000 
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 3000 
 	}
@@ -2783,25 +2783,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 75    
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 425  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 2025  
 	}
@@ -2834,91 +2834,91 @@
 #Zalau (300000/75000 POPS)  
 3662 = {
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 40 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 1000 
 	}
 
 	serfs = {
-		culture = bulgarian
+		culture = serb
 		religion = orthodox
 		size = 3000 
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 5   
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 10  
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 10  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = catholic
 		size = 350   
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 400  
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 75    
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 425  
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 675
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = serb
 		religion = protestant
 		size = 2025  
 	}

@@ -1,6 +1,6 @@
-owner = MRV
-controller = MRV
-add_core = MOL
+owner = CRO
+controller = CRO
+
 add_core = ROM
 trade_goods = fruit
 life_rating = 35
@@ -9,4 +9,5 @@ life_rating = 35
 	controller = ROM
 	owner = ROM
 }
-add_core = MRV
+
+add_core = CRO
