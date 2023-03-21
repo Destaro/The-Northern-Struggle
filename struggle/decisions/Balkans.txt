@@ -1943,6 +1943,14 @@ political_decisions = {
 			SER = { all_core = { add_core = THIS } }
 			DBJ = { all_core = { add_core = THIS } }
 			PNN = { all_core = { add_core = THIS } }
+			MRV = {
+			any_owned_province = { 
+			limit = {
+                  culture = pannonian
+                        }			
+			add_core = CRO
+			                }
+			}
 		}
 		ai_will_do = { factor = 1 }
 	}
