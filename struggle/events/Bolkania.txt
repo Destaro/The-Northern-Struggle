@@ -73,7 +73,7 @@ country_event = {
 	trigger = {
 	BYE = { vassal_of = BUL}
 	tag = BUL
-    year = 1843
+    year = 1842
 	
 	}
 	
