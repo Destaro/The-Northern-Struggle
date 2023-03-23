@@ -280,7 +280,7 @@ political_decisions = {
 	#	potential = {
 	#			tag = BOH
 	#			tag = SLV
-	#		}
+	#		
 	#		NOT = {
 	#			exists = CZH
 	#			has_global_flag = czechoslovakia_formed
@@ -379,6 +379,7 @@ political_decisions = {
 #			factor = 1
 #		}
 #	}
+
 	
 	
 	
