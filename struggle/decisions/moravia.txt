@@ -148,4 +148,36 @@ political_decisions = {
 		             	  
 				}
 		 }
+		 
+		 
+		 integrate_the_peoples_of_the_nation = {
+		
+		potential = {
+		
+		tag = MRV
+		 NOT = {
+		 has_country_flag = integrate_the_peoples_of_the_nation
+		 
+		             }
+		 }
+		 
+		 
+		 allow =  {
+		 war = no
+		 revolution_n_counterrevolution = 1
+		  has_country_flag = begin_the_integration
+		 has_country_flag = extend_the_integration
+		 has_country_flag = dominate_the_balkans
+		 }
+		 
+		 effect = {
+		 set_country_flag = integrate_the_peoples_of_the_nation
+		 prestige = 10
+		 add_accepted_culture = serb
+		 add_accepted_culture = slovak
+		 add_accepted_culture = pannonian
+		 add_accepted_culture = croat
+		                 }
+		 
+		 }
 	}
