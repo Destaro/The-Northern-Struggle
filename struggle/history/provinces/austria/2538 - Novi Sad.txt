@@ -1,5 +1,5 @@
-owner = PNN
-controller = PNN
+owner = MRV
+controller = MRV
 
 
 trade_goods = wool

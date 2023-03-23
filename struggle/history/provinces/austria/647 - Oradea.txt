@@ -1,5 +1,5 @@
-owner = SIE
-controller = SIE
+owner = MRV
+controller = MRV
 
 trade_goods = wool
 life_rating = 35
