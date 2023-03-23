@@ -39,6 +39,7 @@ political_decisions = {
 	      }
 		  
 		  effect = {
+		  add_accepted_culture = pannonian
 		  set_country_flag = begin_the_integration
 		  PNN = { all_core = { add_core = THIS } }
 		  SLV = { all_core = { add_core = THIS } }
@@ -175,7 +176,6 @@ political_decisions = {
 		 prestige = 10
 		 add_accepted_culture = serb
 		 add_accepted_culture = slovak
-		 add_accepted_culture = pannonian
 		 add_accepted_culture = croat
 		                 }
 		 
