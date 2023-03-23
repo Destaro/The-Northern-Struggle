@@ -625,7 +625,7 @@ political_decisions = {
 					is_core = PNN
 					is_core = MON
 					is_core = BOS
-					tag = SLV
+					is_core = SLV
 				}
 				add_core = YUG
 			}

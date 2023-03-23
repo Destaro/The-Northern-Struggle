@@ -1,9 +1,9 @@
 political_decisions = { 
 
-integrate_the_west = {
+integrate_the_west_alania = {
    potential = {
       tag = ALN
-	  NOT = { has_country_flag = integrate_the_west}
+	  NOT = { has_country_flag = integrate_the_west_alania}
    
    }
    
@@ -15,7 +15,7 @@ integrate_the_west = {
    
    effect = {
    prestige = 5
-   set_country_flag = integrate_the_west
+   set_country_flag = integrate_the_west_alania
         add_core = 3317
 		add_core = 979
 		add_core = 980

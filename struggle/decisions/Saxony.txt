@@ -296,7 +296,7 @@ political_decisions = {
             
         }
         allow = {
-		is_greater_power = 1
+		is_greater_power = yes
 		revolution_n_counterrevolution = 1
 		war = no
 		GER = { all_core = { owned_by = THIS } }
