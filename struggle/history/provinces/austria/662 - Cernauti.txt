@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = CRO
+controller = CRO
 
 
 trade_goods = fruit
@@ -7,3 +7,4 @@ life_rating = 35
 
 
 add_core = MRV
+add_core = CRO

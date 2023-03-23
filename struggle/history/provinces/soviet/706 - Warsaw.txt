@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = CPL
+controller = CPL
 
 
 trade_goods = cattle
@@ -20,3 +20,4 @@ state_building = {
 1861.1.1 = { railroad = 3 }
 
 add_core = POL
+add_core = CPL

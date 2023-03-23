@@ -1,6 +1,10 @@
 owner = GLC
 controller = GLC
-add_core = GLC
+
 trade_goods = coal
 life_rating = 35
 terrain = farmlandhills
+
+
+
+add_core = GLC

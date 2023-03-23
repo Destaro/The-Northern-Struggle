@@ -3,10 +3,10 @@ controller = WAL
 
 add_core = BOS
 
-add_core = SER
+
 trade_goods = grain
 life_rating = 35
 
-add_core = MOL
+
 add_core = WAL
 add_core = ROM

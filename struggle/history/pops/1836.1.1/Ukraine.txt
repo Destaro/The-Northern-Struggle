@@ -676,25 +676,25 @@
 #Lvov (660000/165000 POPS) #now part of Ukraine 
 702 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 750
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1000
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 77050
 	}
@@ -872,25 +872,25 @@
 #Stryi (404000/101000 POPS) #now part of Ukraine  
 951 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 475
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2550
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 47475
 	}
@@ -952,32 +952,32 @@
 #Ternopil (1136000/284000 POPS) #now part of Ukraine  
 952 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1950
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 9900
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1950
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 184200
 	}
 	
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 80000
 	}
@@ -1045,25 +1045,25 @@
 #Stanislavov (376000/94000 POPS) #now part of Ukraine  
 953 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 500
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2650
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 525
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 48325
 	}
@@ -1133,31 +1133,31 @@
 #Vinnitsa (492000/123000 POPS)
 954 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1100
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 5850
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1050
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 46100
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -1229,25 +1229,25 @@
 	}
 
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 675
 	}
 
 	bureaucrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 175
 	}
 
 	officers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50
 	}
@@ -1255,31 +1255,31 @@
 #Mohyliv (492000/123000 POPS)
 3298 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1100
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 5850
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1050
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 46100
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -1351,25 +1351,25 @@
 	}
 
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 675
 	}
 
 	bureaucrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 175
 	}
 
 	officers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50
 	}
@@ -1377,31 +1377,31 @@
 #Proskorov (496000/124000 POPS)
 955 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 950
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2450
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4400
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 40200
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -1463,31 +1463,31 @@
 #Rovne (460000/115000 POPS)
 956 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 825
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2400
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1000
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 43775
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 40000
 	}
@@ -1549,31 +1549,31 @@
 #Kovel (444000/111000 POPS)
 957 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 825
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2350
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4400
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 37450
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 40000
 	}
@@ -1637,55 +1637,55 @@
 #Kiev (492000/123000 POPS)
 958 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1300
 	}
 
 	bureaucrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 250
 	}
 
 	officers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 600
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 900
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 10000
 	}
 	
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 5400
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 34900
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -1757,31 +1757,31 @@
 	}
 
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 450
 	}
 
 	officers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 100
 	}
 	
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 250
 	}
@@ -1789,37 +1789,37 @@
 #Korosten (448000/112000 POPS)
 959 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1700
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 875
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2100
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4400
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 29925
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -1881,37 +1881,37 @@
 #Zhitomir (460000/115000 POPS)
 960 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1600
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1100
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2600
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4400
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 40375
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -2190,37 +2190,37 @@
 #Chernigov (616000/154000 POPS)
 962 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 2500
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1000
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 5000
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 6100
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 47500
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 50000
 	}
@@ -2304,37 +2304,37 @@
 #Perejeslaw (616000/154000 POPS)
 3549 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1000
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 900
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4000
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 8100
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 26500
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 35000
 	}

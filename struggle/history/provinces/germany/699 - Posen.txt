@@ -1,7 +1,7 @@
 owner = PML
 controller = PML
 add_core = PML
-add_core = PZN
+
 trade_goods = grain
 terrain = pozan
 life_rating = 40

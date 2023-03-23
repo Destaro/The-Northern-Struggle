@@ -1,6 +1,6 @@
-owner = MRV
-controller = MRV
-add_core = MRV
+owner = SLV
+controller = SLV
+
 
 add_core = SLV
 trade_goods = grain

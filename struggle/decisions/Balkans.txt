@@ -512,7 +512,7 @@ political_decisions = {
 			is_vassal = no
 			prestige = 30
 			nationalism_n_imperialism = 1
-			670 = {
+			643 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -527,7 +527,7 @@ political_decisions = {
 					war = no
 				}
 			}
-			641 = {
+			670 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -542,7 +542,7 @@ political_decisions = {
 					war = no
 				}
 			}			
-			652 = {
+			664 = {
 				owner = {
 					OR = {
 						tag = THIS
@@ -558,21 +558,7 @@ political_decisions = {
 				}
 			}
 			
-			633 = {
-				owner = {
-					OR = {
-						tag = THIS
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-					NOT = { truce_with = THIS }
-					war = no
-				}
-			}
+			
 		}
 
 		effect = {
@@ -587,6 +573,7 @@ political_decisions = {
 			CRO = { all_core = { add_core = YUG } }
 			PNN = { all_core = { add_core = YUG } }
 			BOS = { all_core = { add_core = YUG } }
+			SLV = { all_core = { add_core = YUG } }
 			random_owned = {
 				limit = { owner = { accepted_culture = north_italian } }
 				owner = { remove_accepted_culture = north_italian }
@@ -597,6 +584,7 @@ political_decisions = {
 					add_accepted_culture = serb
 					add_accepted_culture = croat
 					add_accepted_culture = slovene
+					add_accepted_culture = slovak
 					add_accepted_culture = montenegrin
 				}
 			}
@@ -621,7 +609,7 @@ political_decisions = {
 						tag = PNN
 						tag = MON
 						tag = BOS
-					
+					    tag = SLV
 					}
 					in_sphere = THIS
 					NOT = {
@@ -636,6 +624,7 @@ political_decisions = {
 					is_core = PNN
 					is_core = MON
 					is_core = BOS
+					tag = SLV
 				}
 				add_core = YUG
 			}
@@ -1926,7 +1915,10 @@ political_decisions = {
 	reclamation_of_pannonia = {
 		picture = montenegro_map
 		potential = {
+		OR = {
 		tag = CRO
+		tag = SER
+		           }
 		NOT = {
 		has_country_flag = reclamation_of_pannonia
 		             }
@@ -1935,7 +1927,9 @@ political_decisions = {
 		allow = {
 			war = no
 			owns = 664
+			owns = 675
 			owns = 818
+			owns = 670
 		}
 		
 		effect = {
@@ -1943,14 +1937,8 @@ political_decisions = {
 			SER = { all_core = { add_core = THIS } }
 			DBJ = { all_core = { add_core = THIS } }
 			PNN = { all_core = { add_core = THIS } }
-			MRV = {
-			any_owned_province = { 
-			limit = {
-                  culture = pannonian
-                        }			
-			add_core = CRO
-			                }
-			}
+			CRO = { all_core = { add_core = THIS } }
+	
 		}
 		ai_will_do = { factor = 1 }
 	}

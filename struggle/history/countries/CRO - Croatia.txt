@@ -1,4 +1,4 @@
-capital = 771
+capital = 670
 primary_culture = croat
 religion = catholic
 government = absolute_monarchy
@@ -6,6 +6,7 @@ plurality = 0.05
 nationalvalue = nv_order
 literacy = 0.2
 civilized = yes
+oob = "CRO_oob.txt"
 
 # Political reforms
 slavery = no_slavery

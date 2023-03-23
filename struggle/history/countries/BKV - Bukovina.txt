@@ -1,6 +1,7 @@
-capital = 662
-primary_culture = romanian
+capital = 1016
+primary_culture = russian
 culture = ukrainian
+culture = byelorussian
 religion = orthodox
 government = democracy
 plurality = 0.0

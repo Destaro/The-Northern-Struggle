@@ -1,0 +1,85 @@
+political_decisions = {
+	
+	centralize_magna = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = centralize_magna }
+			   SIE = { vassal_of = THIS }
+			   PNN = { vassal_of = THIS }
+			   SLV = { vassal_of = THIS }
+			   PZN = { vassal_of = THIS }
+			   AUS = { vassal_of = THIS }
+			   }
+	      
+		  allow = {
+				war = no
+				civilized = yes
+				nationalism_n_imperialism = 1
+			SIE = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
+			
+			SLV = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			
+			PNN = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			 
+			 PZN = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			 AUS = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+	      }
+		  
+		  effect = {
+		  set_country_flag = centralize_magna
+		  AUS = { all_core = { add_core = THIS } }
+		  SIE = { all_core = { add_core = THIS } }
+		  PNN = { all_core = { add_core = THIS } }
+		  PZN = { all_core = { add_core = THIS } }
+		  SLV = { all_core = { add_core = THIS } }
+		  inherit = SIE
+		  inherit = SLV
+		  inherit = PNN
+		  inherit = AUS
+		  inherit = PZN
+		  prestige = 20
+		  badboy = -1
+		             	  
+				}
+		 }
+	}

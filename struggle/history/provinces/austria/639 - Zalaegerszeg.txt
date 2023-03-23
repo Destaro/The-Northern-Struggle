@@ -1,9 +1,10 @@
-owner = MRV
-controller = MRV
+owner = PNN
+controller = PNN
 
 add_core = AUS
 trade_goods = cattle
 life_rating = 35
 
 
-add_core = MRV
+
+add_core = PNN

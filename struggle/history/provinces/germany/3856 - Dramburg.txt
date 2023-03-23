@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = CPL
+controller = CPL
 
 
 trade_goods = grain
@@ -9,3 +9,4 @@ life_rating = 40
 
 
 add_core = POL
+add_core = CPL

@@ -1,5 +1,5 @@
-owner = BUL
-controller = BUL
+owner = CPL
+controller = CPL
 
 
 
@@ -8,5 +8,5 @@ controller = BUL
 trade_goods = grain
 life_rating = 35
 
-add_core = BUL
+add_core = CPL
 add_core = LIT

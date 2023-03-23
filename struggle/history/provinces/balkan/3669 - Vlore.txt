@@ -1,6 +1,5 @@
-owner = AOM
-controller = AOM
-add_core = AOM
+owner = RUM
+controller = RUM
 add_core = ALB
 add_core = RUM
 trade_goods = cattle

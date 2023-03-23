@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = PNN
+controller = PNN
 
 
 trade_goods = fruit
@@ -8,4 +8,5 @@ life_rating = 35
 
 
 
-add_core = MRV
+
+add_core = PNN

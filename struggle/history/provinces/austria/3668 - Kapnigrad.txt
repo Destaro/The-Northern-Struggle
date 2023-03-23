@@ -1,8 +1,9 @@
-owner = MRV
-controller = MRV
+owner = AUS
+controller = AUS
 
 trade_goods = iron
 life_rating = 35
 
 
-add_core = MRV
+
+add_core = AUS

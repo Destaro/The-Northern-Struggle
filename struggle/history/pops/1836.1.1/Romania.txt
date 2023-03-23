@@ -143,25 +143,25 @@
 #Szatmare (444000/111000 POPS) #part of Romania today 
 651 = {
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 500  
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 2500  
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 550
 	}
 
 	serfs = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 47450  
 	}
@@ -173,55 +173,55 @@
 	}
 
 	aristocrats = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 1250 
 	}
 
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 900 
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 15475 
 	}
 
 	aristocrats = {
-		culture = serb
+		culture = pannonian
 		religion = protestant
 		size = 1500
 	}
 
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = protestant
 		size = 225    
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = protestant
 		size = 1300   
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = protestant
 		size = 250
 	}
@@ -233,25 +233,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = jewish
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = jewish
 		size = 25
 	}
 
 	farmers = {
-		culture = serb
+		culture = pannonian
 		religion = jewish
 		size = 825     
 	}
@@ -2687,61 +2687,61 @@
 #Zalau (300000/75000 POPS)  
 3661 = {
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 20 
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 500 
 	}
 
 	serfs = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 2000 
 	}
 	
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 40 
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 1000 
 	}
 
 	serfs = {
-		culture = serb
+		culture = pannonian
 		religion = orthodox
 		size = 3000 
 	}
@@ -2783,25 +2783,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 75    
 	}
 
 	artisans = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 425  
 	}
 
 	soldiers = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = serb
+		culture = pannonian
 		religion = catholic
 		size = 2025  
 	}

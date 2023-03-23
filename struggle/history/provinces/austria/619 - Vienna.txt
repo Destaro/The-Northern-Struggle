@@ -1,6 +1,6 @@
-owner = MRV
-controller = MRV
-add_core = MRV
+owner = AUS
+controller = AUS
+
 trade_goods = grain
 life_rating = 35
 terrain = vienna
@@ -33,3 +33,4 @@ state_building = {
 		upgrade = yes
 	}
 }
+add_core = AUS

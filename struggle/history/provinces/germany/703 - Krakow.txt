@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = PZN
+controller = PZN
 add_core = POL
 
 trade_goods = coal
@@ -11,6 +11,9 @@ terrain = krakow
 }
 1861.1.1 = { railroad = 3 }
 
-add_core = SLV
-add_core = MOR
-add_core = MRV
+
+
+
+
+add_core = GLM
+add_core = PZN

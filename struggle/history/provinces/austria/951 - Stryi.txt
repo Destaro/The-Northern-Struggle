@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = GLM
+controller = GLM
 
 
 
@@ -9,4 +9,8 @@ life_rating = 35
 
 
 
-add_core = MRV
+
+
+
+
+add_core = GLM

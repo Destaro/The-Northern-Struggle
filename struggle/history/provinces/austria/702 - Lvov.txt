@@ -1,6 +1,6 @@
-owner = MRV
-controller = MRV
-add_core = GLM
+owner = GLM
+controller = GLM
+
 
 add_core = POL
 
@@ -12,4 +12,7 @@ terrain = lvov
 
 
 
-add_core = MRV
+
+
+
+add_core = GLM

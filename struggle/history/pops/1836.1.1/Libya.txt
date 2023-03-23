@@ -959,32 +959,32 @@
 }
 3521 = {
 	aristocrats = {
-		culture = tuareg
+		culture = high_saxon
 		religion = punic_church
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = high_saxon
 		religion = punic_church
-		size = 15
+		size = 515
 	}
 
 
 	soldiers = {
-		culture = tuareg
+		culture = high_saxon
 		religion = punic_church
-		size = 65
+		size = 965
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = high_saxon
 		religion = punic_church
-		size = 900
+		size = 40900
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = high_saxon
 		religion = punic_church
 		size = 1000
 	}

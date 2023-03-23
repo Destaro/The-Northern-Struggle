@@ -734,43 +734,43 @@
 #Krusevo
 3481 = {
 	clergymen = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 325
 	}
 
 	artisans = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 4000
 	}
 
 	soldiers = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 20062
 	}
 	
 	clergymen = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 4000
 	}
 
 	soldiers = {
-		culture = aromanian
+		culture = frankish
 		religion = orthodox
 		size = 1000
 	}
