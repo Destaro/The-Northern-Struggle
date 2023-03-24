@@ -1,5 +1,5 @@
 capital = 1058
-primary_culture = ugrian
+primary_culture = tatar
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

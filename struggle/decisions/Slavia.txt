@@ -34,7 +34,6 @@ form_slavia = {
 		    add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
 			add_accepted_culture = bulgarian
-			add_accepted_culture = czech
 			add_accepted_culture = slovak
 		   add_accepted_culture = pannonian
            add_accepted_culture = polish
@@ -71,10 +70,10 @@ rescue_the_sorbians = {
 		557 = { add_core = LUZ }
 		680 = { remove_core = LUZ }
 		692 = { remove_core = LUZ }
-		LUZ = { all_core = { add_core = LUZ } }
+		LUZ = { all_core = { add_core = THIS } }
             add_accepted_culture = sorbian
 			war = {
-                target = BDB
+                target = WES
                 attacker_goal = {
                     casus_belli = acquire_all_cores
                 }

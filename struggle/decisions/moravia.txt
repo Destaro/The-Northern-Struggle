@@ -42,7 +42,9 @@ political_decisions = {
 		 
 		 integrate_the_poles = {
 	           potential = {
-			   tag = MRV		   
+			   OR = {
+			   tag = MRV	
+               tag = BUL        }			   
 			   NOT = { has_country_flag = integrate_the_poles }
 			
 			   }

@@ -1,5 +1,5 @@
-owner = BKV
-controller = BKV
+owner = BUL
+controller = BUL
 
 
 
@@ -8,4 +8,4 @@ life_rating = 35
 
 
 
-add_core = BKV
+add_core = BUL

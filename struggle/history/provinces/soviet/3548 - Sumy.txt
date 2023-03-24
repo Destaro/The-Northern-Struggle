@@ -1,5 +1,5 @@
-owner = BKV
-controller = BKV
+owner = BUL
+controller = BUL
 
 
 trade_goods = cattle
@@ -7,4 +7,4 @@ life_rating = 15
 
 
 
-add_core = BKV
+add_core = BUL

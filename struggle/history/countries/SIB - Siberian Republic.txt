@@ -1,14 +1,11 @@
 capital = 1064
-primary_culture = russian
-culture = byelorussian
-culture = ukrainian
-culture = siberian
+primary_culture = siberian
 religion = orthodox
 government = democracy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.01
-civilized = yes
+civilized = no
 
 # Political reforms
 slavery = no_slavery

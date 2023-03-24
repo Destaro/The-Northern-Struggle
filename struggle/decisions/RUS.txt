@@ -44,6 +44,20 @@ form_ruthenia = {
 				}
 			}
 			
+			BKV = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+			
 			
 			BUL = {
 				all_core = {
@@ -86,6 +100,55 @@ form_ruthenia = {
 		ai_will_do = {
 			factor = 1
 		}
+	}
+	
+	claim_siberia = { 
+	potential = { 
+	       tag = RUT  
+		   NOT = { has_country_flag = claim_siberia }
+		                }
+	
+	allow = { 
+	     revolution_n_counterrevolution = 1
+		 RUT = { all_core = { owned_by = THIS } }
+		 war = no
+		 
+		 }
+	
+	effect = {
+	set_country_flag = claim_siberia
+          URA = { all_core = { add_core = THIS } }
+		  SIB = { all_core = { add_core = THIS } }
+		  
+		  prestige = 10
+             	}
+	
+	
+	}
+	
+	claim_the_southern_khanates = { 
+	potential = { 
+	       tag = RUT  
+		   NOT = { has_country_flag = claim_the_southern_khanates }
+		                }
+	
+	allow = { 
+	     revolution_n_counterrevolution = 1
+		 RUT = { all_core = { owned_by = THIS } }
+		 war = no
+		 SIB = { all_core = { owned_by = THIS } }
+		 URA = { all_core = { owned_by = THIS } }
+		 }
+	
+	effect = {
+	set_country_flag = claim_the_southern_khanates
+          KAZ = { all_core = { add_core = THIS } }
+		  ALN = { all_core = { add_core = THIS } }
+		  
+		  prestige = 10
+             	}
+	
+	
 	}
 	
 	
