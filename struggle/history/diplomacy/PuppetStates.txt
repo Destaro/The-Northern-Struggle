@@ -84,13 +84,7 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
-#Greater Poland - Prussy
-substate = {
-	first = POL
-	second = PRD
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
+
 #Mittelafrika
 substate = {
 	first = GER
