@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
+owner = ALB
+controller = ALB
 
 
 
@@ -9,3 +9,4 @@ life_rating = 35
 
 add_core = WAL
 add_core = ROM
+add_core = ALB

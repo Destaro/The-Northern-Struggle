@@ -716,64 +716,64 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 
-	we_are_italian = {
-		picture = form_italy
-		potential = {
-			OR = {
-				tag = CRS
-				tag = TRE
-				tag = LOM
-				tag = VEN
-				tag = RMG
-				tag = SRD
-				tag = SYC
-			}
-			exists = yes
-			NOT = { has_country_flag = we_are_italian }
-		}
-
-		allow = {
-			war = no
-		}
-
-		effect = {
-			set_country_flag = we_are_italian
-			all_core = { add_core = ITA }
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = north_italian
-						has_pop_culture = south_italian
-					}
-				}
-				militancy = -4
-			}
-			random_country = {
-				limit = {
-					is_culture_group = italian
-					is_greater_power = yes
-					THIS = {
-						NOT = { sphere_owner = { is_culture_group = italian } }
-					}
-				}
-				diplomatic_influence = {
-					who = THIS
-					value = 100
-				}
-			}
-			any_country = {
-				limit = {
-					is_culture_group = italian
-				}
-				relation = {
-					who = THIS
-					value = 100
-				}
-			}
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
+	#we_are_italian = {
+	#	picture = form_italy
+	#	potential = {
+	#		OR = {
+	#			tag = CRS
+	#			tag = TRE
+	#			tag = LOM
+	#			tag = VEN
+	#			tag = RMG
+	#			tag = SRD
+	#			tag = SYC
+	#		}
+	#		exists = yes
+	#		NOT = { has_country_flag = we_are_italian }
+	#	}
+    #
+	#	allow = {
+	#		war = no
+	#	}
+    #
+	#	effect = {
+	#		set_country_flag = we_are_italian
+	#		all_core = { add_core = ITA }
+	#		any_pop = {
+	#			limit = {
+	#				OR = {
+	#					has_pop_culture = north_italian
+	#					has_pop_culture = south_italian
+	#				}
+	#			}
+	#			militancy = -4
+	#		}
+	#		random_country = {
+	#			limit = {
+	#				is_culture_group = italian
+	#				is_greater_power = yes
+	#				THIS = {
+	#					NOT = { sphere_owner = { is_culture_group = italian } }
+	#				}
+	#			}
+	#			diplomatic_influence = {
+	#				who = THIS
+	#				value = 100
+	#			}
+	#		}
+	#		any_country = {
+	#			limit = {
+	#				is_culture_group = italian
+	#			}
+	#			relation = {
+	#				who = THIS
+	#				value = 100
+	#			}
+	#		}
+	#	}
+	#	
+	#	ai_will_do = { factor = 1 }
+	#}
 
 	unite_with_tuscany = {
 		picture = gtfo

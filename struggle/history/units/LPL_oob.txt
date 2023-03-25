@@ -31,7 +31,7 @@ army = {
 	regiment = {
 		name= "1.1ra división de infantería"
 		type = infantry
-		home = 2348
+		home = 2349
 	}
 
 	regiment = {
@@ -112,13 +112,13 @@ army = {
 	regiment = {
 		name= "1.1ra división de infantería"
 		type = infantry
-		home = 2305
+		home = 2324
 	}
 
 	regiment = {
 		name= "2.1ra división de infantería"
 		type = infantry
-		home = 2323
+		home = 2326
 	}
 
 	regiment = {
@@ -130,19 +130,19 @@ army = {
 	regiment = {
 		name= "1.1ra división de caballería"
 		type = cuirassier
-		home = 2325
+		home = 2328
 	}
 
 	regiment = {
 		name= "2.1ra división de caballería"
 		type = cuirassier
-		home = 2326
+		home = 2325
 	}
 
 	regiment = {
 		name= "3.1ra división de caballería"
 		type = cuirassier
-		home = 2328
+		home = 2324
 	}
 
 }

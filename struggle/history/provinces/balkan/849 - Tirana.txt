@@ -1,6 +1,8 @@
-owner = ALB
-controller = ALB
+owner = EPI
+controller = EPI
 
-add_core = ALB
+
 trade_goods = grain
 life_rating = 35
+
+add_core = EPI

@@ -1,7 +1,7 @@
 owner = DBJ
 controller = DBJ
 
-add_core = WAL
+
 add_core = ROM
  
 trade_goods = grain

@@ -62,6 +62,70 @@
 		size = 3625
 	}
 }
+
+#tuzqala
+3461 = {
+	bureaucrats = {
+		culture = kazak
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 35
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 15
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 665
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 3625
+	}
+}
+
 #Aqtobe (20000/5000 POPS)
 1183 = {
 	aristocrats = {

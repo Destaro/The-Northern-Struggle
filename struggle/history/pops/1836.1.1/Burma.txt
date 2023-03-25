@@ -428,6 +428,101 @@
 		size = 6425
 	}
 }
+
+#mongkwang
+3747 = {
+
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 15575
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 50
+	}
+
+	slaves = {
+		culture = kachin
+		religion = animist
+		size = 5600
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 75
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 75
+	}
+
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 350
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 75
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 6425
+	}
+}
+
 #Kyaukse (472000/118000 POPS)
 1335 = {
 	aristocrats = {

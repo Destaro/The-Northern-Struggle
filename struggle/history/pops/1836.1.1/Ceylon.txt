@@ -280,6 +280,259 @@
 		size = 21000
 	}
 }
+
+#sitawaka
+3842 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 4000
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 42500
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 21000
+	}
+}
+
+#vanni
+3843 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 4000
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 42500
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 21000
+	}
+}
+
+#mannar
+3845 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 50
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 50
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 400
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 2500
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 1000
+	}
+}
+
+#madakalapuwa
+3844 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 4000
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 42500
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 21000
+	}
+}
+
 #Kandy (304000/76000 POPS)
 1323 = {
 	aristocrats = {

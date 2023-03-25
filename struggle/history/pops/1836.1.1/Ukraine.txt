@@ -738,7 +738,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size = 650
+		size = 1650
 	}
 
 	serfs = {
@@ -966,7 +966,7 @@
 	soldiers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 1950
+		size = 2950
 	}
 
 	farmers = {
@@ -1009,7 +1009,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size = 700
+		size = 1700
 	}
 
 	farmers = {
@@ -1075,31 +1075,31 @@
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = polish
 		religion = catholic
 		size = 2150
 	}
 
 	clergymen = {
-		culture = croat
+		culture = polish
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = croat
+		culture = polish
 		religion = catholic
 		size = 1650
 	}
 
 	soldiers = {
-		culture = croat
+		culture = polish
 		religion = catholic
-		size = 325
+		size = 2325
 	}
 
 	serfs = {
-		culture = croat
+		culture = polish
 		religion = catholic
 		size = 28550
 	}
