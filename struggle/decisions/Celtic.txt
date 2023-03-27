@@ -123,7 +123,53 @@ form_celts = {
 	}
 
 
-
+integrate_avalon = {
+		potential = {
+			
+			OR = {
+			tag = CEL
+			      }
+			
+			NOT = {
+				
+				
+				has_country_flag = integrate_avalon
+			}
+		}	
+		allow = {
+		prestige = 300
+		machine_guns = 1
+		is_greater_power = yes
+		revolution_n_counterrevolution = 1
+			war = no
+			AVA = { vassal_of = THIS }
+			AVA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}			
+			
+		}
+			
+		effect = {
+		set_country_flag = integrate_avalon
+        add_accepted_culture = avalonian
+			prestige = 5
+					inherit = AVA
+					
+					AVA = { all_core = { add_core = THIS } }
+					
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 
 claim_scotland = {
 		potential = {

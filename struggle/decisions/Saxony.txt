@@ -219,7 +219,7 @@ political_decisions = {
                 
 				attacker_goal = {
                     casus_belli = conquest_any
-                    state_province_id = 680
+                  
                 }
                
                 defender_goal = { 

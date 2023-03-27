@@ -24,40 +24,6 @@ substate = {
 
 
 
-substate = {
-	first = MRV
-	second = AUS
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = MRV
-	second = SIE
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = MRV
-	second = PZN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = MRV
-	second = SLV
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = MRV
-	second = PNN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
 
 #Alan Puppets
 substate = {

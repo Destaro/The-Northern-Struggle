@@ -8,5 +8,5 @@ terrain = boreal
 life_rating = 10
 colonial = 2
 
-add_core = RUS
+
 add_core = FIN

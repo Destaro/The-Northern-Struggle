@@ -377,6 +377,67 @@ country_event = {
 
 
 
+country_event = {
+	id = 4408007
+	title = "EVTNAME4408007" #reorganizingthecelts
+	desc = "EVTDESC4408007"
+	picture = "mexico_soldiers"
+
+	fire_only_once = yes
+
+	trigger = {
+	273 = { owned_by = THIS }
+	263 = { owned_by = THIS }
+		tag = SCA
+		has_country_flag = dismantle_pridain
+		
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVT4408007PTA"
+		any_owned = {
+			limit = { is_core = IRE }
+			secede_province = IRE
+		}
+		
+		any_owned = {
+			limit = { NOT = { is_core = IRE}
+			           is_core = WHA }
+			secede_province = WHA
+		}
+		
+		create_vassal = WHA
+		create_vassal = IRE
+		
+		ai_chance = {
+			factor = 90
+			
+		}	
+	}
+	
+	option = {
+		name = "EVT4408007PTB"
+		prestige = 30
+		any_owned = {
+		limit = {
+		OR = { is_core = IRE
+		       is_core = WHA }
+		                 }
+			militancy = 8
+		}
+		
+		ai_chance = {
+			factor = 10
+			
+		}	
+	}
+
+	
+}
 
 
 country_event = {
