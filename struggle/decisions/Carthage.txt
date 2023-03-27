@@ -72,7 +72,7 @@ political_decisions = {
 				nationalism_n_imperialism = 1
 			owns = 1745
 			owns = 1752
-			owns 1755
+			owns = 1755
 			
 	      }
 		  
