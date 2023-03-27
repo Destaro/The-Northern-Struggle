@@ -6,6 +6,7 @@ country_event = {
 	picture = "danishgovernment"
 	fire_only_once = yes
 	trigger = {
+	war = no
 	tag = RUM
 	NOT = {
 	has_global_flag = the_end_of_rumelia
