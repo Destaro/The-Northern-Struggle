@@ -643,28 +643,26 @@ political_decisions = {
 				exists = YUG
 				is_culture_group = south_slavic
 				has_global_flag = yugoslavia_formed
-				tag = TUR
+				
 			}
 			OR = {
 				primary_culture = french
 				tag = BOR
-				tag = RUS
-				any_owned_province = { is_core = ALB }
-				any_owned_province = { is_core = BUL }
+				any_owned_province = { is_core = SER }
+				any_owned_province = { is_core = CRO }
+				any_owned_province = { is_core = PNN }
 				is_sphere_leader_of = SER
-				is_sphere_leader_of = MON
+				is_sphere_leader_of = PNN
 				is_sphere_leader_of = CRO
 				is_sphere_leader_of = BOS
-				is_sphere_leader_of = SLO
-				is_sphere_leader_of = ALB
-				is_sphere_leader_of = BUL
+				
 			}	
 		}
 		allow = {
 			war = no
 			is_greater_power = yes
 			783 = { NOT = { is_core = THIS } }
-			MON = {
+			SER = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -686,7 +684,7 @@ political_decisions = {
 					}
 				}
 			}
-			BUL = {
+			CRO = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -702,10 +700,10 @@ political_decisions = {
 			set_global_flag = yugoslavia_formed
 			prestige = 20
 			badboy = 2
-			BUL = { all_core = { add_core = YUG } }
-			MON = { all_core = { add_core = YUG } }
-			CRO = { all_core = { add_core = YUG } }
+			
 			BOS = { all_core = { add_core = YUG } }
+			CRO = { all_core = { add_core = YUG } }
+			SER = { all_core = { add_core = YUG } }
 			PNN = { all_core = { add_core = YUG } }
 			TUR_853 = { add_core = YUG }
 			YUG = {
@@ -718,9 +716,9 @@ political_decisions = {
 						tag = MON
 						tag = CRO
 						tag = BOS
-						tag = SLO
+						
 						tag = PNN
-						tag = BUL
+						
 					}
 					ai = yes
 					in_sphere = THIS
@@ -767,10 +765,10 @@ political_decisions = {
 			any_country = {
 				limit = {
 					OR = {
-						tag = AUS
+						
 						tag = KUK
 						tag = HUN
-						tag = TUR
+						
 					}
 					NOT = { tag = THIS }
 				}
