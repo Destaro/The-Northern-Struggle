@@ -88,6 +88,223 @@ political_decisions = {
 		             	  
 				}
 		 }
+		 
+		 claim_andalusia = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = claim_andalusia }
+			   
+			   }
+	      
+		  allow = {
+				war = no
+				is_greater_power = yes
+				civilized = yes
+				revolution_n_counterrevolution = 1
+			ANU = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			TLD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			LST = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = claim_andalusia
+		 ANU = { all_core = { add_core = THIS } }
+         LST = { all_core = { add_core = THIS } }
+		 inherit = ANU
+		 inherit = LST
+		  prestige = 10
+		  badboy = 2
+		             	  
+				}
+		 }
+		 
+		 claim_iberia_itself = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = claim_iberia_itself }
+			   has_country_flag = claim_andalusia
+			   
+			   }
+	      
+		  allow = {
+				war = no
+				is_greater_power = yes
+				civilized = yes
+				revolution_n_counterrevolution = 1
+				year = 1880
+			
+			
+			TLD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			GLC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = claim_iberia_itself
+		  VND = { all_core = { add_core = THIS } }
+		 BSQ = { all_core = { add_core = THIS } }
+         TLD = { all_core = { add_core = THIS } }
+		 GLC = { all_core = { add_core = THIS } }
+		 inherit = TLD
+		 inherit = GLC
+		 inherit 
+		  prestige = 30
+		  badboy = 10
+		             	  
+				}
+		 }
+		 
+		 reclaim_italia = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = reclaim_italia }
+			   
+			   }
+	      
+		  allow = {
+				war = no
+				is_greater_power = yes
+				civilized = yes
+				revolution_n_counterrevolution = 1
+			SIC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			PAP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = reclaim_italia
+		 PAP = { all_core = { add_core = THIS } }
+         ITA = { all_core = { add_core = THIS } }
+		  prestige = 30
+		  badboy = 5
+		             	  
+				}
+		 }
+		 
+		  integrate_the_italians = {
+	           potential = {
+			   tag = TUN		   
+			   NOT = { has_country_flag = integrate_the_italians }
+			   has_country_flag = reclaim_italia
+			   }
+	      
+		  allow = {
+				war = no
+				is_greater_power = yes
+				civilized = yes
+				revolution_n_counterrevolution = 1
+				year = 1880
+			SIC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			TUS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			PAP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = integrate_the_italians
+		add_accepted_culture = south_italian
+		  prestige = 10
+		  
+		             	  
+				}
+		 }
 	}
 	
 	

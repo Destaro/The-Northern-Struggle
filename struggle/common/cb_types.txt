@@ -4680,7 +4680,7 @@ conquest = {
 		}
 	}
 
-	badboy_factor = 2.2
+	badboy_factor = 2.0
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1

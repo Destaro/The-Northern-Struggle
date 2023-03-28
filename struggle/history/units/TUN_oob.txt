@@ -11,6 +11,12 @@ ALD = {
 	influence_value = 0
 }
 
+ANU = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
 KRT = {	
 	value = 125
 	level = 5

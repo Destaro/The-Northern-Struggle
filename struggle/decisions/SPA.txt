@@ -90,7 +90,127 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
+	subjugate_the_north = {
+	potential = {
+     tag = TLD
+           NOT = { has_country_flag = subjugate_the_north }	
+            
+        			}
+	allow = {
+	nationalism_n_imperialism = 1
+	is_greater_power = yes
+    war = no
+	BSQ = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
 	
+	
+	
+	VND = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	GLC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+
+
+          			}
+	effect = {
+	prestige = 20
+	set_country_flag = subjugate_the_north
+	GLC = { all_core = { add_core = THIS } }
+	VND = { all_core = { add_core = THIS } }
+	BSQ = { all_core = { add_core = THIS } }
+        inherit = GLC
+        inherit = VND
+        inherit = BSQ		}
+	
+	}
+	
+	
+	invade_the_south = {
+	potential = {
+          tag = TLD
+          NOT = { has_global_flag = invade_the_south }		 
+		TUN = { war_with = SIC }
+                    		}
+	allow = {
+          war = no
+            		  }
+	effect = {
+    set_global_flag = invade_the_south	
+	badboy = 5
+	
+	war = {
+                target = TUN
+                
+				attacker_goal = {
+                    casus_belli = acquire_state_any
+                  state_province_id = 506
+                }
+				
+				attacker_goal = {
+                    casus_belli = acquire_state_any
+                  state_province_id = 514
+                }
+               
+                defender_goal = { 
+				    casus_belli = cut_down_to_size }
+				
+                   }
+				   
+	war = {
+                target = ANU
+                
+				attacker_goal = {
+                    casus_belli = conquest_any
+                  
+                }
+               
+                defender_goal = { 
+				    casus_belli = cut_down_to_size }
+				
+                   }
+				   
+    war = {
+                target = LST
+                
+				attacker_goal = {
+                    casus_belli = conquest_any
+                  
+                }
+               
+                defender_goal = { 
+				    casus_belli = cut_down_to_size }
+				
+                   }
+	       
+		   }
+	
+	}
 	create_iberia = {
 		potential = {
 			
