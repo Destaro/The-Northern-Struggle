@@ -170,7 +170,7 @@ political_decisions = {
 		war = no
 		WES = { all_core = { owned_by = THIS } }
 		NOT = {
-		POL = { OR = { 
+		PML = { OR = { 
 		           alliance_with = THIS 
 		           vassal_of = THIS 
 				                     }
@@ -179,8 +179,9 @@ political_decisions = {
         }
         effect = {
 		badboy = 1
-           add_core = 680
-		   add_core = 692
+           add_core = 3855
+		   add_core = 681
+		   add_core = 680
             set_country_flag = saxon_claims_in_pomerania
         }
     }
