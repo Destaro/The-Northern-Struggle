@@ -1417,31 +1417,31 @@
 #Leicester (404000/101000 POPS)
 289 = {
 	aristocrats = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 90375
 	}
@@ -1643,31 +1643,31 @@
 #St. Albans (312000/78000 POPS)
 295 = {
 	aristocrats = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 750
 	}
 
 	clergymen = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 1500
 	}
 
 	artisans = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 4000
 	}
 
 	soldiers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 71750
 	}
@@ -2233,43 +2233,43 @@
 #Douglas (46000/11500 POPS)
 304 = {
 	aristocrats = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 3250
 	}
 
 	soldiers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 100
 	}
 
 	labourers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 7600
 	}
 
 	labourers = {
-		culture = british
+		culture = welsh
 		religion = catholic
 		size = 300
 	}

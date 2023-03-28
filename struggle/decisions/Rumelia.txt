@@ -108,4 +108,35 @@ political_decisions = {
 		             	  
 				}
 		 }
+		 
+		 
+		 we_are_roman = {
+	           potential = {
+			   tag = RUM		   
+			   has_country_flag = centralize_rumelia
+			   NOT = { has_country_flag = we_are_roman }
+			  
+			   }
+	      
+		  allow = {
+		  is_greater_power = yes
+		  749 = { owned_by = THIS }
+		  860 = { owned_by = THIS }
+		  754 = { owned_by = THIS }
+				war = no
+		        prestige = 200
+				revolution_n_counterrevolution = 1
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = we_are_roman
+		  ITA = { all_core = { add_core = THIS } }
+		  add_accepted_culture = south_italian
+		  
+		  prestige = 20
+		  badboy = 10
+		             	  
+				}
+		 }
 	}
