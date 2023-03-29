@@ -1,0 +1,54 @@
+army = {
+	name = "Mansure Army"
+	location = 859
+	regiment = {
+		name= "1. Tümeni Firkasi"
+		type = infantry
+		home = 859
+	}
+
+	regiment = {
+		name= "2. Tümeni Firkasi"
+		type = infantry
+		home = 814
+	}
+
+	regiment = {
+		name= "3. Tümeni Firkasi"
+		type = infantry
+		home = 3669
+	}
+	
+	regiment = {
+		name= "4. Tümeni Firkasi"
+		type = infantry
+		home = 823
+	}
+
+	regiment = {
+		name= "5. Tümeni Firkasi"
+		type = infantry
+		home = 825
+	}
+
+	regiment = {
+		name= "6. Tümeni Firkasi"
+		type = infantry
+		home = 828
+	}
+	
+	regiment = {
+		name= "1. Süvari Firkasi"
+		type = cuirassier
+		home = 859
+	}
+
+	
+
+	regiment = {
+		name= "1. Topçu Firkas"
+		type = artillery
+		home = 859
+	}
+
+}
