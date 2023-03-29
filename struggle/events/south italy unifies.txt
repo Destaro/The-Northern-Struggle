@@ -348,10 +348,12 @@ country_event = {
 			months = 12
 		}
 		badboy = 3
+		ai_chance = { factor = 70 }
 	}
 	
 	option = {
 		name = "EVTOPTA2009005B" #accept sicily
 		prestige = -5
+		ai_chance = { factor = 30 }
 	}
 }
