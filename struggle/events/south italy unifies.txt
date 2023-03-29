@@ -233,7 +233,7 @@ country_event = {
     fire_only_once = yes
 	
 		trigger = {
-		melfi_is_right
+		has_global_flag = melfi_is_right
 			tag = MEL
 			year = 1838
 			OR = {
@@ -281,7 +281,7 @@ country_event = {
     fire_only_once = yes
 	
 		trigger = {
-		cosenza_is_right
+		has_global_flag = cosenza_is_right
 			tag = CSZ
 			year = 1838
 			OR = {
