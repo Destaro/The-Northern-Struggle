@@ -3272,7 +3272,7 @@
 	}
 	
 	soldiers = {
-		culture = brazilian
+		culture = vandalic
 		religion = catholic
 		size = 7777
 	}
