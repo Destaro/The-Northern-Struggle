@@ -104,8 +104,64 @@ country_event = {
 	desc = "EVTDESC29992" #Our 3 leaders decided to meet in Castrovillari to decide who will be in charge of this union. The ruler of Amalfi, Duke Alfredo II, says an union between the 3 states should be like any normal alliance. On the other hand the ruler of Melfi, Duke Riccardo the IV, says that it would be best to reunite the old kingdom under an union of kingdoms. But the Grand Master Pantaleone IX of Cosenza says that it would be best to unite the Meridione into a centralized kingdom strong enough to defeat the Punics. A council will be set up and they will decide what idea is the best one.
 	picture = #"castrovillari"
 	fire_only_once = yes
+	trigger = {
+ NOT = { ai = yes }	
+	OR = {
+	tag = CSZ
+	tag = AVR
+	tag = MEL
+	
+	}
+	has_country_flag = the_long_wait
+	
+	}
+	
+	mean_time_to_happen = { days = 30 }
+		option = {
+			name = "EVTOPTA29992" #Amalfi's idea sounds simple.
+			AVR = { prestige = 10 }
+			set_global_flag = aversa_is_right
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+		option = {
+			name = "EVTOPTB29992" #Melfi is right!
+			MEL = { prestige = 10 }
+			set_global_flag = melfi_is_right
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+		option = {
+			name = "EVTOPTC29992" #Yes, I do believe Cosenza's decision will benefit us more.
+			CSZ = { prestige = 10 }
+			set_global_flag = cosenza_is_right
+		ai_chance = {
+			factor = 33
+		}
+	}
+}
+
+## The Meeting Itself for ai ##
+country_event = {
+	id = 27702004
+	title = "EVTNAME29992" #The Meeting
+	desc = "EVTDESC29992" #Our 3 leaders decided to meet in Castrovillari to decide who will be in charge of this union. The ruler of Amalfi, Duke Alfredo II, says an union between the 3 states should be like any normal alliance. On the other hand the ruler of Melfi, Duke Riccardo the IV, says that it would be best to reunite the old kingdom under an union of kingdoms. But the Grand Master Pantaleone IX of Cosenza says that it would be best to unite the Meridione into a centralized kingdom strong enough to defeat the Punics. A council will be set up and they will decide what idea is the best one.
+	picture = #"castrovillari"
+	fire_only_once = yes
 	trigger = { 
-	ai = yes
+	
+	OR = {
+	tag = CSZ
+	tag = AVR
+	tag = MEL
+	AND = { ai = yes }
+	}
+	has_country_flag = the_long_wait
+	
 	}
 	
 	mean_time_to_happen = { days = 30 }
