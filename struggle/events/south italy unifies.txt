@@ -331,8 +331,8 @@ country_event = {
 			OR = {
 			 has_global_flag = cosenza_proposal_succeeds 
 			 has_global_flag = melfi_proposal_succeeds 
-			 has_global_flag = aversa_proposal_succeeds
-			 has_global_flag = no_sicily 
+			
+			 
 			}
 			
 		}
@@ -341,10 +341,11 @@ country_event = {
 
 		option = {
 		name = "EVTOPTA2009005A" #put down the italians
-		add_casus_belli = { 
-		target = SIC
-		type = make_puppet
-		months = 12
+		relation = { who = SIC value = -200 }
+		add_casus_belli = {
+			target = SIC
+			type = make_puppet
+			months = 12
 		}
 		badboy = 3
 	}
