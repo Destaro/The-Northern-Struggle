@@ -1,9 +1,7 @@
 owner = JAP
 controller = JAP
-add_core = KAM
+add_core = JAP
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 10
-colonial = 2
-
-add_core = JAP
+colonial = 1

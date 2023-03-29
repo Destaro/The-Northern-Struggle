@@ -407,6 +407,7 @@ SUL		= "countries/Sulu.txt"
 SWK		= "countries/Sarawak.txt"
 SZC		= "countries/Sichuan.txt"
 TAI		= "countries/Taiwan.txt"
+AIN		= "countries/Ainu.txt"
 
 # Japan
 CHO		= "countries/Choshu.txt"
