@@ -154,6 +154,8 @@ political_decisions = {
 	invade_the_south = {
 	potential = {
           tag = TLD
+		  exists = ANU
+			exists = LST
           NOT = { has_global_flag = invade_the_south }		 
 		TUN = { war_with = SIC }
                     		}

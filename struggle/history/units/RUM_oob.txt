@@ -2,43 +2,43 @@ army = {
 	name = "Mansure Army"
 	location = 859
 	regiment = {
-		name= "1. Tümeni Firkasi"
+		name= "1. Piyade Alayı"
 		type = infantry
 		home = 859
 	}
 
 	regiment = {
-		name= "2. Tümeni Firkasi"
+		name= "2. Piyade Alayı"
 		type = infantry
 		home = 814
 	}
 
 	regiment = {
-		name= "3. Tümeni Firkasi"
+		name= "3. Piyade Alayı"
 		type = infantry
 		home = 3669
 	}
 	
 	regiment = {
-		name= "4. Tümeni Firkasi"
+		name= "4. Piyade Alayı"
 		type = infantry
 		home = 823
 	}
 
 	regiment = {
-		name= "5. Tümeni Firkasi"
+		name= "5. Piyade Alayı"
 		type = infantry
 		home = 825
 	}
 
 	regiment = {
-		name= "6. Tümeni Firkasi"
+		name= "6. Piyade Alayı"
 		type = infantry
 		home = 828
 	}
 	
 	regiment = {
-		name= "1. Süvari Firkasi"
+		name= "1. Süvari Alayı"
 		type = cuirassier
 		home = 859
 	}
@@ -46,7 +46,7 @@ army = {
 	
 
 	regiment = {
-		name= "1. Topçu Firkas"
+		name= "1. Piyade Alayı"
 		type = artillery
 		home = 859
 	}
