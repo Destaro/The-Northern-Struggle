@@ -20,10 +20,78 @@ political_decisions = {
 		}
 		
 		effect = {
-		badboy = 1
 		SAX = { all_core = { add_core = THIS } }
 		set_country_flag = integrate_lausic
 		
+		}
+       
+ 
+ }
+ 
+  integrate_austria = {
+ potential = {
+             
+			OR = {
+			
+			tag = SGF
+			tag = GER
+			
+			}
+         NOT = {
+            has_country_flag = integrate_austria	 
+		 }
+                      }
+					  
+	    allow = {
+		is_greater_power = yes
+		 AUS = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		AUS = { all_core = { add_core = THIS } }
+		set_country_flag = integrate_austria
+		
+		}
+       
+ 
+ }
+ 
+ 
+  push_west = {
+ potential = {
+             has_country_flag = integrate_frisia
+			 has_country_flag = integrate_net
+			tag = GER
+         NOT = {
+            has_country_flag = push_west
+		                                   }
+                      }
+					  
+	    allow = {
+		prestige = 300
+		military_score = 200
+		is_greater_power = yes
+		owns = 571
+		owns = 574
+		 war = no
+		 revolution_n_counterrevolution = 1
+		}
+		
+		effect = {
+		add_core = 575
+		add_core = 3378
+		add_core = 572
+		add_core = 574
+		add_core = 571
+		add_core = 3254
+		add_core = 3563
+		add_core = 409
+		add_core = 410
+		add_core = 604
+		set_country_flag = push_west
+		badboy = 6
+		prestige = 20
 		}
        
  

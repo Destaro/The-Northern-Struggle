@@ -1,3 +1,5 @@
+owner = KAZ
+controller = KAZ
 add_core = KAZ
 terrain = semidesert
 trade_goods = fish

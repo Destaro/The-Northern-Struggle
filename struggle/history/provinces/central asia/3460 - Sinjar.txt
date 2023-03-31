@@ -1,5 +1,6 @@
-owner = EDE
-controller = EDE
+owner = ASY
+controller = ASY
+add_core = ASY
 add_core = EDE
 add_core = IRQ
 add_core = KDS

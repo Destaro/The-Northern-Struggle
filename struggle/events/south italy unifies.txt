@@ -342,11 +342,7 @@ country_event = {
 		option = {
 		name = "EVTOPTA2009005A" #put down the italians
 		relation = { who = SIC value = -200 }
-		add_casus_belli = {
-			target = SIC
-			type = make_puppet
-			months = 12
-		}
+		SIC = { add_casus_belli = { target = TUN type = make_puppet months = 24 } }
 		badboy = 3
 		ai_chance = { factor = 70 }
 	}

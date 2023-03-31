@@ -9091,6 +9091,63 @@
 	}
 }
 
+#puri
+3789 = {
+	aristocrats = {
+		culture = oriya
+		religion = hindu
+		size = 200
+	}
+
+	clergymen = {
+		culture = oriya
+		religion = hindu
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = oriya
+		religion = hindu
+		size = 50
+	}
+
+	artisans = {
+		culture = oriya
+		religion = hindu
+		size = 1000
+	}
+	
+	artisans = {
+		culture = oriya
+		religion = hindu
+		size = 200
+	}
+
+	soldiers = {
+		culture = oriya
+		religion = hindu
+		size = 50
+	}
+
+	farmers = {
+		culture = oriya
+		religion = hindu
+		size = 5500
+	}
+
+	farmers = {
+		culture = bengali
+		religion = sunni
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = hindu
+		size = 25
+	}
+}
+
 #baripada
 3801 = {
 	aristocrats = {
@@ -10908,6 +10965,88 @@
 		size = 50000
 	}
 }
+
+#alwar
+3739 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 6000
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = hindu
+		size = 250
+	}
+
+	officers = {
+		culture = marathi
+		religion = hindu
+		size = 300
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 4375
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 9000
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 1000
+	}
+
+	farmers = {
+		culture = hindi
+		religion = hindu
+		size = 204075
+	}
+
+	clergymen = {
+		culture = hindi
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = hindi
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = hindi
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = hindi
+		religion = sunni
+		size = 8650
+	}
+
+	serfs = {
+		culture = rajput
+		religion = hindu
+		size = 50000
+	}
+}
+
 #Under rule of Indore 1836
 #Indore (1048000/262000 POPS)
 1271 = {

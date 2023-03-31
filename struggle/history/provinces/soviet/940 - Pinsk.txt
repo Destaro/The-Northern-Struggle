@@ -1,6 +1,6 @@
 owner = CPL
 controller = CPL
-add_core = LIT
+
 
 
 

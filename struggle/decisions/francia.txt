@@ -113,6 +113,36 @@ reclaim_ocitania = {
  }
  
  
+  embrace_the_arpitans = {
+ potential = {
+             
+			tag = FRC
+			has_country_flag = reclaim_burgundy
+			has_country_flag = reclaim_savoy
+			
+         NOT = {
+            has_country_flag = embrace_the_arpitans
+		 }
+                      }
+					  
+	    allow = {
+		
+		revolution_n_counterrevolution = 1
+		 war = no
+		}
+		
+		effect = {
+		prestige = 5
+		badboy = 1
+		add_accepted_culture = arpitan
+		set_country_flag = embrace_the_arpitans
+		
+		}
+       
+ 
+ }
+ 
+ 
  demand_the_return_of_the_colonies = {
   potential = {
              

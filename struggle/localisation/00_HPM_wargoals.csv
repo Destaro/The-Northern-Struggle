@@ -15,6 +15,10 @@ war_reparations;Reparations;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
 war_reparations_desc;Demand §Yreparations§W from $RECIPIENT$.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
 war_reparations_short;Demand Reparations;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
 war_reparations_setup;Demand §Yreparations§W from $RECIPIENT$.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
+take_capital;Take Capital;;;;;;;;;;;;;x
+take_capital_setup;Take capital;;;;;;;;;;;;;x
+take_capital_short;Take capital of $RECIPIENT$;;;;;;;;;;;;;x
+take_capital_desc;Take the capital state of a country;;;;;;;;;;;;;x
 install_democracy_make_puppet;Install a Democratic Puppet;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
 install_democracy_make_puppet_desc;Install a §Ydemocratic puppet government§W in the country's capital;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
 install_democracy_make_puppet_short;Install a democratic puppet government in $RECIPIENT$;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,

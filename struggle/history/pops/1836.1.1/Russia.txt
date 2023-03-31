@@ -4716,43 +4716,43 @@
 #Syzran (540000/135000 POPS)
 3539 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 6350
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 40000
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 3000
 	}
 	
 	slaves = {
-		culture = tatar
+		culture = ukrainian
 		religion = orthodox
 		size = 1400
 	}
@@ -4852,31 +4852,31 @@
 #Samara (208000/52000 POPS)
 1034 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 450
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2200
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 39600
 	}
@@ -4914,31 +4914,31 @@
 #Syzran (540000/135000 POPS)
 1035 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2150
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1350
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 6750
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1350
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 123400
 	}
@@ -5090,31 +5090,31 @@
 #Novo Usensk (340000/85000 POPS)
 1038 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 1350
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 825
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 4250
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 850
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 67725
 	}
@@ -5548,31 +5548,31 @@
 #Busuluk (164000/41000 POPS)
 1043 = {
 	aristocrats = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 525
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = tatar
+		culture = ukrainian
 		religion = sunni
 		size = 47675
 	}
