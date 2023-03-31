@@ -1,10 +1,8 @@
-owner = ASY
-controller = ASY
-
+owner = EDE
+controller = EDE
+add_core = EDE
 add_core = KDS
 add_core = SRN
 add_core = BNB
 trade_goods = wool
 life_rating = 35
-
-add_core = ASY

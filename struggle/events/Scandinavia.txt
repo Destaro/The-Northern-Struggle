@@ -409,7 +409,7 @@ country_event = {
 			           is_core = WHA }
 			secede_province = WHA
 		}
-		254 = { secede_province = SCA }
+		
 		create_vassal = WHA
 		create_vassal = IRE
 		

@@ -1,9 +1,8 @@
-owner = MKN
-controller = MKN
+owner = EDE
+controller = EDE
 
 add_core = ARM
 trade_goods = iron
 life_rating = 35
 
-
-add_core = MKN
+add_core = EDE
