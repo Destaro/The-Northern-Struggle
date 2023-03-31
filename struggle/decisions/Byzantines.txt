@@ -1,0 +1,90 @@
+political_decisions = { 
+
+ reclaim_our_lands = {
+ potential = {
+       tag = BYZ
+         NOT = {
+            has_country_flag = reclaim_our_lands
+		 }
+                      }
+					  
+	    allow = {
+		
+		 BYZ = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		EPI = { all_core = { add_core = THIS } }
+		DBJ = { all_core = { add_core = THIS } }
+		AOM = { all_core = { add_core = THIS } }
+		set_country_flag = reclaim_our_lands
+		
+		prestige = 15
+		}
+       
+ 
+ }
+ 
+ reclaim_anatolia = {
+ potential = {
+       tag = BYZ
+	   has_country_flag = reclaim_our_lands
+         NOT = {
+            has_country_flag = reclaim_anatolia
+		 }
+                      }
+					  
+	    allow = {
+		
+		 BYZ = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		TUR = { all_core = { add_core = THIS } }
+		PNT = { all_core = { add_core = THIS } }
+		set_country_flag = reclaim_anatolia
+		
+		prestige = 15
+		}
+       
+ 
+ }
+ 
+  reclaim_all_of_the_balkans = {
+ potential = {
+       tag = BYZ
+	   has_country_flag = reclaim_our_lands
+         NOT = {
+            has_country_flag = reclaim_all_of_the_balkans
+		 }
+                      }
+					  
+	    allow = {
+		
+		ROM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		 war = no
+		}
+		
+		effect = {
+		ROM = { all_core = { add_core = THIS } }
+		add_accepted_culture = aromanian
+		set_country_flag = reclaim_all_of_the_balkans
+		
+		prestige = 15
+		}
+       
+ 
+ }
+
+}

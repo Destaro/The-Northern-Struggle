@@ -30,31 +30,5 @@ political_decisions = {
 	
 	
 	
-tirol_is_ours_aus = {
-potential = { 
-    exists = TST
-  OR = {
-	tag = SGF
-	tag = GER
-	}
-      NOT = { has_country_flag = tirol_is_ours_aus
-	 
-	                   }
-					}
-		allow = {
-		war = no
-		TST = { all_core = { owned_by = THIS } }
-		NOT = { 735 = owned_by = ITA
-                735 = owned_by = VEN  }
-		}
-		
-		effect = { 
-		TST = { all_core = { add_core = THIS } }
-		prestige = 10
-		set_country_flag = tirol_is_ours_aus
-		relation = { who = VEN value = -200 }
-		
-		         }
-                   
-         }
+
  }

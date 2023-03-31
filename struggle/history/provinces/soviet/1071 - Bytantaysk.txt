@@ -1,5 +1,6 @@
-owner = LUR
-controller = LUR
+owner = OMA
+controller = OMA
 add_core = LUR
+add_core = OMA
 trade_goods = fish
 life_rating = 35

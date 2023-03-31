@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = AVR
+controller = AVR
+add_core = AVR
 add_core = ITA
 trade_goods = fruit
 life_rating = 35

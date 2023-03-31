@@ -51,18 +51,122 @@ political_decisions = {
 		effect = {
 		AUS = { all_core = { add_core = THIS } }
 		set_country_flag = integrate_austria
+		prestige = 5
+		}
+       
+ 
+ }
+ 
+   integrate_tirol = {
+ potential = {
+             
+			OR = {
+			
+			tag = SGF
+			tag = GER
+			
+			}
+         NOT = {
+            has_country_flag = integrate_tirol 
+		 }
+                      }
+					  
+	    allow = {
+		is_greater_power = yes
+		 TST = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		TST = { all_core = { add_core = THIS } }
+		set_country_flag = integrate_tirol
+		badboy = 1
+		prestige = 5
+		}
+       
+ 
+ }
+ 
+   invade_the_baltic = {
+ potential = {
+             
+			has_country_flag = integrate_austria
+			has_country_flag = integrate_frisia
+			has_country_flag = integrate_lausic
+			has_country_flag = integrate_silesia
+			has_country_flag = integrate_net
+			has_country_flag = integrate_the_east
+			has_country_flag = integrate_the_north
+			has_country_flag = push_west
+			
+			tag = GER
+			
+			
+         NOT = {
+            has_country_flag = invade_the_baltic
+		 }
+                      }
+					  
+	    allow = {
+		year = 1880
+		revolution_n_counterrevolution = 1
+		is_greater_power = yes
+		 PRD = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		PRD = { all_core = { add_core = THIS } }
+		UBD = { all_core = { add_core = THIS } }
+		
+		set_country_flag = invade_the_baltic
+		badboy = 10
 		
 		}
        
  
  }
  
+ begin_integrating_the_baltic = {
+ potential = {
+             
+			has_country_flag = invade_the_baltic
+			
+			tag = GER
+			
+			
+         NOT = {
+            has_country_flag = begin_integrating_the_baltic
+		 }
+                      }
+					  
+	    allow = {
+		year = 1882
+		revolution_n_counterrevolution = 1
+		is_greater_power = yes
+		 PRD = { all_core = { owned_by = THIS } }
+		 UBD = { all_core = { owned_by = THIS } }
+		 war = no
+		}
+		
+		effect = {
+		
+		add_accepted_culture = pruski
+		set_country_flag = begin_integrating_the_baltic
+		badboy = 2
+		
+		}
+       
+ 
+ }
+
  
   push_west = {
  potential = {
              has_country_flag = integrate_frisia
 			 has_country_flag = integrate_net
 			 has_country_flag = integrate_the_north
+			 has_country_flag = integrate_the_east
 			tag = GER
          NOT = {
             has_country_flag = push_west

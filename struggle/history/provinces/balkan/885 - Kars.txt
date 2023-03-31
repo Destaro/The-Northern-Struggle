@@ -1,6 +1,8 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = GEO
+controller = GEO
+
 add_core = ARM
 trade_goods = iron
 life_rating = 35
+
+add_core = GEO
