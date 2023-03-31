@@ -62,6 +62,7 @@ political_decisions = {
  potential = {
              has_country_flag = integrate_frisia
 			 has_country_flag = integrate_net
+			 has_country_flag = integrate_the_north
 			tag = GER
          NOT = {
             has_country_flag = push_west
@@ -258,6 +259,7 @@ political_decisions = {
 	
 	 march_east = {
         potential = {
+		PML = exists
 		OR = {
 		    tag = NGF
             tag = WES
@@ -323,7 +325,7 @@ political_decisions = {
 		functionalism = 1
 		war = no
 		WES = { all_core = { owned_by = THIS } }
-		
+		PML = { all_core = { owned_by = THIS } }
 		owns = 680
 		owns = 691
 		owns = 696
