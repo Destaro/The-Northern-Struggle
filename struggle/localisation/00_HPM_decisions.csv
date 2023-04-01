@@ -49,6 +49,18 @@ claim_england_title;No more Danelaw.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 claim_england_desc;Under the brave leadership of our military, the Scandinavian invaders have been driven out of the Aengliscs lands. After years of oppression and struggle, we have finally reclaimed our ancestral land and it rightfully belongs to us. Our people can now live in peace and prosperity, free from the tyranny of the foreign conquerors. Let this be a reminder that our resolve is unbreakable, and we will never yield in our quest to defend our homeland and secure our future.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 reclaim_our_lands_title;The Reclamation of our Lands.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 reclaim_our_lands_desc;As the sun rises over Constantinople, I stand before you to declare that the time has come for the Eastern Roman Empire to reclaim what is rightfully ours. For too long, our lands have been taken from us by foreign powers, and it is time to put an end to this injustice. We shall not rest until our lands are back under our control, and our people are once again living in peace and prosperity. Let this be a call to arms for all those who love our empire and wish to see it restored to its former glory. The Eastern Roman Empire shall rise again, and our enemies will tremble before us!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+reclaim_anatolia_title;The Reclamation of Anatolia;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+reclaim_anatolia_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+reclaim_all_of_the_balkans_title;The balkans are Roman!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+reclaim_all_of_the_balkans_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+centralize_rumelia_title;Centralize Rumelia;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+centralize_rumelia_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+we_are_roman_title;We are ROMAN!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+we_are_roman_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+integrate_finland_and_estonia_title;Integrate the Finno-Ugrics.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+integrate_finland_and_estonia_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+integrate_finland_title;Integrate Finland into Scandinavia;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+integrate_finland_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 vassal_stop_paying_vassal_payments_title;Stop Paying Overlord Taxes;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 vassal_stop_paying_vassal_payments_desc;Our overlord issued an order allowing us to cease any contribution to their offers.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 turn_off_vassal_payments_title;Exempt Vassals from Contributing to our Treasury;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
