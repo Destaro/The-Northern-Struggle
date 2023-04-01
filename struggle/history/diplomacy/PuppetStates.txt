@@ -244,13 +244,6 @@ vassal = {
 #}
 
 ##########################China
-#Sichuan - Qinghai
-substate = {
-	first = SZC
-	second = XBI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
 
 #Mongolia - Uygurhistan
 substate = {
