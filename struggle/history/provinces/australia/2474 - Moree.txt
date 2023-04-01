@@ -1,3 +1,6 @@
+owner = MCK
+controller = MCK
+add_core = MCK
 add_core = NMG
 add_core = NJP
 trade_goods = grain
