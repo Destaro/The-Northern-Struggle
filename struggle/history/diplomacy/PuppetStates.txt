@@ -292,36 +292,12 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-#China - Manchuria
-substate = {
-	first = JAP
-	second = MCK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-#Japan - Coastal Colonization Company
-substate = {
-	first = JAP
-	second = KAM
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #China - Inner Mongolia
 substate = {
 	first = MGL
 	second = IMG
 	start_date = 1691.1.1
 	end_date = 1937.1.1
-}
-
-#China/Korea
-vassal = {
-	first = JAP
-	second = KOR
-	start_date = 1636.1.1
-	end_date = 1876.1.1
 }
 
 #China/Lanfang

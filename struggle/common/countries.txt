@@ -74,6 +74,8 @@ NMG = "countries/New Mongolia.txt"
 NPR = "countries/New Persia.txt"
 AVA		= "countries/Avalon.txt"
 AMG		= "countries/American Mongolia.txt"
+MIN		= "countries/Ming.txt"
+SHU		= "countries/Shun.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
