@@ -1,6 +1,7 @@
-owner = YNN
-controller = YNN
-add_core = SHA
+owner = MIN
+controller = MIN
 add_core = YNN
+add_core = MIN
+add_core = CHI
 trade_goods = tropical_wood
 life_rating = 35
