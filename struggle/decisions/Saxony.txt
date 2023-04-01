@@ -363,7 +363,7 @@ political_decisions = {
 	
 	 march_east = {
         potential = {
-		PML = exists
+		exists = PML
 		OR = {
 		    tag = NGF
             tag = WES
