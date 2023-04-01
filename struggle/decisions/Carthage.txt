@@ -196,7 +196,7 @@ political_decisions = {
 		 GLC = { all_core = { add_core = THIS } }
 		 inherit = TLD
 		 inherit = GLC
-		 inherit 
+		 inherit = BSQ
 		  prestige = 30
 		  badboy = 10
 		             	  
