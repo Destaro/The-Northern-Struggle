@@ -4,8 +4,6 @@ LST_3331 = { } #pre-organized
 LST_3332 = { } #pre-organized
 LST_3333 = { } #pre-organized
 
-TEMP_AUS = { 3272 3351 3345 3344 3346 3349 3348 }
-
 ALN_1056 = { 1056 1054 1091 3311 } #Ossetia
 
 ALN_1055 = { 3310 3292 1055 3295 } #Chechnya
@@ -1570,29 +1568,31 @@ ARG_2398 = { 2131 2398 2399 2400 2396 } #Patagonia Meridional
 
 ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
 
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+ENG_2505 = { 2505 2506 2603 } #Northern Territory
 
 ENG_2509 = { 2508 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
-NJP_2482 = { 2482 } #Japanese Tasmania
+R_TASMANIA = { 2482 3348 } #Tasmania
 
-NJP_2476 = { 2476 2477 2478 2479 2480 2472 } #Japanese Victoria
+R_VICTORIA = { 2476 2477 2478 2479 3345 3346 } #Victoria
 
-NJP_2491 = { 2481 2491 2493 2494 } #Japanese South Australia
+R_UPPER_MUR = { 2473 2480 3272 3344 } #Upper Murray Region
 
-NJP_2492 = { 2492 2495 2496 } #Japanese Southern Australia (West)
+R_LOWER_MUR = { 2481 2493 3353 } #Lower Murray Region
 
-NMG_2468 = { 2468 2469 2471 } #Mongol New South Wales
+R_SOUTH_AUS = { 2475 2491 2492 2494 } #South Australia
 
-NMG_2483 = { 2483 2486 2470 } #Mongol Queensland (South)
+R_CENTRAL_AUS = { 2495 2496 2507 } #Western South Australia
 
-NMG_2487 = { 2487 2484 2485 2488 2604 } #Mongol Queensland (North)
+R_SYDNEY = { 2468 2469 2471 2472 3357 } #New South Wales around R_SYDNEY
 
-NMG_2490 = { 2489 2490 } #Mongol Queensland (Interior)
+R_NEW_ENG = { 2470 2474 3349 3351 3352 } #New England (Australia)
 
-NMG_2473 = { 2473 2474 2475 } #New South Wales (Interior)
+R_SOUTH_QLD = { 2483 2484 2485 2486 2489 2490 3358 } #South and Central Queensland
+
+R_NORTH_QLD = { 2487 2488 2604 3354 } #North Queensland
 
 
 
