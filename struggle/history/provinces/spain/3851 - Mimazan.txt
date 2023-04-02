@@ -24,4 +24,3 @@ state_building = {
 	railroad = 3 
 	naval_base = 1
 }
-add_core = OCC

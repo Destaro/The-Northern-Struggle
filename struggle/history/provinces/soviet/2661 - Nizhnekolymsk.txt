@@ -1,4 +1,6 @@
-
-add_core = KAM
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = timber
 life_rating = 10
+colonial = 1

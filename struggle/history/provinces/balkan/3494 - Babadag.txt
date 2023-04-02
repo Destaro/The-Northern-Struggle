@@ -1,7 +1,7 @@
 owner = DBJ
 controller = DBJ
 add_core = DBJ
-
+add_core = RUM
 add_core = ROM
 
 trade_goods = grain

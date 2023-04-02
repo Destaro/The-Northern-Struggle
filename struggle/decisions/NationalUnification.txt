@@ -899,7 +899,9 @@ unite_sogdia = {
 				   tag = ULA
 				   tag = VIN
 			                }
-			
+			NOT = {
+				exists = USA
+			}
 		}	
 		allow = {
 			war = no
@@ -971,9 +973,9 @@ unite_sogdia = {
 					is_core = AVA
 					is_core = ULA
 				}
-				add_core = THIS
+				add_core = USA
 			}			
-			
+			change_tag = USA
 		}
 		ai_will_do = {
 			factor = 1

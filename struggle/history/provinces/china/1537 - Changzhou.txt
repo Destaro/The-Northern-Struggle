@@ -1,12 +1,6 @@
-owner = DAI
-controller = DAI
-add_core = DAI
+owner = MIN
+controller = MIN
+add_core = MIN
 add_core = CHI
-add_core = TPG
 trade_goods = tea
 life_rating = 32
-1861.1.1 = {
-	owner = TPG
-	controller = TPG
-	add_core = TPG
-}

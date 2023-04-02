@@ -229,7 +229,7 @@ claim_england = {
 		
 		effect = {
 		set_country_flag = claim_england
-        add_accepted_culture = british
+
 			prestige = 5
 					
 					

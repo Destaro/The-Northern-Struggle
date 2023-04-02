@@ -1,8 +1,7 @@
-owner = ASY
-controller = ASY
+owner = EDE
+controller = EDE
 
 trade_goods = grain
 life_rating = 35
 
-
-add_core = ASY
+add_core = EDE

@@ -2,10 +2,9 @@ capital = 1455
 primary_culture = filipino
 culture = asian_minor
 religion = catholic
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_equality
-civilized = no
 literacy = 0.28
 
 # Political reforms

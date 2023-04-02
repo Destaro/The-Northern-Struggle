@@ -1,7 +1,2 @@
-owner = KAM
-controller = KAM
-add_core = KAM
-add_core = YAK
 trade_goods = grain
 life_rating = 20
-colonial = 2
