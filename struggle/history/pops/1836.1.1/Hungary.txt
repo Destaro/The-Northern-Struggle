@@ -1756,32 +1756,32 @@
 #Mitrovica (108000/27000 POPS) #part of pannoniania today
 791 = {
 	clergymen = {
-		culture = pannonian
+		culture = aromanian
 		religion = orthodox
-		size = 150 
+		size = 550 
 	}
 
 	artisans = {
-		culture = pannonian
+		culture = aromanian
 		religion = orthodox
-		size = 750
+		size = 3750
 	}
 
 	soldiers = {
-		culture = pannonian
+		culture = aromanian
 		religion = orthodox
-		size = 250 
+		size = 1250 
 	}
 
 	farmers = {
-		culture = pannonian
+		culture = aromanian
 		religion = orthodox
-		size = 15350
+		size = 10350
 	}
 	
 	farmers = {
-		culture = pannonian
-		religion = catholic
+		culture = greek
+		religion = orthodox
 		size = 500
 	}
 
@@ -1794,19 +1794,19 @@
 	artisans = {
 		culture = pannonian
 		religion = catholic
-		size = 200
+		size = 3700
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = catholic
-		size = 50 
+		size = 950 
 	}
 
 	farmers = {
 		culture = pannonian
 		religion = catholic
-		size = 3675  
+		size = 13675  
 	}
 }
 #Pancevo (268000/67000 POPS) #part of pannoniania today
