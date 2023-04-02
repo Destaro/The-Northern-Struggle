@@ -826,7 +826,7 @@ RUS_1075 = { 1076 2677 2695 2645 2676 } #Irkutsk
 
 RUS_1079 = { 1078 2671 } #Trans-Baikal
 
-CHI_1082 = { 1082 1083 3351 3272 } #Guanwai - Outer Manchuria
+CHI_1082 = { 1082 1083 } #Guanwai - Outer Manchuria
 
 JAP_1086 = { 1086 1087 1088 1089 } #Sakhalin
 
@@ -989,7 +989,7 @@ SIA_1358 = { 1358 1350 1359 1351 1363 } #Isan
 
 SIA_1366 = { 1366 1367 1364 1368 1378 1382 1365 } #Cambodia
 
-DAI_1369 = { 1369 1370 1373 1371 1372 1601 } #Tonkin
+DAI_1369 = { 1369 1370 1373 1371 1372 } #Tonkin
 
 DAI_1375 = { 1374 1375 1376 1377 } #Annam
 
@@ -1032,7 +1032,7 @@ NET_1449 = { 1430 1431 1432 1435 1434 1433 1436 1437 } #Celebes
 
 NET_1451 = { 1452 1453 1454 1560 } #Western New Guinea
 
-SPA_1455 = { 1455 1456 1457 1458 3344 3345 3347 3349 3350 } #Luzón
+SPA_1455 = { 1455 1456 1457 1458 3347 3350 } #Luzón
 
 SPA_1459 = { 1459 1460 1461 2565 } #Visayas
 
@@ -1041,7 +1041,7 @@ SPA_1463 = { 1463 1462 1464 } #Mindanao
 
 ### China
 
-CHI_1465 = { 1465 1466 1467 2207 2670 1079 1002 } #Urga
+CHI_1465 = { 1465 1466 1467 2207 2670 1079  } #Urga
 
 CHI_1468 = { 1468 2678 2679 2608 1075 } #Uliastai
 
@@ -1053,11 +1053,9 @@ CHI_1479 = { 1479 1480 1481 1554 1555 }  #Fengtian
 
 CHI_1482 = { 1482 1483 1484 1486 1487 } #Fujian
 
-CHI_1485 = { 2681 1485 2562 2406 3346 3348 } #Formosa
+CHI_1485 = { 2681 1485 2562 2406 } #Formosa
 
-#JAP_3348 = { } #Inner Formosa
-
-CHI_1490 = { 1490 1489 1491 1492 3704 } #Gansu
+CHI_1490 = { 1488 1490 1489 1491 1492 3704 } #Gansu
 
 CHI_1493 = { 1493 1496 1494 1497 } #East Canton
 
@@ -1079,7 +1077,7 @@ CHI_1524 = { 1524 1525 1528 1529 1526 } #West Hunan
 
 CHI_1526 = { 1527 1530 1500 } #East Hunan
 
-CHI_1532 = { 1532 1534 1535 1488 } #Inner Mongolia
+CHI_1532 = { 1532 1534 1535 } #Inner Mongolia
 
 CHI_2221 = { 2221 1538 1537 1539 1544 } #South Jiangsu
 
@@ -1089,7 +1087,7 @@ CHI_1545 = { 1545 1546 1549 1551 } #North Jiangxi
 
 CHI_1547 = { 1547 1548 1550 } #South Jiangxi
 
-CHI_1552 = { 1552 1553 1533 } #Heilongjiang
+CHI_1552 = { 1002 1552 1553 1533 } #Heilongjiang
 
 CHI_1557 = { 1557 1558 1556 3695 3693 3697 3699 3701 3702 3703 3706 3705 } #Kokonor/Qinghai
 
@@ -1109,7 +1107,7 @@ CHI_1594 = { 1594 1597 1598 2607 3341 3342 3343 3368 3689 3740 3741 3576 3759 } 
 
 CHI_1600 = { 1600 1595 1596 1599 } #Urumqui
 
-CHI_1601 = { 1602 1603 1585 3720 } #Yunnan
+CHI_1601 = { 1601 1602 1603 1585 3720 } #Yunnan
 
 CHI_1604 = { 1604 1605 1606 1608 1609 } #North Zhejiang
 
@@ -1128,7 +1126,7 @@ KOR_1624 = { 1624 1630 1631 1636 1628 } #Seoul
 
 KOR_1627 = { 1627 1626 1625 1629 } #Sariwon
 
-KOR_1635 = { 1635 1633 1632 1634 } #Busan
+KOR_1635 = { 1635 1633 1632 1634 2589 1637 } #Busan
 
 JAP_1088 = { 1643 1642 1644 } #Ezo - Hokkaido
 
@@ -1140,7 +1138,7 @@ JAP_1654 = { 1678 1679 1654 2525 } #Bonin Islands
 
 JAP_1655 = { 1657 1656 1655 1658 1659 } #Kansai
 
-JAP_1660 = { 1662 1661 1664 1663 1660 2589 1637 } #Kyushu
+JAP_1660 = { 1662 1661 1664 1663 1660 } #Kyushu
 
 JAP_1665 = { 1665 1666 1667 } #Shikoku
 
@@ -1570,29 +1568,31 @@ ARG_2398 = { 2131 2398 2399 2400 2396 } #Patagonia Meridional
 
 ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
 
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+ENG_2505 = { 2505 2506 2603 } #Northern Territory
 
 ENG_2509 = { 2508 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
-NJP_2482 = { 2482 } #Japanese Tasmania
+R_TASMANIA = { 2482 3348 } #Tasmania
 
-NJP_2476 = { 2476 2477 2478 2479 2480 2472 } #Japanese Victoria
+R_VICTORIA = { 2476 2477 2478 2479 3345 3346 } #Victoria
 
-NJP_2491 = { 2481 2491 2493 2494 } #Japanese South Australia
+R_UPPER_MUR = { 2473 2480 3272 3344 } #Upper Murray Region
 
-NJP_2492 = { 2492 2495 2496 } #Japanese Southern Australia (West)
+R_LOWER_MUR = { 2481 2493 3353 } #Lower Murray Region
 
-NMG_2468 = { 2468 2469 2471 } #Mongol New South Wales
+R_SOUTH_AUS = { 2475 2491 2492 2494 } #South Australia
 
-NMG_2483 = { 2483 2486 2470 } #Mongol Queensland (South)
+R_CENTRAL_AUS = { 2495 2496 2507 } #Western South Australia
 
-NMG_2487 = { 2487 2484 2485 2488 2604 } #Mongol Queensland (North)
+R_SYDNEY = { 2468 2469 2471 2472 3357 } #New South Wales around R_SYDNEY
 
-NMG_2490 = { 2489 2490 } #Mongol Queensland (Interior)
+R_NEW_ENG = { 2470 2474 3349 3351 3352 } #New England (Australia)
 
-NMG_2473 = { 2473 2474 2475 } #New South Wales (Interior)
+R_SOUTH_QLD = { 2483 2484 2485 2486 2489 2490 3358 } #South and Central Queensland
+
+R_NORTH_QLD = { 2487 2488 2604 3354 } #North Queensland
 
 
 

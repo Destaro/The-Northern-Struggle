@@ -671,6 +671,136 @@
 	}
 
 }
+
+3353 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 900
+	}
+
+}
+
+3352 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 900
+	}
+}
+
+3357 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 900
+	}
+}
+3358 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 900
+	}
+}
+3354 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 900
+	}
+}
+
 #Tasmania Region (36000)
 #ruled by Britain 1836
 #Hobart (36000/9000 POPS)

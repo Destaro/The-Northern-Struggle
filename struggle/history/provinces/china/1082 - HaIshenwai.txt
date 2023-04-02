@@ -1,14 +1,7 @@
-owner = JAP
-controller = JAP
+owner = QNG
+controller = QNG
+add_core = QNG
 add_core = CHI
-add_core = MCK
 trade_goods = coal
 life_rating = 32
-colonial = 1
 terrain = vladivostok
-1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 1
-	naval_base = 1
-}

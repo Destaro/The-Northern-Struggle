@@ -1,7 +1,6 @@
 owner = JAP
 controller = JAP
-add_core = KAM
 add_core = JAP
 trade_goods = cattle
-life_rating = 35
-colonial = 2
+life_rating = 20
+colonial = 1

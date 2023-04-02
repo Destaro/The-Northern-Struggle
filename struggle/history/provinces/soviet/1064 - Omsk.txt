@@ -1,7 +1,3 @@
-owner = SIB
-controller = SIB
-add_core = SIB
 trade_goods = sulphur
-life_rating = 40
+life_rating = 30
 terrain = omsk
-colonial = 2

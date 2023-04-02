@@ -1,5 +1,7 @@
-add_core = NMG
+owner = NKR
+controller = NKR
+add_core = NKR
 add_core = NJP
 trade_goods = grain
 terrain = savanna
-life_rating = 20
+life_rating = 25

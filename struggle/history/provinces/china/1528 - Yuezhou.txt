@@ -1,6 +1,6 @@
-owner = GUI
-controller = GUI
-add_core = GUI
+owner = MIN
+controller = MIN
+add_core = MIN
 add_core = CHI
 trade_goods = iron
 life_rating = 32

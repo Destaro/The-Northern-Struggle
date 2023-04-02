@@ -1,5 +1,7 @@
-owner = YNN
-controller = YNN
+owner = MIN
+controller = MIN
 add_core = YNN
+add_core = MIN
+add_core = CHI
 trade_goods = timber
 life_rating = 32

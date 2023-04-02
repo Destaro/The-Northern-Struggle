@@ -1,6 +1,6 @@
-owner = SZC
-controller = SZC
-add_core = SZC
+owner = SHU
+controller = SHU
+add_core = SHU
 add_core = CHI
 trade_goods = tea
 life_rating = 32

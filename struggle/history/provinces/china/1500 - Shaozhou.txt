@@ -1,7 +1,7 @@
-owner = GNG
-controller = GNG
-add_core = DAI
-add_core = CHI
+owner = MIN
+controller = MIN
 add_core = GNG
+add_core = MIN
+add_core = CHI
 trade_goods = tropical_wood
 life_rating = 32
