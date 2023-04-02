@@ -648,6 +648,9 @@
 	set_country_flag = dominis_mari_baltici
 	add_accepted_culture = estonian
 	add_accepted_culture = latvian
+	add_accepted_culture = lithuanian
+	add_accepted_culture = pruski
+	add_accepted_culture = baltic_german
 	badboy = 5
 	prestige = 50
 	add_core = 680
@@ -846,7 +849,7 @@
 	            }
 	has_country_flag = integrate_livonia
 	revolution_n_counterrevolution = 1
-	year = 1890
+	year = 1880
 	war = no
 	   NOV = { vassal_of = THIS }
 	  
@@ -858,7 +861,7 @@
 	effect = {
 	set_country_flag = integrate_novgorod
 	inherit = NOV
-	
+	add_accepted_culture = novgorodian
 	prestige = 20
 	NOV = { all_core = { add_core = THIS } }
 	relation = { who = MUS value = -200 }

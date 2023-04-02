@@ -1,9 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-add_core = MCK
-trade_goods = coal
-life_rating = 32
-terrain = farmlands
-
-1861.1.1 = { railroad = 1 }
+owner = NKR
+controller = NKR
+add_core = NKR
+add_core = NJP
+trade_goods = grain
+life_rating = 35

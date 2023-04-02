@@ -70,10 +70,12 @@ MTU = "countries/Mantua.txt"
 FRE = "countries/Franconia.txt"
 NTU = "countries/Northumbria.txt"
 NJP = "countries/Nankaigan.txt"
-NMG = "countries/New Mongolia.txt"
-NPR = "countries/New Persia.txt"
 AVA		= "countries/Avalon.txt"
 AMG		= "countries/American Mongolia.txt"
+MIN		= "countries/Ming.txt"
+SHU		= "countries/Shun.txt"
+NKR     = "countries/New Korea.txt"
+SBL     = "countries/Seobli.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
@@ -407,6 +409,7 @@ SUL		= "countries/Sulu.txt"
 SWK		= "countries/Sarawak.txt"
 SZC		= "countries/Sichuan.txt"
 TAI		= "countries/Taiwan.txt"
+AIN		= "countries/Ainu.txt"
 
 # Japan
 CHO		= "countries/Choshu.txt"

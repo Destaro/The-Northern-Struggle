@@ -1,6 +1,2 @@
-owner = YAK
-controller = YAK
-add_core = YAK
 trade_goods = grain
 life_rating = 15
-colonial = 2

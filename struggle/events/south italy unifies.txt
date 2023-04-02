@@ -254,6 +254,9 @@ country_event = {
 		inherit = AVR
 		inherit = CSZ
 		change_tag = SIC
+		CSZ = { all_core = { add_core = SIC } }
+		AVR = { all_core = { add_core = SIC } }
+		MEL = { all_core = { add_core = SIC } }
 		THIS = { 
 		    any_owned = {
 		              limit = { 
@@ -301,6 +304,9 @@ country_event = {
 		set_country_flag = cosenzas_dream_to_be
 		government = absolute_monarchy 
 		inherit = AVR 
+		CSZ = { all_core = { add_core = SIC } }
+		AVR = { all_core = { add_core = SIC } }
+		MEL = { all_core = { add_core = SIC } }
 		THIS = { any_owned = {
 		 limit = { is_core = ITA }
 		 add_core = SIC

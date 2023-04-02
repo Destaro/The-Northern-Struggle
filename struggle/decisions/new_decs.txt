@@ -1,18 +1,4 @@
 political_decisions = {
 
-	annex_para = {
-		potential = {
-		NOT = { has_country_flag = para_annexed }
-		tag = LPL 
-		}
-		allow = { 
-		war = no 
-		}
 	
-		effect = {
-		inherit = PRG
-		set_country_flag = { para_annexed }
-			}
-	ai_will_do = { factor = 1 }
-	}
 }

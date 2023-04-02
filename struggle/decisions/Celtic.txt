@@ -7,6 +7,7 @@ form_celts = {
 			tag = SCO
 			tag = IRE
 			tag = WHA
+			tag = BRT
 			      }
 			
 			NOT = {
@@ -126,9 +127,9 @@ form_celts = {
 integrate_avalon = {
 		potential = {
 			
-			OR = {
+			
 			tag = CEL
-			      }
+			      
 			
 			NOT = {
 				
@@ -172,17 +173,9 @@ integrate_avalon = {
 	}
 
 claim_scotland = {
-		potential = {
-			
-			OR = {
+		potential = {			
 			tag = WHA
-			      }
-			
-			NOT = {
-				
-				
-				has_country_flag = claim_scotland
-			}
+			NOT = {	has_country_flag = claim_scotland }
 		}	
 		allow = {
 		
@@ -213,9 +206,9 @@ claim_scotland = {
 claim_england = {
 		potential = {
 			
-			OR = {
+		
 			tag = WHA
-			      }
+			      
 			
 			NOT = {
 				

@@ -1,6 +1,6 @@
-owner = XIN
-controller = XIN
-add_core = XIN
+owner = XBI
+controller = XBI
 add_core = XBI
+add_core = TIB
 trade_goods = cattle
 life_rating = 32

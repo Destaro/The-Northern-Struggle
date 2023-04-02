@@ -1,6 +1,6 @@
-owner = TLD
-controller = TLD
-add_core = PHL
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = fish
 life_rating = 25
 colonial = 2

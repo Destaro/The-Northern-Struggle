@@ -1,5 +1,5 @@
-owner = NJP
-controller = NJP
-add_core = NJP
+owner = NKR
+controller = NKR
+add_core = NKR
 trade_goods = wool
-life_rating = 30
+life_rating = 35

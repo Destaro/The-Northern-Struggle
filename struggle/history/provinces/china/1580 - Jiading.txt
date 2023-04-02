@@ -1,7 +1,5 @@
-owner = YNN
-controller = YNN
-add_core = GUI
-add_core = YNN
+owner = SZC
+controller = SZC
 add_core = SZC
 add_core = CHI
 trade_goods = fruit

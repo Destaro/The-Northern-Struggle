@@ -1,7 +1,2 @@
-owner = SIB
-controller = SIB
-
-add_core = SIB
 trade_goods = coal
 life_rating = 15
-colonial = 2

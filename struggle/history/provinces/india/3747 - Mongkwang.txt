@@ -1,6 +1,6 @@
-owner = YNN
-controller = YNN
-add_core = YNN
+owner = BUR
+controller = BUR
+add_core = BUR
 add_core = SHA
 add_core = KCH
 trade_goods = grain

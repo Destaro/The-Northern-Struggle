@@ -1,6 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-add_core = PHL
-trade_goods = cattle
+owner = NKR
+controller = NKR
+add_core = NKR
+add_core = NJP
+trade_goods = grain
 life_rating = 35

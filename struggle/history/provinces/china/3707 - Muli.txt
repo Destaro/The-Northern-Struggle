@@ -1,6 +1,6 @@
-owner = XBI
-controller = XBI
-add_core = XBI
+owner = SZC
+controller = SZC
+add_core = SZC
 add_core = CHI
 trade_goods = cattle
 life_rating = 32
