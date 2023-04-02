@@ -23,7 +23,7 @@ country_event = {
 id = 29989
 	title = "EVTNAME29991" #The Empire strikes back
 	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Visigoths, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
-	#picture = "aboutsicilia"
+	picture = "mezzogiorno"
 	fire_only_once = yes
 
 	trigger = {
@@ -52,7 +52,7 @@ country_event = {
 id = 29990
 	title = "EVTNAME29991" #The Empire strikes back
 	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Visigoths, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
-	#picture = "aboutsicilia"
+	picture = "mezzogiorno"
 	fire_only_once = yes
 
 	trigger = {
@@ -76,7 +76,7 @@ country_event = {
 id = 29991
 	title = "EVTNAME29991" #The Empire strikes back
 	desc = "EVTDESC29991" #Carthage. Once the enemy of Rome, it became what it was supposed to destroy, and now, beaten back by the Visigoths, look with weary eyes to the east, to us! It is time to unite with our brothers so that we can defeat this wretched contortion of the once mighty Roman Empire.
-	#picture = "aboutsicilia"
+	picture = "mezzogiorno"
 	fire_only_once = yes
 
 	trigger = {
@@ -102,7 +102,7 @@ country_event = {
 	id = 29992
 	title = "EVTNAME29992" #The Meeting
 	desc = "EVTDESC29992" #Our 3 leaders decided to meet in Castrovillari to decide who will be in charge of this union. The ruler of Amalfi, Duke Alfredo II, says an union between the 3 states should be like any normal alliance. On the other hand the ruler of Melfi, Duke Riccardo the IV, says that it would be best to reunite the old kingdom under an union of kingdoms. But the Grand Master Pantaleone IX of Cosenza says that it would be best to unite the Meridione into a centralized kingdom strong enough to defeat the Punics. A council will be set up and they will decide what idea is the best one.
-	
+	picture = "orazi"
 	fire_only_once = yes
 	trigger = {
  NOT = { ai = yes }	
@@ -150,6 +150,7 @@ country_event = {
 	id = 27702004
 	title = "EVTNAME29992" #The Meeting
 	desc = "EVTDESC29992" #Our 3 leaders decided to meet in Castrovillari to decide who will be in charge of this union. The ruler of Amalfi, Duke Alfredo II, says an union between the 3 states should be like any normal alliance. On the other hand the ruler of Melfi, Duke Riccardo the IV, says that it would be best to reunite the old kingdom under an union of kingdoms. But the Grand Master Pantaleone IX of Cosenza says that it would be best to unite the Meridione into a centralized kingdom strong enough to defeat the Punics. A council will be set up and they will decide what idea is the best one.
+	picture = "orazi"
 	
 	fire_only_once = yes
 	trigger = { 
@@ -198,7 +199,7 @@ country_event = {
 	id = 29993
 	title = "EVTNAME29993" #Aversa's Proposal Succeeds
 	desc = "EVTDESC29993" #My Duke, Your proposal of a loose alliance has been voted to the top.
-	
+	picture = "vespers"
     fire_only_once = yes
 	
 		trigger = {
@@ -229,7 +230,7 @@ country_event = {
 	id = 29994
 	title = "EVTNAME29994" #Melfi's Proposal Succeeds
 	desc = "EVTDESC29994" #TBD
-
+	picture = "vespers"
     fire_only_once = yes
 	
 		trigger = {
@@ -277,7 +278,7 @@ country_event = {
 	id = 29995
 	title = "EVTNAME29995" #Cosenza's Proposal Succeeds
 	desc = "EVTDESC29995" #TBD
-	
+	picture = "vespers"
     fire_only_once = yes
 	
 		trigger = {
@@ -321,7 +322,7 @@ country_event = {
 	id = 2009005
 	title = "EVTNAME2009005" #cartages reaction
 	desc = "EVTDESC2009005" #blah blah
-
+	picture = "sicilian_revolution"
     fire_only_once = yes
 	
 		trigger = {
@@ -350,6 +351,49 @@ country_event = {
 	option = {
 		name = "EVTOPTA2009005B" #accept sicily
 		prestige = -5
+		ai_chance = { factor = 30 }
+	}
+}
+
+## Aftermath of the War ##
+
+country_event = {
+	id = 20090
+	title = "EVTNAME20090" #New Capital
+	desc = "EVTDESC20090" #
+	picture = "palermo"
+    fire_only_once = yes
+	
+		trigger = {
+			tag = SIC
+			762 = {
+			owned_by = THIS
+			}
+		}
+
+		option = {
+		name = "EVTOPTA20090A" #Napoli
+		capital = 754
+		prestige = 5
+		754 = {
+			add_province_modifier = {
+			name = baby_boom
+			duration = 365
+			}
+		}
+		ai_chance = { factor = 70 }
+	}
+	
+	option = {
+		name = "EVTOPTA20090B" #Palermo
+		capital = 762
+		prestige = 5
+		762 = {
+			add_province_modifier = {
+			name = baby_boom
+			duration = 365
+			}
+		}
 		ai_chance = { factor = 30 }
 	}
 }
