@@ -76,6 +76,8 @@ AVA		= "countries/Avalon.txt"
 AMG		= "countries/American Mongolia.txt"
 MIN		= "countries/Ming.txt"
 SHU		= "countries/Shun.txt"
+NKR     = "countries/New Korea.txt"
+SBL     = "countries/Seobli.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

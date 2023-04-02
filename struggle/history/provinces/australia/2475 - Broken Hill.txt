@@ -1,8 +1,7 @@
 owner = MCK
 controller = MCK
 add_core = MCK
-add_core = NMG
-add_core = NJP
+add_core = NKR
 trade_goods = grain
 terrain = savanna
-life_rating = 20
+life_rating = 25

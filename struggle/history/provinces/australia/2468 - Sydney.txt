@@ -1,9 +1,8 @@
-owner = NMG
-controller = NMG
-add_core = NMG
+owner = NJP
+controller = NJP
 add_core = NJP
+add_core = NKR
 trade_goods = grain
-life_rating = 30
+life_rating = 35
 terrain = sydney
-colonial = 2
 naval_base = 1

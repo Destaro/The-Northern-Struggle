@@ -1,4 +1,6 @@
-add_core = NMG
+owner = NJP
+controller = NJP
+add_core = NJP
 trade_goods = cattle
 terrain = savanna
 life_rating = 20
