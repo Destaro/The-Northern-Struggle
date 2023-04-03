@@ -1,4 +1,4 @@
-capital = 781
+capital = 771
 primary_culture = dalmatian
 culture = venetian
 religion = catholic

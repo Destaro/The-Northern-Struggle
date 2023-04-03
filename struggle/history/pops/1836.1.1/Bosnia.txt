@@ -143,31 +143,31 @@
 #Bihac (100000/25000 POPS)
 784 = {
 	aristocrats = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 400
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 8675
 	}
@@ -197,25 +197,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 2650
 	}
@@ -451,31 +451,31 @@
 #Mostar (104000/26000 POPS)
 788 = {
 	aristocrats = {
-		culture = croat
+		culture = pannonian
 		religion = orthodox
 		size = 450
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = orthodox
 		size = 600
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = orthodox
 		size = 9900
 	}
@@ -531,31 +531,31 @@
 #Livno (136000/34000 POPS)
 789 = {
 	aristocrats = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 350
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 8900
 	}
@@ -711,7 +711,7 @@
 #Novi Grad (116000/29000 POPS)
 3565 = {
 	aristocrats = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 500
 	}
@@ -741,25 +741,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 8300
 	}
@@ -797,31 +797,31 @@
 #Velika Gorica (116000/29000 POPS)
 3529 = {
 	aristocrats = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 500
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 7500
 	}
@@ -881,7 +881,7 @@
 	}
 	
 	farmers = {
-		culture = croat
+		culture = pannonian
 		religion = catholic
 		size = 3000
 	}

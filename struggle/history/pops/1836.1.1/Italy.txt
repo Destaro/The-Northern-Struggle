@@ -5343,27 +5343,51 @@
 #Sondrio - former Amga (6000/1500 POPS)
 2669 = {
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
-		size = 100
+		size = 150
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
+		religion = catholic
+		size = 1700
+	}
+
+	soldiers = {
+		culture = venetian
 		religion = catholic
 		size = 500
 	}
 
-	soldiers = {
-		culture = north_italian
+	farmers = {
+		culture = venetian
 		religion = catholic
-		size = 300
+		size = 14750
+	}
+	
+	clergymen = {
+		culture = allemanic
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = allemanic
+		religion = catholic
+		size = 800
+	}
+
+	soldiers = {
+		culture = allemanic
+		religion = catholic
+		size = 100
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = allemanic
 		religion = catholic
-		size = 26791
+		size = 10050
 	}
 
 }
