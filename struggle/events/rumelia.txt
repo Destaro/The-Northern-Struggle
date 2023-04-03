@@ -8,9 +8,10 @@ country_event = {
 	trigger = {
 	war = no
 	tag = RUM
+	
 	NOT = {
-	has_global_flag = the_end_of_rumelia
-	 OR =  {
+	
+	 
 	     AOM = {
 				all_core = {
 					OR = {
@@ -83,7 +84,7 @@ country_event = {
 	             }
 	
 	
-	    }
+	    
 	
 	}
 	

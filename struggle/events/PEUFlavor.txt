@@ -104,7 +104,7 @@ country_event = {
 	news_desc_short = "EVTDESC46801_NEWS_SHORT"
 
 	trigger = {
-		tag = PEU
+		tag = VOP
 		year = 1845
 		NOT = { year = 1848 }
 	
