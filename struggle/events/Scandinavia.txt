@@ -498,3 +498,52 @@ country_event = {
 	    }
 	}
 }
+
+country_event = {
+	id = 47860904
+	title = "EVTNAME47860904" #vinlandicrevobellion
+	desc = "EVTDESC47860904"
+	picture = "rosas_urquiza"
+	
+	fire_only_once = yes
+	
+	trigger = {
+	year = 1838
+		tag = VIN
+		vassal_of = { SCA }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+			
+	}
+
+		
+	option = {
+		name = "EVTOPT47860904A"
+		leave_alliance = SCA
+		add_country_modifier = { name = small_country_draft duration = 365 }
+		add_country_modifier = { name = unrecognized_country duration = 3650 }
+		SCA = {
+			release_vassal = VIN
+			
+		}
+		government = hms_government
+		war = {
+			target = SCA
+			attacker_goal = { casus_belli = status_quo }
+			defender_goal = { casus_belli = make_puppet }
+		}
+		set_global_flag = the_vinlandic_rebellion
+		ai_chance = { factor = 0.9 }
+	}
+		
+	option = {
+		name = "EVTOPT47860904B"
+		
+		any_owned = {
+		               limit = { culture = vinlander }
+		militancy = 7 }
+		ai_chance = { factor = 0.1 }
+	}
+}
