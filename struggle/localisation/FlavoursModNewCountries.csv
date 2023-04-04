@@ -312,9 +312,9 @@ ITA_absolute_monarchy;The Kingdom of Italy;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;
 ITA_prussian_constitutionalism;The Kingdom of Italy;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ITA_hms_government;The Kingdom of Italy;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 UCA_colonial_company;Virreynato de Nueva Espana;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
-VNS_colonial_company;Virreynato de Nueva Espana;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
-VNS;Nueva Espana;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
-VNS_ADJ;Spanish;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
+VNS_colonial_company;Virreno de Nova Toledu;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
+VNS;Nova Toledu;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
+VNS_ADJ;Toledan;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
 CGC_colonial_company;Capitania General de Chile;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 CGC;Chile;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 CGC_ADJ;Spanish;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,

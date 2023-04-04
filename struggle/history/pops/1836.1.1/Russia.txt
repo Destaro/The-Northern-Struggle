@@ -12187,38 +12187,7 @@
 	}
 }
 
-#bekbolat
-3463 = {
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 350
-	}
 
-	clergymen = {
-		culture = kazak
-		religion = sunni
-		size = 300
-	}
-
-	artisans = {
-		culture = kazak
-		religion = sunni
-		size = 1550
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = sunni
-		size = 1000
-	}
-
-	labourers = {
-		culture = kazak
-		religion = sunni
-		size = 37800
-	}
-}
 
 #taras
 3462 = {

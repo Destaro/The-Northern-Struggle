@@ -1,9 +1,11 @@
-owner = MEX
+owner = VNS
 
-controller = MEX
+controller = VNS
 
 add_core = MEX
 add_core = YUC
 trade_goods = timber
 life_rating = 30
 
+
+add_core = VNS

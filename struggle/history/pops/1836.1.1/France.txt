@@ -4808,7 +4808,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 6+
+		size = 6
 	}
 
 	artisans = {

@@ -1,9 +1,11 @@
-owner = MEX
+owner = VNS
 
-controller = MEX
+controller = VNS
 
 add_core = MEX
 
 trade_goods = grain
 life_rating = 35
 
+
+add_core = VNS

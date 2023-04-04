@@ -1353,7 +1353,7 @@ country_event = {
 	
 	trigger = {
 	year = 1844
-		tag = MEX
+		tag = VNS
 		vassal_of = { TLD }
 	}
 	
@@ -1369,7 +1369,7 @@ country_event = {
 		add_country_modifier = { name = small_country_draft duration = 365 }
 		add_country_modifier = { name = unrecognized_country duration = 3650 }
 		TLD = {
-			release_vassal = MEX
+			release_vassal = VNS
 			
 		}
 		
@@ -1384,7 +1384,7 @@ country_event = {
 		
 	option = {
 		name = "EVTOPT4006004B"
-		TLD = { inherit = MEX }
+		TLD = { inherit = VNS }
 		any_owned = {
 		               limit = { culture = mexican }
 		militancy = 7 }

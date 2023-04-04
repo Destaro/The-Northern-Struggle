@@ -9,3 +9,4 @@ terrain = semidesert
 	controller = ASY 
 	owner = ASY
 }
+add_core = ASY

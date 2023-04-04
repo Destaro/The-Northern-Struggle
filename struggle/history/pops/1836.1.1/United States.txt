@@ -2899,43 +2899,43 @@
 #Houston (16000/4000 POPS)
 132 = {
 	bureaucrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 10
 	}
 	
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 1550
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 4550
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 250
 	}
@@ -3476,67 +3476,67 @@
 #New Orleans (128000/32000 POPS)
 139 = {
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 8250
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 8550
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = jewish
 		size = 50
 	}
@@ -3678,55 +3678,55 @@
 #Lake Charles (36000/9000 POPS)
 141 = {
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 1025
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 55
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 3525
 	}
@@ -3838,43 +3838,43 @@
 #Shreveport (44000/11000 POPS)
 142 = {
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 3050
 	}
 	
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 75
 	}
 	
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 1550
 	}
@@ -4044,43 +4044,43 @@
 #Little Rock (56000/14000 POPS)
 3337 = {
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 9150
 	}
@@ -4112,25 +4112,25 @@
 #Hot Springs (16000/4000 POPS)
 144 = {
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = protestant
 		size = 3675
 	}

@@ -724,25 +724,25 @@
 #Monclova (48000/12000 POPS)
 2152 = {
 	aristocrats = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 125
 
@@ -750,7 +750,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture = texan
 		religion = catholic
 		size = 5875
 	}

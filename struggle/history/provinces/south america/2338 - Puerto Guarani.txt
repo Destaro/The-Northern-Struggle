@@ -1,4 +1,4 @@
-add_core = LPL
+
 add_core = PRG
 trade_goods = fish
 terrain = savanna
