@@ -224,10 +224,77 @@ political_decisions = {
         effect = {
             add_accepted_culture = mayan
             prestige = 20
+				any_country = {
+				limit = {
+					OR = {
+						OR = {
+							primary_culture = texan
+							primary_culture = mexican
+							
+						}
+						
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
             change_tag = MEX
             any_owned = {
                 limit = { is_core = MEX }
-                add_core = MEX
+                add_core = THIS
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
+	
+	
+	 become_mexico_vns = {
+        potential = {
+            tag = VNS
+            NOT = { exists = MEX }
+        }
+
+        allow = {
+		is_greater_power = yes
+            prestige = 25
+            war = no
+            MEX = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                    }
+                }
+            }
+        }
+
+        effect = {
+            add_accepted_culture = mayan
+            prestige = 20
+				any_country = {
+				limit = {
+					OR = {
+						OR = {
+							primary_culture = texan
+							primary_culture = mexican
+							
+						}
+						
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+            change_tag = MEX
+            any_owned = {
+                limit = { is_core = MEX }
+                add_core = THIS
             }
         }
         ai_will_do = { factor = 1 }
