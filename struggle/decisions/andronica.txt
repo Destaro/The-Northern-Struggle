@@ -1,0 +1,185 @@
+political_decisions = {
+
+#for anyone else
+form_andronica = {
+		potential = {
+		OR = {
+		tag = GCO
+		tag = VOP
+		tag = KRT
+		
+		}
+			
+			NOT = {
+				exists = UCA
+			}
+		}
+		allow = {
+			war = no
+			GCO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			KRT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			VOP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			LPL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+		set_global_flag = andronica_rises
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						tag = VOP
+						tag = GCO 
+						tag = KRT
+						tag = LPL 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = VOP
+					is_core = GCO 
+					is_core = KRT
+					is_core = LPL
+				}
+				add_core = UCA
+			}			
+			change_tag = UCA
+			add_accepted_culture = platinean
+			add_accepted_culture = new_roman
+			add_accepted_culture = quechua
+			add_accepted_culture = aimara
+			add_accepted_culture = north_andean
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	form_andronica_lpl = {
+		potential = {
+		
+		
+		tag = LPL
+		
+			
+			NOT = {
+				exists = UCA
+			}
+		}
+		allow = {
+			war = no
+			GCO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+			VOP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			LPL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+		set_global_flag = andronica_rises
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						tag = VOP
+						tag = GCO 
+						
+						tag = LPL 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = VOP
+					is_core = GCO 
+					is_core = KRT
+					is_core = LPL
+				}
+				add_core = UCA
+			}			
+			change_tag = UCA
+			add_accepted_culture = platinean
+			add_accepted_culture = new_roman
+			add_accepted_culture = quechua
+			add_accepted_culture = aimara
+			add_accepted_culture = north_andean
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}
