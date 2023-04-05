@@ -1,6 +1,6 @@
 owner = VNS
 controller = VNS
-add_core = UCA
+
 
 add_core = LOS
 trade_goods = iron

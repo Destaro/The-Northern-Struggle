@@ -1247,7 +1247,11 @@ country_event = {
 	option = {
 		name = "EVT32550OPTA"
 		money = 50000
-		2190 = { remove_core = THIS }
+		2212 = { remove_core = THIS }
+		44 = { remove_core = THIS }
+		2209 = { remove_core = THIS }
+		2210 = { remove_core = THIS }
+		2211 = { remove_core = THIS }
 		FROM = { country_event = 32551 }
 		ai_chance = {
 			factor = 60 
@@ -1301,7 +1305,11 @@ country_event = {
 		name = "EVT32551OPTA"
 		prestige = 5
 		money = -50000
-		2190 = { secede_province = THIS }
+		44 = { secede_province = THIS }
+		2209 = { secede_province = THIS }
+		2210 = { secede_province = THIS }
+		2211 = { secede_province = THIS }
+		2212 = { secede_province = THIS }
 		relation = { who = FROM value = 50 }
 		any_pop = { consciousness = -1 }
 	}
