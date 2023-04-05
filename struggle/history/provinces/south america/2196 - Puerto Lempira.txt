@@ -1,6 +1,6 @@
 owner = VNS
 controller = VNS
-add_core = HON
+
 trade_goods = timber
 life_rating = 31
 1861.1.1 = {
@@ -9,3 +9,4 @@ life_rating = 31
 }
 
 add_core = VNS
+add_core = GCO

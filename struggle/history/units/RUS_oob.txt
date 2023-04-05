@@ -219,80 +219,46 @@ army = {
 
 army = {
 	name = "Ural Host"
-	location = 2614
+	location = 1031
 	regiment = {
 		name= "1.Don Cossacks"
 		type = cavalry
-		home = 980
+		home = 1031
 	}
 
 	regiment = {
 		name= "2.Don Cossacks"
 		type = cavalry
-		home = 980
+		home = 1028
 	}
 
 	regiment = {
 		name= "3.Don Cossacks"
 		type = cavalry
-		home = 969
+		home = 1032
 	}
 	
 	regiment = {
 		name= "4. Don Cossacks"
 		type = cavalry
-		home = 969
+		home = 3538
 	}
 
 	regiment = {
 		name= "5. Don Cossacks"
 		type = cavalry
-		home = 961
+		home = 1020
 	}
 
 	regiment = {
 		name= "6. Don Cossacks"
 		type = cavalry
-		home = 961
+		home = 3537
 	}
 
 }
 
-army = {
-	name = "1-i Sibirskii Korpus" #Siberian Army
-	location = 2685
-	
-	regiment = {
-		name = "1.1-ya Sibirskii Pekhotnaya Diviziya"
-		home = 1039
-		type = infantry
-	}
 
-	regiment = {
-		name= "1.2-ya Sibirskii Pekhotnaya Diviziya"
-		type = infantry
-		home = 1019
-	}
-	
-	regiment = {
-		name= "1.3-ya Sibirskii Pekhotnaya Diviziya"
-		type = infantry
-		home = 1019
-	}
-
-	regiment = {
-		name= "1.1-ya Sibirskii Kavalerijskaya Diviziya"
-		type = cavalry
-		home = 1019
-	}
-
-	regiment = {
-		name= "1.2-ya Sibirskii Kavalerijskaya Diviziya"
-		type = cavalry
-		home = 1019
-	}
-
-}
 
 
 

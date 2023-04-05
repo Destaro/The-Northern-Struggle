@@ -3,7 +3,7 @@ owner = VNS
 controller = VNS
 
 add_core = UCA
-add_core = GUA
+
 trade_goods = coffee
 life_rating = 31
 1861.1.1 = {

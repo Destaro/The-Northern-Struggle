@@ -7,3 +7,4 @@ trade_goods = fruit
 life_rating = 31
 
 add_core = VNG
+add_core = VNS

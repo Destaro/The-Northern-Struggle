@@ -1,7 +1,7 @@
 owner = VNS
 controller = VNS
 add_core = UCA
-add_core = GUA
+
 add_core = LOS
 trade_goods = iron
 life_rating = 31

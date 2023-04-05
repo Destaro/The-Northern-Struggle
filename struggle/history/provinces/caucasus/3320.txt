@@ -1,6 +1,6 @@
-owner = GLM
-controller = GLM
-
+owner = CPL
+controller = CPL
+add_core = CPL
 
 
 add_core = POL

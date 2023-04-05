@@ -1,6 +1,6 @@
 
 
-add_core = PEU
+
 add_core = VOP
 
 trade_goods = tropical_wood

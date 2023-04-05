@@ -1,6 +1,6 @@
 owner = AOM
 controller = AOM
-add_core = RUM
+
 add_core = AOM
 add_core = ALB
 add_core = ROM
