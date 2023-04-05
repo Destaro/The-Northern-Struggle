@@ -5,7 +5,7 @@ political_decisions = {
 		picture = map_central_america
 		potential = {
 			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = north_america }  } }
-			
+			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = south_america }  } }
 			CUB = { exists = no }
 			OR = {
 				primary_culture = central_american
