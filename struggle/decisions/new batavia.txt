@@ -50,7 +50,7 @@ claim_the_texans = {
 		tag = GCO
 		
 		}
-			has_country_flag = claim_the_texans
+			
 			NOT = {
 				exists = CSA
 			}
@@ -151,12 +151,16 @@ claim_the_texans = {
 				 }
 	allow = { 
 	 CUB = { all_core = { owned_by = THIS } }
+	 DOM = { all_core = { owned_by = THIS } }
+	 owns = 2217
 	 war = no
 	year = 1860
 	 is_greater_power = yes
 		         }
 	effect = {
+	add_core = 2217
         CUB = { all_core = { add_core = THIS } }
+		DOM = { all_core = { add_core = THIS } }
       set_country_flag = the_caribean_islands
         prestige = 5
 		badboy = 1

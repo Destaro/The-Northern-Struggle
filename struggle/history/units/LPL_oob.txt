@@ -27,41 +27,41 @@ leader = {
 
 army = {
 	name = "Ejército Nacional"
-	location = 2360
+	location = 2322
 	regiment = {
 		name= "1.1ra división de infantería"
 		type = infantry
-		home = 2349
+		home = 2324
 	}
 
 	regiment = {
 		name= "2.1ra división de infantería"
 		type = infantry
-		home = 2349
+		home = 2324
 	}
 
 	regiment = {
 		name= "3.1ra división de infantería"
 		type = infantry
-		home = 2373
+		home = 2324
 	}
 
 	regiment = {
 		name= "1.1ra división de caballería"
 		type = cuirassier
-		home = 2348
+		home = 2326
 	}
 
 	regiment = {
 		name= "2.1ra división de caballería"
 		type = cuirassier
-		home = 2349
+		home = 2360
 	}
 
 	regiment = {
 		name= "3.1ra división de caballería"
 		type = cuirassier
-		home = 2379
+		home = 2328
 	}
 
 }
@@ -145,6 +145,16 @@ army = {
 		home = 2324
 	}
 
+}
+
+army = {
+	name = "Ejército de Entre Ríos"
+	location = 2359
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2360
+	}
 }
 
 navy = {

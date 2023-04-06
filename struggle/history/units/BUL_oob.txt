@@ -105,7 +105,7 @@ army = {
 
 army = {
 	name = "3-i Armeiskii Korpus" #Vilna/Marijampole - Baltic Army
-	location = 362
+	location = 356
 
 	regiment = {
 		name = "3.1-ya Pekhotnaya Diviziya"
