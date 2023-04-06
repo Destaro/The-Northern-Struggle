@@ -7,6 +7,7 @@ plurality = 0.08
 nationalvalue = nv_order
 literacy = 0.4
 civilized = yes
+prestige = 15
 oob = "BUL_oob.txt"
 
 # Political reforms
