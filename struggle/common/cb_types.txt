@@ -199,7 +199,7 @@ take_capital = {
 	
 	badboy_factor = 2
 	prestige_factor = 10
-	peace_cost_factor = 0.006
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1

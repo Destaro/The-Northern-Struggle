@@ -3782,7 +3782,7 @@
 	}
 
 	farmers = {
-		culture = texant
+		culture = texan
 		religion = protestant
 		size = 11025
 	}
