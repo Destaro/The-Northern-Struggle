@@ -4114,25 +4114,25 @@
 	clergymen = {
 		culture = texan
 		religion = protestant
-		size = 75
+		size = 225
 	}
 
 	artisans = {
 		culture = texan
 		religion = protestant
-		size = 200
+		size = 20200
 	}
 
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 50
+		size = 550
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 3675
+		size = 53675
 	}
 }
 #Fayetteville (16000/4000 POPS)
