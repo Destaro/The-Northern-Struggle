@@ -235,16 +235,7 @@ take_capital = {
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
 		}
-		NOT = {
-			AND = { 
-				OR = {
-					tag = EGY
-					tag = TUR
-					tag = RUS
-				}
-				THIS = { has_country_modifier = oriental_truce }
-			}
-		}
+		
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
 			not = { is_core = THIS }

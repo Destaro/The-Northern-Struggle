@@ -7,7 +7,7 @@ political_decisions = {
 			tag = WES
 			tag = NGF
 			tag = GER
-			
+			tag = MRV
 			}
          NOT = {
             has_country_flag = integrate_lausic		 
