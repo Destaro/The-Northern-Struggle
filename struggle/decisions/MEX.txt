@@ -223,6 +223,8 @@ political_decisions = {
 
         effect = {
             add_accepted_culture = mayan
+			add_accepted_culture = texan
+			add_accepted_culture = mexican
             prestige = 20
 				any_country = {
 				limit = {
@@ -273,6 +275,8 @@ political_decisions = {
 
         effect = {
             add_accepted_culture = mayan
+			add_accepted_culture = texan
+			add_accepted_culture = mexican
             prestige = 20
 				any_country = {
 				limit = {

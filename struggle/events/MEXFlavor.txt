@@ -1354,7 +1354,7 @@ country_event = {
 	trigger = {
 	year = 1844
 		tag = VNS
-		vassal_of = { TLD }
+		VNS = { vassal_of = TLD }
 	}
 	
 	mean_time_to_happen = {
@@ -1365,7 +1365,7 @@ country_event = {
 		
 	option = {
 		name = "EVTOPT4006004A"
-		leave_alliance = TLD
+		THIS = { leave_alliance = TLD }
 		add_country_modifier = { name = small_country_draft duration = 365 }
 		add_country_modifier = { name = unrecognized_country duration = 3650 }
 		TLD = {
