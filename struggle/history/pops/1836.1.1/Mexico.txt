@@ -750,7 +750,7 @@
 	soldiers = {
 		culture = texan
 		religion = catholic
-		size = 125
+		size = 1250
 
 		militancy = 9
 	}

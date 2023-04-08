@@ -925,7 +925,7 @@ restore_the_baltic = {
 	 effect = {
 	 prestige = 20
 	 set_country_flag = restore_the_baltic
-	SCA = { event = 4004005 }
+	SCA = { country_event = 4004005 }
 	 }
 
       }
