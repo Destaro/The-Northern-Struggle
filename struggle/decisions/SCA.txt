@@ -1031,7 +1031,7 @@ restore_the_baltic = {
 	  allow = { 
 	  war = no
 	  in_sphere = THIS
-	  revolution_n_counterrevolution = 1
+	  nationalism_n_imperialism = 1
 	  is_greater_power = yes
 	  neighbour = PRD
 	      }
