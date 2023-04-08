@@ -1021,6 +1021,31 @@ restore_the_baltic = {
 
       }
 	  
+	  demand_prussian_submission = { 
+	  potential = {
+         tag = SCA
+             PRD = {  is_vassal = no	 }
+			  PRD = { in_sphere = THIS	 }
+			  NOT = { has_country_flag = demand_prussian_submission }
+			 }
+	  allow = { 
+	  war = no
+	  in_sphere = THIS
+	  revolution_n_counterrevolution = 1
+	  is_greater_power = yes
+	  neighbour = PRD
+	      }
+	  effect = {
+	  badboy = 7
+    set_country_flag = demand_prussian_submission
+       PRD = { country_event =  6045009 }	  
+	          }
+	  
+	  
+	  }
+	  
+	  
+	  
 	  
 
 }   

@@ -553,3 +553,41 @@ country_event = {
 		ai_chance = { factor = 0.1 }
 	}
 }
+
+
+
+country_event = {
+	id = 6045009
+	title = "EVTNAME6045009" #submissionofpruski
+	desc = "EVTDESC6045009"
+	picture = "rosas_urquiza"
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPT6045009A"
+		PRD = { leave_alliance = SCA }
+		add_country_modifier = { name = small_country_draft duration = 365 }
+		add_country_modifier = { name = unrecognized_country duration = 3650 }
+		SCA = {
+			release_vassal = PRD
+			
+		}
+		
+		war = {
+			target = SCA
+			attacker_goal = { casus_belli = humiliate }
+			defender_goal = { casus_belli = conquest_any }
+		}
+		set_global_flag = the_pruski_war
+		ai_chance = { factor = 0.5 }
+	}
+		
+	option = {
+		name = "EVTOPT6045009B"
+		SCA = { inherit = PRD }
+		any_owned = {
+		               limit = { culture = pruski }
+		militancy = 7 }
+		ai_chance = { factor = 0.5 }
+	}
+}
