@@ -470,7 +470,13 @@ country_event = {
 				}
 				secede_province = EST
 			}
-			
+			any_owned = {
+				limit = {
+					is_core = SCA
+
+				}
+				secede_province = SCA
+			}
 		
 		     any_owned = {
 				limit = {

@@ -923,9 +923,12 @@ restore_the_baltic = {
 	 }
 	 
 	 effect = {
+	  any_owned = {
+                limit = { is_core = LAT }
+           			secede_province = LAT	}
 	 prestige = 20
 	 set_country_flag = restore_the_baltic
-	SCA = { country_event = 4004005 }
+	BUL = { country_event = 4004005 }
 	 }
 
       }
