@@ -1353,7 +1353,7 @@ country_event = {
 	
 	trigger = {
 	year = 1844
-		tag = VNS
+		tag = TLD
 		VNS = { vassal_of = TLD }
 	}
 	
@@ -1365,9 +1365,9 @@ country_event = {
 		
 	option = {
 		name = "EVTOPT4006004A"
-		THIS = { leave_alliance = TLD }
-		add_country_modifier = { name = small_country_draft duration = 365 }
-		add_country_modifier = { name = unrecognized_country duration = 3650 }
+		THIS = { leave_alliance = VNS }
+		VNS = { add_country_modifier = { name = small_country_draft duration = 365 } }
+		VNS = { add_country_modifier = { name = unrecognized_country duration = 3650 } }
 		TLD = {
 			release_vassal = VNS
 			
@@ -1375,19 +1375,12 @@ country_event = {
 		
 		war = {
 			target = TLD
-			attacker_goal = { casus_belli = status_quo }
-			defender_goal = { casus_belli = make_puppet }
+			attacker_goal = { casus_belli = make_puppet }
+			defender_goal = { casus_belli = status_quo }
 		}
 		set_global_flag = the_mexican_rebellion
 		ai_chance = { factor = 0.9 }
 	}
 		
-	option = {
-		name = "EVTOPT4006004B"
-		TLD = { inherit = VNS }
-		any_owned = {
-		               limit = { culture = mexican }
-		militancy = 7 }
-		ai_chance = { factor = 0.1 }
-	}
+	
 }
