@@ -165,17 +165,17 @@ political_decisions = {
 	effect = {
     set_global_flag = invade_the_south	
 	badboy = 5
-	
+	badboy = -22
 	war = {
                 target = TUN
                 
 				attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                   state_province_id = 506
                 }
 				
 				attacker_goal = {
-                    casus_belli = acquire_state_any
+                    casus_belli = acquire_state
                   state_province_id = 514
                 }
                

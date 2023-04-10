@@ -1178,7 +1178,7 @@ civil_war = {
 
 	badboy_factor = 0
 	prestige_factor = 1
-	peace_cost_factor = 1
+	peace_cost_factor = 0.7
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 5

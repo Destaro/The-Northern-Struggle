@@ -1342,7 +1342,7 @@ east_slavic = {
 		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	}
-	union = RUS
+	union = RUT
 }
 
 baltic = {
