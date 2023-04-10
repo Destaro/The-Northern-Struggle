@@ -4,3 +4,5 @@ add_core = RUS
 trade_goods = grain
 life_rating = 40
 
+
+add_core = RUT

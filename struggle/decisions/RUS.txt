@@ -16,35 +16,7 @@ form_ruthenia = {
 		}	
 		allow = {
 			war = no
-			RUS = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-					}
-				}
-			}
-			
-			UKR = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-					}
-				}
-			}
-			
-			BKV = {
+			RUT = {
 				all_core = {
 					OR = {
 						OR = {
@@ -59,23 +31,12 @@ form_ruthenia = {
 			}
 			
 			
-			BUL = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-					}
-				}
-			}
 		}
 		
 		effect = {
 			prestige = 15
+			BYE = { all_core = { add_core = THIS } }
+			
 			any_country = {
 				limit = {
 					OR = {

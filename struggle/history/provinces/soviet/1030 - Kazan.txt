@@ -7,3 +7,4 @@ life_rating = 40
 terrain = kazan
 
 add_core = RUS
+add_core = RUT

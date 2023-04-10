@@ -8,3 +8,4 @@ life_rating = 40
 
 
 add_core = UKR
+add_core = RUT

@@ -294,11 +294,11 @@ political_decisions = {
                 }
                
                 defender_goal = { 
-				    casus_belli = acquire_state_any
+				    casus_belli = acquire_state
                     state_province_id = 546 }
 					
 			    defender_goal = { 
-				    casus_belli = acquire_state_any
+				    casus_belli = acquire_state
                     state_province_id = 550 }
             
 			

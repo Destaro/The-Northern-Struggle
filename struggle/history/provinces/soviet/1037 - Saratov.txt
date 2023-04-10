@@ -9,3 +9,4 @@ terrain = saratov
 
 
 add_core = UKR
+add_core = RUT
