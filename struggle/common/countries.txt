@@ -20,6 +20,8 @@ BOR		="countries/The Kingdom of France.txt"
 ###TNS NEW NATIONS###
 SLA = "countries/SLA.txt"
 AJP = "countries/AJP.txt"
+ACH = "countries/ACH.txt"
+AKR = "countries/AKR.txt"
 ANU = "countries/Baetica.txt"
 TLD = "countries/Toledu.txt"
 ALN = "countries/Alania.txt"
