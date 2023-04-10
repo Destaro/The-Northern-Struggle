@@ -923,8 +923,11 @@ restore_the_baltic = {
 	 }
 	 
 	 effect = {
+	 SCA = { create_vassal = LAT }
 	  any_owned = {
-                limit = { is_core = LAT }
+                limit = { is_core = LAT 
+				         NOT = { is_core = SCA }
+						           }
            			secede_province = LAT	}
 	 prestige = 20
 	 set_country_flag = restore_the_baltic

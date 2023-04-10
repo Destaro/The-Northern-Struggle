@@ -13,4 +13,3 @@ state_building = {
 
 
 add_core = BUL
-add_core = LIT
