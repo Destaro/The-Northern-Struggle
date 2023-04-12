@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 1
+capital = 78
 primary_culture = shizuya
 religion = shinto
 government = absolute_monarchy

@@ -886,24 +886,24 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
 	aristocrats = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 25
 	}
 	soldiers = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 900
 	}
@@ -933,37 +933,37 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 400
 	}
 	
 	aristocrats = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 10
 	}
 	
 	bureaucrats = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 75
 	}
 	
 	artisans = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 150
 	}
 	
 	clergymen = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 25
 	}
 	
 	soldiers = {
-		culture = mexican
+		culture = new_mongol
 		religion = catholic
 		size = 25
 	}

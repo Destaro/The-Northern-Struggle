@@ -1,4 +1,4 @@
-capital = 2483
+capital = 104
 primary_culture = new_mongol
 religion = gelugpa
 government = democracy

@@ -101,32 +101,17 @@ political_decisions = {
 	is_greater_power = yes
     war = no
 	
-	492 = { 
-	           OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					} 
+	BSQ = { 
+	in_sphere = THIS
 			}	
 	
-	510 = { 
-	           OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					} 
-			}
+		VND = { 
+	in_sphere = THIS
+			}	
 	
-	474 = { 
-	           OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					} 
-			}
+		GLC = { 
+	in_sphere = THIS
+			}	
 			
 	
 
