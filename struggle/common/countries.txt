@@ -680,6 +680,7 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
+JAN 	= "countries/JanMayen.txt"
 
 #new for 1.2
 ISR		="countries/Israel.txt"
