@@ -11,3 +11,4 @@ terrain = new_world_arctic
 	add_core = RPL
 	colonial = 2
 }
+add_core = AJP

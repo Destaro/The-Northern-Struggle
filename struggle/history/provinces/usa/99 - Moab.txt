@@ -15,3 +15,4 @@ life_rating = 35
 
 add_core = MEX
 add_core = VNS
+add_core = AMG

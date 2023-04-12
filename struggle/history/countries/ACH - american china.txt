@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 146
+capital = 1
 primary_culture = Dongfang
 religion = mahayana
 government = absolute_monarchy

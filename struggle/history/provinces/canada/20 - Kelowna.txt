@@ -1,5 +1,7 @@
-owner = AMG
-controller = AMG
-add_core = AMG
+owner = AJP
+controller = AJP
+
 trade_goods = grain
 life_rating = 30
+add_core = AJP
+add_core = AMG

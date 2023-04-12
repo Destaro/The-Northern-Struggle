@@ -361,104 +361,104 @@
 #Vancouver (12000/3000 POPS)
 13 = {
 	clergymen = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 100
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 1010
 	}
 	
 	officers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 150
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 510
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 50
+		size = 2050
 	}
 	
 	farmers = {
-		culture = native_american_minor
+		culture = shizuya
 		religion = animist
-		size = 2460
+		size = 22460
 	}
 
 }
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 210
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 510
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 710
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 50
+		size = 20050
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shizuya
 		religion = animist
-		size = 2130
+		size = 12130
 	}
 }
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 3
+		size = 300
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 3
+		size = 1300
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 3
+		size = 400
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 10
+		size = 1000
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shizuya
 		religion = animist
-		size = 3115
+		size = 31150
 	}
 }
 #Glenora (4000/1000 POPS)
@@ -593,31 +593,31 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 500
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 1500
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 1005
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 15
+		size = 20015
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shizuya
 		religion = animist
 		size = 1950
 	}
@@ -849,39 +849,39 @@
 26 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 750
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 2500
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
-		size = 5
+		size = 1500
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = shizuya
 		religion = protestant
 		size = 15
 	}
 
 	farmers = {
-		culture = metis
+		culture = shizuya
 		religion = catholic
 		size = 580
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shizuya
 		religion = animist
-		size = 1030
+		size = 31030
 	}
 }
 #Edmonton - Denwood (8000/2000 POPS)

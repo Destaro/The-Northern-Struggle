@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 116
+capital = 1
 primary_culture = meolli
 religion = mahayana
 government = absolute_monarchy
