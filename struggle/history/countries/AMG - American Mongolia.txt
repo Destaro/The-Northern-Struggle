@@ -5,7 +5,7 @@ government = democracy
 plurality = 0.57
 nationalvalue = nv_order
 literacy = 0.40
-civilized = yes
+civilized = no
 prestige = 6
 
 # Political reforms

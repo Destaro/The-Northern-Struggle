@@ -1,3 +1,40 @@
+leader = {
+	name = "A.E. Ramsay"
+	date = 1828.1.1
+	type = land
+	personality = steadfast
+	background = uncommonly_young
+	prestige = 0.3
+}
+
+leader = {
+	name = "Fedor von Berg"
+	date = 1828.1.1
+	type = land
+	personality = sharp
+	background = cartographer
+	prestige = 0.3
+}
+
+leader = {
+	name = "Ferdinand Wrangel"
+	date = 1836.1.1
+	type = sea
+	personality = active_p
+	background = cartographer
+	prestige = 0.3
+}
+
+leader = {
+	name = "Pavel Grabbe"
+	date = 1835.1.1
+	type = land
+	personality = keen
+	background = school_of_firepower
+	prestige = 0.3
+}
+
+
 army = {
 	name = "Army of Bolkania"
 	location = 350
