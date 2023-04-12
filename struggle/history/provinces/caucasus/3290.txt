@@ -1,6 +1,7 @@
-owner = GEO
-controller = GEO
-add_core = GEO
-add_core = TCA
+owner = SHV
+controller = SHV
+add_core = PER
+add_core = SHV
+add_core = ARM
 trade_goods = grain
 life_rating = 35

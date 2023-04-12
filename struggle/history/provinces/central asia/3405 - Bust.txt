@@ -1,6 +1,6 @@
-owner = MAK
-controller = MAK
-add_core = MAK
-add_core = BLC
+owner = PER
+controller = PER
+add_core = PER
+add_core = LUR
 trade_goods = grain
 life_rating = 35

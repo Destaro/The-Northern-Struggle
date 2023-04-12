@@ -14,4 +14,3 @@ colonial = 2
 
 add_core = MEX
 add_core = VNS
-add_core = AMG

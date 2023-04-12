@@ -1,8 +1,6 @@
-owner = EDE
-controller = EDE
-add_core = EDE
-add_core = KDS
+owner = PNT
+controller = PNT
+add_core = PNT
 add_core = ARM
-add_core = BTL
 trade_goods = iron
 life_rating = 35

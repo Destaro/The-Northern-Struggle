@@ -2,7 +2,6 @@ owner = DLM
 controller = DLM
 
 
-add_core = CRO
 trade_goods = fish
 life_rating = 35
 

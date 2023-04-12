@@ -1,0 +1,5 @@
+owner = KHT
+controller = KHT
+add_core = KHT
+trade_goods = cotton
+life_rating = 35

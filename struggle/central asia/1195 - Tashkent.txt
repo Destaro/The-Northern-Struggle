@@ -1,0 +1,11 @@
+owner = KOK
+controller = KOK
+
+trade_goods = grain
+life_rating = 35
+terrain = tashkent
+
+
+
+add_core = BUK
+add_core = KOK

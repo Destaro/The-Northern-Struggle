@@ -1,8 +1,4 @@
-TUN = {	
-	value = -135
-	level = 0
-	influence_value = 0
-}
+
 
 leader = {
 	name = "un veneciano pue"
@@ -14,7 +10,7 @@ leader = {
 }
 
 leader = {
-	name = "Markus Antuniusito"
+	name = "markus antuniusito"
 	date = 1820.1.1
 	type = land
 	personality = diplomatic

@@ -1,9 +1,7 @@
 #Relations
 
-TUN = {	
-	value = -135
-	level = 0
-	influence_value = 0
+SWI = { 
+	value = 125
 }
 
 leader = {

@@ -1,7 +1,7 @@
-owner = HAL
-controller = HAL
-add_core = HAL
-add_core = HDJ
+owner = PER
+controller = PER
+add_core = PER
+add_core = BAB
 trade_goods = cattle
 life_rating = 10
 

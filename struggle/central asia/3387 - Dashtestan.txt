@@ -1,0 +1,6 @@
+owner = ZND
+controller = ZND
+add_core = ZND
+trade_goods = fish
+life_rating = 35
+naval_base = 1

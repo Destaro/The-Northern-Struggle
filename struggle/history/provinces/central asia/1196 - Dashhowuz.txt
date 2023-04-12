@@ -1,7 +1,7 @@
-owner = KHI
-controller = KHI
+owner = UZB
+controller = UZB
+add_core = UZB
 add_core = KHI
-add_core = AFS
 trade_goods = cattle
 life_rating = 35
 terrain = semidesert

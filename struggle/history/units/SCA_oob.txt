@@ -1680,7 +1680,16 @@ army = {
 
 }
 
+army = {
+    name = "Vestlandet army"
+    location = 14
 
+    regiment = {
+        name= "1. Akershusiske brigade"
+        type = infantry
+        home = 1400
+    }
+}
 
 army = {
     name = "Indonesian army"

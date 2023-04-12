@@ -577,141 +577,80 @@
 #Golan (44000/11000 POPS)
 3324 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
-
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 250
 	}
-
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
-
 	farmers = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 4575
 	}
-
-
-	aristocrats = {
-		culture = chaldean
-		religion = syriac
-		size = 75
-	}
-	clergymen = {
-		culture = chaldean
-		religion = syriac
-		size = 75
-	}
 	artisans = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 150
 	}
 	soldiers = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 200
 	}
 	farmers = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 1000
 	}
 
 	clergymen = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 75
 	}
 
 	artisans = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 200
 	}
 
 	farmers = {
-		culture = chaldean
+		culture = bedouin
 		religion = syriac
 		size = 3750
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 1850
-	}
-	
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
-
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 50
-	}
-
-	farmers = {
-		culture = sephardic
-		religion = jewish
-		size = 1925
-	}
-	
-	clergymen = {
-		culture = chaldean
-		religion = syriac
-		size = 75
-	}
-	artisans = {
-		culture = chaldean
-		religion = syriac
-		size = 100
-	}
-	farmers = {
-		culture = chaldean
-		religion = syriac
-		size = 1875
-	}
-	
-	artisans = {
-		culture = circassian
-		religion = sunni
-		size = 25
-	}
-	farmers = {
-		culture = circassian
-		religion = sunni
-		size = 100
 	}
 }
 

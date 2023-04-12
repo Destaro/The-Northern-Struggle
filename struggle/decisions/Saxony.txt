@@ -7,7 +7,7 @@ political_decisions = {
 			tag = WES
 			tag = NGF
 			tag = GER
-			tag = MRV
+			
 			}
          NOT = {
             has_country_flag = integrate_lausic		 
@@ -294,11 +294,11 @@ political_decisions = {
                 }
                
                 defender_goal = { 
-				    casus_belli = acquire_state
+				    casus_belli = acquire_state_any
                     state_province_id = 546 }
 					
 			    defender_goal = { 
-				    casus_belli = acquire_state
+				    casus_belli = acquire_state_any
                     state_province_id = 550 }
             
 			

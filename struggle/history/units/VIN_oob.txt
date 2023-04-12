@@ -4,19 +4,19 @@ army = {
 	regiment = {
 		name= "1.1. Canadian Division"
 		type = infantry
-		home = 58
+		home = 46
 	}
 
 	regiment = {
 		name= "2.1. Canadian Division"
 		type = infantry
-		home = 58
+		home = 56
 	}
 
 	regiment = {
 		name= "3.1. Canadian Division"
 		type = infantry
-		home = 65
+		home = 301
 	}
 
 }
@@ -28,49 +28,49 @@ army = {
 	regiment = {
 		name= "2nd Dragoons (Royal Scots Greys)"
 		type = cuirassier
-		home = 46
+		home = 269
 	}
 	
 	regiment = {
 		name= "1st Canadian Royal Regiment"
 		type = infantry
-		home = 46
+		home = 58
 	}
 
 	regiment = {
 		name= "The Welch Regiment"
 		type = infantry
-		home = 56
+		home = 274
 	}
 
 	regiment = {
 		name= "Duke of Cornwall's Light Infantry"
 		type = infantry
-		home = 65
+		home = 277
 	}
 	
 	regiment = {
 		name= "34th (Cumberland) Regiment"
 		type = infantry
-		home = 52
+		home = 264
 	}
 	
 	regiment = {
 		name= "6th Regiment Royal Artillery"
 		type = artillery
-		home = 52
+		home = 259
 	}
 	
 	regiment = {
 		name= "7th Regiment Royal Artillery"
 		type = artillery
-		home = 58
+		home = 275
 	}
 	
 	regiment = {
 		name= "8th Regiment Royal Artillery"
 		type = artillery
-		home = 58
+		home = 267
 	}
 }
 
@@ -81,55 +81,55 @@ army = {
 	regiment = {
 		name= "Prince of Wales's Lancers"
 		type = cuirassier
-		home = 56
+		home = 276
 	}
 	
 	regiment = {
 		name= "12th (The East Suffolk) Regiment"
 		type = infantry
-		home = 65
+		home = 277
 	}
 
 	regiment = {
 		name= "9th (The East Norfolk) Regiment"
 		type = infantry
-		home = 52
+		home = 277
 	}
 
 	regiment = {
 		name= "Canadian Frontier Light Infantry"
 		type = infantry
-		home = 52
+		home = 46
 	}
 	
 	regiment = {
 		name= "Prince of Wales's Own Regiment"
 		type = infantry
-		home = 56
+		home = 286
 	}
 	
 	regiment = {
 		name= "1st Canadian Royal Artillery"
 		type = artillery
-		home = 46
+		home = 266
 	}
 	
 	regiment = {
 		name= "2nd Canadian Royal Artillery"
 		type = artillery
-		home = 55
+		home = 292
 	}
 	
 	regiment = {
 		name= "1st Regiment Royal Artillery"
 		type = artillery
-		home = 51
+		home = 255
 	}
 	
 	regiment = {
 		name= "3rd Regiment Royal Artillery"
 		type = artillery
-		home = 51
+		home = 303
 	}
 
 }

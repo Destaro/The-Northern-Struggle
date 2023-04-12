@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
+owner = ZOU
+controller = ZOU
 add_core = SHO
 add_core = AGC
 trade_goods = grain

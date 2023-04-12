@@ -1,7 +1,7 @@
 capital = 1121
 primary_culture = old_persian
 culture = azerbaijani
-religion = zoroastrian
+religion = manichaeism
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

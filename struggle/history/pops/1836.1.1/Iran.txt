@@ -4286,31 +4286,31 @@
 #Ahvaz (56000/14000 POPS)
 1131 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 425
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 9925
 	}
@@ -4372,31 +4372,31 @@
 #Abadan (44000/11000 POPS)
 1132 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 550
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 10050
 	}
@@ -4404,31 +4404,31 @@
 #Nuristan (44000/11000 POPS)
 3422 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 550
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 10050
 	}
@@ -4436,31 +4436,31 @@
 #Dezful (32000/8000 POPS)
 1133 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 1800
 	}
@@ -4530,31 +4530,31 @@
 #Dehloran (32000/8000 POPS)
 3454 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 1800
 	}
@@ -4592,31 +4592,31 @@
 #Shushtar (32000/8000 POPS)
 3455 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 1800
 	}
@@ -4654,31 +4654,31 @@
 #Bebahan (32000/8000 POPS)
 3383 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 1800
 	}
@@ -5520,7 +5520,7 @@
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 9955
 	}
@@ -5558,7 +5558,7 @@
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 9977
 	}
@@ -5750,31 +5750,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 150
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 2750
 	}
@@ -5812,31 +5812,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 350
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 6400
 	}
@@ -5886,31 +5886,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 350
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 6400
 	}
@@ -5960,25 +5960,25 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 350
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = shiite
 		size = 75
 	}

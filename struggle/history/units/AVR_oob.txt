@@ -11,7 +11,7 @@ CSZ = {
 }
 
 PAP = {	
-	value = 175
+	value = 200
 	level = 0
 	influence_value = 0
 }

@@ -35,10 +35,26 @@
 	soldiers = {
 		culture = new_roman
 		religion = punic_church
-		size = 300
+		size = 3000
 	}
 
-	
+	soldiers = {
+		culture = new_roman
+		religion = punic_church
+		size = 3000
+	}
+
+	soldiers = {
+		culture = new_roman
+		religion = punic_church
+		size = 3000
+	}
+
+	soldiers = {
+		culture = new_roman
+		religion = punic_church
+		size = 2000
+	}
 
 	farmers = {
 		culture = new_roman
@@ -76,9 +92,12 @@
 		size = 7000
 	}
 	
-	
-
-	
+	soldiers = {
+		culture = berber
+		religion = punic_church
+		size = 4000
+		militancy = 9
+	}
 
 	soldiers = {
 		culture = punic
@@ -86,7 +105,17 @@
 		size = 2000
 	}
 
+	soldiers = {
+		culture = punic
+		religion = punic_church
+		size = 2000
+	}
 
+	soldiers = {
+		culture = punic
+		religion = punic_church
+		size = 2000
+	}
 
 	farmers = {
 		culture = punic

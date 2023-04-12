@@ -100,20 +100,41 @@ political_decisions = {
 	nationalism_n_imperialism = 1
 	is_greater_power = yes
     war = no
-	
-	BSQ = { 
-	in_sphere = THIS
-			}	
-	
-		VND = { 
-	in_sphere = THIS
-			}	
-	
-		GLC = { 
-	in_sphere = THIS
-			}	
+	BSQ = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 			
 	
+	
+	
+	VND = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			
+	GLC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 
 
           			}
@@ -144,17 +165,17 @@ political_decisions = {
 	effect = {
     set_global_flag = invade_the_south	
 	badboy = 5
-	badboy = -22
+	
 	war = {
                 target = TUN
                 
 				attacker_goal = {
-                    casus_belli = acquire_state
+                    casus_belli = acquire_state_any
                   state_province_id = 506
                 }
 				
 				attacker_goal = {
-                    casus_belli = acquire_state
+                    casus_belli = acquire_state_any
                   state_province_id = 514
                 }
                

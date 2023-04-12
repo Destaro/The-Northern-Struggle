@@ -1,0 +1,6 @@
+owner = BSR
+controller = BSR
+add_core = BSR
+trade_goods = fish
+life_rating = 35
+naval_base = 1

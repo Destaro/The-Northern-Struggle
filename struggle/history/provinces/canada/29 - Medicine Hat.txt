@@ -1,6 +1,6 @@
-owner = KOK
-controller = KOK
-add_core = KOK
+owner = KHI
+controller = KHI
+add_core = KHI
 trade_goods = fruit
 terrain = desert
 life_rating = 15

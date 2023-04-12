@@ -774,25 +774,25 @@
 #Belz
 3320 = {
 	clergymen = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 750
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 4200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 1000
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = byelorussian
 		religion = orthodox
 		size = 37050
 	}

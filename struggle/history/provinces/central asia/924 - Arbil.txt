@@ -1,8 +1,6 @@
-owner = EDE
-controller = EDE
-add_core = EDE
+owner = ARM
+controller = ARM
+add_core = ARM
 add_core = KDS
-add_core = SRN
-add_core = BNB
 trade_goods = wool
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = `ZUL
-controller = `ZUL
+owner = ZUL
+controller = ZUL
 add_core = MAT
 add_core = BSH
 add_core = GAZ
@@ -17,4 +17,4 @@ life_rating = 15
 }
 
 
-add_core = `ZUL
+add_core = ZUL

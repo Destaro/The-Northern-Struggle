@@ -1,6 +1,6 @@
 army = {
 	name = "Army of the Principality of Wallachia"
-	location = 786
+	location = 669
 	regiment = {
 		name= "1st Wallachia Infantry"
 		type = infantry

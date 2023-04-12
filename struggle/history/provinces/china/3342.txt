@@ -1,7 +1,5 @@
-owner = BDK
-controller = BDK
-add_core = BDK
+owner = TAJ
+controller = TAJ
 add_core = TAJ
-add_core = UYG
 trade_goods = cotton
 life_rating = 32

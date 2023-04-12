@@ -1,17 +1,10 @@
 owner = BUL
 controller = BUL
-
-
-
+add_core = BUL
 trade_goods = timber
 life_rating = 40
-state_building = {
-	level = 1
-	building = liquor_distillery
-	upgrade = yes
-}
-
-
-add_core = BUL
-
-add_core = RUT
+#state_building = {
+#	level = 1
+#	building = liquor_distillery
+#	upgrade = yes
+#}

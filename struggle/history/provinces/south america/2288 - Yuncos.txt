@@ -1,6 +1,6 @@
 owner = GCO
 controller = GCO
-
+add_core = PEU
 add_core = VOP
 trade_goods = fruit
 life_rating = 20

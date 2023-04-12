@@ -7,7 +7,6 @@ plurality = 0.02
 nationalvalue = nv_autocracy
 literacy = 0.15
 civilized = yes
-prestige = 10
 oob = "UKR_oob.txt"
 
 # Political reforms

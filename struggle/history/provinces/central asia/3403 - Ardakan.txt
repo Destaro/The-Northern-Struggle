@@ -1,7 +1,6 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = KHR
+controller = KHR
 add_core = KHR
-add_core = YZD
+add_core = KHT
 trade_goods = opium
 life_rating = 15

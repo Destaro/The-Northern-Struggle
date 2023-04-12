@@ -1,0 +1,8 @@
+owner = EDE
+controller = EDE
+add_core = EDE
+add_core = KDS
+add_core = ARM
+add_core = BTL
+trade_goods = iron
+life_rating = 35

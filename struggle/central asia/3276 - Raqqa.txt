@@ -1,0 +1,12 @@
+owner = EDE
+controller = EDE
+add_core = EDE
+add_core = KDS
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+1861.1.1 = {
+	controller = ASY 
+	owner = ASY
+}
+add_core = ASY

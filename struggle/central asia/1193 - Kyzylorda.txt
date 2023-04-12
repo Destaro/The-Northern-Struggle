@@ -1,0 +1,10 @@
+owner = KOK
+controller = KOK
+
+trade_goods = coal
+life_rating = 35
+
+
+
+add_core = BUK
+add_core = KOK

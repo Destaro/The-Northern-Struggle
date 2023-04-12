@@ -1,7 +1,6 @@
-owner = BNB
-controller = BNB
-
-add_core = HTY
+owner = PER
+controller = PER
+add_core = PER
 add_core = BNB
 add_core = KDS
 trade_goods = grain

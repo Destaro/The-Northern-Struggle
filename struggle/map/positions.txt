@@ -118968,12 +118968,54 @@
 
 3246 = {
     text_position = {
-        x = 2691.650000
-        y = 2133.600000
+        x = 1604.450000
+        y = 1240.800000
     }
 
     text_rotation = 0.315422
-    text_scale = 1.5
+    text_scale = 1.800000
+    unit = {
+        x = 1600.650000
+        y = 1242.950000
+    }
+
+    city = {
+        x = 1603.950000
+        y = 1244.950000
+    }
+
+    factory = {
+        x = 1605.250000
+        y = 1244.950000
+    }
+
+    building_construction = {
+        x = 1599.200000
+        y = 1244.050000
+    }
+
+    military_construction = {
+        x = 1603.700000
+        y = 1246.100000
+    }
+
+    building_position = {
+        fort = {
+            x = 1600.750000
+            y = 1242.650000
+        }
+
+        naval_base = {
+            x = 1603.850000
+            y = 1242.950000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 2.125708
+    }
+
 } # West Hawaii
 
 3247 = {

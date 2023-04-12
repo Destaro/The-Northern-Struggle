@@ -298,78 +298,31 @@ vassal = {
 	end_date = 1975.1.1
 }
 
-# Eran-Azerbaijan 
+##PARTHIA##
 vassal = {
-	first = PER
-	second = AZB
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Eran-Shirvan
-vassal = {
-	first = PER
-	second = TTN
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Eran-Afshar Turks
-vassal = {
-	first = PER
-	second = AFS
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Zand-Luris 
-vassal = {
-	first = ZND
-	second = LUR
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Zand-Khorasan
-vassal = {
-	first = ZND
-	second = KHR
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-# Zand-Khozeimeh
-vassal = {
-	first = ZND
-	second = KHT
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Zand-Kalat
-vassal = {
-	first = ZND
-	second = KAL
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Zand-Makran
-vassal = {
-	first = ZND
+	first = KHR
 	second = MAK
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-
-# Zand-Bushehr
 vassal = {
-	first = ZND
-	second = BSR
+	first = KHR
+	second = TKM
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
-
-
+vassal = {
+	first = KHR
+	second = SEM
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = KHR
+	second = BDK
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
 
 # Toledan Empire
 vassal = {
@@ -415,14 +368,6 @@ substate = {
 substate = {
 	first = SCA
 	second = LAT
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-
-# Lithuania
-substate = {
-	first = SCA
-	second = LIT
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
@@ -479,5 +424,31 @@ substate = {
 	first = SCA
 	second = RPL
 	start_date = 1805.1.1
+	end_date = 1936.1.1
+}
+#ASSYRIA
+vassal = {
+	first = ASY
+	second = HTY
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+#KHOTAN
+vassal = {
+	first = KYR
+	second = TAJ
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = KYR
+	second = ZNU
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = KYR
+	second = KOK
+	start_date = 1800.1.1
 	end_date = 1936.1.1
 }

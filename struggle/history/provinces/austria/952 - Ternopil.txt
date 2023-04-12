@@ -14,4 +14,3 @@ life_rating = 35
 
 
 add_core = GLM
-add_core = BYE

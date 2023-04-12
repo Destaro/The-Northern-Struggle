@@ -1,6 +1,6 @@
-owner = KWT
-controller = KWT
-add_core = KWT
+owner = BHR
+controller = BHR
+add_core = BHR
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

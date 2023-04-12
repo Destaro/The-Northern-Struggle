@@ -1,6 +1,7 @@
-owner = KHI
-controller = KHI
-add_core = KHI
-add_core = TAJ
+owner = TKM
+controller = TKM
+add_core = TKM
+add_core = BUK
+add_core = KHR
 trade_goods = wool
 life_rating = 35

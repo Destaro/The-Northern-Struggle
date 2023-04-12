@@ -1,7 +1,5 @@
-owner = PNT
-controller = PNT
-
+owner = BDN
+controller = BDN
+add_core = BDN
 trade_goods = fruit
 life_rating = 35
-
-add_core = PNT

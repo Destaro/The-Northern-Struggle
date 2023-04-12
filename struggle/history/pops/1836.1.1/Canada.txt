@@ -361,104 +361,104 @@
 #Vancouver (12000/3000 POPS)
 13 = {
 	clergymen = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 100
+		size = 10
 	}
 
 	artisans = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1010
+		size = 10
 	}
 	
 	officers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 150
+		size = 5
 	}
 
 	soldiers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 510
+		size = 10
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 2050
+		size = 50
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = native_american_minor
 		religion = animist
-		size = 22460
+		size = 2460
 	}
 
 }
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 210
+		size = 10
 	}
 
 	artisans = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 510
+		size = 10
 	}
 
 	soldiers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 710
+		size = 10
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 20050
+		size = 50
 	}
 
 	farmers = {
-		culture = shizuya
+		culture = native_american_minor
 		religion = animist
-		size = 12130
+		size = 2130
 	}
 }
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 300
+		size = 3
 	}
 
 	artisans = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1300
+		size = 3
 	}
 
 	soldiers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 400
+		size = 3
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1000
+		size = 10
 	}
 
 	farmers = {
-		culture = shizuya
+		culture = native_american_minor
 		religion = animist
-		size = 31150
+		size = 3115
 	}
 }
 #Glenora (4000/1000 POPS)
@@ -593,31 +593,31 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 500
+		size = 5
 	}
 
 	artisans = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1500
+		size = 5
 	}
 
 	soldiers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1005
+		size = 5
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 20015
+		size = 15
 	}
 
 	farmers = {
-		culture = shizuya
+		culture = native_american_minor
 		religion = animist
 		size = 1950
 	}
@@ -849,39 +849,39 @@
 26 = {
 
 	clergymen = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 750
+		size = 5
 	}
 
 	artisans = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 2500
+		size = 5
 	}
 
 	soldiers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
-		size = 1500
+		size = 5
 	}
 	
 	farmers = {
-		culture = shizuya
+		culture = vinlander
 		religion = protestant
 		size = 15
 	}
 
 	farmers = {
-		culture = shizuya
+		culture = metis
 		religion = catholic
 		size = 580
 	}
 
 	farmers = {
-		culture = shizuya
+		culture = native_american_minor
 		religion = animist
-		size = 31030
+		size = 1030
 	}
 }
 #Edmonton - Denwood (8000/2000 POPS)
@@ -1721,7 +1721,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1005
+		size = 5
 	}
 	
 	farmers = {
@@ -1760,7 +1760,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1020
+		size = 20
 	}
 	
 	farmers = {
@@ -1919,7 +1919,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1200
+		size = 200
 	}
 
 	farmers = {
@@ -2230,7 +2230,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 2250
+		size = 250
 	}
 
 	farmers = {
@@ -2480,7 +2480,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = catholic
-		size = 1500
+		size = 500
 	}
 
 	farmers = {

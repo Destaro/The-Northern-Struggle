@@ -15,5 +15,3 @@ life_rating = 35
 		upgrade = yes
 	} 
 }
-
-add_core = RUT

@@ -1,5 +1,5 @@
-owner = UYG
-controller = UYG
-add_core = UYG
+owner = KYR
+controller = KYR
+add_core = KYR
 trade_goods = cotton
 life_rating = 35
