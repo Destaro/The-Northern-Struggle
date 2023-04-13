@@ -4,3 +4,5 @@ add_core = TLD
 trade_goods = iron
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+
+add_core = IBR

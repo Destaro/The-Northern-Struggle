@@ -21,3 +21,4 @@ party_loyalty = {
 }
 
 add_core = TLD
+add_core = IBR

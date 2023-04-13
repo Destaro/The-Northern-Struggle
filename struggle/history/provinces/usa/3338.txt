@@ -8,3 +8,4 @@ terrain = farmlandhills
 
 
 add_core = GLC
+add_core = IBR

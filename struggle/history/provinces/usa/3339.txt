@@ -8,3 +8,4 @@ terrain = forest
 
 
 add_core = GLC
+add_core = IBR

@@ -842,6 +842,7 @@ iberian = {
 		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
 		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
 	}
+	union = IBR
 }
 
 french = {

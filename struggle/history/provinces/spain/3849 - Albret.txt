@@ -25,3 +25,4 @@ state_building = {
 	naval_base = 1
 }
 add_core = OCC
+add_core = IBR
