@@ -263,21 +263,19 @@ FRA_442 = { 442 437 434 440 441 } #Poitou
 
 FRA_445 = { 446 444 443 3481 } #Limousin
 
-FRA_448 = { 447 450 456 445 } #Auvergne 
+FRA_448 = { 447 450 456 445 463 } #Auvergne 
 
-FRA_451 = { 451 452 431 433 } #Rhone
+FRA_451 = { 451 452 431 433 453 } #Rhone
 
-FRA_453 = { 453 3271 } #Cisjurania
-
-FRA_455 = { 462 449 448 3374 } #Le Midi
+FRA_455 = { 462 449 448 3374 461 } #Le Midi
 
 FRA_458 = { 458 459 455 } #Aquitaine
 
-#FRA_461 = { 461 449 } #Languedoc
+#FRA_461 = { 449 } #Languedoc
 
 SAR_466 = { 465 466 721 } #Savoie
 
-FRA_467 = { 467 468 } #Provence
+FRA_467 = { 467 468 3271 } #Provence
 
 FRA_469 = { 469 454 } #Alpi Dell'Alta Provenza
 
@@ -304,7 +302,7 @@ SPA_460 = { 460 457 3852 } #Euskadia 3
 
 SPA_3850 = { 3849 3850 3851 } #Euskadia 4
 
-SPA_495 = { 499 464 3252 463 461 498 } #Aragón
+SPA_495 = { 499 464 3252 498 } #Aragón
 
 SPA_498 = { 495 496 500 501 } #Catalonia
 

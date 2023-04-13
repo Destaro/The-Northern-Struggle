@@ -49,7 +49,7 @@ leader = {
 	
 army = {
 	name = "Army of Northern Virginia"
-	location = 212
+	location = 211
 
 	leader = {
 		name = "P.G.T. Beauregard"
@@ -123,19 +123,23 @@ army = {
 
 }
 
+
+
+
+
 army = {
-	name = "Army of the Shenandoah"
+	name = "Army of the West"
 	
 	leader = {
-		name = "Thomas Jackson"
+		name = "Earl Van Dorn"
 		type = land
-		date="1836.1.1"
-		personality = audacious
-		background = eccentric_genius
-		picture="european_general_29"
+		date="1861.1.1"
+		personality = soft
+		background = womanizer
+		picture="european_general_0"
 	}
 	
-	location = 215
+	location = 193
 	regiment = {
 		name= "2nd VA. Cavalry"
 		type = dragoon
@@ -165,22 +169,25 @@ army = {
 		type = infantry
 		home = 139
 	}
-
-}
-
-army = {
-	name = "Army of Tennessee"
 	
-	leader = {
-		name = "Albert Sidney Johnston"
-		type = land
-		date="1821.1.1"
-		personality = brilliant
-		background = natural_born_leader
-		picture="european_general_41"
+	regiment = {
+		name= "1st TX Cavalry"
+		type = dragoon
+		home = 132
+	}
+
+	regiment = {
+		name= "1st AR Rifles"
+		type = infantry
+		home = 143
+	}
+
+	regiment = {
+		name= "2nd LA Rifles"
+		type = infantry
+		home = 140
 	}
 	
-	location = 188
 	regiment = {
 		name= "1st TN Artillery"
 		type = artillery
@@ -209,38 +216,6 @@ army = {
 		name= "3rd SC Rifles"
 		type = infantry
 		home = 206
-	}
-}
-
-army = {
-	name = "Army of the West"
-	
-	leader = {
-		name = "Earl Van Dorn"
-		type = land
-		date="1861.1.1"
-		personality = soft
-		background = womanizer
-		picture="european_general_0"
-	}
-	
-	location = 145
-	regiment = {
-		name= "1st TX Cavalry"
-		type = dragoon
-		home = 132
-	}
-
-	regiment = {
-		name= "1st AR Rifles"
-		type = infantry
-		home = 143
-	}
-
-	regiment = {
-		name= "2nd LA Rifles"
-		type = infantry
-		home = 140
 	}
 
 }
@@ -278,49 +253,9 @@ army = {
 
 }
 
-army = {
-	name = "Norfolk Garrison"
-	location = 214
-	regiment = {
-		name= "2nd NC Rifles"
-		type = infantry
-		home = 210
-	}
 
-}
 
-army = {
-	name = "Army of Virginia"
 
-	leader = {
-		name = "J.E.B. Stuart"
-		type = land
-		date="1836.1.1"
-		personality = daring
-		background = expert_raider
-		picture="european_general_11"
-	}
-
-	location = 213
-	regiment = {
-		name= "1st VA Cavalry"
-		type = hussar
-		home = 214
-	}
-
-	regiment = {
-		name= "2nd SC Cavalry"
-		type = dragoon
-		home = 205
-	}
-
-	regiment = {
-		name= "1st GA Cavalry"
-		type = dragoon
-		home = 2555
-	}
-
-}
 
 navy = {
 	name = "CSN"

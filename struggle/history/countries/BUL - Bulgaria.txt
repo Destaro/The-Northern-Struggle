@@ -44,6 +44,7 @@ set_country_flag = orthodox_country
 decision = east_galicia_rename_rus
 
 # Technologies
+military_staff_system = 1
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
@@ -59,6 +60,8 @@ enlightenment_thought = 1
 piston_steam_engine = 1
 mechanical_production = 1
 
+hussar_activation = yes
+dragoon_activation = yes
 
 ruling_party = BUL_conservative
 upper_house = {

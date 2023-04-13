@@ -34,6 +34,22 @@ name = "Bolkanian Invasion Of The Baltics"
 		actor = BUL
 		receiver = SCA
 	}
+	
+	war_goal = {
+		casus_belli = acquire_substate_region
+		state_province_id = 997
+		country = IZH
+		actor = BUL
+		receiver = SCA
+	}
+	
+	war_goal = {
+		casus_belli = acquire_substate_region
+		state_province_id = 3734
+		country = IZH
+		actor = BUL
+		receiver = SCA
+	}
 
 }
 

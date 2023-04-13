@@ -34,40 +34,7 @@ leader = {
 	picture="european_general_52"
 }
 
-army = {
-	name = "Washington Garrison"
-	
-	leader = {
-		name = "Henry W. Halleck"
-		type = land
-		date="1861.1.1"
-		prestige = 0.05
-		personality = meticulous
-		background = armchair_general
-		picture="european_general_6"
-	}
-	
-	location = 220
-	regiment = {
-		name= "1st US Artillery"
-		type = artillery
-		home = 220
-	}
 
-	regiment = {
-		name= "1st US Infantry"
-		type = infantry
-		home = 243
-	}
-
-	regiment = {
-		name= "2nd US Infantry"
-		type = infantry
-		home = 232
-	}
-
-
-}
 
 army = {
 	name = "Army of the Potomac"
@@ -205,7 +172,7 @@ army = {
 		picture="european_general_44"
 	}
 	
-	location = 146
+	location = 148
 	regiment = {
 		name= "13th US Infantry"
 		type = infantry
@@ -278,35 +245,11 @@ army = {
 
 }
 
-army = {
-	name = "Army of NM Territory"
-	location = 104
-	regiment = {
-		name= "4th US Cavalry"
-		type = hussar
-		home = 84
-	}
-}
 
-army = {
-	name = "Army of Nebraska Terr."
-	location = 106
-	regiment = {
-		name= "5th US Cavalry"
-		type = hussar
-		home = 151
-	}
-}
 
-army = {
-	name = "Army of Utah Terr."
-	location = 97
-	regiment = {
-		name= "6th US Cavalry"
-		type = hussar
-		home = 161
-	}
-}
+
+
+
 
 navy = {
 	name = "Home Squadron"
