@@ -19,6 +19,7 @@ BOR		="countries/The Kingdom of France.txt"
 
 ###TNS NEW NATIONS###
 SLA = "countries/SLA.txt"
+WRE = "countries/WRE.txt"
 AJP = "countries/AJP.txt"
 ACH = "countries/ACH.txt"
 AKR = "countries/AKR.txt"

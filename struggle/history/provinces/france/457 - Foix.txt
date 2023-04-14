@@ -3,3 +3,6 @@ controller = BSQ
 add_core = BSQ
 trade_goods = grain
 life_rating = 30
+
+add_core = OCC
+add_core = IBR

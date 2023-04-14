@@ -302,7 +302,7 @@ political_decisions = {
 					}
 				}
 			}
-			517 = {
+			498 = {
 				OR = {
 					owned_by = THIS
 					owner = { in_sphere = THIS }
@@ -335,7 +335,7 @@ political_decisions = {
 			VND = {
 				all_core = { add_core = IBR }
 			}
-			517 = { add_core = IBR }
+			502 = { add_core = IBR }
 			
 			add_accepted_culture = visigothic
 			add_accepted_culture = vandalic

@@ -16,3 +16,4 @@ party_loyalty = {
 1861.1.1 = { railroad = 3 }
 
 add_core = TLD
+add_core = IBR

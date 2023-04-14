@@ -3,3 +3,5 @@ controller = BSQ
 add_core = BSQ
 trade_goods = silk
 life_rating = 30
+
+add_core = IBR

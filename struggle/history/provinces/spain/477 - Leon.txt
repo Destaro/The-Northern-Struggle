@@ -13,3 +13,4 @@ state_building = {
 
 
 add_core = GLC
+add_core = IBR

@@ -7,3 +7,5 @@ terrain = small_island
 1861.1.1 = {
 	naval_base = 1
 }
+
+add_core = IBR

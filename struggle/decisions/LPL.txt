@@ -23,6 +23,27 @@ claim_all_peru_lpl = {
 			VOP = { all_core = { add_core = THIS } }
         }
 	}
+	
+	accept_the_platinier = {
+        potential = {
+			tag = LPL
+			NOT = { has_country_flag = accept_the_platinier }
+        }
+		
+		allow = { 
+			war = no
+			LPL = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			state_n_government = 1
+		}
+		
+		effect = {
+			prestige = 5
+			add_accepted_culture = platinier
+			set_country_flag = accept_the_platinier
+			badboy = -1
+        }
+	}
 
 	accept_the_brazilians = {
 		potential = { 
