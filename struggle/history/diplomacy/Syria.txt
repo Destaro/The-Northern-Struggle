@@ -1,7 +1,0 @@
-#Aramaic Administrative Region
-substate = {
-	first = SYR
-	second = LBN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
