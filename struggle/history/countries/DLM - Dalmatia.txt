@@ -6,6 +6,7 @@ government = absolute_monarchy
 plurality = 0.05
 nationalvalue = nv_order
 literacy = 0.2
+prestige = 4
 civilized = yes
 
 # Political reforms

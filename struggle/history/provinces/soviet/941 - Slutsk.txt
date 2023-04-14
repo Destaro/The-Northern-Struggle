@@ -9,3 +9,4 @@ life_rating = 15
 
 
 add_core = BUL
+add_core = RUT

@@ -18,3 +18,5 @@ terrain = kharkov
 	} 
 }
 
+
+add_core = RUT

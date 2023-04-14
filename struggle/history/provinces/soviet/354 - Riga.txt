@@ -20,3 +20,4 @@ naval_base = 2
 }
 
 add_core = BUL
+add_core = RUT

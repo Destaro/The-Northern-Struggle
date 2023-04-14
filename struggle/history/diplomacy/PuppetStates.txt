@@ -378,6 +378,15 @@ substate = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+
+# Lithuania
+substate = {
+	first = SCA
+	second = LIT
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
 # Ingermanland
 substate = {
 	first = SCA
@@ -396,12 +405,7 @@ substate = {
 
 
 # Nya Sverige
-substate = {
-	first = SCA
-	second = USA
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
+
 
 ### Danish Empire ###
 # Normandy

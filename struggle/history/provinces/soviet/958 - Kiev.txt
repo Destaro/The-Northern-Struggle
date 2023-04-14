@@ -13,3 +13,4 @@ terrain = kiev
 
 
 add_core = BUL
+add_core = RUT

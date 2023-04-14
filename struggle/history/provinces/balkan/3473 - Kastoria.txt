@@ -1,7 +1,7 @@
 owner = EPI
 controller = EPI
 add_core = GRE
-add_core = RUM
+
 add_core = AOM
 
 add_core = ROM

@@ -17,3 +17,4 @@ life_rating = 40
 } 
 
 add_core = RUS
+add_core = RUT

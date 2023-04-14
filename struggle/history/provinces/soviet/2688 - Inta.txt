@@ -9,3 +9,4 @@ colonial = 2
 add_core = RUS
 add_core = NOV
 add_core = URA
+add_core = RUT
