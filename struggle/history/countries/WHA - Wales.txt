@@ -1,6 +1,6 @@
 capital = 273
 primary_culture = welsh
-culture = british
+culture = irish
 religion = protestant
 government = hms_government
 plurality = 0.1

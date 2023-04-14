@@ -8,7 +8,15 @@ country_event = {
 	trigger = {
 	war = no
 	tag = RUM
-	
+	OR = { 
+	AOM = { is_vassal = no }
+	EPI = { is_vassal = no }
+	GRE = { is_vassal = no }
+	ALB = { is_vassal = no }
+	DBJ = { is_vassal = no }
+	MOL = { is_vassal = no }
+	WAL = { is_vassal = no }
+	                  }
 	NOT = {
 	
 	 

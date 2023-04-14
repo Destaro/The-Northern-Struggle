@@ -1,5 +1,23 @@
 political_decisions = {
-
+victory_against_scandinavia = {
+potential = { 
+       tag = ORL
+	    NOT = { has_country_flag = victory_against_scandinavia }
+		
+		           }
+				   
+	allow = { 
+	war = no
+	BRT = { war = no }
+	NDY = { war = no }
+	}
+	effect = {
+	set_country_flag = victory_against_scandinavia 
+	inherit = BRT
+	inherit = NDY
+	prestige = 10
+	}
+}
 reclaim_ocitania = {
  potential = {
              

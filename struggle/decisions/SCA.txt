@@ -710,7 +710,7 @@
 	set_country_flag = integrate_finland_and_estonia
 	inherit = FIN
 	inherit = EST
-	prestige = 20
+	prestige = 10
 	FIN = { all_core = { add_core = THIS } }
 	EST = { all_core = { add_core = THIS } }
 	            }
@@ -747,7 +747,7 @@
 	set_country_flag = integrate_finland
 	inherit = FIN
 	
-	prestige = 20
+	prestige = 10
 	FIN = { all_core = { add_core = THIS } }
 	
 	            }
@@ -787,7 +787,7 @@
 	inherit = LAT
 	inherit = IZH
 	
-	prestige = 20
+	prestige = 5
 	IZH = { all_core = { add_core = THIS } }
 	LAT = { all_core = { add_core = THIS } }
 	            }
@@ -822,9 +822,9 @@
 	effect = {
 	set_country_flag = integrate_lithuania
 	inherit = LIT
-	
-	prestige = 20
-	
+	inherit = CUR
+	prestige = 5
+	CUR = { all_core = { add_core = THIS } }
 	LIT = { all_core = { add_core = THIS } }
 	            }
 	}
