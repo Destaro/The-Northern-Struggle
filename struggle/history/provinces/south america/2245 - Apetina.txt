@@ -1,6 +1,6 @@
 
 
-add_core = PEU
+
 add_core = VOP
 terrain = new_world_jungle
 trade_goods = timber

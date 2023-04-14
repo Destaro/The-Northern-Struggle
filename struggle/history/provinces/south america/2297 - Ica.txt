@@ -1,7 +1,7 @@
 owner = VOP
 controller = VOP
 add_core = SPU
-add_core = PEU
+
 trade_goods = fish
 terrain = dryhills
 life_rating = 35
