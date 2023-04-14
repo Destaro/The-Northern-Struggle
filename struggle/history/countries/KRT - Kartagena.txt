@@ -8,8 +8,6 @@ nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
-oob = "KRT_oob.txt"
-
 
 # Political reforms
 slavery = yes_slavery
@@ -87,4 +85,5 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+oob = "BRZ_oob.txt"
 

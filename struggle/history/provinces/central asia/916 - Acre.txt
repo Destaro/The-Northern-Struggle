@@ -1,6 +1,5 @@
 owner = SYR
 controller = SYR
-add_core = LBN
 add_core = ISR
 add_core = PLS
 trade_goods = fruit

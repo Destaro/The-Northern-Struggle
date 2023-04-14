@@ -2,11 +2,11 @@ capital = 2491
 primary_culture = manchu
 religion = mahayana
 government = absolute_monarchy
-plurality = 0.0
+plurality = 0.57
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0.01
-prestige = 1
+literacy = 0.40
+civilized = yes
+prestige = 6
 
 # Political reforms
 slavery = yes_slavery
@@ -38,6 +38,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = mahayana_country
+set_country_flag = new_world_nation
 
 ruling_party = MCK_conservative
 last_election = 1834.1.1

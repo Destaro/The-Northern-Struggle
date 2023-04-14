@@ -4,97 +4,97 @@
 1191 = {
 	aristocrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	bureaucrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	officers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	clergymen = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1200
 	}
 	
 	soldiers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2000
 	}
 
 	farmers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 30000
 	}
 	
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 800
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 5050
 	}
 	
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1200
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 6050
 	}
 	
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 50
 	}
 
 	officers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 50
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 9300
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 9700
 	}
 }
@@ -103,67 +103,67 @@
 3440 = {
 	aristocrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 950
 	}
 
 	bureaucrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	officers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	clergymen = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 450
 	}
 
 	soldiers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1200
 	}
 	
 	farmers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 10050
 	}
 	
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1050
 	}
 	
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 4000
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 300
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 }
@@ -172,103 +172,103 @@
 1192 = {
 	aristocrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 400
 	}
 
 	clergymen = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 225
 	}
 
 	artisans = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	soldiers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 3000
 	}
 	
 	farmers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 11225
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 7000
 	}
 
 	aristocrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 275
 	}
 
 	clergymen = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	artisans = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 700
 	}
 
 	soldiers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	farmers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 13000
 	}
 
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 75
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 75
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 4175
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 25
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 3650
 	}
 	
@@ -284,79 +284,79 @@
 1195 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 500
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 950
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 4300
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 20000
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 3000
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 5850
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 425
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 850
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 8000
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 950
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 13450
 	}
 
 	slaves = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2000
 	}
 }
@@ -364,85 +364,85 @@
 1202 = {
 	aristocrats = {
 	    culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 900
 	}
 
 	bureaucrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 
 	officers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 550
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 3050
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 575
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 17000
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2000
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 5350
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 900
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 9800
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 15000
 	}
 	
@@ -463,73 +463,73 @@
 3453 = {
 	aristocrats = {
 	    culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 2350
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 175
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 27000
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1350
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 900
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 18800
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 30000
 	}
 	
@@ -550,73 +550,73 @@
 3451 = {
 	aristocrats = {
 	    culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 2350
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 175
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 7000
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1350
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 900
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 4800
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1150
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 20000
 	}
 	
@@ -638,79 +638,79 @@
 1198 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 750
 	}
 
 	bureaucrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 225
 	}
 
 	officers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 275
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 4300
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 5000
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 22000
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 7950
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2275
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2125
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 17700
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1125
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 43775
 	}
 
@@ -728,37 +728,37 @@
 	
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 275
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 425
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 3700
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2950
 	}
 
 	slaves = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 6000
 	}
 	
@@ -770,7 +770,7 @@
 
 	slaves = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 3000
 	}
 }
@@ -778,91 +778,91 @@
 3444 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 150
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 300
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 23000
 	}
 	
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 75
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 15
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 70
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 2775
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 75
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 700
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 4575
 	}
 }
@@ -870,73 +870,73 @@
 1199 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1250
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1250
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 3700
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 3000
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 40000
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 8800
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1050
 	}
 
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2050
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 23300
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1050
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 42600
 	}
 
 	slaves = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 8000
 	}
 }
@@ -944,67 +944,67 @@
 1200 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 200
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 550
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 525
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 6425
 	}
 
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 625
 	}
 
 	clergymen = {
 	    culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 800
 	}
 
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 6500
 	}
 
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1100
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 12000
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 8075
 	}
 }
@@ -1014,37 +1014,37 @@
 	
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 500
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 3000
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 2000
 	}
 }
@@ -1053,91 +1053,91 @@
 3447 = {
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 25
 	}
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 25
 	}
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 50
 	}
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 3500
 	}
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 16400
 	}
 
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 	
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 250
 	}
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 2350
 	}
 	
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 	
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 16800
 	}
 	
 	aristocrats = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 20
 	}
 	
 	clergymen = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 20
 	}
 	artisans = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 350
 	}
 	
 	soldiers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 	
 	farmers = {
 		culture = khorasani_persian
-		religion = sunni
+		religion = manichaeism
 		size = 1800
 	}
 	
 	slaves = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 }
@@ -1145,104 +1145,104 @@
 3435 = {
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 5
 	}
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 10
 	}
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 100
 	}
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 2500
 	}
 	
 	aristocrats = {
 		culture = khwarazm_persian 
-		religion = sunni
+		religion = manichaeism
 		size = 225
 	}
 	clergymen = {
 		culture = khwarazm_persian 
-		religion = sunni
+		religion = manichaeism
 		size = 575
 	}
 	artisans = {
 		culture = khwarazm_persian 
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 	soldiers = {
 		culture = khwarazm_persian 
-		religion = sunni
+		religion = manichaeism
 		size = 2550
 	}
 	farmers = {
 		culture = khwarazm_persian 
-		religion = sunni
+		religion = manichaeism
 		size = 20950
 	}
 
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 125
 	}
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 150
 	}
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 1000
 	}
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 375
 	}
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = manichaeism
 		size = 8250
 	}
 	slaves = {
 		culture = kirgiz
-		religion = sunni
+		religion = manichaeism
 		size = 2500
 	}
 	aristocrats = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 150
 	}
 	clergymen = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 75
 	}
 	artisans = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 350
 	}
 	soldiers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 150
 	}
 	farmers = {
 		culture = khwarazm_persian
-		religion = sunni
+		religion = manichaeism
 		size = 8475
 	}
 }

@@ -1,8 +1,6 @@
-owner = IRQ
-controller = IRQ
+owner = ASY
+controller = ASY
 add_core = ASY
 add_core = KDS
 trade_goods = sulphur
 life_rating = 35
-
-add_core = IRQ

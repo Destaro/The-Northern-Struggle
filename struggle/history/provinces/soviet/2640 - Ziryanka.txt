@@ -1,7 +1,7 @@
 owner = MAK
 controller = MAK
+add_core = KHR
 add_core = MAK
-add_core = BLC
 trade_goods = fish
 terrain = mountain
 life_rating = 31

@@ -42,4 +42,3 @@ state_building = {
 
 add_core = RUS
 add_core = BUL
-add_core = RUT

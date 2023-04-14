@@ -2,61 +2,61 @@
 3315 = {
 		aristocrats = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 425
 	}
 
 	clergymen = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 8000
 	}
 	
 	aristocrats = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 625
 	}
 
 	clergymen = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 10500
 	}
 	
@@ -82,61 +82,61 @@
 3316 = {
 		aristocrats = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 425
 	}
 
 	clergymen = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = circassian
-		religion = orthodox
+		religion = jewish
 		size = 2000
 	}
 	
 	aristocrats = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 625
 	}
 
 	clergymen = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 7500
 	}
 	
@@ -160,19 +160,19 @@
 	
 	artisans = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 	    culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 500
 	}
 
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 6700
 	}
 }
@@ -180,61 +180,61 @@
 3302 = {
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = jewish
 		size = 25  
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = jewish
 		size = 200 
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = jewish
 		size = 25
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = jewish
 		size = 875  
 	}
 
 	clergymen = {
 		culture = abkhaz
-		religion = orthodox
+		religion = jewish
 		size = 150
 	}
 
 	artisans = {
 		culture = abkhaz
-		religion = orthodox
+		religion = jewish
 		size = 700
 	}
 	
 	farmers = {
 		culture = abkhaz
-		religion = orthodox
+		religion = jewish
 		size = 2500
 	}
 	
 	artisans = {
 		culture = ubykh
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = ubykh
-		religion = orthodox
+		religion = jewish
 		size = 500
 	}
 
 	farmers = {
 		culture = ubykh
-		religion = orthodox
+		religion = jewish
 		size = 2000
 	}
 	
@@ -248,61 +248,61 @@
 3303 = {
 		aristocrats = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 125
 	}
 
 	clergymen = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 60
 	}
 
 	artisans = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 1000
 	}
 	
 	aristocrats = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 105
 	}
 
 	clergymen = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 60
 	}
 
 	artisans = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 500
 	}
 	
@@ -346,37 +346,37 @@
 3312 = {
 	aristocrats = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 75
 	}
 
 	clergymen = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	officers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 70
 	}
 
 	soldiers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 350
 	}
 
 	farmers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 875
 	}
 	
@@ -400,43 +400,43 @@
 	
 	soldiers = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 	
 	clergymen = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 	
 	farmers = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 200
 	}
 	
 	clergymen = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 	
 	farmers = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 1000
 	}
 	
@@ -456,61 +456,61 @@
 3313 = {
 		aristocrats = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	clergymen = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 60
 	}
 
 	artisans = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	soldiers = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 20
 	}
 
 	farmers = {
 		culture = abaza
-		religion = sunni
+		religion = jewish
 		size = 500
 	}
 	
 	aristocrats = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	clergymen = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 60
 	}
 
 	artisans = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 10
 	}
 
 	soldiers = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 20
 	}
 
 	farmers = {
 		culture = abaza
-		religion = orthodox
+		religion = jewish
 		size = 1000
 	}
 	
@@ -572,61 +572,61 @@
 3314 = {
 		aristocrats = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 125
 	}
 
 	clergymen = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = kabardian
-		religion = orthodox
+		religion = jewish
 		size = 1000
 	}
 	
 	aristocrats = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 125
 	}
 
 	clergymen = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = kabardian
-		religion = sunni
+		religion = jewish
 		size = 500
 	}
 	
@@ -650,19 +650,19 @@
 	
 	artisans = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 1000
 	}
 
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 6000
 	}
 	
@@ -706,37 +706,37 @@
 3311 = {
 	aristocrats = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 675
 	}
 
 	clergymen = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 1350
 	}
 
 	officers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 1700
 	}
 
 	soldiers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 3350
 	}
 
 	farmers = {
 		culture = scythian
-		religion = orthodox
+		religion = jewish
 		size = 35875
 	}
 }
@@ -744,25 +744,25 @@
 3310 = {
 		clergymen = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 525
 	}
 
 	artisans = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 1000
 	}
 
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 15000
 	}
 	
@@ -792,13 +792,13 @@
 	
 	soldiers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 	
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 400
 	}
 }
@@ -806,31 +806,31 @@
 3295 = {
 	aristocrats = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 225
 	}
 
 	clergymen = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 975
 	}
 
 	artisans = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 850
 	}
 
 	soldiers = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 2800
 	}
 
 	farmers = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 9000
 	}
 	
@@ -848,37 +848,37 @@
 	
 	aristocrats = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 225
 	}
 
 	clergymen = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 175
 	}
 
 	artisans = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 850
 	}
 	
 	soldiers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 2650
 	}
 	
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 3000
 	}
 	
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 3000
 	}
 }
@@ -886,73 +886,73 @@
 3307 = {
 	clergymen = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 250
 	}
 
 	farmers = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 	
 	clergymen = {
 		culture = andi
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = andi
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = andi
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 	
 	farmers = {
 		culture = andi
-		religion = sunni
+		religion = jewish
 		size = 1400
 	}
 	
 	clergymen = {
 		culture = tsezic
-		religion = sunni
+		religion = jewish
 		size = 30
 	}
 
 	artisans = {
 		culture = tsezic
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = tsezic
-		religion = sunni
+		religion = jewish
 		size = 850
 	}
 
 	farmers = {
 		culture = tsezic
-		religion = sunni
+		religion = jewish
 		size = 1400
 	}
 	
@@ -1008,25 +1008,25 @@
 3304 = {
 	clergymen = {
 		culture = old_persian
-		religion = sunni
+		religion = jewish
 		size = 120
 	}
 
 	artisans = {
 		culture = old_persian
-		religion = sunni
+		religion = jewish
 		size = 400
 	}
 
 	soldiers = {
 		culture = old_persian
-		religion = sunni
+		religion = jewish
 		size = 700
 	}
 
 	farmers = {
 		culture = old_persian
-		religion = sunni
+		religion = jewish
 		size = 20000
 	}
 	
@@ -1050,19 +1050,19 @@
 	
 	clergymen = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 30
 	}
 
 	soldiers = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 	
 	farmers = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 1200
 	}
 	
@@ -1086,19 +1086,19 @@
 	
 	clergymen = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 80
 	}
 
 	soldiers = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 1200
 	}
 	
 	farmers = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 8000
 	}
 }
@@ -1106,25 +1106,25 @@
 3306 = {
 	clergymen = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 40
 	}
 
 	artisans = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 1350
 	}
 
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 1800
 	}
 
@@ -1178,25 +1178,25 @@
 	
 	clergymen = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 35
 	}
 
 	artisans = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 90
 	}
 
 	soldiers = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 900
 	}
 
 	farmers = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 2000
 	}
 
@@ -1228,85 +1228,85 @@
 3308 = {
 	clergymen = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 30
 	}
 
     clergymen = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 70
 	}
 
 	soldiers = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 1350
 	}
 
 	farmers = {
 		culture = dargin
-		religion = sunni
+		religion = jewish
 		size = 4000
 	}
 	
 	 clergymen = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 30
 	}
 
     clergymen = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 70
 	}
 
 	soldiers = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 350
 	}
 
 	farmers = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 3000
 	}
 	
 	farmers = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 400
 	}
 	
 	farmers = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 1000
 	}
 	
@@ -1374,25 +1374,25 @@
 3309 = {
 	clergymen = {
 		culture = rutul
-		religion = sunni
+		religion = jewish
 		size = 40
 	}
 
 	artisans = {
 		culture = rutul
-		religion = sunni
+		religion = jewish
 		size = 100
 	}
 
 	soldiers = {
 		culture = rutul
-		religion = sunni
+		religion = jewish
 		size = 1350
 	}
 
 	farmers = {
 		culture = rutul
-		religion = sunni
+		religion = jewish
 		size = 1800
 	}
 
@@ -1422,25 +1422,25 @@
 	
 	clergymen = {
 		culture = tsakhur
-		religion = sunni
+		religion = jewish
 		size = 35
 	}
 
 	artisans = {
 		culture = tsakhur
-		religion = sunni
+		religion = jewish
 		size = 90
 	}
 
 	soldiers = {
 		culture = tsakhur
-		religion = sunni
+		religion = jewish
 		size = 900
 	}
 
 	farmers = {
 		culture = tsakhur
-		religion = sunni
+		religion = jewish
 		size = 1000
 	}
 
@@ -1488,7 +1488,7 @@
 	
 	farmers = {
 		culture = lak_cauc
-		religion = sunni
+		religion = jewish
 		size = 5200
 	}
 }
@@ -1520,31 +1520,31 @@
 	
 	clergymen = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 4750
 	}
 	
 	farmers = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 10000
 	}
 	
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 5200
 	}
 	
 	farmers = {
 		culture = avar
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 	
@@ -1558,55 +1558,55 @@
 3300 = {
 	aristocrats = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 5
 	}
 
 	clergymen = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 5
 	}
 
 	artisans = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 50
 	}
 
 	soldiers = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 375
 	}
 
 	farmers = {
 		culture = chechen
-		religion = sunni
+		religion = jewish
 		size = 1500
 	}
 	
 	clergymen = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 4750
 	}
 	
 	farmers = {
 		culture = kumyk
-		religion = sunni
+		religion = jewish
 		size = 10000
 	}
 	
 	farmers = {
 		culture = scythian
-		religion = sunni
+		religion = jewish
 		size = 5200
 	}
 }
@@ -1614,115 +1614,115 @@
 3299 = {
 	clergymen = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 110
 	}
 
 	artisans = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 50
 	} 
 	
 	clergymen = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 140
 	}
 
 	artisans = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 1850
 	}
 
 	farmers = {
 		culture = lezgic
-		religion = sunni
+		religion = jewish
 		size = 8500
 	}
 	
 	clergymen = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 10
 	} 
 	
 	clergymen = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	farmers = {
 		culture = khinalug
-		religion = sunni
+		religion = jewish
 		size = 2000
 	}
 	
 	clergymen = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 10
 	} 
 	
 	clergymen = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	soldiers = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 150
 	}
 
 	farmers = {
 		culture = budukh_kryts
-		religion = sunni
+		religion = jewish
 		size = 2000
 	}
 	
 	farmers = {
 		culture = rutul
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 	
@@ -1793,7 +1793,7 @@
 		religion = catholic
 		size = 5
 	}
-
+	
 	artisans = {
 		culture = north_italian
 		religion = catholic
@@ -1814,13 +1814,13 @@
 
 	soldiers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = circassian
-		religion = sunni
+		religion = jewish
 		size = 500
 	}
 	

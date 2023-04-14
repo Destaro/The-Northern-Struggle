@@ -1,5 +1,5 @@
-owner = CRL
-controller = CRL
-add_core = CRL
+owner = TAJ
+controller = TAJ
+add_core = TAJ
 trade_goods = cotton
 life_rating = 35

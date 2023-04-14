@@ -1,6 +1,6 @@
 capital = 1056
 primary_culture = scythian
-religion = orthodox
+religion = jewish
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-set_country_flag = orthodox_country
+set_country_flag = jewish_country
 
 foreign_weapons = yes_foreign_weapons
 foreign_artillery = yes_foreign_artillery
@@ -49,7 +49,7 @@ foreign_artillery = yes_foreign_artillery
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
 
-ruling_party = PER_conservative
+ruling_party = OSS_conservative
 upper_house = {
 	fascist = 0
 	liberal = 20

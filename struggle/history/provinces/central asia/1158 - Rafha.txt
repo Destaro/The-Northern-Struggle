@@ -1,4 +1,6 @@
-add_core = HAL
-add_core = HDJ
+owner = PER
+controller = PER
+add_core = PER
+add_core = BAB
 trade_goods = wool
 life_rating = 10

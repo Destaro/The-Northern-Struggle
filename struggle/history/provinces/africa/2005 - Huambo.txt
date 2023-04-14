@@ -1,6 +1,5 @@
-owner = LUX
-controller = LUX
+owner = KON
+controller = KON
 terrain = savanna
 trade_goods = fruit
 life_rating = 10
-colonial = 1

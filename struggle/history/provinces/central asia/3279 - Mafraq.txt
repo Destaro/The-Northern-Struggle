@@ -1,6 +1,5 @@
 owner = JOR
 controller = JOR
-add_core = HAL
 add_core = JOR
 add_core = HDJ
 trade_goods = sulphur

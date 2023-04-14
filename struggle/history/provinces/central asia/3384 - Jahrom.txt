@@ -1,6 +1,6 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = PER
+controller = PER
+add_core = PER
 terrain = dryhills
 trade_goods = iron
 life_rating = 35

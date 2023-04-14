@@ -1,8 +1,7 @@
 capital = 1210
 primary_culture = khorasani_persian
-culture = uzbek
-religion = sunni
-government = absolute_monarchy
+religion = manichaeism
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

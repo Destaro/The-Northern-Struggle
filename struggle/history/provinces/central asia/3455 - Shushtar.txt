@@ -1,7 +1,7 @@
-owner = KHZ
-controller = KHZ
+owner = PER
+controller = PER
+add_core = PER
 add_core = KHZ
-add_core = IRQ
 terrain = dryhills
 trade_goods = cotton
 life_rating = 35

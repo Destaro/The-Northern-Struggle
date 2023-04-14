@@ -7,4 +7,3 @@ colonial = 2
 
 
 add_core = UKR
-add_core = RUT

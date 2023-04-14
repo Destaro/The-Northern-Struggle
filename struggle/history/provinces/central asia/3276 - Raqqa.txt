@@ -1,12 +1,8 @@
-owner = EDE
-controller = EDE
-add_core = EDE
+owner = LBN
+controller = LBN
+add_core = LBN
 add_core = KDS
+add_core = ASY
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
-1861.1.1 = {
-	controller = ASY 
-	owner = ASY
-}
-add_core = ASY

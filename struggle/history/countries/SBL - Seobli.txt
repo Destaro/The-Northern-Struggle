@@ -39,8 +39,9 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+set_country_flag = new_world_nation
 
-ruling_party = KOR_conservative
+ruling_party = KOR_conservative_2
 upper_house = {
 	fascist = 0
 	liberal = 17

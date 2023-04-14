@@ -1,6 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = KAL
-add_core = AFG
+owner = KHR
+controller = KHR
+add_core = KHR
+add_core = MAK
 trade_goods = wool
 life_rating = 35

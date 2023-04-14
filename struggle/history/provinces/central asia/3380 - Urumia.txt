@@ -1,7 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = PER
-add_core = AZB
+owner = ARM
+controller = ARM
+add_core = ARM
 add_core = KDS
 trade_goods = wool
 life_rating = 35

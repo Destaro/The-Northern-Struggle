@@ -2,7 +2,6 @@ owner = SYR
 controller = SYR
 add_core = HAL
 add_core = SYR
-add_core = JOR
 add_core = HDJ
 trade_goods = grain
 life_rating = 10

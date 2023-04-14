@@ -1,8 +1,8 @@
-owner = `ZUL
-controller = `ZUL
+owner = ZUL
+controller = ZUL
 add_core = SUA
 trade_goods = grain
 life_rating = 35
 
 
-add_core = `ZUL
+add_core = ZUL

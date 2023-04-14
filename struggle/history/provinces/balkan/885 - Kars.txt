@@ -1,8 +1,5 @@
-owner = GEO
-controller = GEO
-
+owner = ARM
+controller = ARM
 add_core = ARM
 trade_goods = iron
 life_rating = 35
-
-add_core = GEO

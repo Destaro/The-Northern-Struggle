@@ -39,6 +39,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+set_country_flag = new_world_nation
 
 ruling_party = JAP_reactionary
 upper_house = {

@@ -41,79 +41,79 @@
 	
 	
 	aristocrats = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 300
 	}
 
 	officers = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 800
 	}
 
 	farmers = {
-		culture = turkish
+		culture = chaldean
 		religion = sunni
 		size = 2575
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 350
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 3400
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 31000
 	}
@@ -137,19 +137,19 @@
 	}
 	
 	clergymen = {
-		culture = assyrian
+		culture = chaldean
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = chaldean
 		religion = catholic
 		size = 1600
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = chaldean
 		religion = catholic
 		size = 15000
 	}
@@ -173,13 +173,13 @@
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 50
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 2000
 	}
@@ -189,43 +189,43 @@
 #Damascus (328000/82000 POPS)
 902 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 850
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 275
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 575
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 825
 	}
@@ -237,43 +237,43 @@
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 43200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 500
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 1450
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 5500
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 14325
 	}
@@ -291,19 +291,19 @@
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 50
 	}
 	
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 100
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 2000
 	}
@@ -312,67 +312,67 @@
 # 45% Sunni, 40% Orthodox, 15% Shia
 903 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 11175
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 4000
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 10575
 	}
@@ -380,67 +380,67 @@
 #Hama (108000/27000 POPS)
 904 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 275
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 14475
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 450
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 8475
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 1875
 	}
@@ -448,31 +448,31 @@
 #Latakia (112000/28000 POPS)
 905 = {
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 165
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 275
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = shiite
 		size = 12225
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 100
 	}
@@ -496,25 +496,25 @@
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 35
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 3525
 	}
@@ -522,49 +522,49 @@
 #Suwayda (12500/3125 POPS)
 906 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 40
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 250
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 60
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = syriac
 		size = 4000
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 20
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = orthodox
 		size = 700
 	}
@@ -580,45 +580,45 @@
 #Palmyra (44000/11000 POPS)
 907 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 15
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 35
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
-		size = 1770
+		size = 5770
 	}
 
 	aristocrats = {
@@ -656,55 +656,55 @@
 #Dayr al Zour
 901 = {
 	clergymen = {
-		culture = turkish
+		culture = assyrian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = assyrian
 		religion = shiite
 		size = 500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = assyrian
 		religion = shiite
 		size = 400
 	}
 
 	farmers = {
-		culture = turkish
+		culture = assyrian
 		religion = shiite
 		size = 1000
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 10975
 	}
@@ -782,19 +782,19 @@
 	}
 	
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = coptic
 		size = 90
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = coptic
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = coptic
 		size = 1800
 	}
@@ -802,91 +802,91 @@
 #Urfa (348000/87000 POPS)
 899 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = chaldean
 		religion = sunni
 		size = 16500
 	}
 
 	aristocrats = {
-		culture = assyrian
+		culture = chaldean
 		religion = nestorian
 		size = 350
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = chaldean
 		religion = nestorian
 		size = 100
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = chaldean
 		religion = nestorian
 		size = 1400
 	}
 
 	soldiers = {
-		culture = assyrian
+		culture = chaldean
 		religion = nestorian
 		size = 325
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = chaldean
 		religion = nestorian
 		size = 25650
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 1700
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 375
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 33150
 	}
@@ -990,25 +990,25 @@
 	}
 	
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 1700
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 375
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 33150
 	}
@@ -1099,50 +1099,50 @@
 	}
 	
 	soldiers = {
-		culture = assyrian
+		culture = chaldean
 		religion = syriac
 		size = 100
 	}
 	clergymen = {
-		culture = assyrian
+		culture = chaldean
 		religion = syriac
 		size = 100
 	}
 	artisans = {
-		culture = assyrian
+		culture = chaldean
 		religion = syriac
 		size = 6000
 	}
 	farmers = {
-		culture = assyrian
+		culture = chaldean
 		religion = syriac
-		size = 12500
+		size = 27500
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 400
 	}
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 275
 	}
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 1700
 	}
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 375
 	}
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
-		size = 27500
+		size = 12500
 	}
 	
 	artisans = {
@@ -1160,59 +1160,59 @@
 3275 = {
 
 	clergymen = {
-		culture = assyrian
+		culture = bedouin
 		religion = syriac
 		size = 75
 	}
 	artisans = {
-		culture = assyrian
+		culture = bedouin
 		religion = syriac
 		size = 100
 	}
 	farmers = {
-		culture = assyrian
+		culture = bedouin
 		religion = syriac
 		size = 200
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15500
 	}
@@ -1383,7 +1383,7 @@
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 25600
 	}
