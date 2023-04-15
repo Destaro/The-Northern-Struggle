@@ -450,12 +450,12 @@ DAR_hms_government;Sultanate of Darfur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DAM_absolute_monarchy;Damagaram Sultanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
 DAM_prussian_constitutionalism;Damagaram Sultanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
 DAM_hms_government;Damagaram Sultanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-SOK_absolute_monarchy;Sokoto Caliphate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-SOK_prussian_constitutionalism;Sokoto Caliphate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-SOK_hms_government;Sokoto Caliphate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-KBO_absolute_monarchy;Bornu Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-KBO_prussian_constitutionalism;Bornu Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
-KBO_hms_government;Bornu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+SOK_absolute_monarchy;Sokoto Kingdom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+SOK_prussian_constitutionalism;Sokoto Kingdom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+SOK_hms_government;Sokoto Kingdom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+KBO_absolute_monarchy;Agisymban Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+KBO_prussian_constitutionalism;Agisymban Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
+KBO_hms_government;Agisymba;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
 WAD_absolute_monarchy;Wadai Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
 WAD_prussian_constitutionalism;Wadai Sultanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
 WAD_hms_government;Wadai Sultanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,
@@ -1894,15 +1894,15 @@ PAN_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PAN_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 PAN_fascist_dictatorship;Khalistan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 PAN_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-PHL;Lupang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_ADJ;Lupangan;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_reactionary;Jeontongdang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_socialist;Sahoedang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_communist;Gongsandang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_liberal;Jayudang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_anarcho_liberal;Sang-eobdang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_conservative;Bosudang;x,,,,,,,,,,,,,,,,,,,,,,
-PHL_fascist;Guggasahoedang;x,,,,,,,,,,,,,,,,,,,,,,
+PHL;Lupang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_ADJ;Lupangan;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_reactionary;Jeontongdang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_socialist;Sahoedang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_communist;Gongsandang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_liberal;Jayudang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_anarcho_liberal;Sang-eobdang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_conservative;Bosudang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PHL_fascist;Guggasahoedang;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PLC;The Polish-Lithuanian Commonwealth;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 PLC_ADJ;Polish-Lithuanian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -1970,8 +1970,8 @@ QLD_reactionary_2;Queensland Farmers Union;Queensland Farmers Union;Queensland F
 QLD_reactionary_3;Country Party;Country Party;Country Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 QLD_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 QLD_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-QNG;The Great Qing;x,,,,,,,,,,,,,,,,,,,,,,
-QNG_ADJ;Qing;x,,,,,,,,,,,,,,,,,,,,,,
+QNG;The Great Qing;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+QNG_ADJ;Qing;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_conservative;Junjichu;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 CHI_conservative_2;Zhiqiang Yundong;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 CHI_conservative_3;Beiyang;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -2663,16 +2663,16 @@ WAS_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;
 WAS_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 WES;Sahsen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 WES_ADJ;Sahsisk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_colonial_company;Marc Sahsen;Marc Sahsen;Marc Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_dominion;Mark Sahsen;Mark Sahsen;Mark Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_proletarian_dictatorship;Volsrepubliek Sahsen;Volsrepubliek Sahsen;Volsrepubliek Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_presidential_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staat;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_bourgeois_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staath;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_fascist_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staat;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_absolute_monarchy;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_prussian_constitutionalism;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_hms_government;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-WES_democracy;Republiek Sahsen;Republiek Sahsen;Republiek Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+WES_colonial_company;Marc Sahsen;Marc Sahsen;Marc Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_dominion;Mark Sahsen;Mark Sahsen;Mark Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_proletarian_dictatorship;Volsrepubliek Sahsen;Volsrepubliek Sahsen;Volsrepubliek Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_presidential_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staat;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_bourgeois_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staath;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_fascist_dictatorship;Sahsisk Staat;Sahsisk Staat;Sahsisk Staat;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_absolute_monarchy;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_prussian_constitutionalism;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_hms_government;Kuningdum Sahsen;Kuningdum Sahsen;Kuningdum Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
+WES_democracy;Republiek Sahsen;Republiek Sahsen;Republiek Sahsen;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;
 WES_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 WES_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 WES_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -2736,7 +2736,7 @@ ZAM_socialist;United Progressive Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ZAM_reactionary;National Restoration Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 ZAM_anarcho_liberal;National Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 ZAM_communist;United National Independence Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-"ZAM_fascist;""Fourth Revolution Party	"";;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;",,,,,,,,,,,,,,,,,,,,,,
+"ZAM_fascist;""Fourth Revolution Party	"";;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ### African Kingdoms ###;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 ARO;Aro;Aro;Aro;;Aro;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 ARO_ADJ;Aro;Aro;Aro;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -2932,8 +2932,8 @@ JAL_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;
 JAL_socialist;Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 JAL_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 JAL_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-KBO;Bornu;Kanem-Bornu;Kanem-Bornu;;Kanem-Bornu;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-KBO_ADJ;Bornu;Bornu;Bornu;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+KBO;Agisymba;Agisymba;Agisymba;;Agisymba;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+KBO_ADJ;Agisymban;Agisymban;Agisymban;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 KBO_conservative;Mai Faction;Faction Mai;Mai Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 KBO_liberal;Reform Faction;Faction de réforme;Verbesserung Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 KBO_reactionary;Religious Faction;Religieux Faction;Religiöse Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -3013,12 +3013,12 @@ MAJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 MAJ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La facción socialista;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAJ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La facción comunista;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAJ_fascist;The Islamic Faction;La faction islamique;Die islamische Fraktion;;La facción islámica;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-MAS;Massina;Macina;Massina;;Massina;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-MAS_absolute_monarchy;Massina Empire;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-MAS_ADJ;Massinan;Massinan;Massinan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+MAS;Dasibaria;Dasibaria;Dasibaria;;Dasibaria;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+MAS_absolute_monarchy;Dasibarian Empire;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+MAS_ADJ;Dasibarian;Dasibarian;Dasibarian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAS_conservative;Royal Faction;Faction royale;Königsfraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAS_liberal;Liberal Faction;Faction libérale;Die liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-MAS_reactionary;The Jihadis;Les djihadistes;Das Jihadis;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+MAS_reactionary;The Crusaders;Les Crusaders;Das Crusaders;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAS_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAS_socialist;Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 MAS_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
@@ -3204,18 +3204,18 @@ GAZ_anarcho_liberal;Freedom Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GAZ_socialist;People's Front;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 GAZ_communist;Communist Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 GAZ_fascist;Fascist Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ;Trarza;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ_ADJ;Trarzan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ;Kingdom of Ugadu;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ_ADJ;Ugadun;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_conservative;Emir's Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_liberal;Reform Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ_reactionary;Islamic faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ_reactionary;Ugadun faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_conservative_2;Progressive Union;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_liberal_2;Agreement Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_reactionary_2;People's Party;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_anarcho_liberal;Radical Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ_socialist;Association of the Young Mauritanians;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ_communist;Mauritanian Entente;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-TRZ_fascist;Nahda;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ_socialist;Association of the Young Ugadunians;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ_communist;Ugadun Entente;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
+TRZ_fascist;Ugadun Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_proletarian_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_proletarian_dictatorship_ADJ;Mauritanian;Mauritanien;Mauretanische;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
 TRZ_presidential_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,

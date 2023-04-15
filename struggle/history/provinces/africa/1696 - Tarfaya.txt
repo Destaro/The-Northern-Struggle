@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = TRZ
+controller = TRZ
 add_core = TRZ
 add_core = MOR
 trade_goods = fish

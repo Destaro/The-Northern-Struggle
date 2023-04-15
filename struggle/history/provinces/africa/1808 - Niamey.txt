@@ -1,5 +1,5 @@
-owner = MOS 
-controller = MOS 
+owner = KBO 
+controller = KBO 
 add_core = DND
 add_core = MAS
 trade_goods = grain
@@ -7,3 +7,4 @@ terrain = semidesert
 life_rating = 35
 
 add_core = MOS 
+add_core = KBO

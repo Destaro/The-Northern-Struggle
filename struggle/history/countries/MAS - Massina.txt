@@ -1,10 +1,11 @@
-capital = 1804
-primary_culture = fulbe
+capital = 1803
+primary_culture = songhai
 culture = tuareg
 culture = mande
 culture = gur
 culture = senufo
-religion = sunni
+culture = fulbe
+religion = punic_church
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -52,7 +53,6 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
 
 # Technologies
 
