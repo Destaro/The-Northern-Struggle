@@ -1,5 +1,5 @@
 capital = 1707
-primary_culture = maghrebi
+primary_culture = african_romance
 culture = berber
 culture = tuareg
 religion = punic_church

@@ -24,9 +24,9 @@ political_decisions = {
 	serbian_rename_slo = {
 		picture = gtfo
 		potential = {
-			AND= {
+			AND = {
 				primary_culture = serb
-				NOT = { TAG = YUG }
+				NOT = { tag = YUG }
 			}
 			owns = 767
 			owns = 768
@@ -374,7 +374,7 @@ political_decisions = {
 		potential = {
 			AND= {
 				primary_culture = serb
-				NOT = { TAG = YUG }
+				NOT = { tag = YUG }
 			}
 			owns = 770
 			owns = 778

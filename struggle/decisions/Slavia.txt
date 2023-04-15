@@ -61,7 +61,7 @@ rescue_the_sorbians = {
 
         effect = {
 		set_country_flag = rescue_the_sorbians
-		infamy = 10
+		badboy = 10
 		SAX_687 = { add_core = LUZ }
 		PRU_556 = { add_core = LUZ }
 		PRU_549 = { add_core = LUZ }

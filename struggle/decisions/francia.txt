@@ -18,6 +18,7 @@ potential = {
 	prestige = 10
 	}
 }
+
 reclaim_ocitania = {
  potential = {
              
@@ -181,9 +182,9 @@ reclaim_ocitania = {
 		effect = {
 	    badboy = 10
 		set_country_flag = demand_the_return_of_the_colonies
-		ULA = { event = 9006005 }
-		GCO = { event = 9006005 }
-		LPL = { event = 9006005 }
+		ULA = { country_event = 9006005 }
+		GCO = { country_event = 9006005 }
+		LPL = { country_event = 9006005 }
 		}
  
  

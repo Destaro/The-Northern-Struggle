@@ -59,29 +59,35 @@ claim_the_texans = {
 		nationalism_n_imperialism = 1
 		is_greater_power = yes
 			war = no
-			GCO = {
+			GCO = { 
+			    OR = { 
+				
+				vassal_of = THIS
+				
 				all_core = {
-					OR = {
 						owned_by = THIS
-						vassal_of = THIS
-					}
+				     }
 				}
 			}
-			ULA = {
+			ULA = { 
+			    OR = { 
+				
+				vassal_of = THIS
+				
 				all_core = {
-					OR = {
 						owned_by = THIS
-						vassal_of = THIS
-					}
+				     }
 				}
 			}
 			
-			TEX = {
+			TEX = { 
+			    OR = { 
+				
+				vassal_of = THIS
+				
 				all_core = {
-					OR = {
 						owned_by = THIS
-						
-					}
+				     }
 				}
 			}
 			

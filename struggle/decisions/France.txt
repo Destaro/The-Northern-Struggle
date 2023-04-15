@@ -309,52 +309,7 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	claim_savoy = {
-		picture = form_italy
-		potential = {
-			primary_culture = french
-			is_greater_power = yes
-			capital = 425
-			OR = { 
-				has_global_flag = plombieres
-				revolution_n_counterrevolution = 1
-			}
-			NOT = {
-				465 = { is_core = THIS }
-				has_global_flag = plombieres_refused
-				has_country_flag = claimed_savoy
-			}
-		}
-		
-		allow = {
-			OR = {
-				war_policy = jingoism
-				war_policy = pro_military
-			}
-			ITA = {
-				exists = yes
-				NOT = { in_sphere = THIS }
-			}
-			NOT = {
-				has_country_modifier = punitive_effects
-				has_country_modifier = no_more_war
-			}
-		}
-		
-		effect = {
-			FRA = { set_country_flag = claimed_savoy }
-			BOR = { set_country_flag = claimed_savoy }
-			badboy = 3
-			465 = { add_core = THIS }
-			466 = { add_core = THIS }
-			472 = { add_core = THIS }
-			random_country = {
-				limit = { owns = 465 }
-				leave_alliance = THIS
-				relation = { who = THIS value = -100 }
-			}
-		}
-	}
+	
 
 	claim_aosta = {
 		picture = claim_aosta

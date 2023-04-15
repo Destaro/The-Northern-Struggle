@@ -143,7 +143,6 @@ political_decisions = {
             		  }
 	effect = {
     set_global_flag = invade_the_south	
-	badboy = 5
 	badboy = -22
 	war = {
                 target = TUN

@@ -1,5 +1,5 @@
 capital = 1680
-primary_culture = maghrebi
+primary_culture = punic
 culture = berber
 religion = punic_church
 government = colonial_company
