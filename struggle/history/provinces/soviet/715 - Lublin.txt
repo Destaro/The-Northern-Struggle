@@ -1,5 +1,5 @@
-owner = GLM
-controller = GLM
+owner = CPL
+controller = CPL
 add_core = POL
 
 trade_goods = grain
@@ -11,3 +11,4 @@ life_rating = 35
 
 
 add_core = GLM
+add_core = CPL

@@ -1,5 +1,5 @@
-owner = GLM
-controller = GLM
+owner = CPL
+controller = CPL
 
 
 
@@ -15,3 +15,4 @@ life_rating = 35
 
 
 add_core = GLM
+add_core = CPL
