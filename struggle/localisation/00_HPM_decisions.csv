@@ -58,7 +58,7 @@ reclaim_anatolia_desc;The Byzantine Empire hereby declares that the time has com
 reclaim_all_of_the_balkans_title;The balkans are Roman!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 reclaim_all_of_the_balkans_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 centralize_rumelia_title;Centralize Rumelia;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
-centralize_rumelia_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+centralize_rumelia_desc;After a long time of unstability we can finally unify our holdings across the balkans into a fully unified nation.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 we_are_roman_title;We are ROMAN!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 we_are_roman_desc;As the great Rumelian Empire continues to expand its territories and influence, it is important to acknowledge its role as the rightful successor to the ancient Roman Empire. With the conquest of the eternal city of Rome and the eastern capital of Constantinople, the Rumelian Empire has proven its might and ability to uphold the legacy of Rome. While some may argue that the Empire is not truly Roman due to its origins in the east, it cannot be denied that it holds the key to the ancient empire's greatest cities and has become a beacon of power and civilization. With this in mind, it is clear that the Rumelian Empire is indeed the true successor to Rome, and it will continue to uphold the greatness of the ancient empire for generations to come.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 integrate_finland_and_estonia_title;Integrate the Finno-Ugrics.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
@@ -133,6 +133,8 @@ claim_all_peru_lpl_title;The incan lands will be ours;;;;;;;;;;;;;;;;;;;;;;;;;x;
 claim_all_peru_lpl_desc;Our aspirations to become the dominant power in the Andronican continent can only be fulfilled if we manage to subjugate our rivals. And as they set their sights on achieving hegemony, the Incas are the first to come under the spotlight. The Incas have long been considered large section of andronica itself, but if Sulveren Rivier wishes to establish itself as the unchallenged ruler of the Andronican continent, it must begin by bringing the Incas under its control.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 accept_the_platinier_title;Accept the peoples on the western coast;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 accept_the_platinier_desc;After stablishing our nation into a stable position we can begin to integrate all the peoples inside of it properly.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+form_ruthenia_title;The true Claimer of the East.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+form_ruthenia_desc; .;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 vassal_stop_paying_vassal_payments_title;Stop Paying Overlord Taxes;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 vassal_stop_paying_vassal_payments_desc;Our overlord issued an order allowing us to cease any contribution to their offers.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 turn_off_vassal_payments_title;Exempt Vassals from Contributing to our Treasury;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
