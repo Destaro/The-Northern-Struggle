@@ -139,6 +139,8 @@ become_mexico_vns_title;This is our true name;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 become_mexico_vns_desc;The opressors are gone, the traitors defeated, only we remain, and our name is.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 become_mexico_title;We are the True inheritors of the name;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 become_mexico_desc;The old loyalists have been defeated, our lands can now be righfully declared to be ours and ours alone. let the nations of the world know what our name is!.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+claim_the_texans_title;Claim the lands beyond the great river;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+claim_the_texans_desc;Despite the peoples here being from such a diferent origin if we can integrate them into the nation we'll be able to have complete control of the great rivers along the southern part of Vinland.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 vassal_stop_paying_vassal_payments_title;Stop Paying Overlord Taxes;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 vassal_stop_paying_vassal_payments_desc;Our overlord issued an order allowing us to cease any contribution to their offers.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 turn_off_vassal_payments_title;Exempt Vassals from Contributing to our Treasury;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
