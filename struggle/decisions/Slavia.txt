@@ -46,44 +46,44 @@ form_slavia = {
     }
 
 
-rescue_the_sorbians = {
-        potential = {
-        tag = SLA
-        NOT = { has_country_flag = rescue_the_sorbians }
-        }
+#rescue_the_sorbians = {
+#        potential = {
+#        tag = SLA
+#        NOT = { has_country_flag = rescue_the_sorbians }
+#        }
+#
+#        allow = {
+#		war = no
+#	       year = 1900
+#		   is_greater_power = yes
+#		   SLA = { all_core = { owned_by = THIS } }
+#       }
+#
+#        effect = {
+#		set_country_flag = rescue_the_sorbians
+#		badboy = 10
+#		SAX_687 = { add_core = LUZ }
+#		PRU_556 = { add_core = LUZ }
+#		PRU_549 = { add_core = LUZ }
+#		PRU_546 = { add_core = LUZ }
+#		PRU_544 = { add_core = LUZ }
+#		557 = { add_core = LUZ }
+#		680 = { remove_core = LUZ }
+#		692 = { remove_core = LUZ }
+#		LUZ = { all_core = { add_core = THIS } }
+#           add_accepted_culture = sorbian
+#			war = {
+#               target = WES
+#               attacker_goal = {
+#                    casus_belli = acquire_all_cores
+#                }
+#                defender_goal = { casus_belli = humiliate }
+#            }
+#            
+#        }
+#        ai_will_do = { factor = 1 }
+#    }
 
-        allow = {
-		war = no
-	       year = 1900
-		   is_greater_power = yes
-		   SLA = { all_core = { owned_by = THIS } }
-        }
-
-        effect = {
-		set_country_flag = rescue_the_sorbians
-		badboy = 10
-		SAX_687 = { add_core = LUZ }
-		PRU_556 = { add_core = LUZ }
-		PRU_549 = { add_core = LUZ }
-		PRU_546 = { add_core = LUZ }
-		PRU_544 = { add_core = LUZ }
-		557 = { add_core = LUZ }
-		680 = { remove_core = LUZ }
-		692 = { remove_core = LUZ }
-		LUZ = { all_core = { add_core = THIS } }
-            add_accepted_culture = sorbian
-			war = {
-                target = WES
-                attacker_goal = {
-                    casus_belli = acquire_all_cores
-                }
-                defender_goal = { casus_belli = humiliate }
-            }
-            
-        }
-        ai_will_do = { factor = 1 }
-    }
-	
 	
 	
 

@@ -617,16 +617,16 @@ HUI_liberal;Liberal Party;Parti libéral;Liberale Partei;;;;;;;;;;;x;;,
 HUI_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;;;;;x;;,
 HUI_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;;;;;x;;,
 HUI_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;;;;;;;;;;x;;,
-IBR_proletarian_dictatorship;The Iberian Worker's Union;;;;;;;;;;;;;x,;;
-IBR_presidential_dictatorship;The Iberian Union;;;;;;;;;;;;;x,;;
-IBR_bourgeois_dictatorship;The Iberian Union;;;;;;;;;;;;;x,;;
-IBR_fascist_dictatorship;The Iberian Empire;;;;;;;;;;;;x,;;;
-IBR_democracy;The Iberian Federation;;;;;;;;;;;;;x,;;
-IBR_absolute_monarchy;The Iberian Empire;;;;;;;;;;;;;x,;;
-IBR_prussian_constitutionalism;The Iberian Empire;;;;;;;;;;;;;x,;;
-IBR_hms_government;The Iberian Empire;;;;;;;;;;;;;x,;;
-IBR;Iberia;;;;;;;;;;;;;x;;,
-IBR_ADJ;Iberian;;;;;;;;;;;;;x;;,
+IBR_proletarian_dictatorship;The Hispanian Worker's Union;;;;;;;;;;;;;x,;;
+IBR_presidential_dictatorship;The Hispanian Union;;;;;;;;;;;;;x,;;
+IBR_bourgeois_dictatorship;The Hispanian Union;;;;;;;;;;;;;x,;;
+IBR_fascist_dictatorship;The Hispanian Empire;;;;;;;;;;;;x,;;;
+IBR_democracy;The Hispanian Federation;;;;;;;;;;;;;x,;;
+IBR_absolute_monarchy;The Hispanian Empire;;;;;;;;;;;;;x,;;
+IBR_prussian_constitutionalism;The Hispanian Empire;;;;;;;;;;;;;x,;;
+IBR_hms_government;The Hispanian Empire;;;;;;;;;;;;;x,;;
+IBR;Hispania;;;;;;;;;;;;;x;;,
+IBR_ADJ;Hispanian;;;;;;;;;;;;;x;;,
 INO;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;;;x;;,
 INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;;;x;;,
 INO_conservative;Royal Faction;;;;;;;;;;;;x;;;,
