@@ -1,6 +1,4 @@
-color = { 119 62 40 }
-absolute_monarchy = { 98 49 0 }
-
+color = { 146 204 182 }
 graphical_culture = AfricanGC
 
 party = {

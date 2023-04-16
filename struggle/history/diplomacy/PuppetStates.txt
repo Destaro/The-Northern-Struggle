@@ -456,3 +456,31 @@ vassal = {
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+
+### Songhai Empire ###
+vassal = {
+	first = MAS
+	second = SEG
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = MAS
+	second = GBU
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+### Agisymban Empire ###
+vassal = {
+	first = KBO
+	second = MOS
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = KBO
+	second = SOK
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
