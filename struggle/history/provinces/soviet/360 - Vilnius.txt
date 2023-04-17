@@ -10,4 +10,3 @@ terrain = vilnius
 
 add_core = BUL
 add_core = LIT
-add_core = RUT
