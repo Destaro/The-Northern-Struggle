@@ -9,3 +9,5 @@ naval_base = 1
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = WHA
