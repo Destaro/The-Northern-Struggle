@@ -146,134 +146,12 @@ political_decisions = {
 	
 	
 	
-	claim_galicia = { 
-		picture = claim_galicia
-		potential = {
-			tag = RUT
-			is_greater_power = yes
-			is_disarmed = no
-			OR = { 
-				owns = 702
-				owns = 705
-			}
-			OR = {
-				706 = { is_core = RUS }
-				705 = { is_core = RUS }
-			}
-			OR = {
-				KUK = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-				AUS = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-				GCF = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-			}
-			NOT = { has_country_flag = claim_galicia }
-		}
-		allow = {
-			OR = { 
-				 AND = {
-					702 = { is_core = RUS }
-					952 = { is_core = RUS }
-					953 = { is_core = RUS }
-					951 = { is_core = RUS }
-				}
-				AND = {
-					705 = { is_core = RUS }
-					704 = { is_core = RUS }
-					714 = { is_core = RUS }
-				}
-			}
-			war = no
-			war_policy = jingoism
-			OR = {
-				KUK = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-				AUS = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-				GCF = { 
-					exists = yes
-					is_greater_power = no
-					NOT = { truce_with = RUS }
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-			}
-		}
-		effect = {
-			set_country_flag = claim_galicia
-			random_country = {
-				limit = {
-					OR = { 
-						tag = KUK
-						tag = AUS
-						tag = GCF
-					}
-					OR = { 
-						owns = 705
-						owns = 704
-					}
-				}
-				any_owned = {
-					limit = { 
-						is_core = GLM 
-					}
-					add_core = RUS
-				}
-			}
-			badboy = 5
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.5
-			}
-		}
-	}
+
 	
 	integrate_svaneti = {
 		picture = integrate_abkhazia
 		potential = {
-			tag = RUS
+			tag = RUT
 			NOT = { has_country_flag = integrate_svaneti }
 			owns = 1051
 			owns = 1049
@@ -310,7 +188,7 @@ political_decisions = {
 				limit = {
 					tag = SVA
 					exists = yes
-					TCA = { exists = yes vassal_of = RUS }
+					TCA = { exists = yes vassal_of = RUT }
 				}
 				all_core = { add_core = TCA }
 				annex_to = TCA
@@ -321,8 +199,8 @@ political_decisions = {
 					exists = yes
 					TCA = { exists = no }
 				}
-				all_core = { add_core = RUS }
-				annex_to = RUS
+				all_core = { add_core = RUT }
+				annex_to = RUT
 			}
 			SVA = { all_core = { remove_core = SVA } }
 		}
@@ -334,7 +212,7 @@ political_decisions = {
 		picture = niko_dadiani
 		
 		potential = {
-			tag = RUS
+			tag = RUT
 			NOT = { has_country_flag = integrate_mingrelia }
 			owns = 1051
 			owns = 1049
@@ -371,7 +249,7 @@ political_decisions = {
 				limit = {
 					tag = MIG
 					exists = yes
-					TCA = { exists = yes vassal_of = RUS }
+					TCA = { exists = yes vassal_of = RUT }
 				}
 				all_core = { add_core = TCA }
 				annex_to = TCA
@@ -382,8 +260,8 @@ political_decisions = {
 					exists = yes
 					TCA = { exists = no }
 				}
-				all_core = { add_core = RUS }
-				annex_to = RUS
+				all_core = { add_core = RUT }
+				annex_to = RUT
 			}
 			MIG = { all_core = { remove_core = MIG } }
 		}
