@@ -143,7 +143,7 @@ political_decisions = {
             		  }
 	effect = {
     set_global_flag = invade_the_south	
-	badboy = -22
+	
 	war = {
                 target = TUN
                 
@@ -156,11 +156,18 @@ political_decisions = {
                     casus_belli = acquire_state
                   state_province_id = 514
                 }
+				
+				attacker_goal = {
+                    casus_belli = acquire_state
+                  state_province_id = 502
+                }
                
                 defender_goal = { 
 				    casus_belli = cut_down_to_size }
 				
                    }
+				   
+				   badboy = -33
 				   
 	war = {
                 target = ANU
