@@ -1,0 +1,7 @@
+owner = MIN
+controller = MIN
+add_core = YNN
+add_core = MIN
+add_core = CHI
+trade_goods = precious_metal
+life_rating = 32

@@ -1,0 +1,7 @@
+owner = BHT
+controller = BHT
+add_core = BHT
+add_core = GRE
+trade_goods = grain
+life_rating = 35
+

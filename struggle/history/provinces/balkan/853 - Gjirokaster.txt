@@ -1,0 +1,8 @@
+owner = EPI
+controller = EPI
+
+
+trade_goods = cattle
+life_rating = 35
+
+add_core = EPI

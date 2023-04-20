@@ -1,0 +1,9 @@
+owner = RUM
+controller = RUM
+add_core = RUM
+
+trade_goods = cotton
+life_rating = 35
+
+add_core = DBJ
+add_core = ROM

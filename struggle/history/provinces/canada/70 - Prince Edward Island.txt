@@ -1,0 +1,6 @@
+owner = AVA
+controller = AVA
+add_core = AVA
+trade_goods = fish
+life_rating = 30
+colonial = 2

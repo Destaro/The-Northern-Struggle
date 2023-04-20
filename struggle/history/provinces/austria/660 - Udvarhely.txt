@@ -1,0 +1,10 @@
+owner = CRO
+controller = CRO
+
+
+trade_goods = wool
+life_rating = 35
+
+
+
+add_core = CRO

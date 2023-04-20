@@ -1,0 +1,9 @@
+owner = BKV
+controller = BKV
+
+trade_goods = cattle
+life_rating = 35
+
+
+add_core = BKV
+add_core = RUT

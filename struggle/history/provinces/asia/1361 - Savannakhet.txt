@@ -1,0 +1,6 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+add_core = LXA
+trade_goods = grain
+life_rating = 33

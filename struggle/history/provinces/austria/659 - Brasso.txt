@@ -1,0 +1,9 @@
+owner = SER
+controller = SER
+
+trade_goods = wool
+life_rating = 35
+
+
+
+add_core = SER

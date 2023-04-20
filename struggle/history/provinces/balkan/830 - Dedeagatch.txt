@@ -1,0 +1,9 @@
+owner = RUM
+controller = RUM
+
+add_core = GRE
+
+trade_goods = grain
+life_rating = 35
+
+add_core = RUM

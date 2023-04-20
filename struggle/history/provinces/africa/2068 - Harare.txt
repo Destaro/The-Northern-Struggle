@@ -1,0 +1,9 @@
+owner = MAT
+controller = MAT
+add_core = ZBW
+trade_goods = coffee
+terrain = savanna
+life_rating = 10
+colonial = 1
+
+add_core = MAT

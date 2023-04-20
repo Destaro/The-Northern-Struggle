@@ -1,0 +1,5 @@
+owner = BDN
+controller = BDN
+add_core = BDN
+trade_goods = wool
+life_rating = 35

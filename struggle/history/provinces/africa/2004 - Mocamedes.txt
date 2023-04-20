@@ -1,0 +1,8 @@
+owner = NMB
+controller = NMB
+terrain = semidesert
+trade_goods = fish
+life_rating = 15
+
+
+add_core = NMB

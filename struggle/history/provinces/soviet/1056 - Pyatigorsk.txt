@@ -1,0 +1,6 @@
+owner = ALN
+controller = ALN
+add_core = ALN
+terrain = pyatigorsk
+trade_goods = grain
+life_rating = 35

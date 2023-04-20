@@ -1,0 +1,9 @@
+owner = CPL
+controller = CPL
+
+trade_goods = grain
+life_rating = 35
+
+
+add_core = POL
+add_core = CPL
