@@ -1,8 +1,0 @@
-owner = VIN
-controller = VIN
-add_core = MTC
-add_core = VIN
-trade_goods = grain
-terrain = plains
-life_rating = 30
-

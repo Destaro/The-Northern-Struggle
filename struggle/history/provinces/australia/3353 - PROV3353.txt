@@ -1,6 +1,0 @@
-owner = NKR
-controller = NKR
-add_core = NKR
-trade_goods = wool
-terrain = plains
-life_rating = 35

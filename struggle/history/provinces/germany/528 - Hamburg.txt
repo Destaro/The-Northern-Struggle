@@ -1,8 +1,0 @@
-owner = WES
-controller = WES
-add_core = WES
-add_core = GER
-trade_goods = fruit
-life_rating = 42
-terrain = hamburg
-fort = 1

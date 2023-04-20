@@ -1,6 +1,0 @@
-owner = BLG
-controller = BLG
-add_core = BLG
-trade_goods = iron
-terrain = boreal
-life_rating = 15

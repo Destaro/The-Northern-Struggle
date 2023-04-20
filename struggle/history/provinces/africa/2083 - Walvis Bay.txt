@@ -1,9 +1,0 @@
-owner = NMB
-controller = NMB
-add_core = NMB
-terrain = semidesert
-trade_goods = wool
-life_rating = 10
-
-
-add_core = NAL

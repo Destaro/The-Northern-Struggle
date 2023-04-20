@@ -1,8 +1,0 @@
-owner = TKM
-controller = TKM
-add_core = TKM
-add_core = BUK
-add_core = BDK
-add_core = KHR
-trade_goods = opium
-life_rating = 15

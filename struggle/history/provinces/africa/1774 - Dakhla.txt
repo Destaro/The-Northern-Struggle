@@ -1,8 +1,0 @@
-owner = TRZ
-controller = TRZ
-add_core = MOR
-trade_goods = wool
-life_rating = 10
-colonial = 2
-
-add_core = TRZ

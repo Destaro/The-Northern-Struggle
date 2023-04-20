@@ -1,8 +1,0 @@
-owner = MAS
-controller = MAS
-add_core = JAL
-trade_goods = timber
-life_rating = 35
-
-add_core = GBU
-add_core = MAS

@@ -1,7 +1,0 @@
-owner = NDY
-controller = SCA
-add_core = NDY
-add_core = ORL
-trade_goods = fish
-life_rating = 35
-terrain = small_island

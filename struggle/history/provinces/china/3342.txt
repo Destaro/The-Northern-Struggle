@@ -1,5 +1,0 @@
-owner = TAJ
-controller = TAJ
-add_core = TAJ
-trade_goods = cotton
-life_rating = 32

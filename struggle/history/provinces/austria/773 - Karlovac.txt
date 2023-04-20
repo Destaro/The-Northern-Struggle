@@ -1,7 +1,0 @@
-owner = DLM
-controller = DLM
-add_core = DLM
-trade_goods = fruit
-life_rating = 35
-
-add_core = ITA

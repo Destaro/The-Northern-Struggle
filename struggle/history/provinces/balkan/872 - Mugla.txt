@@ -1,5 +1,0 @@
-owner = BHT
-controller = BHT
-add_core = BHT
-trade_goods = coal
-life_rating = 35

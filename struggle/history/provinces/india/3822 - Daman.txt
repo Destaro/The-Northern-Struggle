@@ -1,6 +1,0 @@
-owner = SCA
-controller = SCA
-add_core = BER
-trade_goods = precious_goods
-life_rating = 32
-

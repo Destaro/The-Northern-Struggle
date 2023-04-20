@@ -1,7 +1,0 @@
-owner = UZB
-controller = UZB
-add_core = UZB
-add_core = AFS
-terrain = desert
-trade_goods = fish
-life_rating = 20

@@ -1,6 +1,0 @@
-owner = NKR
-controller = NKR
-add_core = NKR
-add_core = NJP
-trade_goods = grain
-life_rating = 35

@@ -1,8 +1,0 @@
-owner = BUG
-controller = BUG
-trade_goods = cotton
-terrain = savanna
-
-life_rating = 20
-
-add_core = BUG

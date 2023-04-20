@@ -1,6 +1,0 @@
-owner = XIN
-controller = XIN
-add_core = XIN
-add_core = KYR
-trade_goods = sulphur
-life_rating = 32

@@ -1,6 +1,0 @@
-owner = NJP
-controller = NJP
-add_core = NJP
-trade_goods = fish
-life_rating = 30
-terrain = small_island

@@ -1,7 +1,0 @@
-owner = AOM
-controller = AOM
-
-add_core = AOM
-add_core = ROM
-trade_goods = wool
-life_rating = 35

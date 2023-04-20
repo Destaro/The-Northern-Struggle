@@ -1,6 +1,0 @@
-owner = AJP
-controller = AJP
-
-trade_goods = coal
-life_rating = 31
-add_core = AJP

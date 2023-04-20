@@ -1,6 +1,0 @@
-owner = LOA
-controller = LOA
-trade_goods = timber
-life_rating = 10
-
-add_core = LOA

@@ -1,7 +1,0 @@
-owner = SCA
-controller = SCA
-add_core = KRN
-trade_goods = precious_goods
-life_rating = 32
-
-colonial = 2

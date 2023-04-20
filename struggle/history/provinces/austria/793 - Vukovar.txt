@@ -1,5 +1,0 @@
-owner = BOS
-controller = BOS
-add_core = BOS
-trade_goods = cattle
-life_rating = 35

@@ -1,9 +1,0 @@
-owner = AOM
-controller = AOM
-
-add_core = GRE
-trade_goods = coal
-life_rating = 35
-
-add_core = AOM
-add_core = ROM

@@ -1,9 +1,0 @@
-owner = AQU
-controller = AQU
-
-trade_goods = fruit
-life_rating = 40
-1861.1.1 = { railroad = 3 }
-
-add_core = ITA
-add_core = AQU

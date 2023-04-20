@@ -1,7 +1,0 @@
-owner = SCA
-controller = SCA
-add_core = MYS
-trade_goods = precious_goods
-life_rating = 35
-
-colonial = 2
