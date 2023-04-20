@@ -1,5 +1,5 @@
-owner = KOR
-controller = KOR
+owner = JAP
+controller = JAP
 add_core = PHL
 trade_goods = tobacco
 life_rating = 35
