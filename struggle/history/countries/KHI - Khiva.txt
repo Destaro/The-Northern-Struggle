@@ -1,8 +1,7 @@
 capital = 1191
-primary_culture = khwarazm_persian
+primary_culture = chorasmian
 culture = khorasani_persian
-culture = uzbek
-religion = sunni
+religion = manichaeism
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

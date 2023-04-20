@@ -1,19 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = BKV
+controller = BKV
+add_core = BKV
+add_core = RUT
 trade_goods = cattle
 life_rating = 35
-#state_building = {
-#	level = 1
-#	building = liquor_distillery
-#	upgrade = yes
-#}
-1861.1.1 = { 
-	state_building = {
-		level = 1
-		building = liquor_distillery
-		upgrade = yes
-	} 
-}
-
-add_core = RUT

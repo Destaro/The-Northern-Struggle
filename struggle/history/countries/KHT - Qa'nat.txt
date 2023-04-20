@@ -1,6 +1,6 @@
 capital = 3408
-primary_culture = persian
-religion = shiite
+primary_culture = parthian
+religion = manichaeism
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition

@@ -1,4 +1,20 @@
 spriteTypes = {
+	spriteType = {
+		name = GFX_BGprovince
+		texturefile = "gfx\\interface\\BGprovince.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_deselector"
+		texturefile = "gfx\\interface\\deselector.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_selector"
+		texturefile = "gfx\\interface\\selector.dds"
+		noOfFrames = 2
+	}
 
 	spriteType = {
 		name = "GFX_crisis_temperature_bar_frame"

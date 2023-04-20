@@ -27,21 +27,10 @@ army = {
 	}
 	
 	regiment = {
-		name= "Annon's Command"
-		type = infantry
-		home = 2152
-	}
-	
-	regiment = {
 		name = "Burleson's Command"
 		type = artillery
 		home = 137
 	}
 	
-	regiment = {
-		name = "Burls's Command"
-		type = artillery
-		home = 132
-	}
 }
 

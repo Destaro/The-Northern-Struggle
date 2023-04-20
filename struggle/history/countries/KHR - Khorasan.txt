@@ -1,5 +1,7 @@
 capital = 3430
-primary_culture = persian
+primary_culture = parthian
+culture = old_persian
+culture = aryao
 religion = manichaeism
 government = absolute_monarchy 
 plurality = 15.0

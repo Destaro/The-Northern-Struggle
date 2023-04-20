@@ -1,5 +1,5 @@
-owner = AQU
-controller = AQU
+owner = VEN
+controller = VEN
 add_core = EGY
 add_core = CRE
 add_core = GRE
@@ -10,5 +10,4 @@ life_rating = 35
 	controller = TUR 
 	owner = TUR
 }
-
-add_core = AQU
+add_core = VEN

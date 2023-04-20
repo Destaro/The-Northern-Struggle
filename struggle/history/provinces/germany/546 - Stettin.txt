@@ -1,11 +1,9 @@
-owner = SCA
-controller = SCA
-add_core = PML
-add_core = WES
-add_core = BDB
+owner = POM
+controller = POM
+add_core = POM
 add_core = GER
 trade_goods = fish
-life_rating = 40
+life_rating = 35
 terrain = stettin
 #naval_base = 1
 1861.1.1 = {
@@ -21,5 +19,3 @@ terrain = stettin
 	}
 }
 1861.1.1 = { railroad = 3 }
-
-add_core = SCA

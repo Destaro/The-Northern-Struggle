@@ -31,8 +31,8 @@ From;To;Type;Through;Data;Comment
 173;54;land;3113;0;Erie Straits
 55;236;land;3113;0;Erie Straits
 163;167;land;3285;0;Mississippi-Straits
-147;3339;land;3284;0;Mississippi-Straits
-139;140;land;3282;0;Nova-Braganca Strait
+147;148;land;3284;0;Mississippi-Straits
+139;140;land;3282;0;Mississippi-Delta
 58;66;land;3286;0;Stlaurence Strait
 
 #
@@ -79,8 +79,6 @@ From;To;Type;Through;Data;Comment
 780;782;land;2762;0;Mostar Bay
 #301;388;sea;2724;0;Straits of Dover
 274;265;sea;2738;0;Ireland Strait Cause AI is dumb
-642;646;land;3362;0;Danube Bridges
-642;635;land;3362;0;Danube Bridges
 643;641;land;3362;0;Danube Bridges
 640;779;land;3361;0;Danube Bridges
 794;791;land;3360;0;Danube Bridges

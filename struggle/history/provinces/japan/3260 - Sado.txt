@@ -1,8 +1,6 @@
-owner = KAG
-controller = KAG
-
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = precious_metal
 terrain = small_island
 life_rating = 30
-
-add_core = KAG

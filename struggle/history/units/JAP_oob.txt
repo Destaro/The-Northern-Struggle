@@ -67,48 +67,48 @@ army = {
 	regiment = {
 		name= "2.Guard"
 		type = cavalry
-		home = 1657
+		home = 1676
 	}
 	
 	
 	regiment = {
 		name= "3.Guard"
 		type = guard
-		home = 1656
+		home = 1659
 	}
 	
 	regiment = {
 		name= "4.Guard"
 		type = guard
-		home = 1658
+		home = 1657
 	}
 	regiment = {
 		name= "5.Guard"
 		type = guard
-		home = 1657
+		home = 1676
 	}
 	
 	regiment = {
 		name= "6.Guard"
 		type = guard
-		home = 1655
+		home = 1659
 	}
 	
 	regiment = {
 		name= "7.Guard"
 		type = infantry
-		home = 1655
+		home = 1657
 	}
 	regiment = {
 		name= "8.Guard"
 		type = infantry
-		home = 1655
+		home = 1676
 	}
 	
 	regiment = {
 		name= "9.Guard"
 		type = artillery
-		home = 1655
+		home = 1659
 	}
 	
 	regiment = {
@@ -119,14 +119,48 @@ army = {
 	regiment = {
 		name= "11.Guard"
 		type = cavalry
-		home = 1657
+		home = 1676
 	}
 	
 	regiment = {
 		name= "12.Guard"
 		type = cavalry
-		home = 1657
+		home = 1659
 	}
+}
+
+
+
+
+army = {
+	name = "Korean Garrison"
+	location = 1632
+	regiment = {
+		name= "1.Guard"
+		type = cavalry
+		home = 1635
+	}
+	regiment = {
+		name= "2.Guard"
+		type = cavalry
+		home = 1632
+	}
+	
+	
+	
+	
+	regiment = {
+		name= "3.Guard"
+		type = infantry
+		home = 1637
+	}
+	regiment = {
+		name= "4.Guard"
+		type = infantry
+		home = 1480
+	}
+	
+	
 }
 
 
@@ -134,21 +168,64 @@ army = {
 	name = "Takasago Garrison"
 	location = 1485
 	
+	
+	
+	
+	
 	regiment = {
 		name= "1.Guard"
 		type = infantry
-		home = 2562
+		home = 3346
 	}
 	regiment = {
 		name= "2.Guard"
 		type = infantry
-		home = 2681
+		home = 3347
+	}
+	
+	
+}
+
+army = {
+	name = "Guandong 1st Garrison"
+	location = 1480
+	
+	
+	
+	
+	
+	regiment = {
+		name= "1.Guard"
+		type = infantry
+		home = 1480
+	}
+	regiment = {
+		name= "2.Guard"
+		type = infantry
+		home = 1082
 	}
 	
 	
 }
 
 
+army = {
+	name = "Guandong 2nd Garrison"
+	location = 1082
+	
+	
+	
+	
+	
+	regiment = {
+		name= "1.Guard"
+		type = infantry
+		home = 1677
+	}
+	
+	
+	
+}
 
 
 
@@ -250,6 +327,57 @@ navy = {
 }
 
 
+navy = {
+	name = "Korean Fleet"
+	location = 1632
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	
+	
+	
+	
+	
+	
+	ship = {
+		name= "HMS Nereus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Seringapatam"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Southampton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Venus"
+		type = frigate
+	}
+	
+
+}
 
 
 

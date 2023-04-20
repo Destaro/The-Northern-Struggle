@@ -1,5 +1,5 @@
 capital = 1210
-primary_culture = khorasani_persian
+primary_culture = aryao
 religion = manichaeism
 government = colonial_company
 plurality = 0.0

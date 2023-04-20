@@ -1,7 +1,5 @@
 owner = MEW
 controller = MEW
-add_core = MWA
-add_core = VDB
 trade_goods = fruit
 life_rating = 32
 

@@ -1,6 +1,6 @@
-owner = TST
-controller = TST
-add_core = TST
+owner = LOM
+controller = LOM
+add_core = LOM
 add_core = SWI
 add_core = ITA
 trade_goods = wool

@@ -78,81 +78,17 @@ army = {
 		type = artillery
 		home = 440
 	}
-}
-
-army = {
-	name = "Garde Royale"
-	location = 423
-	regiment = {
-		name= "1.Garde Royale"
-		type = guard
-		home = 3481
-	}
-
-	regiment = {
-		name= "2.Garde Royale"
-		type = guard
-		home = 423
-	}
-
-	regiment = {
-		name= "3.Garde Royale"
-		type = guard
-		home = 442
-	}
 	
 	regiment = {
-		name= "1ère Division d'Hussard"
-		type = hussar
-		home = 444
-	}
-	
-	regiment = {
-		name= "2ère Division d'Hussard"
-		type = hussar
-		home = 446
-	}
-	
-	regiment = {
-		name= "1.1ère Division d'Infanterie"
-		type = infantry
-		home = 430
-	}
-
-	regiment = {
-		name= "2.1ère Division d'Infanterie"
-		type = infantry
-		home = 434
-	}
-
-	regiment = {
-		name= "3.1ère Division d'Infanterie"
-		type = infantry
-		home = 441
-	}
-	
-	regiment = {
-		name= "1.1ère Division d'Artillerie"
-		type = artillery
-		home = 428
-	}
-	
-	regiment = {
-		name= "2.1ère Division d'Artillerie"
+		name= "1. Artillerije Divisjen"
 		type = artillery
 		home = 429
 	}
 	
 	regiment = {
-		name= "3.1ère Division d'Artillerie"
+		name= "2. Artillerije Divisjen"
 		type = artillery
-		home = 3375
-	}
-	
-	regiment = {
-		name= "4.1ère Division d'Artillerie"
-		type = artillery
-		home = 3375
+		home = 443
 	}
 }
 

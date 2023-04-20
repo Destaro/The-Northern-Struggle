@@ -1,6 +1,7 @@
-owner = EGY
-controller = EGY
+owner = SHW
+controller = SHW
 add_core = EGY
+add_core = SHW
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

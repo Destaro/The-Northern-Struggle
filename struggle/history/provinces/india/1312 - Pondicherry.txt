@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = LUX
+controller = LUX
 add_core = HYD
 add_core = KRN
 trade_goods = fish

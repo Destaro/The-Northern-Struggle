@@ -1,5 +1,5 @@
 owner = BEN
-controller = BEN
+controller = KBO
 add_core = ARO
 add_core = WRI
 trade_goods = cattle

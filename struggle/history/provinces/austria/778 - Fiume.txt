@@ -1,6 +1,6 @@
-owner = AQU
-controller = AQU
-
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = AQU
 add_core = FIU
 trade_goods = fruit

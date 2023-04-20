@@ -1,11 +1,6 @@
-owner = UKR
-controller = UKR
-
+owner = RYA
+controller = RYA
+add_core = RYA
+add_core = RUT
 trade_goods = grain
 life_rating = 35
-
-
-
-
-add_core = UKR
-add_core = RUT

@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = LUX
+controller = LUX
 add_core = JAV
 add_core = INO
 trade_goods = sulphur

@@ -1,7 +1,5 @@
-owner = CHO
-controller = CHO
-
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = grain
 life_rating = 35
-
-add_core = CHO

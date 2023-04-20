@@ -1,5 +1,5 @@
 capital = 1199
-primary_culture = khorasani_persian
+primary_culture = sogdian
 religion = manichaeism
 government = absolute_monarchy
 plurality = 0.0

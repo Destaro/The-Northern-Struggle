@@ -1,8 +1,5 @@
 owner = MEW
 controller = MEW
-add_core = MWA
-add_core = VDB
+add_core = MEW
 trade_goods = dye
 life_rating = 32
-
-add_core = MEW

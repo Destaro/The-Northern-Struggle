@@ -3,4 +3,4 @@ controller = PML
 add_core = PML
 
 trade_goods = grain
-life_rating = 40
+life_rating = 35

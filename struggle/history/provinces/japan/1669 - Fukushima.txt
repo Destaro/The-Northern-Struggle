@@ -1,7 +1,5 @@
-owner = SEN
-controller = SEN
-
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = fish
 life_rating = 35
-
-add_core = SEN

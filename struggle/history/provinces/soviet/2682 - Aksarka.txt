@@ -1,10 +1,6 @@
-owner = URA
-controller = URA
-
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = timber
 terrain = boreal
 life_rating = 10
-colonial = 2
-
-
-add_core = URA

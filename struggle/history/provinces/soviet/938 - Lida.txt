@@ -10,3 +10,4 @@ life_rating = 35
 
 add_core = BUL
 add_core = LIT
+add_core = RUT
