@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = AQU
+controller = AQU
+
 add_core = FIU
 add_core = AQU
 terrain = pola
