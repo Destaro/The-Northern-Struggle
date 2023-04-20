@@ -1,7 +1,9 @@
-owner = MRV
-controller = MRV
-add_core = MRV
+owner = WES
+controller = WES
+add_core = WES
+add_core = LAU
 add_core = SLS
+add_core = GER
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 1861.1.1 = { railroad = 3 }

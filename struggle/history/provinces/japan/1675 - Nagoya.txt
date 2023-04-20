@@ -1,6 +1,6 @@
-owner = KAG
-controller = KAG
-
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = silk
 life_rating = 35
 #state_building = {
@@ -8,5 +8,3 @@ life_rating = 35
 #	building = glass_factory
 #	upgrade = yes
 #}
-
-add_core = KAG

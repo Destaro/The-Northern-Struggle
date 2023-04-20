@@ -1,6 +1,6 @@
-owner = PHL
-controller = PHL
+owner = KOR
+controller = KOR
 add_core = PHL
 trade_goods = fish
 life_rating = 35
-
+colonial = 1

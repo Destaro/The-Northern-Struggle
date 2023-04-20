@@ -1,6 +1,5 @@
 owner = KRN
 controller = KRN
-add_core = NYK
 trade_goods = grain
 life_rating = 32
 

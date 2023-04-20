@@ -1,7 +1,5 @@
 owner = HYD
 controller = HYD
-add_core = MWA
-add_core = VDB
 trade_goods = cattle
 life_rating = 32
 

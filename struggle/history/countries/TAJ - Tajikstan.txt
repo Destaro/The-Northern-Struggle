@@ -1,6 +1,9 @@
-capital = 1207
+capital = 1208
 primary_culture = khorasani_persian
-religion = sunni
+culture = aryao
+culture = sogdian
+culture = khotani
+religion = manichaeism
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

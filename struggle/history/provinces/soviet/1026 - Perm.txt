@@ -1,9 +1,8 @@
 owner = URA
 controller = URA
-
+add_core = URA
 trade_goods = iron
 life_rating = 35
-colonial = 2
 1861.1.1 = {
 	state_building = {
 		level = 1
@@ -11,6 +10,3 @@ colonial = 2
 		upgrade = yes
 	} 
 }
-
-
-add_core = URA

@@ -8,7 +8,7 @@ substate = {
 
 substate = {
 	first = BUL
-	second = BYE
+	second = LIT
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
@@ -134,7 +134,7 @@ vassal = {
 }
 
 
-#Bahrain - Qatar
+#Bahrain - QaUKR
 vassal = {
 	first = BHR
 	second = QAT
@@ -240,14 +240,6 @@ substate = {
 	end_date = 1937.1.1
 }
 
-#Mongolia - Tumed
-substate = {
-	first = MGL
-	second = XIN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #China - Kashgaria
 vassal = {
 	first = MGL
@@ -261,14 +253,6 @@ vassal = {
 	first = MGL
 	second = TNT
 	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-#China - Inner Mongolia
-substate = {
-	first = MGL
-	second = IMG
-	start_date = 1691.1.1
 	end_date = 1937.1.1
 }
 
@@ -430,31 +414,34 @@ substate = {
 	start_date = 1805.1.1
 	end_date = 1936.1.1
 }
-#ASSYRIA
-vassal = {
-	first = ASY
-	second = HTY
-	start_date = 1800.1.1
-	end_date = 1936.1.1
-}
-#KHOTAN
+##QIRGIZ KHANATE##
+#Pamir
 vassal = {
 	first = KYR
 	second = TAJ
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+#Gharm Syriacs
 vassal = {
 	first = KYR
 	second = ZNU
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }
+#Marzbanate of Kokand
 vassal = {
 	first = KYR
 	second = KOK
 	start_date = 1800.1.1
 	end_date = 1936.1.1
+}
+#Shahdom of Khotan
+substate = {
+	first = KYR
+	second = XIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
 }
 
 ### Songhai Empire ###
@@ -481,6 +468,21 @@ vassal = {
 vassal = {
 	first = KBO
 	second = SOK
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+###RUTHENIAN SUCCESSORS###
+vassal = {
+	first = UKR
+	second = MVI
+	start_date = 1800.1.1
+	end_date = 1936.1.1
+}
+
+###SAHSEN###
+vassal = {
+	first = WES
+	second = LAU
 	start_date = 1800.1.1
 	end_date = 1936.1.1
 }

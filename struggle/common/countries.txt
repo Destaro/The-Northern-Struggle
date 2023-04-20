@@ -126,6 +126,13 @@ CHH		="countries/Chhatarpur.txt"
 REW		="countries/Rewah.txt"
 GEN 	="countries/Genoa.txt"
 AOM 	="countries/Aromania.txt"
+MRL 	="countries/Mari El.txt"
+MVI 	="countries/Mordovia.txt"
+RYA 	="countries/Ryazan.txt"
+RTH 	="countries/Rutenia.txt"
+KUR 	="countries/Kursk.txt"
+KDA	    = "countries/Koda.txt"
+BLG	    = "countries/Belgorye.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

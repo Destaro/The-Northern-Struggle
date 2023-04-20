@@ -1,5 +1,6 @@
-owner = MOR
-controller = MOR
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = MOR
 terrain = farmlands
 trade_goods = grain

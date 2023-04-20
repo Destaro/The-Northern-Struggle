@@ -13,7 +13,7 @@ potential = {
 	}
 	effect = {
 	set_country_flag = victory_against_scandinavia 
-	
+	inherit = BRT
 	inherit = NDY
 	prestige = 10
 	}

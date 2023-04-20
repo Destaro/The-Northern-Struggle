@@ -1,11 +1,8 @@
-owner = NOV
-controller = NOV
-
+owner = RTH
+controller = RTH
+add_core = RTH
+add_core = URA
+add_core = RUT
 trade_goods = fish
 life_rating = 10
 colonial = 2
-
-add_core = RUS
-add_core = NOV
-add_core = URA
-add_core = RUT

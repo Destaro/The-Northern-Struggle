@@ -1,7 +1,6 @@
 owner = BER
 controller = BER
-add_core = GJR
+add_core = BER
 trade_goods = cotton
 life_rating = 32
 terrain = steppe
-add_core = BER

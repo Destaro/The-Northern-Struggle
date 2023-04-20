@@ -1,12 +1,7 @@
-owner = FIN
-controller = FIN
-
-add_core = KRL
-add_core = SWE
+owner = RTH
+controller = RTH
+add_core = RTH
+add_core = RUT
 trade_goods = timber
 terrain = boreal
 life_rating = 15
-1861.1.1 = { naval_base = 1 }
-
-
-add_core = FIN

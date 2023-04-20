@@ -1,13 +1,10 @@
-capital = 1600
-primary_culture = beifaren
-culture = uighur
-culture = hanhui
-religion = mahayana
+capital = 1598
+primary_culture = khotani
+religion = manichaeism
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
+literacy = 0.02
 
 slavery = yes_slavery
 upper_house_composition = appointed

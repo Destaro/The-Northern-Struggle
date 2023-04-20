@@ -1,6 +1,7 @@
-owner = EGY
-controller = EGY
+owner = TRI
+controller = TRI
+add_core = TRI
+add_core = TUN
 add_core = EGY
 trade_goods = wool
-life_rating = 5
-colonial = 1
+life_rating = 10

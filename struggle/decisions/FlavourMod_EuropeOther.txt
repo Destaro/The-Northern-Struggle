@@ -1603,6 +1603,7 @@ political_decisions = {
 			712 = { change_province_name = "Lódz" }
 			708 = { change_province_name = "Plock" }
 			709 = { change_province_name = "Lomza" }
+			3511 = { change_province_name = "Dobrzyn" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1632,6 +1633,7 @@ political_decisions = {
 			712 = { change_province_name = "Lodsch" }
 			708 = { change_province_name = "Schröttersburg" }
 			709 = { change_province_name = "Lumbsee" }
+			3511 = { change_province_name = "Dobrin" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1796,10 +1798,7 @@ political_decisions = {
 			700 = { change_province_name = "Bydgoszcz" }
 			701 = { change_province_name = "Gniezno" }
 			717 = { change_province_name = "Kalisz" }
-			3511 = { change_province_name = "Dobrzyn" }
-			694 = { change_province_name = "Torun" 
-				state_scope = { change_region_name = "Kujawsko-Pomorskie" }
-				}
+			694 = { change_province_name = "Torun"  }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1825,10 +1824,7 @@ political_decisions = {
 			700 = { change_province_name = "Bromberg" }
 			701 = { change_province_name = "Gnesen" }
 			717 = { change_province_name = "Kalisch" }
-			3511 = { change_province_name = "Dobrin" }
-			694 = { change_province_name = "Thorn"  
-				state_scope = { change_region_name = "Kujawien-Pommern" }
-				}
+			694 = { change_province_name = "Thorn" }
 		}
 		ai_will_do = { factor = 1 }
 	}

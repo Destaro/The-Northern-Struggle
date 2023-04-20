@@ -4,16 +4,24 @@ political_decisions = {
 	           potential = {
 			   tag = BUL		   
 			   NOT = { has_country_flag = integrate_the_west }
-			   
+			   CPL = { vassal_of = THIS }
 			   PRD = { vassal_of = THIS }
 
 			   }
 	      
 		  allow = {
-		  is_greater_power = yes
+		  has_global_flag = western_revolts
 				war = no
 				nationalism_n_imperialism = 1
-		
+			CPL = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
 			
 			PRD = {
 				all_core = {
@@ -30,10 +38,10 @@ political_decisions = {
 		  
 		  effect = {
 		  set_country_flag = integrate_the_west
-		
+		  CPL = { all_core = { add_core = THIS } }
 		  PRD = { all_core = { add_core = THIS } }
 		  inherit = PRD
-		 
+		  inherit = CPL
 		  prestige = 15
 		  badboy = 1
 		             	  
@@ -41,19 +49,19 @@ political_decisions = {
 		 }
 		 
 		 
-		 integrate_the_lithuanians = {
+		 integrate_the_south = {
 	           potential = {
 			   tag = BUL		   
-			   NOT = { has_country_flag = integrate_the_lithuanians }
-			   LIT = { vassal_of = THIS }
-              
+			   NOT = { has_country_flag = integrate_the_south }
+			   BYE = { vassal_of = THIS }
+               has_country_flag = integrate_the_west
 			   }
 	      
 		  allow = {
-		 
+		  has_global_flag = southern_revolt
 				war = no
 				nationalism_n_imperialism = 1
-			LIT = {
+			BYE = {
 				all_core = {
 					OR = {
 					owned_by = THIS
@@ -63,17 +71,25 @@ political_decisions = {
 				}
 			}
 			
-			
+			PRD = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
 			
 			
 	      }
 		  
 		  effect = {
-		  set_country_flag = integrate_the_lithuanians
-		  LIT = { all_core = { add_core = THIS } }
+		  set_country_flag = integrate_the_south
+		  BYE = { all_core = { add_core = THIS } }
 
 		 
-		  inherit = LIT
+		  inherit = BYE
 		  prestige = 15
 		  badboy = 1
 		             	  

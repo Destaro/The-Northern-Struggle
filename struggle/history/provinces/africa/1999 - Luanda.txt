@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = LUX
+controller = LUX
 add_core = KON
 trade_goods = coffee
 life_rating = 35

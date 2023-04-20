@@ -1,6 +1,5 @@
 owner = KRN
 controller = KRN
-add_core = NYK
 trade_goods = fish
 life_rating = 35
 terrain = madras

@@ -1,6 +1,5 @@
 owner = TRZ
 controller = TRZ
-add_core = TUN
 add_core = MOR
 trade_goods = wool
 life_rating = 10

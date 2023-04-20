@@ -3,4 +3,3 @@ controller = AWA
 add_core = AWA
 trade_goods = opium
 life_rating = 32
-colonial = 2

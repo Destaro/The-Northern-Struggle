@@ -1,6 +1,6 @@
-capital = 1121
+capital = 1127
 primary_culture = old_persian
-culture = azerbaijani
+culture = assyrian
 religion = manichaeism
 government = absolute_monarchy
 plurality = 0.0

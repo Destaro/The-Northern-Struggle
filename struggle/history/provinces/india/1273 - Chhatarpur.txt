@@ -1,8 +1,5 @@
 owner = GWA
 controller = GWA
-add_core = MWA
-add_core = VDB
+add_core = GWA
 trade_goods = dye
 life_rating = 32
-
-add_core = GWA
