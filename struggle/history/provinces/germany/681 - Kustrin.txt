@@ -1,7 +1,6 @@
-owner = LAU
-controller = LAU
+owner = WES
+controller = WES
 add_core = WES
-add_core = LAU
 add_core = GER
 trade_goods = grain
 life_rating = 35

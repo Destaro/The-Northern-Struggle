@@ -4,3 +4,5 @@ add_core = BUL
 add_core = CRO
 trade_goods = fruit
 life_rating = 35
+
+add_core = RUT
