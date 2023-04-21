@@ -215,27 +215,11 @@ political_decisions = {
 				is_greater_power = yes
 				civilized = yes
 				revolution_n_counterrevolution = 1
-			SIC = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
+		3603 = { owned_by = THIS }
+		3602 = { owned_by = THIS }
+		3600 = { owned_by = THIS }
+		749 = { owned_by = THIS }
 			
-			PAP = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
 			
 	      }
 		  
@@ -262,39 +246,12 @@ political_decisions = {
 				civilized = yes
 				revolution_n_counterrevolution = 1
 				year = 1880
-			SIC = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			
-			TUS = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			
-			PAP = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			
+			3603 = { owned_by = THIS }
+		3602 = { owned_by = THIS }
+		3600 = { owned_by = THIS }
+		749 = { owned_by = THIS }
+		744 = { owned_by = THIS }
+		726 = { owned_by = THIS }
 	      }
 		  
 		  effect = {
