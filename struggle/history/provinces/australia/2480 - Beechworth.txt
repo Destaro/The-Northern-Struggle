@@ -1,6 +1,5 @@
 owner = NKR
 controller = NKR
 add_core = NKR
-add_core = NJP
 trade_goods = wool
 life_rating = 35
