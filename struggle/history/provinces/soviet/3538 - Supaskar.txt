@@ -1,7 +1,7 @@
-owner = UKR
-controller = UKR
+owner = MVI
+controller = MVI
+add_core = MVI
 add_core = UKR
 add_core = RUT
-add_core = MVI
 trade_goods = grain
 life_rating = 35

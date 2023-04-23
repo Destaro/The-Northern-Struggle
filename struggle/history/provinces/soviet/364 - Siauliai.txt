@@ -1,9 +1,6 @@
-owner = BUL
-controller = BUL
-add_core = UBD
-
-trade_goods = cattle
-life_rating = 35
+owner = LIT
+controller = LIT
 add_core = LIT
 add_core = BUL
-add_core = RUT
+trade_goods = cattle
+life_rating = 35

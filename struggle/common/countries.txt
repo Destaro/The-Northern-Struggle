@@ -133,6 +133,7 @@ RTH 	="countries/Rutenia.txt"
 KUR 	="countries/Kursk.txt"
 KDA	    = "countries/Koda.txt"
 BLG	    = "countries/Belgorye.txt"
+AMC	    = "countries/America.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

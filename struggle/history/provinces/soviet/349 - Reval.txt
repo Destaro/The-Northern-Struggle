@@ -1,13 +1,10 @@
-owner = BUL
-controller = BUL
-add_core = UBD
+owner = EST
+controller = EST
 add_core = EST
+add_core = BUL
 trade_goods = grain
 life_rating = 40
 terrain = reval
 fort = 1
 naval_base = 2
 
-
-add_core = BUL
-add_core = RUT

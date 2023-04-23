@@ -33,8 +33,8 @@ SVA_ADJ;Svan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,
 SVA;Svaneti;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;,
 SLS_colonial_company;Šlésijen;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 SLS_dominion;Šlésijen;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-PML_colonial_company;Pomorskie;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-PML_dominion;Pomorskie;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+PML_colonial_company;Langbeardnaland;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+PML_dominion;Langbeardnaland;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 PZN_colonial_company;Wielkopolska;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 PZN_dominion;Wielkopolska;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 POL_colonial_company;Generalgouvernement;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -256,7 +256,7 @@ AUS_absolute_monarchy;The Austrian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;
 AUS_prussian_constitutionalism;The Austrian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 MML;Memelland;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 MML_ADJ;Memeler;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,
-LAU;Saxe-Lauenburg;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
+LAU;Fief Karken;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 LAU_ADJ;Saxon;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,
 SAA;Saarland;Sarre;Saarland;;Saarland;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 SAA_ADJ;Saarlander;Sarrois;Saarlander;;Saarlander;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
@@ -304,10 +304,10 @@ VLG_socialist_2;Volga Labour Party;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
 VLG_anarcho_liberals;Radical Party;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
 VLG_liberal_2;The All-German Landtag;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
 VLG_reactionary;Royalist Faction;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,
-RUS_absolute_monarchy;The Princedom of Tver;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-RUS_prussian_constitutionalism;The Princedom of Tver;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-RUS_hms_government;The Princedom of Tver;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-RUS_democracy;The Tver Federative Republic;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+RUS_absolute_monarchy;Galichian Princedom;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+RUS_prussian_constitutionalism;Galichian Princedom;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+RUS_hms_government;Galichian Princedom;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+RUS_democracy;The Galichian Federative Republic;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 ITA_absolute_monarchy;The Kingdom of Italy;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ITA_prussian_constitutionalism;The Kingdom of Italy;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ITA_hms_government;The Kingdom of Italy;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;;;

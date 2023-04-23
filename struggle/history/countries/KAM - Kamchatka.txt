@@ -1,8 +1,7 @@
 capital = 1078 #Chita
-primary_culture = japanese
-culture = siberian
+primary_culture = siberian
 religion = orthodox
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01

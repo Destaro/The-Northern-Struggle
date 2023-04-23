@@ -1,4 +1,5 @@
 color = { 90  113  94 } #244  232  109
+colonial_company = { 191  170  101 }
 graphical_culture = PrussianGC
 
 party = {

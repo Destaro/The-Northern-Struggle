@@ -1,5 +1,5 @@
-color = { 244  244  244 }
-#color = { 124  183  151 }
+#color = { 244  244  244 }
+color = { 85  130  100 }
 #proletarian_dictatorship = { 150 10 40 }
 graphical_culture = Generic
 

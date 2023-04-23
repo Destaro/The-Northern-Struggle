@@ -8,5 +8,3 @@ life_rating = 40
 #	building = liquor_distillery
 #	upgrade = yes
 #}
-
-add_core = RUT

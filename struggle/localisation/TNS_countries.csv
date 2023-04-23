@@ -1085,10 +1085,10 @@ KUR;Kursk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KUR_absolute_monarchy;Kursk Principality;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KUR_ADJ;Kurskite;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RTH;Ruthenia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-RTH_absolute_monarchy;Ruthene Grand Principality;;;;;;;;;;;;x
-RTH_hms_government;Ruthene Grand Principality;;;;;;;;;;;;x
-RTH_prussian_constitutionalism;Ruthene Grand Principality;;;;;;;;;;;;x
-RTH_ADJ;Ruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RTH_absolute_monarchy;Grand Principality of Ruthenia;;;;;;;;;;;;x
+RTH_hms_government;Grand Principality of Ruthenia;;;;;;;;;;;;x
+RTH_prussian_constitutionalism;Grand Principality of Ruthenia;;;;;;;;;;;;x
+RTH_ADJ;Ruthene;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DON;Voronezh;x;;;;
 DON_absolute_monarchy;Voronezh Host;x;;;;
 DON_hms_government;Voronezh Host;x;;;;

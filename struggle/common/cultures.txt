@@ -608,6 +608,24 @@ mordvinic_mari = {
 		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	}
+}
+
+
+permic = {
+	leader = russian
+	unit = RussianGC
+	komi = { 
+		color = {60 160 160}
+		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+	}
+	
+	udmurt = {
+		color = {60 130 130}
+		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+	}
+}
 
 british = {
 	leader = european
@@ -1023,23 +1041,6 @@ south_slavic = {
 		}
 		radicalism = 15
 	}
-	bulgarian = {
-		color = {65 150 100}
-		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
-		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
-		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
-		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
-		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
-		}
-
-		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
-		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
-		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
-		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
-		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
-		}
-		radicalism = 10
-	}
 	montenegrin = {
 		color = {196 47 55}
 		first_names = { Akso Ananije Andro Anto Arsenije Arso Baco Bajo Bakoc Blagota Blagoš Blažija Blažo Brajuško Crnoje Cedo Danilo Danko Davor Diko Dinjo Dmitar Emilo Gajo Gašo Gavro Ignjatije Iliko Ilko Jakša Janko Jevrem Kenjo Kicun Kiro Krsto Labud Lagota Laketa Maksim Maljota Markic Markiša Najdan Nenoje Nikac Obren Orle Pajo Panto Pejo Radan Radava Savan Savic Sekule }
@@ -1209,12 +1210,24 @@ pan_romanian = {
 	union = ROM 
 }
 
-hungarian_culture_group = {
-		leader = european
-		unit = AustriaHungaryGC
-		
-	hungarian = {
-		color = {162 162 88}
+#Uralic
+ugric = {
+	leader = russian
+	unit = RussianGC
+    mansi = {  
+		color = {80 165 60}
+		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+  }
+	
+   khanty = {  
+		color = {60 145 40}
+		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+   }
+   
+   hungarian = {
+		color = {160 205 120}
 		first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
 		Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
 		György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -1362,7 +1375,7 @@ east_slavic = {
 	leader = russian
 	unit = RussianGC
 	russian = {
-		color = {0 70 10}
+		color = {35 105 45}
 		   first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
 						 Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
 						 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
@@ -1396,6 +1409,23 @@ east_slavic = {
 							Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
 			radicalism = 10
         }
+	bulgarian = {
+		color = {70 140 80}
+		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
+		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
+		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
+		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
+		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
+		}
+
+		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
+		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
+		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		}
+		radicalism = 10
+	}
 	union = RUT
 }
 

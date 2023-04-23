@@ -1,9 +1,8 @@
-owner = AQU
-controller = AQU
+owner = VEN
+controller = VEN
 add_core = BHT
 add_core = GRE
 trade_goods = grain
 life_rating = 35
 
-
-add_core = AQU
+add_core = VEN

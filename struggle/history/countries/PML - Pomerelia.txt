@@ -1,7 +1,7 @@
-capital = 694
-primary_culture = polish
+capital = 701
+primary_culture = north_german
 religion = catholic
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_liberty
 literacy = 0.6

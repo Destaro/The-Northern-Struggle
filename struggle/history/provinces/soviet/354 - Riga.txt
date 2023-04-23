@@ -1,7 +1,8 @@
-owner = BUL
-controller = BUL
+owner = LIT
+controller = LIT
+add_core = LIT
 add_core = LAT
-add_core = SWE
+add_core = BUL
 trade_goods = fish
 life_rating = 40
 terrain = riga
@@ -18,6 +19,3 @@ naval_base = 2
 		upgrade = yes
 	} 
 }
-
-add_core = BUL
-add_core = RUT

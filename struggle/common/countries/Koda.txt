@@ -1,5 +1,5 @@
-color = { 244  244  244 }
-#color = { 10 10 150 }
+#color = { 244  244  244 }
+color = { 150 174 190 }
 #colonial_company = { 230  230  190 }
 graphical_culture = RussianGC
 

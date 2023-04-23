@@ -1,6 +1,6 @@
-owner = AQU
-controller = AQU
-
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = FIU
 add_core = AQU
 naval_base = 1

@@ -1,7 +1,7 @@
 capital = 977
 primary_culture = russian
 religion = orthodox
-government = absolute_monarchy
+government = colonial_company
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.04

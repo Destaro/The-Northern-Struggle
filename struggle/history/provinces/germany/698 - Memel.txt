@@ -1,9 +1,8 @@
-owner = PRD
-controller = PRD
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = BUL
 
-add_core = UBD
 trade_goods = fish
 life_rating = 35
 1861.1.1 = { railroad = 3 }
-add_core = PRD
-add_core = LIT

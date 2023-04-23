@@ -1,9 +1,7 @@
 capital = 1016
 primary_culture = russian
-culture = ukrainian
-culture = byelorussian
 religion = orthodox
-government = democracy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.1

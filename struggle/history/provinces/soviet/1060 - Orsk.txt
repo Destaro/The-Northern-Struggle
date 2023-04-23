@@ -1,5 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = KAZ
 trade_goods = iron
 life_rating = 35

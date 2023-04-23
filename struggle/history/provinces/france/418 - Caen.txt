@@ -1,7 +1,6 @@
-owner = NDY
-controller = NDY
-add_core = NDY
-add_core = ORL
+owner = BRT
+controller = BRT
+add_core = BRT
 trade_goods = cattle
 life_rating = 30
 terrain = caen
@@ -21,5 +20,3 @@ naval_base = 2
 1861.1.1 = { 
 	railroad = 3
 }
-
-add_core = FRC

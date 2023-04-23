@@ -1,7 +1,7 @@
 ### Canada & the Far North
 
 LST_3331 = { } #pre-organized
-LST_3332 = { } #pre-organized
+LST_3332 = { 3872 3873 3874 3875 3876 3877 3878 3879 3880 3881 3882 3883 3884 3885 } #pre-organized
 LST_3333 = { } #pre-organized
 
 ALN_1056 = { 1056 1054 1091 3311 } #Ossetia
@@ -235,7 +235,7 @@ FRA_404 = { 401 3369 402 } #Nord-Pas-De-Calais/Artois
 
 FRA_411 = { 411 412 573 414 3555 } #Lorraine
 
-FRA_413 = { 407 413 3554 3556 3557 } #Verdun
+FRA_413 = { 413 3554 3556 3557 } #Verdun
 
 FRA_432 = { 432 3551 3553 } #Franche-Comté
 
@@ -253,7 +253,7 @@ FRA_420 = { 420 421 422 } #Bretagne
 
 FRA_425 = { 425 426 427 438 2570 } #Ile de France
 
-FRA_428 = { 428 429 } #Bourgogne 
+FRA_428 = { 428 429 407 } #Bourgogne 
 
 FRA_435 = { 435 423 436 424 } #Loire 
 
@@ -461,11 +461,11 @@ AUS_774 = { 774 773 784 3565 3529 } #Western Dalmatian interior
 
 ### Italy
 
-SAR_720 = { 720 723 3251 3524 3526 } #Piemonte
+SAR_720 = { 720 723 3524 3526 3631 } #Piemonte
 
-SAR_725 = { 725 3630 3641 3642 724 } #Genova
+SAR_725 = { 725 3641 3642 724 } #Genova
 
-SAR_472 = { 472 3629 3631 } #Nizza
+SAR_472 = { 472 3629 3630 3251 } #Nizza
 
 #MOD_739 = { 739 738 740 } #Emilia
 
@@ -776,11 +776,11 @@ RUS_981 = { 981 986 } #Arkhangelsk
 
 RUS_990 = { 990 987 1024 1027 } #Galich
 
-RUS_994 = { 994 996 3370 2580 } #Ingria
+RUS_994 = { 994 3370 2580 1004 } #Ingria
 
-RUS_998 = { 998 1001 992 989 991 1000 1023 } #Tver
+RUS_998 = { 998 1001 992 989 991 1000 1023 1005 } #Tver
 
-RUS_1003 = { 1003 1004 1005 3734 3735 } #Novgorod
+RUS_1003 = { 1003 3734 3735 996 } #Novgorod
 
 RUS_1006 = { 1006 1007 3560 356 } #Pskov
 
@@ -810,13 +810,21 @@ RUS_1052 = { 1053 3299 3306 3309 3308 3307 3304 } #Avarestan
 
 RUS_1060 = { 1034 1043 1035 } #Samara
 
-RUS_1064 = { 1064 1066 1061 } #Tobolsk
+RUS_1064 = { 1064 1066 1061 2686 2614 2658 } #Tobolsk
 
-RUS_1065 = { 2613 2615 2659 2690 1065 2646 2683 2646 2683 } #Ob - Yamalia
+RUS_1065 = { 2613 2615 2659 } #Ob - Yamalia
+
+#RUS_2653 = { 2690 1065 1062 2685 } #North Siberia
+
+#RUS_1065 = { 3544 2682 2684 } #Ob - Yamalia
+
+RUS_2653 = { 2690 1065 1062 2685 3544 2682 } #Khanty-Mansi
+
+RUS_1063 = { 1063 2683 2646 } #Selkupia
 
 RUS_1069 = { 1069 2650 2651 2649 2673 2652 2653 } #West Yakutsk
 
-RUS_1070 = { 1077 2691 2701 1070 } #Upper Yeniseysk - Krasnoyarsk
+RUS_1070 = { 2701 1070 2675 2694 2656 } #Upper Yeniseysk - Krasnoyarsk
 
 RUS_1071 = { 2648 2696 2644 } #Yakutsk
 
@@ -840,25 +848,23 @@ RUS_1185 = { 1186 1187 1188 2606 } #Semireche - Zhetysu
 
 RUS_1196 = { 1204 1205 686 3432 3433 3434 3441 } #Turkmenia
 
-RUS_1469 = { 1063 1067 2698 2686 } #Tomsk
+RUS_1469 = { 1067 1077 1068 2698 2674 } #Tomsk
 
-TNT_1068 = { 1068 1469 2674 1075 } #Tomsk
+TNT_1068 = { 1469 1075 2691 } #Tomsk
 
-RUS_2589 = { 985 2699 2688 2687 } #Nenetsia
+RUS_2589 = { 985 2699 2688 2687 2684 } #Nenetsia
 
 RUS_2590 = { 2622 2634 2637 2661 2666 } #Coastal Chukotka
 
-RUS_2615 = { 2657 2680 2654 2694 2656 2655 2693 2692 2675 3371 } #Lower Yeniseysk - Taymyria
+RUS_2615 = { 2657 2680 2654 2655 2693 2692 3371 } #Lower Yeniseysk - Taymyria
 
 RUS_2618 = { 1072 2641 2618 2620 2638 2639 1073 2660 1080 } #Upper Okhotsk - Magadan
 
 #RUS_2621 = { } #Inner Chukotka
 
-RUS_2653 = { 1062 3544 2682 2684 } #North Siberia
-
 RUS_2668 = { 2668 2643 2665 2667 2672 2621 2619 2642 } #North Yakutsk
 
-RUS_2685 = { 2685 2614 2658 } #Ural
+#RUS_2685 = { } #Ural
 
 RUS_1042 = { 1042 1059 1058 3541 3542 } #Bashkurdia
 
@@ -1122,13 +1128,21 @@ CHI_1616 = { 1616 1613 1617 3249 1480 } #Peking
 
 ### Japan & Korea
 
-KOR_1619 = { 1619 1620 1623 1621 1622 } #Pyongyang
+KOR_1620 = { 1620 1622 1623 3868 3869 } #Pyongyang
 
-KOR_1624 = { 1624 1630 1631 1636 1628 } #Seoul
+KOR_1619 = { 1621 1619 3866 } #Pyongyang
 
-KOR_1627 = { 1627 1626 1625 1629 } #Sariwon
+KOR_1624 = { 1624 1628 3862 3870 } #Seoul
 
-KOR_1635 = { 1635 1633 1632 1634 2589 1637 } #Busan
+KOR_1627 = { 1627 1626 1625 } #Sariwon
+
+KOR_1629 = { 1629 3864 3865 } #Wonsan
+
+KOR_1630 = { 1630 1631 1634 3861 3871 } #Kangnung
+
+KOR_1632 = { 1632 1633 1636 3860 3863 } #Busan
+
+KOR_1635 = { 1635 1637 2589 3867 } #Busan
 
 JAP_1088 = { 1643 1642 1644 } #Ezo - Hokkaido
 
@@ -1602,7 +1616,7 @@ R_NORTH_QLD = { 2487 2488 2604 3354 } #North Queensland
 
 #AST_2244 = { 2244 2406 } #Christmas & Cocos Islands
 
-SPA_610 = { 610 2579 2518 2522 } #Caroline Islands
+SPA_610 = { 610 2579 2519 2518 2522 } #Caroline Islands
 
 HAW_658 = { 658 2524 2526 2623 } #Hawaiian Islands
 

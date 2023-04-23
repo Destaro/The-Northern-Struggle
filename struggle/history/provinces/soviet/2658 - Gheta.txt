@@ -1,6 +1,6 @@
-owner = URA
-controller = URA
-add_core = SIB
+owner = UKR
+controller = UKR
 add_core = URA
+add_core = UKR
 trade_goods = timber
 life_rating = 35

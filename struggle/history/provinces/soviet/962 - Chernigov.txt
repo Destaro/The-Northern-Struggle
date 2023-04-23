@@ -1,9 +1,5 @@
 owner = BUL
 controller = BUL
-
-add_core = UKR
+add_core = BUL
 trade_goods = grain
 life_rating = 35
-
-add_core = BUL
-add_core = RUT

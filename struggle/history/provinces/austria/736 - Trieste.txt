@@ -16,3 +16,4 @@ terrain = trieste
 }
 
 add_core = ITA
+add_core = VEN

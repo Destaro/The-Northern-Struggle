@@ -1,7 +1,6 @@
 owner = BUL
 controller = BUL
-
-add_core = UKR
+add_core = BUL
 trade_goods = grain
 life_rating = 45
 terrain = kiev
@@ -10,7 +9,3 @@ terrain = kiev
 #	building = glass_factory
 #	upgrade = yes
 #}
-
-
-add_core = BUL
-add_core = RUT

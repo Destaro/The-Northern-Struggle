@@ -1,5 +1,6 @@
-owner = KAZ
-controller = KAZ
+owner = UKR
+controller = UKR
+add_core = UKR
 add_core = KAZ
 trade_goods = iron
 life_rating = 35

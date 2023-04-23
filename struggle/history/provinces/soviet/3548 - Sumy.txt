@@ -1,11 +1,5 @@
 owner = BUL
 controller = BUL
-add_core = UKR
-
+add_core = BUL
 trade_goods = cattle
 life_rating = 15
-
-
-
-add_core = BUL
-add_core = RUT

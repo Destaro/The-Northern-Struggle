@@ -1,6 +1,6 @@
-color = { 244  244  244 }
-#color = { 80 100 130 }
-colonial_company = { 183  170  82}
+#color = { 244  244  244 }
+color = { 80 100 130 }
+colonial_company = {  81  112  81 }
 graphical_culture = RussianGC
 
 party = {
