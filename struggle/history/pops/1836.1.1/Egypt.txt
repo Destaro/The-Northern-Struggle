@@ -727,31 +727,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 2700
 	}
@@ -791,31 +791,31 @@
 #Siwa (16000/4000 POPS)
 1754 = {
 	aristocrats = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 3650
 	}
@@ -899,31 +899,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 1800
 	}
@@ -961,31 +961,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chaldean
 		religion = coptic
 		size = 5800
 	}
@@ -995,31 +995,31 @@
 #Farafra (8000/2000 POPS)
 1758 = {
 	aristocrats = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 1800
 	}
@@ -1027,31 +1027,31 @@
 #Bawiti (12000/3000 POPS)
 1759 = {
 	aristocrats = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 2700
 	}
@@ -1059,31 +1059,31 @@
 #Mut (20000/5000 POPS)
 1760 = {
 	aristocrats = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 4575
 	}
@@ -1091,31 +1091,31 @@
 #Baris (16000/4000 POPS)
 1761 = {
 	aristocrats = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = tuareg
 		religion = coptic
 		size = 3650
 	}
@@ -1615,31 +1615,31 @@
 #Qusayr (12000/3000 POPS)
 1770 = {
 	aristocrats = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 2700
 	}
@@ -1677,31 +1677,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 3650
 	}
@@ -1709,31 +1709,31 @@
 #Ras Gharib (12000/3000 POPS)
 1772 = {
 	aristocrats = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = copt
 		religion = coptic
 		size = 2700
 	}

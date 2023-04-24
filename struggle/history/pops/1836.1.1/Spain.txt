@@ -1699,61 +1699,61 @@
 #Zaragosa (312000/78000 POPS)
 495 = {
 	aristocrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1600
 	}
 
 	officers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 57100
 	}
 
 	clergymen = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = vandalic
+		culture = visigothic
 		religion = catholic
 		size = 1950
 	}

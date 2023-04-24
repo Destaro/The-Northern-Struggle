@@ -113,31 +113,31 @@
 #Lauenburg (148000/37000 POPS)
 529 = {
 	aristocrats = {
-		culture = low_saxon
+		culture = high_saxon
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = low_saxon
+		culture = high_saxon
 		religion = protestant
 		size = 375 
 	}
 
 	artisans = {
-		culture = low_saxon
+		culture = high_saxon
 		religion = protestant
 		size = 1825
 	}
 
 	soldiers = {
-		culture = low_saxon
+		culture = high_saxon
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = low_saxon
+		culture = high_saxon
 		religion = protestant
 		size = 33500
 	}
@@ -146,36 +146,36 @@
 
 3855 = {
 	aristocrats = {
-		culture = low_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = low_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 375 
 	}
 
 	artisans = {
-		culture = low_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 1825
 	}
 
 	soldiers = {
-		culture = low_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = low_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 33500
 	}
 	farmers = {
-		culture = polish
+		culture = baltic_german
 		religion = protestant
 		size = 13500
 	}
@@ -351,43 +351,43 @@
 #Lubeck (46503/11626 POPS)
 530 = {
 	aristocrats = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 200 
 	}
 
 	bureaucrats = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 116
 	}
 
 	officers = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 22
 	}
 
 	clergymen = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 230
 	}
 
 	artisans = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 6976
 	}
 
 	soldiers = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 406
 	}
 
 	farmers = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = protestant
 		size = 3476 
 	}
@@ -399,7 +399,7 @@
 	}
 
 	farmers = {
-		culture = baltic_german
+		culture = low_saxon
 		religion = catholic
 		size = 100 
 	}
@@ -408,43 +408,43 @@
 #Schwerin (484000/121000 POPS)
 544 = {
 	aristocrats = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 1225 
 	}
 
 	bureaucrats = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 275 
 	}
 
 	officers = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 150 
 	}
 
 	clergymen = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 1200 
 	}
 
 	artisans = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 1250 
 	}
 
 	farmers = {
-		culture = baltic_german
+		culture = high_saxon
 		religion = protestant
 		size = 109800 
 	}
@@ -1341,31 +1341,31 @@
 #Prenzlau (280000/70000 POPS)
 550 = {
 	aristocrats = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 700 
 	}
 
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 675
 	}
 
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 2400 
 	}
 
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 62500
 	}
@@ -1374,31 +1374,31 @@
 
 3854 = {
 	aristocrats = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 700 
 	}
 
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 675
 	}
 
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 2400 
 	}
 
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 62500
 	}
@@ -1435,6 +1435,32 @@
 		culture = high_saxon
 		religion = protestant
 		size = 22500
+	}
+}
+3519 = {
+	aristocrats = {
+		culture = baltic_german
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = baltic_german
+		religion = protestant
+		size = 515
+	}
+
+
+	soldiers = {
+		culture = baltic_german
+		religion = protestant
+		size = 1665
+	}
+
+	farmers = {
+		culture = baltic_german
+		religion = protestant
+		size = 51900
 	}
 }
 
@@ -1846,140 +1872,140 @@
 #Sagan
 3513 = {
 	aristocrats = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 500 
 	}
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 200
 	}
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 700
 	}
 	
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 300
 	}
 	
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 750
 	}
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 16500
 	}
 	
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 7500
 	}
 	
 	aristocrats = {
-		culture = western_slavic
+		culture = baltic_german
 		religion = protestant
 		size = 150
 	}
 	clergymen = {
-		culture = western_slavic
+		culture = baltic_german
 		religion = protestant
 		size = 150     
 	}
 	artisans = {
-		culture = western_slavic
+		culture = baltic_german
 		religion = protestant
 		size = 2500     
 	}
 	
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 500     
 	}
 	soldiers = {
-		culture = western_slavic
+		culture = baltic_german
 		religion = protestant
 		size = 150
 	}
 	farmers = {
-		culture = western_slavic
+		culture = baltic_german
 		religion = protestant
 		size = 10500
 	}
 
 	aristocrats = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 75
 	}
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 75     
 	}
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 1500     
 	}
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 6500     
 	}
 	
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 100     
 	}
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 400     
 	}
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 75
 	}
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = protestant
 		size = 3000
 	}
 
 	clergymen = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 100     
 	}
 	artisans = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 400     
 	}
 	soldiers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = high_saxon
+		culture = baltic_german
 		religion = catholic
 		size = 3000     
 	}

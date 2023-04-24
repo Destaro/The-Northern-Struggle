@@ -80,68 +80,6 @@
 		size = 3700
 	}
 }
-#Sinop (192000/48000 POPS)
-883 = {
-	aristocrats = {
-		culture = armenian
-		religion = sunni
-		size = 525
-	}
-
-	clergymen = {
-		culture = armenian
-		religion = sunni
-		size = 425
-	}
-
-	artisans = {
-		culture = armenian
-		religion = sunni
-		size = 2150
-	}
-
-	soldiers = {
-		culture = armenian
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = armenian
-		religion = sunni
-		size = 37900
-	}
-	
-	farmers = {
-		culture = circassian
-		religion = orthodox
-		size = 150
-	}
-
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 200
-	}
-	
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 120
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 250
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 4700
-	}
-}
 #Giresun (196000/49000 POPS)
 884 = {
 	aristocrats = {

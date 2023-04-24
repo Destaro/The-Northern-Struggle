@@ -708,61 +708,61 @@
 2585 = {
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 25
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 50
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 150
 	}
 	
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 1100
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 1650
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 15
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 25
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 50
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 10
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = punic_church
 		size = 500
 	}
@@ -789,6 +789,63 @@
 		culture = teda
 		religion = punic_church
 		size = 1310
+	}
+}
+#Matan al Sarah (4000/1000 POPS)
+3757 = {
+
+	aristocrats = {
+		culture = tuareg
+		religion = punic_church
+		size = 25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = punic_church
+		size = 50
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = punic_church
+		size = 150
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 1650
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = punic_church
+		size = 15
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = punic_church
+		size = 25
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = punic_church
+		size = 50
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = punic_church
+		size = 10
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = punic_church
+		size = 500
 	}
 }
 #Fezzan Region (70000)  
@@ -897,32 +954,6 @@
 		culture = tuareg
 		religion = punic_church
 		size = 1900
-	}
-}
-3519 = {
-	aristocrats = {
-		culture = high_saxon
-		religion = protestant
-		size = 250
-	}
-
-	clergymen = {
-		culture = high_saxon
-		religion = protestant
-		size = 515
-	}
-
-
-	soldiers = {
-		culture = high_saxon
-		religion = protestant
-		size = 1665
-	}
-
-	farmers = {
-		culture = high_saxon
-		religion = protestant
-		size = 51900
 	}
 }
 3520 = {

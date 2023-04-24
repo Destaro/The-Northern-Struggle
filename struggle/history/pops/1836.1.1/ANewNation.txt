@@ -178,64 +178,49 @@
 }
 
 
+
 #San Marino
 3266 = {
-	aristocrats = {
-		culture = north_italian
-		religion = catholic
-		size = 100
-	}
-	bureaucrats = {
-		culture = north_italian
-		religion = catholic
-		size = 10
-	}
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 30
-	}
+    aristocrats = {
+        culture = north_italian
+        religion = catholic
+        size = 1200
+    }
 
-	artisans = {
-		culture = north_italian
-		religion = catholic
-		size = 450
-	}
+    bureaucrats = {
+        culture = north_italian
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size= 100
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 450
+    }
 
-	}
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 6800
+    }
 
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 1875
-	}
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size = 1500
+    }
 
-	aristocrats = {
-		culture = north_italian
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 43000
+    }
 
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 30
-	}
+    farmers = {
+        culture = lombard
+        religion = catholic
+        size = 3000
+    }
 
-	artisans = {
-		culture = north_italian
-		religion = catholic
-		size = 350
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 1075
-	}
 }

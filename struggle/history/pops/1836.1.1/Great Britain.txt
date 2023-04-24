@@ -372,25 +372,25 @@
 #Glasgow (620000/155000 POPS)
 271 = {
 	aristocrats = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 1500
 	}
 
 	clerks = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 10850
 	}
 
 	craftsmen = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 55000
 	}
@@ -402,7 +402,7 @@
 	}
 	
 	artisans = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 10000
 	}
@@ -414,15 +414,21 @@
 	}
 
 	soldiers = {
-		culture = scottish
+		culture = welsh
 		religion = protestant
 		size = 3000
 	}
 
 	farmers = {
+		culture = welsh
+		religion = protestant
+		size = 40000
+	}
+
+	farmers = {
 		culture = scottish
 		religion = protestant
-		size = 53150
+		size = 13150
 	}
 
 	clergymen = {
@@ -438,7 +444,7 @@
 	}
 
 	craftsmen = {
-		culture = irish
+		culture = welsh
 		religion = catholic
 		size = 10000
 	}
@@ -894,43 +900,43 @@
 #Carlisle (216000/54000 POPS)
 279 = {
 	aristocrats = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 4000
 	}
 
 	soldiers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = british
+		culture = welsh
 		religion = protestant
 		size = 46000
 	}
 
 	farmers = {
-		culture = british
+		culture = welsh
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = irish
+		culture = welsh
 		religion = catholic
 		size = 1250
 	}

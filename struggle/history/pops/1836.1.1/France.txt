@@ -150,73 +150,73 @@
 #Lille (620000/155000 POPS)
 3373 = {
 	aristocrats = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 1400
 	}
 
 	officers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 6000
 	}
 
 	artisans = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 3000
 	}
 
 	labourers = {
-		culture = english
+		culture = british
 		religion = catholic
 		size = 30500
 	}
