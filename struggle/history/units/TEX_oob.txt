@@ -19,6 +19,12 @@ army = {
 		type = cuirassier
 		home = 133
 	}
+	
+	regiment = {
+		name= "Annon's Command"
+		type = infantry
+		home = 2152
+	}
 
 	regiment = {
 		name= "Fannin's Command"
@@ -30,6 +36,12 @@ army = {
 		name = "Burleson's Command"
 		type = artillery
 		home = 137
+	}
+	
+	regiment = {
+		name = "Burls's Command"
+		type = artillery
+		home = 132
 	}
 	
 }

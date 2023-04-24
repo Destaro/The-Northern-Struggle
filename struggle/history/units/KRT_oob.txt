@@ -150,11 +150,11 @@ army = {
 
 army = {
 	name = "III Corpo do exército"
-	location = 2429
+	location = 2434
 	regiment = {
 		name= "4ª Brigada de Infantaria"
 		type = infantry
-		home = 2429
+		home = 2434
 	}
 
 	regiment = {
@@ -265,7 +265,7 @@ army = {
 
 leader = {
 	name = "Pedro Meza"
-	date = 1850.1.1
+	date = 1830.1.1
 	type = land
 	personality = inspiring
 	background = yesman
@@ -274,7 +274,7 @@ leader = {
 
 leader = {
 	name = "F.S. López"
-	date = 1850.1.1
+	date = 1830.1.1
 	type = land
 	personality = heroic
 	background = megalomaniac
@@ -283,7 +283,7 @@ leader = {
 
 leader = {
 	name = "José Diaz"
-	date = 1860.1.1
+	date = 1830.1.1
 	type = land
 	personality = bold
 	background = generals_aide
@@ -313,28 +313,7 @@ army = {
 
 }
 
-army = {
-	name = "2do Ejército del Paraguay"
-	location = 2339
-	regiment = {
-		name= "1.1ra División de Infantería"
-		type = infantry
-		home = 2339
-	}
 
-	regiment = {
-		name= "2.2ra División de Infantería"
-		type = infantry
-		home = 2339
-	}
-
-	regiment = {
-		name= "3.3ra División de Infantería"
-		type = infantry
-		home = 2339
-	}
-
-}
 
 leader = {
 	name = "Pierre Labatut"
@@ -430,5 +409,41 @@ army = {
 		home = 2345
 	}
 
+}
+
+army = {
+	name = "Exercito Gaucho"
+	location = 2463
+
+	regiment = {
+			name= "1. Divis?o Gaucha"
+			type = infantry
+			home = 2463
+	}
+	regiment = {
+			name= "2. Divis?o Gaucha"
+			type = infantry
+			home = 2463
+	}
+	regiment = {
+			name= "3. Divis?o Gaucha"
+			type = infantry
+			home = 2463
+	}
+	regiment = {
+			name= "3. Divis?o Gaucha"
+			type = infantry
+			home = 2463
+	}
+	regiment = {
+			name= "4. Divis?o Gaucha"
+			type = cavalry
+			home = 2466
+	}
+	regiment = {
+			name= "5. Divis?o Gaucha"
+			type = cavalry
+			home = 2467
+	}
 }
 

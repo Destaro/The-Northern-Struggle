@@ -219,3 +219,123 @@ army = {
 	}
 
 }
+
+army = {
+	name = "III. Armee-Korps"
+	location = 371
+
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = cuirassier
+		home = 534
+	}
+
+	regiment = {
+		name= "XIII. Linieninfanteriebrigade"
+		type = infantry
+		home = 636
+	}
+
+	regiment = {
+		name= "XIV. Linieninfanteriebrigade"
+		type = infantry
+		home = 3267
+	}
+
+	regiment = {
+		name= "XV. Linieninfanteriebrigade"
+		type = infantry
+		home = 3267
+	}
+
+	regiment = {
+		name= "III. Pionierbrigade"
+		type = engineer
+		home = 580
+	}
+
+	regiment = {
+		name= "XVI. Linieninfanteriebrigade"
+		type = infantry
+		home = 580
+	}
+
+	regiment = {
+		name= "XVII. Linieninfanteriebrigade"
+		type = infantry
+		home = 3519
+	}
+
+	regiment = {
+		name= "XVIII. Linieninfanteriebrigade"
+		type = infantry
+		home = 556
+	}
+
+	regiment = {
+		name= "III. Artilleriebrigade"
+		type = artillery
+		home = 555
+	}
+
+}
+
+army = {
+	name = "IV. Armee-Korps"
+	location = 566
+
+	regiment = {
+		name = "I. Kavalleriebrigade"
+		type = dragoon
+		home = 566
+	}
+
+	regiment = {
+		name = "II. Kavalleriebrigade"
+		type = cuirassier
+		home = 565
+	}
+
+	regiment = {
+		name= "XIX. Linieninfanteriebrigade"
+		type = infantry
+		home = 565
+	}
+
+	regiment = {
+		name= "XX. Linieninfanteriebrigade"
+		type = infantry
+		home = 578
+	}
+
+	regiment = {
+		name= "XXI. Linieninfanteriebrigade"
+		type = infantry
+		home = 3265
+	}
+
+	regiment = {
+		name= "IV. Pionierbrigade"
+		type = engineer
+		home = 3265
+	}
+
+	regiment = {
+		name= "XXII. Linieninfanteriebrigade"
+		type = infantry
+		home = 578
+	}
+
+	regiment = {
+		name= "XXIII. Linieninfanteriebrigade"
+		type = infantry
+		home = 532
+	}
+
+	regiment = {
+		name= "IV. Artilleriebrigade"
+		type = artillery
+		home = 531
+	}
+
+}

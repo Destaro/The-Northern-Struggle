@@ -1,7 +1,7 @@
-owner = MNC
-controller = MNC
+owner = LOM
+controller = LOM
 add_core = SVY
-add_core = MNC
+add_core = LOM
 trade_goods = fruit
 life_rating = 35
 terrain = monaco

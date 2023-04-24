@@ -1,6 +1,7 @@
-owner = SAF
-controller = SAF
+owner = SCA
+controller = SCA
 add_core = SAF
 add_core = XHO
 trade_goods = fruit
 life_rating = 35
+colonial = 2

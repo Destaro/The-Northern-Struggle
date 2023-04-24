@@ -1,5 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner = TKG
+controller = TKG
+
 trade_goods = silk
 life_rating = 35
+add_core = TKG

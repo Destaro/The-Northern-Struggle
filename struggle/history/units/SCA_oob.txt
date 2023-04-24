@@ -422,7 +422,7 @@ army = {
 	regiment = {
 		name= "Västgöta Regemente"
 		type = artillery
-		home = 548
+		home = 3855
 	}
 
 
@@ -438,41 +438,7 @@ army = {
 }
 
 
-army = {
-	name = "Malmo Armén"
-	location = 334
-	
 
-	regiment = {
-		name= "Södermanlands Regemente"
-		type = infantry
-		home = 343
-	}
-
-	regiment = {
-		name= "Första Livgrenadjärregementet"
-		type = infantry
-		home = 994
-	}
-
-	
-	regiment = {
-		name= "Västgöta Regemente"
-		type = artillery
-		home = 548
-	}
-
-
-
-	regiment = {
-		name= "Kronprinsens Husarregemente"
-		type = hussar
-		home = 343
-	}
-
-	
-
-}
 
 
 

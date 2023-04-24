@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = MIN
+controller = MIN
 add_core = DAI
 add_core = CHI
 add_core = GXI
@@ -7,4 +7,4 @@ trade_goods = silk
 life_rating = 32
 terrain = kwangchowan
 
-add_core = SCA
+add_core = MIN

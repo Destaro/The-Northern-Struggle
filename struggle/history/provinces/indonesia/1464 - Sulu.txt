@@ -1,5 +1,6 @@
-owner = SUL
-controller = SUL
+owner = JAP
+controller = JAP
 add_core = SUL
 trade_goods = fish
 life_rating = 35
+colonial = 1
