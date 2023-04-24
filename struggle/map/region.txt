@@ -1,7 +1,7 @@
 ### Canada & the Far North
 
 LST_3331 = { } #pre-organized
-LST_3332 = { 3872 3873 3874 3875 3876 3877 3878 3879 3880 3881 3882 3883 3884 3885 } #pre-organized
+LST_3332 = { } #pre-organized
 LST_3333 = { } #pre-organized
 
 ALN_1056 = { 1056 1054 1091 3311 } #Ossetia
@@ -1582,9 +1582,15 @@ ARG_2398 = { 2131 2398 2399 2400 2396 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
+ENG_2497 = { 2497 2498 2499 3872 3873 3874 3875 } #Western Australia part 1
 
-ENG_2505 = { 2505 2506 2603 } #Northern Territory
+ENG_2500 = { 2501 3878 3880 3882 } #Western Australia part 2
+
+ENG_2505 = { 2500 2503 2605 2504 2502 } #Western Australia part 3
+
+ENG_2601 = { 2601 2602 3876 3877 3879 } #Western Australia part 4
+
+ENG_2505 = { 2505 2506 2603 3881 3883 3884 3885 } #Northern Territory
 
 ENG_2509 = { 2508 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 
