@@ -2,6 +2,6 @@ owner = PRD
 controller = PRD
 add_core = PRD
 add_core = LIT
-add_core = BUL
+
 trade_goods = grain
 life_rating = 35
