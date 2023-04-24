@@ -931,7 +931,7 @@ restore_the_baltic = {
            			secede_province = LAT	}
 	 prestige = 20
 	 set_country_flag = restore_the_baltic
-	BUL = { country_event = 4004005 }
+	LIT = { country_event = 4004005 }
 	 }
 
       }

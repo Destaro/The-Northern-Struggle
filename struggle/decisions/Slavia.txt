@@ -36,6 +36,16 @@ form_slavia = {
 					}
 				}
 			}
+			POL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 			THIS = { all_core = { owned_by = THIS } }
         }
 
@@ -73,7 +83,27 @@ form_slavia = {
     }
 
 
+the_black_sea_coast = { 
+potential = {
+   OR = { 
+     tag = SLA 
+	 tag = RUT }
+	 NOT = { has_country_flag = the_black_sea_coast }
+        }
+allow = {
+year = 1855
+is_greater_power = yes
+war = no
+ THIS = { all_core = { owned_by = THIS } } 
+          }
+effect = { 
+  badboy = 2
+  set_country_flag = the_black_sea_coast 
+  HUN = { all_core = { add_core = THIS } }
+                    
+					}
 
+                                                   }
 	
 	
 	

@@ -94,7 +94,7 @@ govt_flag = {
 	flag = theocracy
 }
 
-oob = "RUS_oob.txt"
+
 1861.1.1 = {
 	oob = "/1861/RUS_oob.txt"
 }

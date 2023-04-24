@@ -1,6 +1,6 @@
 owner = LIT
 controller = LIT
 add_core = LIT
-add_core = BUL
+
 trade_goods = wool
 life_rating = 35

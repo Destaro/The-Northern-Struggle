@@ -1,5 +1,6 @@
-owner = DLM
-controller = DLM
+owner = AQU
+controller = AQU
+add_core = AQU
 add_core = DLM
 add_core = SLO
 add_core = ITA

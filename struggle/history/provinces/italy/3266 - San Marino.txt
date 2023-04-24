@@ -1,6 +1,6 @@
-owner = SMR
-controller = SMR
-add_core = SMR
+owner = PAP
+controller = PAP
+add_core = PAP
 trade_goods = wool
 life_rating = 35
 terrain = sanmarino

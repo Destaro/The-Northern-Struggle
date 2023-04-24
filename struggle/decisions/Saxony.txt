@@ -257,54 +257,54 @@ political_decisions = {
 	
 	
 	
-	 march_east = {
-        potential = {
-		exists = PML
-		OR = {
-		    tag = NGF
-            tag = WES
-			tag = GER
-			          }
-            has_country_flag = saxon_claims_in_pomerania
-            NOT = { has_country_flag = march_east }
-            is_vassal = no
-        }
-        allow = {
-		nationalism_n_imperialism = 1
-		war = no
-		WES = { all_core = { owned_by = THIS } }
-		NOT = {
-		
-		PML = { OR = { 
-		           alliance_with = THIS 
-		           vassal_of = THIS  }
-				   }
-		        }
-        }
-        effect = {
-		badboy = 5
-        set_country_flag = march_east
-		
-		war = {
-                target = PML
-                
-				attacker_goal = {
-                    casus_belli = conquest_any
-                  
-                }
-               
-                defender_goal = { 
-				    casus_belli = acquire_state
-                    state_province_id = 546 }
-					
-			    defender_goal = { 
-				    casus_belli = acquire_state
-                    state_province_id = 550 }
-            
-			
-                   }
-                 }
-	 }
+	 #march_east = {
+     #   potential = {
+	 #	exists = PML
+	 #	OR = {
+	 #    tag = NGF
+      #      tag = WES
+		#	tag = GER
+		#	          }
+         #   has_country_flag = saxon_claims_in_pomerania
+          #  NOT = { has_country_flag = march_east }
+           # is_vassal = no
+        #}
+        #allow = {
+		#nationalism_n_imperialism = 1
+		#war = no
+		#WES = { all_core = { owned_by = THIS } }
+	#	NOT = {
+	#	
+	#	PML = { OR = { 
+	#	           alliance_with = THIS 
+	#	           vassal_of = THIS  }
+	#			   }
+	#	        }
+     #   }
+     #   effect = {
+	#	#badboy = 5
+     #   set_country_flag = march_east
+	#	
+	#	war = {
+     #           target = PML
+     #           
+		#		attacker_goal = {
+        #            casus_belli = conquest_any
+        #          
+        #        }
+        #       
+        #        defender_goal = { 
+		#		    casus_belli = acquire_state
+    #     		 state_province_id = 546 }
+	#				
+	#		    defender_goal = { 
+	#			    casus_belli = acquire_state
+     #               state_province_id = 550 }
+      #      
+		#	
+         #          }
+          #       }
+	 #}
 	 
 	 
 	 integrate_the_east = {
@@ -325,7 +325,7 @@ political_decisions = {
 		functionalism = 1
 		war = no
 		WES = { all_core = { owned_by = THIS } }
-		PML = { all_core = { owned_by = THIS } }
+		
 		owns = 680
 		owns = 691
 		owns = 696

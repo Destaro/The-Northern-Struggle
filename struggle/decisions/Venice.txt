@@ -1,7 +1,7 @@
 political_decisions = { 
 reclaiming_illiria = {
 potential = { 
-        tag = VEN
+        tag = AQU
 		NOT = { has_country_flag = reclaiming_illiria 
 		        has_country_flag = illiria_abandoned }
 		
@@ -24,7 +24,7 @@ potential = {
 	
 	embracing_illiria = {
 potential = { 
-        tag = VEN
+        tag = AQU
 		NOT = { has_country_flag = embracing_illiria
 		       }
 		
@@ -49,7 +49,7 @@ potential = {
 tirol_is_ours = {
 potential = { 
     
-	tag = VEN 
+	tag = AQU
       NOT = { has_country_flag = tirol_is_ours
 	  exists = ITA
 	                   }
@@ -75,7 +75,7 @@ potential = {
 lombardia_is_gone = {
 potential = { 
     
-	tag = VEN 
+	tag = AQU
       NOT = { has_country_flag = lombardia_is_gone
 	  exists = LOM
 	  exists = AQU
@@ -98,12 +98,12 @@ potential = {
 				limit = {
 				
 				    is_core = DLM
-					is_core = AQU
+					is_core = TST
 					is_core = LOM
 					   
 				}
 				remove_core = LOM
-				remove_core = AQU
+				remove_core = TST
 				remove_core = DLM
 			}
 		}

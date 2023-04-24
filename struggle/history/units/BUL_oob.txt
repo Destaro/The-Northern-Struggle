@@ -37,7 +37,7 @@ leader = {
 
 army = {
 	name = "Army of Bolkania"
-	location = 350
+	location = 352
 	regiment = {
 		name= "1st Wallachia Infantry"
 		type = infantry
@@ -65,7 +65,7 @@ army = {
 	regiment = {
 		name= "2. Infanterie Moldovei"
 		type = infantry
-		home = 1006
+		home = 940
 	}
 
 	regiment = {
@@ -78,7 +78,7 @@ army = {
 
 army = {
 	name = "2-i Armeiskii Korpus" #Belarus Army
-	location = 1006
+	location = 997
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
@@ -88,7 +88,7 @@ army = {
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
-		home = 963
+		home = 3561
 	}
 
 	regiment = {
@@ -124,19 +124,19 @@ army = {
 	regiment = {
 		name= "2.6-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 946
+		home = 954
 	}
 	
 	regiment = {
 		name = "2.1-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 946
+		home = 3298
 	}
 
 	regiment = {
 		name = "2.2-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 946
+		home = 960
 	}
 }
 
@@ -153,55 +153,55 @@ army = {
 	regiment = {
 		name = "3.2-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 938
+		home = 961
 	}
 	
 	regiment = {
 		name = "3.3-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 947
+		home = 961
 	}
 	
 	regiment = {
 		name = "3.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 947
+		home = 3548
 	}
 	
 	regiment = {
 		name = "3.5-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 360
+		home = 948
 	}
 	
 	regiment = {
 		name = "3.6-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 354
+		home = 945
 	}
 	
 	regiment = {
 		name = "3.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
-		home = 3547
+		home = 3549
 	}
 
 	regiment = {
 		name = "3.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = dragoon
-		home = 361
+		home = 3549
 	}
 
 	regiment = {
 		name = "3.1-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 364
+		home = 3549
 	}
 	
 	regiment = {
 		name = "3.2-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 941
+		home = 959
 	}
 }
 
@@ -212,60 +212,60 @@ army = {
 	regiment = {
 		name = "4.1-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 3545
+		home = 959
 	}
 	
 	regiment = {
 		name = "4.2-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 963
+		home = 958
 	}
 
 	regiment = {
 		name = "4.3-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 3548
+		home = 958
 	}
 
 	regiment = {
 		name = "4.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 3561
+		home = 957
 	}
 	
 	regiment = {
 		name = "4.5-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 962
+		home = 957
 	}
 
 	regiment = {
 		name = "4.5-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 962
+		home = 955
 	}
 	
 	regiment = {
 		name = "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cuirassier
-		home = 963
+		home = 956
 	}
 	
 	regiment = {
 		name = "4.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry
-		home = 3548
+		home = 955
 	}
 	
 	regiment = {
 		name = "4.1-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 978
+		home = 3692
 	}
 
 	regiment = {
 		name = "4.2-ya Artilleriiskii Diviziya"
 		type = artillery
-		home = 978
+		home = 3692
 	}
 }

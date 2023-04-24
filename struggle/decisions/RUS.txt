@@ -6,7 +6,7 @@ form_ruthenia = {
 			is_greater_power = yes
 			OR = {
 			       is_culture_group = east_slavic
-				   tag = BUL
+				   
 				   }
 			NOT = {
 				exists = RUT
@@ -35,7 +35,10 @@ form_ruthenia = {
 		effect = {
 			prestige = 15
 			BYE = { all_core = { add_core = THIS } }
-			
+			UKR = { all_core = { add_core = THIS } }
+			URA = { all_core = { add_core = THIS } }
+			BLG = { all_core = { add_core = THIS } }
+			3544 = { add_core = THIS }
 			any_country = {
 				limit = {
 					OR = {
@@ -69,17 +72,17 @@ form_ruthenia = {
 		                }
 	
 	allow = { 
-	     revolution_n_counterrevolution = 1
+	    
 		 RUT = { all_core = { owned_by = THIS } }
 		 war = no
-		 
+		 KAZ = { all_core = { owned_by = THIS } }
 		 }
 	
 	effect = {
 	set_country_flag = claim_siberia
-          URA = { all_core = { add_core = THIS } }
+          
+		  ALT = { all_core = { add_core = THIS } }
 		  SIB = { all_core = { add_core = THIS } }
-		  
 		  prestige = 10
              	}
 	
@@ -93,10 +96,10 @@ form_ruthenia = {
 		                }
 	
 	allow = { 
-	     revolution_n_counterrevolution = 1
+	     
 		 RUT = { all_core = { owned_by = THIS } }
 		 war = no
-		 SIB = { all_core = { owned_by = THIS } }
+		 
 		 URA = { all_core = { owned_by = THIS } }
 		 }
 	
@@ -115,7 +118,7 @@ form_ruthenia = {
 	abolish_serfdom = {
 		picture = abolish_serfdom
 		potential = {
-			tag = RUS
+			tag = RUT
 			debt_law = serfdom
 			#government = absolute_monarchy
 			has_country_flag = serfdom_not_abolished

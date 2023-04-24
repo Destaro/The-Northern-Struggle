@@ -180,6 +180,7 @@ political_decisions = {
 		potential = {
 			primary_culture = greek
 			NOT = { tag = GRE }
+			NOT = { tag = ANT }
 			NOT = { tag = BYZ }
 			exists = GRE
 			NOT = { has_country_flag = unite_with_greece }

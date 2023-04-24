@@ -1,9 +1,10 @@
-owner = VEN
-controller = VEN
+owner = AQU
+controller = AQU
 
 add_core = CRE
 add_core = GRE
 trade_goods = fruit
 life_rating = 35
 
-add_core = VEN
+
+add_core = AQU

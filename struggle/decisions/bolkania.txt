@@ -30,7 +30,7 @@ political_decisions = {
 		  
 		  effect = {
 		  set_country_flag = integrate_the_west
-		
+		add_accepted_culture = pruski
 		  PRD = { all_core = { add_core = THIS } }
 		  inherit = PRD
 		 
@@ -71,10 +71,40 @@ political_decisions = {
 		  effect = {
 		  set_country_flag = integrate_the_lithuanians
 		  LIT = { all_core = { add_core = THIS } }
-
-		 
+          BYE = { all_core = { add_core = THIS } }
+		  inherit = BYE
 		  inherit = LIT
 		  prestige = 15
+		  badboy = 1
+		             	  
+				}
+		 }
+		 
+		  integrate_the_northern_conquest = {
+	           potential = {
+			   tag = BUL		   
+			   NOT = { has_country_flag = integrate_the_northern_conquest }
+			   LIT = { vassal_of = THIS }
+              
+			   }
+	      
+		  allow = {
+		 
+				war = no
+				
+			996 = { owned_by = THIS }
+			350 = { owned_by = THIS }
+			
+			
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = integrate_the_northern_conquest
+		  NOV = { all_core = { add_core = THIS } }
+          EST = { all_core = { add_core = THIS } }
+		
+		  prestige = 5
 		  badboy = 1
 		             	  
 				}
