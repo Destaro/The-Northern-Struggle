@@ -1,8 +1,5 @@
-owner = TNT
-controller = TNT
-add_core = TNT
-
+owner = ALT
+controller = ALT
 add_core = ALT
 trade_goods = coal
 life_rating = 35
-colonial = 2

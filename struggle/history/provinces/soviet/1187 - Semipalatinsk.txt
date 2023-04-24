@@ -1,7 +1,5 @@
-owner = MGL
-controller = MGL
-add_core = MGL
-add_core = UYG
+owner = KAZ
+controller = KAZ
 add_core = KAZ
 trade_goods = timber
 life_rating = 30

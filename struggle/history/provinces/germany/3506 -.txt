@@ -1,7 +1,7 @@
 owner = PRD
 controller = PRD
 add_core = PRD
-
+add_core = BUL
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {
@@ -17,5 +17,3 @@ life_rating = 35
 	}
 }
 1861.1.1 = { railroad = 3 }
-
-add_core = POL

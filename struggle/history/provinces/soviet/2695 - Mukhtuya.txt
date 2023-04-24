@@ -1,8 +1,6 @@
-owner = MGL
-controller = MGL
-add_core = MGL
-add_core = BRY
+owner = YAK
+controller = YAK
+add_core = YAK
 trade_goods = grain
 life_rating = 20
-colonial = 2
 terrain = forest

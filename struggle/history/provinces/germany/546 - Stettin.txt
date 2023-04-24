@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = POM
+controller = POM
 add_core = POM
 add_core = GER
 trade_goods = fish
@@ -19,4 +19,3 @@ terrain = stettin
 	}
 }
 1861.1.1 = { railroad = 3 }
-add_core = WES

@@ -1,5 +1,5 @@
-owner = WES
-controller = WES
+owner = RHI
+controller = RHI
 add_core = RHI
 
 add_core = GER
@@ -7,5 +7,3 @@ trade_goods = coal
 terrain = kassel
 life_rating = 35
 1861.1.1 = { railroad = 3 }
-
-add_core = WES

@@ -1,5 +1,5 @@
-owner = PRD
-controller = PRD
+owner = PML
+controller = PML
 add_core = PML
 trade_goods = fish
 life_rating = 35
@@ -18,6 +18,3 @@ terrain = danzig
 	}
 }
 1861.1.1 = { railroad = 3 }
-
-add_core = PRD
-add_core = POL
