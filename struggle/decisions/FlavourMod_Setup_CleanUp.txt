@@ -106,21 +106,6 @@ political_decisions = {
 		}
 	}
 	
-	
-	
-	cleanup_ant = {
-		potential = {
-			tag = ANT
-			exists = yes
-			GRE = { exists = yes }
-		}
-		allow = { }
-		effect = {
-			ANT = { all_core = { remove_core = ANT } }
-			annex_to = GRE
-		}
-	}
-	
 	cleanup_eic = {
 		potential = {
 			tag = ENG
