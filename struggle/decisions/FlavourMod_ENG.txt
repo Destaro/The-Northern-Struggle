@@ -158,8 +158,12 @@ political_decisions = {
 		picture = royal_aircraft_factory
 		potential = {
 			NOT = { has_global_flag = royal_aircraft_factory }
-			tag = ENG
-			owns = 297
+			OR = {
+			 tag = CEL
+			 tag = WHA
+			 tag = ENG
+			  }
+			owns = 273
 			aeronautics = 1
 			NOT = { 297 = { state_scope = { has_building = aeroplane_factory } } }
 		}
@@ -176,18 +180,18 @@ political_decisions = {
 			treasury = -30000
 			random_owned = {
 				limit = {
-					province_id = 297
+					province_id = 273
 					state_scope = { NOT = { has_building = aeroplane_factory } }
 				}
 				
 				owner = { 
-					capital = 297
+					capital = 273
 					build_factory_in_capital_state = aeroplane_factory
 				}
 			}
 			random_owned = {
-				limit = { province_id = 300 } #London
-				THIS = { capital = 300 }
+				limit = { province_id = 273 } #London
+				THIS = { capital = 273 }
 			}
 		}
 		

@@ -6,10 +6,11 @@ form_ruthenia = {
 			is_greater_power = yes
 			OR = {
 			       is_culture_group = east_slavic
+				   tag = BUL
 				   }
 			NOT = {
 				exists = RUT
-				tag = BUL
+				
 			}
 		}	
 		allow = {
