@@ -1,6 +1,6 @@
-owner = XIN
-controller = XIN
-add_core = XIN
+owner = UYG
+controller = UYG
+add_core = UYG
 add_core = KYR
 trade_goods = fruit
 life_rating = 30

@@ -1,5 +1,6 @@
 capital = 1025
-primary_culture = russian
+primary_culture = ukrainian
+culture = russian
 religion = orthodox
 government = democracy
 plurality = 0.02

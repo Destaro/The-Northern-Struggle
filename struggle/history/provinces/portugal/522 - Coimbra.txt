@@ -1,6 +1,5 @@
 owner = TLD
 controller = TLD
-add_core = GLC
 
 trade_goods = fruit
 life_rating = 35

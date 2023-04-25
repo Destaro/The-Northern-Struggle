@@ -1,7 +1,6 @@
 owner = ULA
 controller = ULA
 add_core = ULA
-add_core = KNT
 trade_goods = grain
 life_rating = 35
 

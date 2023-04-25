@@ -134,6 +134,7 @@ KUR 	="countries/Kursk.txt"
 KDA	    = "countries/Koda.txt"
 BLG	    = "countries/Belgorye.txt"
 AMC	    = "countries/America.txt"
+KSK	    = "countries/Little Scythia.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

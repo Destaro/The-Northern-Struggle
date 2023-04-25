@@ -202,43 +202,43 @@
 #Battambang (152000/48000 POPS)
 1366 = {
 	aristocrats = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 50
 	}
 
 	officers = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 25
 	}
 
 	artisans = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 50
 	}
 
 	soldiers = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 50
 	}
 
 	farmers = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 725
 	}

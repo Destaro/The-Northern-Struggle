@@ -1,6 +1,5 @@
-owner = NDY
-controller = NDY
-add_core = NDY
+owner = ORL
+controller = ORL
 add_core = ORL
 trade_goods = fish
 terrain = rouen

@@ -1,6 +1,5 @@
-owner = MGL
-controller = MGL
-add_core = MGL
-add_core = UYG
+owner = KML
+controller = KML
+add_core = KML
 trade_goods = sulphur
 life_rating = 32

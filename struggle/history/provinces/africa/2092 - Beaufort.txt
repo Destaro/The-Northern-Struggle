@@ -1,8 +1,7 @@
-owner = SCA
-controller = SCA
+owner = SAF
+controller = SAF
 add_core = SAF
 add_core = XHO
 trade_goods = fruit
 life_rating = 30
 terrain = mountain
-colonial = 2

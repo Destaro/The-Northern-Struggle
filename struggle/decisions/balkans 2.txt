@@ -13,7 +13,7 @@ political_decisions = {
 					AND = { owns = 791 NOT = { has_global_flag = southslavic_renamed_syrmia } }
 				}
 				AND = {
-					is_culture_group = hungarian_culture_group
+					is_culture_group = ugric
 					AND = { owns = 791 NOT = { has_global_flag = hungarian_renamed_syrmia } }
 				}
 				AND = {
@@ -72,7 +72,7 @@ political_decisions = {
 				limit = {
 					province_id = 791
 					owner = {
-						is_culture_group = hungarian_culture_group
+						is_culture_group = ugric
 					}
 				}
 				791 = {
@@ -121,7 +121,7 @@ political_decisions = {
 					AND = { owns = 793 NOT = { has_global_flag = southslavic_renamed_vukovar } }
 				}
 				AND = {
-					is_culture_group = hungarian_culture_group
+					is_culture_group = ugric
 					AND = { owns = 793 NOT = { has_global_flag = hungarian_renamed_vukovar } }
 				}
 				AND = {
@@ -180,7 +180,7 @@ political_decisions = {
 				limit = {
 					province_id = 793
 					owner = {
-						is_culture_group = hungarian_culture_group
+						is_culture_group = ugric
 					}
 				}
 				793 = {

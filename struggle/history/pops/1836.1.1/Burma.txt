@@ -757,7 +757,7 @@
 	}
 
 	slaves = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 15000
 	}
@@ -849,7 +849,7 @@
 	}
 
 	slaves = {
-		culture = lao
+		culture = tai
 		religion = theravada
 		size = 7000
 	}
@@ -1236,61 +1236,61 @@
 	}
 
 	aristocrats = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 1250
 	}
 
 	soldiers = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 200
 	}
 
 	farmers = {
-		culture = thai
+		culture = mon
 		religion = theravada
 		size = 17250
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = mon
 		religion = theravada
 		size = 350
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = mon
 		religion = theravada
 		size = 300
 	}
 
 	artisans = {
-		culture = burmese
+		culture = mon
 		religion = theravada
 		size = 2000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = mon
 		religion = theravada
 		size = 300
 	}
 
 	farmers = {
-		culture = burmese
+		culture = mon
 		religion = theravada
 		size = 23050
 	}

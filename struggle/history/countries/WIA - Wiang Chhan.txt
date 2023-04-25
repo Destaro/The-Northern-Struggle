@@ -1,5 +1,5 @@
-capital = 1357
-primary_culture = lao
+capital = 1347
+primary_culture = mon
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0

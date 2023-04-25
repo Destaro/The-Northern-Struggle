@@ -1,5 +1,5 @@
-owner = BDN
-controller = BDN
-add_core = BDN
+owner = ANT
+controller = ANT
+add_core = ANT
 trade_goods = coal
 life_rating = 35

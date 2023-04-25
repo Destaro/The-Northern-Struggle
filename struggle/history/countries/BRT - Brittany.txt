@@ -1,4 +1,4 @@
-capital = 424
+capital = 421
 primary_culture = breton
 religion = catholic
 government = democracy
@@ -202,3 +202,4 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+oob = "BRT_oob.txt"

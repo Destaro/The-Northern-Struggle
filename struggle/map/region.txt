@@ -203,7 +203,7 @@ DEN_367 = { 367 366 368 2557 } #Jylland
 
 HOL_369 = { 369 528 530 3258 } #Holstein
 
-SCH_370 = { 370 371 } #Schleswig
+SCH_370 = { 370 371 533 } #Schleswig
 
 DEN_372 = { 372 373 374 } #Sjaelland
 
@@ -214,7 +214,7 @@ NET_375 = { 375 376 377 382 384 386 } #Holland
 
 #NET_379 = { } #Zeeland
 
-NET_385 = { 385 383 543 3259 3505 533 } #Friesland
+NET_385 = { 385 383 543 3259 3505 } #Friesland
 
 BEL_387 = { 379 380 387 390 391 3372 378 } #Brabant
 
@@ -681,9 +681,9 @@ KHI_1191 = { 1198 1199 1206 3444 3447 } #Bukhara
 
 HDJ_1151 = { 1151 1152 1153 1154 } #Hedjaz
 
-NEJ_1156 = { 1160 1156 922 3277 } #Hail
+NEJ_1156 = { 1160 1156 3277 } #Hail
 
-EGY_907 = { 3279 931 3324 } #North Arabian Desert
+EGY_907 = { 3279 931 3324 922 } #North Arabian Desert
 
 NEJ_1157 = { 1157 1161 1159 3275 } #Nejd
 
@@ -980,34 +980,38 @@ BUR_1334 = { 1335 1336 1337 1333 1339 3748 1334 } #Shan States - Yadanabon - Man
 
 BUR_1339 = { 1341 1342 1593 3747 } #Kachin
 
-ENG_1343 = { 1343 1344 1320 3264 } #Tenasserim
+ENG_1343 = { 1343 1344 1320 3264 1354 } #Tenasserim
 
 ENG_2125 = { 2125 2127 2126 2124 2123 2128 } #Indian Ocean Territory
 
 
 ### Indochina
 
-SIA_1352 = { 1392 1352 1354 } #Patani
+SIA_1352 = { 1352 1392 1389 } #Patani
 
-SIA_1355 = { 1355 2572 1338 1340 3721 3722 3723 3724 3725 3732 3733 } #Shan
+SIA_1349 = { 1355 2572 1349 3733 } #Thailand
 
-LUA_1356 = { 1356 1357 1361 1362 1360 } #Laos
+SIA_1355 = { 1338 1340 3721 3722 3723 3724 3725 3732 } #North Shan
 
-SIA_1358 = { 1358 1350 1359 1351 1363 } #Isan
+LUA_1356 = { 1356 1357 1361 1360 1358 1372 } #Laos
 
-SIA_1366 = { 1366 1367 1364 1368 1378 1382 1365 } #Cambodia
+SIA_1358 = { 1350 1351 1365 } #Isan
 
-DAI_1369 = { 1369 1370 1373 1371 1372 } #Tonkin
+SIA_1359 = { 1359 1362 1363 } #Bahnar
 
-DAI_1375 = { 1374 1375 1376 1377 } #Annam
+SIA_1366 = { 1366 1367 1364 1368 1378 1382 } #Cambodia
 
-DAI_1380 = { 1380 1383 1381 1379 } #Cochinchina
+DAI_1369 = { 1369 1370 1373 1371 1375 } #Tonkin
+
+DAI_1375 = { 1374 1376 } #Annam
+
+DAI_1380 = { 1380 1383 1381 1379 1377 } #Cochinchina
 
 ENG_1384 = { 1384 1386 1385 1387 } #Southern Malaya
 
-ENG_1391 = { 1391 1390 1388 1389 2575 } #Northern Malaya
+ENG_1391 = { 1391 1390 1388 2575 } #Northern Malaya
 
-SIA_1392 = { 1346 1353 1347 1348 1349 } #Ayutthaya
+SIA_1392 = { 1346 1353 1347 1348 } #Ayutthaya
 
 
 ### East Indies
@@ -1584,11 +1588,11 @@ ARG_2398 = { 2131 2398 2399 2400 2396 } #Patagonia Meridional
 
 ENG_2497 = { 2497 2498 2499 3872 3873 3874 3875 } #Western Australia part 1
 
-ENG_2500 = { 2501 3878 3880 3882 } #Western Australia part 2
+ENG_2500 = { 2501 3878 3880 3882 2601 } #Western Australia part 2
 
-ENG_2505 = { 2500 2503 2605 2504 2502 } #Western Australia part 3
+ENG_2503 = { 2500 2503 2605 2504 2502 } #Western Australia part 3
 
-ENG_2601 = { 2601 2602 3876 3877 3879 } #Western Australia part 4
+ENG_2601 = { 2602 3876 3877 3879 } #Western Australia part 4
 
 ENG_2505 = { 2505 2506 2603 3881 3883 3884 3885 } #Northern Territory
 

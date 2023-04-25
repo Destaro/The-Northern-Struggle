@@ -4,8 +4,5 @@ add_core = TRI
 add_core = TUN
 trade_goods = fruit
 life_rating = 10
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
+terrain = desert
+

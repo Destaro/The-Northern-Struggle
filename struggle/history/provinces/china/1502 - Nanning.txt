@@ -1,7 +1,5 @@
-owner = MIN
-controller = MIN
+owner = GXI
+controller = GXI
 add_core = GXI
-add_core = MIN
-add_core = CHI
 trade_goods = fish
 life_rating = 32

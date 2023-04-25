@@ -453,7 +453,7 @@ country_event = {
 	option = {
 		name = "EVT4004005PTA"
 		SCA = { create_vassal = CUR }
-	
+		SCA = { create_vassal = LIT }
 		SCA = { create_vassal = LAT }
 		SCA = { create_vassal = EST }
 		 
@@ -463,7 +463,7 @@ country_event = {
            			secede_province = LAT	}
 		 
 		                
-		LIT = {
+		BUL = {
 		any_owned = {
 				limit = {
 					is_core = EST
@@ -496,7 +496,17 @@ country_event = {
 				secede_province = LAT
 			}
 			
-		
+		any_owned = {
+				limit = {
+					is_core = LIT
+					NOT = { is_core = SCA
+                            is_core = EST
+                            is_core = IZH
+                            is_core = LAT	
+                            is_core = CUR							}
+				}
+				secede_province = LIT
+			}
 			
 	    }
 	}

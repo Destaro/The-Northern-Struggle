@@ -1477,37 +1477,37 @@
 #Sipsongpanna (5964000/1491000 POPS)
 3720 = {
 	aristocrats = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 200
 	}
 	
 	aristocrats = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 15
 	}
 
 	clergymen = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 1225
 	}
 	
 	artisans = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 2000
 	}
 
 	soldiers = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 1525
 	}
 
 	farmers = {
-		culture = thai
+		culture = tai
 		religion = theravada
 		size = 23000
 	}

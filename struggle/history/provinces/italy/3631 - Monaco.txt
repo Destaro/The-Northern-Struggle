@@ -1,7 +1,7 @@
-owner = LOM
-controller = LOM
+owner = SVY
+controller = SVY
 add_core = SVY
-add_core = LOM
+add_core = ITA
 trade_goods = fruit
 life_rating = 35
-terrain = monaco
+terrain = farmlands

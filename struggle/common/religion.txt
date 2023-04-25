@@ -125,6 +125,11 @@ eastern = {
 		icon = 13
 	}
 
+	tianjiao = {
+		color = { 1.7 1.7 1.7 }
+		icon = 8
+	}
+
 }
 
 pagan = {

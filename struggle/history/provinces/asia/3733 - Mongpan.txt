@@ -1,6 +1,6 @@
-owner = BUR
-controller = BUR
+owner = SIA
+controller = SIA
+add_core = SIA
 add_core = SHA
-add_core = BUR
 trade_goods = tropical_wood
 life_rating = 35

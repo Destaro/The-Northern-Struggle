@@ -1187,9 +1187,7 @@ political_decisions = {
 				}
 				704 = { change_province_name = "Neu Sandez"  }
 				3320 = { change_province_name = "Belz"  }
-				705 = { change_province_name = "Premissel"
-					state_scope = { change_region_name = "Rotes-Ruthenien" }
-				}
+				705 = { change_province_name = "Premissel" }
 				owner = { 
 					set_global_flag = german_renamed_galicia 
 					clr_global_flag = polish_renamed_galicia 
@@ -1240,9 +1238,7 @@ political_decisions = {
 				}
 				704 = { change_province_name = "Nowy Sacz"  }
 				3320 = { change_province_name = "Belz"  }
-				705 = { change_province_name = "Przemysl"  
-					state_scope = { change_region_name = "Rus Czerwona" }
-				}
+				705 = { change_province_name = "Przemysl" }
 				owner = { 
 					set_global_flag = polish_renamed_galicia 
 					clr_global_flag = german_renamed_galicia 
@@ -1289,9 +1285,7 @@ political_decisions = {
 				}
 				704 = { change_province_name = "Novyy-Sonch"  }
 				3320 = { change_province_name = "Belz"  }
-				705 = { change_province_name = "Peremyshl'" 
-					state_scope = { change_region_name = "Chervona Rus'" }
-				 }
+				705 = { change_province_name = "Peremyshl'" }
 				owner = { 
 					set_global_flag = russian_renamed_galicia
 					clr_global_flag = german_renamed_galicia 
@@ -1529,9 +1523,7 @@ political_decisions = {
 			prestige = 2
 			711 = {
 				change_province_name = "Siedlce" }
-			715 = { change_province_name = "Lublin"
-				state_scope = { change_region_name = "Kleinpolen" }
-			}
+			715 = { change_province_name = "Lublin" }
 			716 = { change_province_name = "Kielce" }
 		}
 		ai_will_do = { factor = 1 }
@@ -1819,9 +1811,7 @@ political_decisions = {
 		effect = {
 			clr_global_flag = posen_rename_polish
 			699 = { 
-				change_province_name = "Posen"
-				state_scope = { change_region_name = "Groﬂpolen" }
-			}
+				change_province_name = "Posen" }
 			700 = { change_province_name = "Bromberg" }
 			701 = { change_province_name = "Gnesen" }
 			717 = { change_province_name = "Kalisch" }
@@ -2200,7 +2190,7 @@ political_decisions = {
 		potential = {
 			AND= {
 				primary_culture = serb
-				NOT = { TAG = YUG }
+				NOT = { tag = YUG }
 			}
 			NOT = { owns = 771 }
 			owns = 772
@@ -2229,7 +2219,7 @@ political_decisions = {
 		potential = {
 			AND= {
 				primary_culture = serb
-				NOT = { TAG = YUG }
+				NOT = { tag = YUG }
 			}
 			owns = 771
 			NOT = { has_global_flag = serbia_rename_cro }
@@ -2369,7 +2359,7 @@ political_decisions = {
 		potential = {
 			AND= {
 				primary_culture = serb
-				NOT = { TAG = YUG }
+				NOT = { tag = YUG }
 			}
 			owns = 777
 			owns = 779
