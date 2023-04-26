@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = ORL
+controller = ORL
+
 trade_goods = coal
 life_rating = 30
 railroad = 1
@@ -15,3 +15,5 @@ state_building = {
 	upgrade = yes
 }
 1861.1.1 = { railroad = 2 }
+
+add_core = ORL

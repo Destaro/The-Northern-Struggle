@@ -1,7 +1,9 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = BRG
+controller = BRG
+
 add_core = ITA
 trade_goods = fruit
 life_rating = 35
 terrain = farmlands
+
+add_core = BRG

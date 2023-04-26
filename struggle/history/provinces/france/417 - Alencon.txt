@@ -1,5 +1,5 @@
 owner = NDY
-controller = NDY
+controller = SCA
 add_core = ORL
 trade_goods = cotton
 life_rating = 30

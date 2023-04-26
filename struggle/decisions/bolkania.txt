@@ -12,8 +12,8 @@ political_decisions = {
 		  allow = {
 		  is_greater_power = yes
 				war = no
-				nationalism_n_imperialism = 1
-		
+				state_n_government = 1
+		phenomenalism = 1
 			
 			PRD = {
 				all_core = {
@@ -46,7 +46,7 @@ political_decisions = {
 			   tag = BUL		   
 			   NOT = { has_country_flag = integrate_the_lithuanians }
 			   LIT = { vassal_of = THIS }
-              
+               BYE = { vassal_of = THIS }
 			   }
 	      
 		  allow = {
@@ -63,6 +63,15 @@ political_decisions = {
 				}
 			}
 			
+          	BYE = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
 			
 			
 			
@@ -72,9 +81,62 @@ political_decisions = {
 		  set_country_flag = integrate_the_lithuanians
 		  LIT = { all_core = { add_core = THIS } }
           BYE = { all_core = { add_core = THIS } }
+		  add_accepted_culture = lithuanian
 		  inherit = BYE
 		  inherit = LIT
 		  prestige = 15
+		  badboy = 1
+		             	  
+				}
+		 }
+		 
+		  integrate_the_eastern_slavs = {
+	           potential = {
+			   tag = BUL		   
+			   NOT = { has_country_flag = integrate_the_lithuanians }
+			   KUR = { vassal_of = THIS }
+               BKV = { vassal_of = THIS }
+			   }
+	      
+		  allow = {
+		
+				war = no
+				nationalism_n_imperialism = 1
+				empiricism = 1
+				functionalism = 1
+			BKV = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
+			
+			
+			KUR = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
+			
+			
+			
+			
+	      }
+		  
+		  effect = {
+		  set_country_flag = integrate_the_eastern_slavs
+		  KUR = { all_core = { add_core = THIS } }
+          BKV = { all_core = { add_core = THIS } }
+		  inherit = KUR
+		  inherit = BKV
+		  prestige = 5
 		  badboy = 1
 		             	  
 				}

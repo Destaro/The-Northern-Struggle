@@ -1,6 +1,6 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = BRG
+controller = BRG
+
 add_core = OCC
 add_core = ITA
 trade_goods = silk
@@ -11,3 +11,5 @@ terrain = toulon
 	railroad = 3
 	naval_base = 3
 }
+
+add_core = BRG

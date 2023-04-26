@@ -1,5 +1,5 @@
-owner = NDY
-controller = NDY
+owner = ORL
+controller = ORL
 add_core = BRT
 add_core = ORL
 

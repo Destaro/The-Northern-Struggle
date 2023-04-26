@@ -1,6 +1,6 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = BRG
+controller = BRG
+
 add_core = ITA
 trade_goods = grain
 life_rating = 34
@@ -12,3 +12,4 @@ terrain = nice
 	controller = FRA
 	add_core = FRA
 }
+add_core = BRG

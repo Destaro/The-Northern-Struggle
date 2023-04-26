@@ -1,6 +1,6 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = BRG
+controller = BRG
+
 add_core = ITA
 trade_goods = fruit
 life_rating = 40
@@ -48,3 +48,5 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = BRG
