@@ -113,6 +113,13 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1863.1.1
 }
+##sca-vin
+substate = {
+	first = SCA
+	second = VIN
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
 
 #Sweden-Novgorod
 substate = {

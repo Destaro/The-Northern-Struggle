@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = NDY
+controller = NDY
 add_core = BRT
 add_core = ORL
 
@@ -9,3 +9,5 @@ life_rating = 30
 terrain = rennes
 
 1861.1.1 = { railroad = 3 }
+
+add_core = NDY

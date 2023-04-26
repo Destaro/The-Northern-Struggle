@@ -1,5 +1,5 @@
-owner = ORL
-controller = ORL
+owner = NDY
+controller = NDY
 add_core = ORL
 trade_goods = fish
 life_rating = 30
@@ -10,3 +10,4 @@ naval_base = 1
 }
 
 add_core = FRC
+add_core = NDY
