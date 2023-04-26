@@ -47,32 +47,7 @@ reclaim_ocitania = {
  
  }
  
- reclaim_burgundy = {
- potential = {
-             
-			tag = FRC
-			
-			
-         NOT = {
-            has_country_flag = reclaim_burgundy
-		 }
-                      }
-					  
-	    allow = {
-		451 = { owned_by = THIS }
-		 war = no
-		 nationalism_n_imperialism = 1
-		}
-		
-		effect = {
-		prestige = 15
-		BRG = { all_core = { add_core = THIS } }
-		set_country_flag = reclaim_burgundy
-		
-		}
-       
  
- }
  
  reclaim_savoy = {
  potential = {
@@ -94,7 +69,19 @@ reclaim_ocitania = {
 		effect = {
 		prestige = 10
 		badboy = 2
-		SVY = { all_core = { add_core = THIS } }
+		3628 = { add_core = THIS }
+		3526 = { add_core = THIS }
+		3631 = { add_core = THIS }
+		466 = { add_core = THIS }
+		465 = { add_core = THIS }
+		721 = { add_core = THIS }
+		608 = { add_core = THIS }
+		720 = { add_core = THIS }
+		469 = { add_core = THIS }
+		3251 = { add_core = THIS }
+		3629 = { add_core = THIS }
+		471 = { add_core = THIS }
+		470 = { add_core = THIS }
 		set_country_flag = reclaim_savoy
 		
 		}
@@ -145,7 +132,7 @@ reclaim_ocitania = {
                       }
 					  
 	    allow = {
-		
+		609 = { owned_by = THIS }
 		revolution_n_counterrevolution = 1
 		 war = no
 		}
@@ -155,7 +142,7 @@ reclaim_ocitania = {
 		badboy = 1
 		add_accepted_culture = arpitan
 		set_country_flag = embrace_the_arpitans
-		
+		NCT = { all_core = { add_core = THIS } }
 		}
        
  

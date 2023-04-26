@@ -21,7 +21,11 @@ political_decisions = {
 		
 		effect = {
 		prestige = 15
-		BRG = { all_core = { add_core = THIS } }
+		431 = { add_core = THIS }
+		433 = { add_core = THIS }
+		451 = { add_core = THIS }
+		452 = { add_core = THIS }
+		453 = { add_core = THIS }
 		set_country_flag = claim_burgundy
 		
 		}
@@ -49,7 +53,7 @@ political_decisions = {
 		effect = {
 		prestige = 10
 		badboy = 2
-		SVY = { all_core = { add_core = THIS } }
+		BRG = { all_core = { add_core = THIS } }
 		set_country_flag = claim_savoy
 		
 		}

@@ -225,35 +225,7 @@ political_decisions = {
  }
 
 
- saxon_claims_in_pomerania = {
-        potential = {
-            OR = { 
-			tag = WES
-            tag = NGF
-            tag = GER			
-							 }
-            NOT = { has_country_flag = saxon_claims_in_pomerania }
-            is_vassal = no
-        }
-        allow = {
-		war = no
-		WES = { all_core = { owned_by = THIS } }
-		NOT = {
-		PML = { OR = { 
-		           alliance_with = THIS 
-		           vassal_of = THIS 
-				                     }
-				   }
-		        }
-        }
-        effect = {
-		badboy = 1
-           add_core = 3855
-		   add_core = 681
-		   add_core = 680
-            set_country_flag = saxon_claims_in_pomerania
-        }
-    }
+ 
 	
 	
 	

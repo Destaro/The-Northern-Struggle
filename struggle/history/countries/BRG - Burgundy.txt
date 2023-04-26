@@ -6,7 +6,7 @@ government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.066917
-
+oob = "BRG_oob.txt"
 civilized = yes
 
 # Social Reforms
