@@ -1,6 +1,7 @@
 capital = 860
 primary_culture = aromanian
 culture = greek
+culture = tosk
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
