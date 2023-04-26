@@ -1,5 +1,5 @@
-owner = EPI
-controller = EPI
+owner = BYZ
+controller = BYZ
 add_core = GRE
 
 add_core = AOM
@@ -9,3 +9,4 @@ trade_goods = wool
 life_rating = 35
 
 add_core = EPI
+add_core = BYZ

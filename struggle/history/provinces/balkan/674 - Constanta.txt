@@ -1,5 +1,5 @@
-owner = DBJ
-controller = DBJ
+owner = BYZ
+controller = BYZ
 
 
 add_core = ROM

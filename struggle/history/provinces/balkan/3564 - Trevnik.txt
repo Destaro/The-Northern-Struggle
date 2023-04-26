@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
+owner = BYZ
+controller = BYZ
 add_core = DLM
 add_core = BOS
 

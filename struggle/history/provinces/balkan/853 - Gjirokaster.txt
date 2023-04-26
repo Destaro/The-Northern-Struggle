@@ -1,8 +1,9 @@
-owner = EPI
-controller = EPI
+owner = BYZ
+controller = BYZ
 
 
 trade_goods = cattle
 life_rating = 35
 
 add_core = EPI
+add_core = BYZ

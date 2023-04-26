@@ -1,6 +1,6 @@
-owner = RUM
-controller = RUM
-add_core = RUM
+owner = BYZ
+controller = BYZ
+
 
 trade_goods = cotton
 life_rating = 35

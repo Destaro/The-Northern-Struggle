@@ -1,5 +1,5 @@
-owner = AOM
-controller = AOM
+owner = BYZ
+controller = BYZ
 
 add_core = GRE
 trade_goods = coal
@@ -7,3 +7,4 @@ life_rating = 35
 
 add_core = AOM
 add_core = ROM
+add_core = BYZ

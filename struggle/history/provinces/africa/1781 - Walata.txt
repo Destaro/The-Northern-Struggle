@@ -1,6 +1,8 @@
-owner = TRZ
-controller = TRZ
+owner = BYZ
+controller = BYZ
 add_core = TRZ
 trade_goods = wool
 life_rating = 5
 colonial = 1
+
+add_core = BYZ

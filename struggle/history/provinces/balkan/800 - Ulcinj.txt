@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
+owner = BYZ
+controller = BYZ
 
 add_core = MON
 
@@ -7,3 +7,4 @@ trade_goods = grain
 life_rating = 35
 
 add_core = ALB
+add_core = BYZ

@@ -1,8 +1,9 @@
-owner = MOL
-controller = MOL
+owner = BYZ
+controller = BYZ
 add_core = MOL
 
 add_core = ROM
 trade_goods = timber
 life_rating = 35
+
 

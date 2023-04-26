@@ -1,5 +1,5 @@
-owner = MOL
-controller = MOL
+owner = BYZ
+controller = BYZ
 
 
 trade_goods = wool

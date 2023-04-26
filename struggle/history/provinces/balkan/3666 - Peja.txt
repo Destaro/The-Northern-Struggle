@@ -1,7 +1,9 @@
-owner = ALB
-controller = ALB
+owner = BYZ
+controller = BYZ
 
 add_core = BOS
 add_core = ALB
 trade_goods = iron
 life_rating = 35
+
+add_core = BYZ

@@ -1,7 +1,9 @@
-owner = RUM
-controller = RUM
+owner = BYZ
+controller = BYZ
 add_core = GRE
 add_core = MDV
-add_core = RUM
+
 trade_goods = grain
 life_rating = 35
+
+add_core = BYZ
