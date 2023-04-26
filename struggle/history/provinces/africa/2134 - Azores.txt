@@ -5,4 +5,3 @@ trade_goods = fruit
 life_rating = 35
 
 add_core = TLD
-add_core = IBR

@@ -8,4 +8,3 @@ terrain = small_island
 	naval_base = 1
 }
 
-add_core = IBR

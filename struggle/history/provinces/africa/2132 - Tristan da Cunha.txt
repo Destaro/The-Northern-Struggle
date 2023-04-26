@@ -5,4 +5,3 @@ life_rating = 20
 colonial = 2
 terrain = small_island
 
-add_core = IBR
