@@ -112,14 +112,15 @@ political_decisions = {
 		 
 		 we_are_roman = {
 	           potential = {
-			   tag = RUM		   
-			   has_country_flag = centralize_rumelia
+			   tag = BYZ	   
+			   
 			   NOT = { has_country_flag = we_are_roman }
 			  
 			   }
 	      
 		  allow = {
 		  is_greater_power = yes
+		  BYZ = { all_core = { owned_by = THIS } }
 		  749 = { owned_by = THIS }
 		  860 = { owned_by = THIS }
 		  754 = { owned_by = THIS }
