@@ -1,5 +1,5 @@
-owner = SAF
-controller = SAF
+owner = SCA
+controller = SCA
 add_core = SAF
 trade_goods = fruit
 life_rating = 35
