@@ -1,6 +1,7 @@
 owner = SCA
 controller = SCA
 add_core = ENL
+add_core = WHA
 trade_goods = iron
 naval_base = 1
 life_rating = 35
