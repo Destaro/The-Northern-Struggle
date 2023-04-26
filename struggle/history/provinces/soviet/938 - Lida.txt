@@ -1,5 +1,5 @@
-owner = PRD
-controller = PRD
+owner = LIT
+controller = LIT
 add_core = PRD
 add_core = LIT
 

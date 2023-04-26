@@ -1,7 +1,5 @@
 capital = 998
 primary_culture = russian
-culture = novgorodian
-culture = volga_german
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

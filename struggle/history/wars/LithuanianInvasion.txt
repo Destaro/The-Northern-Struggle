@@ -6,6 +6,7 @@ name = "Bolkanian Invasion Of The Baltics"
 	add_attacker = BYE
 	add_attacker = PRD
 	add_defender = SCA
+	add_defender = EST
 	add_defender = IZH
 	add_defender = NOV
 	add_defender = FIN
