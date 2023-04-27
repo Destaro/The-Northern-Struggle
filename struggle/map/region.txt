@@ -1626,7 +1626,7 @@ R_NORTH_QLD = { 2487 2488 2604 3354 } #North Queensland
 
 #AST_2244 = { 2244 2406 } #Christmas & Cocos Islands
 
-SPA_610 = { 610 2579 2519 2518 2522 } #Caroline Islands
+SPA_610 = { 610 2579 2518 2522 } #Caroline Islands
 
 HAW_658 = { 658 2524 2526 2623 } #Hawaiian Islands
 
