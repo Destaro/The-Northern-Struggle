@@ -5,13 +5,13 @@ name = "War for the Lotharingian Crown"
 	add_defender = LUX
 	
 	war_goal = {
-		casus_belli = civil_war
+		casus_belli = conquest
 		actor = LOR
 		receiver = LUX
 	}
 	
 	war_goal = {
-		casus_belli = civil_war
+		casus_belli = conquest
 		actor = LUX
 		receiver = LOR
 	}

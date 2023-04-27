@@ -151,7 +151,10 @@ political_decisions = {
                     casus_belli = acquire_state
                   state_province_id = 506
                 }
-				
+				attacker_goal = {
+				casus_belli = release_puppet
+                    tag = LST
+				}
 				attacker_goal = {
                     casus_belli = acquire_state
                   state_province_id = 514
@@ -182,18 +185,7 @@ political_decisions = {
 				
                    }
 				   
-    war = {
-                target = LST
-                
-				attacker_goal = {
-                    casus_belli = conquest_any
-                  
-                }
-               
-                defender_goal = { 
-				    casus_belli = cut_down_to_size }
-				
-                   }
+   
 	       
 		   }
 	
