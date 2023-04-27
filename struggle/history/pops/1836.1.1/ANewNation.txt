@@ -218,9 +218,8 @@
     }
 
     farmers = {
-        culture = lombard
+        culture = bavarian
         religion = catholic
-        size = 3000
+        size = 2500
     }
-
 }

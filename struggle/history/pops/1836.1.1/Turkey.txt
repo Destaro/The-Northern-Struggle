@@ -361,24 +361,24 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 20900
+		size = 21900
 	}
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 120
+		size = 220
 	}
 	
 	officers = {
 		culture = aromanian
 		religion = orthodox
-		size = 120
+		size = 220
 	}
 	
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 120
+		size = 1520
 	}
 
 	clergymen = {
@@ -390,48 +390,48 @@
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 5000
+		size = 13775
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 475
+		size = 21775
 	}
 	aristocrats = {
 		culture = armenian
 		religion = orthodox
-		size = 120
+		size = 200
 	}
 	
 	officers = {
 		culture = armenian
 		religion = orthodox
-		size = 120
+		size = 220
 	}
 	
 	soldiers = {
 		culture = armenian
 		religion = orthodox
-		size = 300
+		size = 750
 	}
 
 	clergymen = {
 		culture = armenian
 		religion = orthodox
-		size = 225
+		size = 425
 	}
 
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 5000
+		size = 9700
 	}
 
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 22775
+		size = 31775
 	}
 
 	clergymen = {
@@ -478,6 +478,30 @@
 	
 	farmers = {
 		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+	
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 775
+	}
+	
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 200
+	}
+	
+	farmers = {
+		culture = south_italian
 		religion = catholic
 		size = 1000
 	}

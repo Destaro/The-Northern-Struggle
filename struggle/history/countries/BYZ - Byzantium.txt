@@ -1,6 +1,6 @@
-capital = 834
-primary_culture = greek
-culture = aromanian
+capital = 860
+primary_culture = aromanian
+culture = greek
 culture = tosk
 religion = orthodox
 government = absolute_monarchy
@@ -8,8 +8,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.22
 civilized = yes
-prestige = 2
-oob = "BYZ_oob.txt"
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
