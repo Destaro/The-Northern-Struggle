@@ -14,3 +14,5 @@ party_loyalty = {
 	loyalty_value = 12
 }
 1861.1.1 = { railroad = 1 }
+
+add_core = SCA

@@ -1,6 +1,6 @@
 #Army
 army = {
-	name = "Ejército Cristino del Centro"
+	name = "Ejército del Centro"
 	location = 489
 	regiment = {
 		name= "1. Granaderos del Rey"
@@ -169,7 +169,7 @@ army = {
 }
 
 army = {
-	name = "Exército Português"
+	name = "Ejército Lusitano"
 	location = 521
 	regiment = {
 		name= "1. Brigada de Infantaria"
@@ -235,7 +235,7 @@ army = {
 
 
 navy = {
-	name = "Armada de Filipinas"
+	name = "Armada de Filipe"
 	location = 521
 	
 	ship = {
@@ -280,7 +280,7 @@ navy = {
 }
 
 navy = {
-	name = "Armada Real Española"
+	name = "Armada Real Toleda"
 	location = 521
 	ship = {
 		name= "San Raimundo"

@@ -1,10 +1,10 @@
-PBC = {
+LPL = {
 	value = -50
 }
 
 leader = {
 	name = "Marquês do Herval"
-	date = 1840.1.1
+	date = 1820.1.1
 	type = land
 	personality = relentless
 	background = cavalry_school
@@ -13,7 +13,7 @@ leader = {
 
 leader = {
 	name = "Luis Alves,Duque de Caxias"
-	date = 1841.1.1
+	date = 1811.1.1
 	type = land
 	personality = brilliant
 	background = innovative_tactician
@@ -22,7 +22,7 @@ leader = {
 
 leader = {
 	name = "José Maria Wandenkolk"
-	date = 1843.1.1
+	date = 1813.1.1
 	type = land
 	personality = coolminded
 	background = generals_aide
@@ -32,7 +32,7 @@ leader = {
 
 leader = {
 	name = "de Surui"
-	date = 1845.1.1 
+	date = 1815.1.1 
 	type = land
 	personality = imperious
 	background = powerful_friends
@@ -41,7 +41,7 @@ leader = {
 
 leader = {
 	name = "Marquês de Tamandaré"
-	date = 1847.1.1
+	date = 1817.1.1
 	type = sea
 	personality = audacious
 	background = natural_born_leader
@@ -50,7 +50,7 @@ leader = {
 
 leader = {
 	name = "Marques de Souza III"
-	date = 1850.1.1
+	date = 1830.1.1
 	type = land
 	personality = efficient
 	background = aristocrat
@@ -59,7 +59,7 @@ leader = {
 
 leader = {
 	name = "Jesuíno Lamego da Costa"
-	date = 1851.1.1
+	date = 1821.1.1
 	type = land
 	personality = active_p
 	background = armchair_general
@@ -68,7 +68,7 @@ leader = {
 
 leader = {
 	name = "de Itapevi"
-	date = 1861.1.1 #1851
+	date = 1821.1.1 #1851
 	type = land
 	personality = efficient
 	background = old_school
@@ -77,7 +77,7 @@ leader = {
 
 leader = {
 	name = "F. Manuel Barroso"
-	date = 1852.1.1
+	date = 1812.1.1
 	type = sea
 	personality = heroic
 	background = school_of_defense
@@ -85,7 +85,7 @@ leader = {
 }
 
 army = {
-	name = "I Corpo do exército"
+	name = "I Army Korps"
 	location = 2436
 	regiment = {
 		name= "1ª Brigada de Infantaria"
@@ -126,7 +126,7 @@ army = {
 }
 
 army = {
-	name = "II Corpo do exército"
+	name = "II Army Korps"
 	location = 2463
 	regiment = {
 		name= "4ª Brigada de Infantaria"
@@ -149,7 +149,7 @@ army = {
 }
 
 army = {
-	name = "III Corpo do exército"
+	name = "III Army Korps"
 	location = 2434
 	regiment = {
 		name= "4ª Brigada de Infantaria"
@@ -199,7 +199,7 @@ navy = {
 
 
 army = {
-	name = "Exército Imperial"
+	name = "Imperial Army"
 	location = 2447
 	regiment = {
 		name= "1. Brigada de Infantaria"
@@ -291,7 +291,7 @@ leader = {
 }
 
 army = {
-	name = "Ejército del Paraguay"
+	name = "Guarani Armies"
 	location = 2341
 	regiment = {
 		name= "1.1ra división de infantería"
@@ -389,7 +389,7 @@ leader = {
 }
 
 army = {
-	name = "Ejército de Uruguay"
+	name = "Port Garrison"
 	location = 2344
 	regiment = {
 		name= "1.1ra división de infantería"
@@ -412,7 +412,7 @@ army = {
 }
 
 army = {
-	name = "Exercito Gaucho"
+	name = "Army of the South"
 	location = 2463
 
 	regiment = {

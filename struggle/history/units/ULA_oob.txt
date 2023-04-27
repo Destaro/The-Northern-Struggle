@@ -48,7 +48,7 @@ leader = {
 }
 	
 army = {
-	name = "Army of Northern Virginia"
+	name = "Army of the Northern border"
 	location = 211
 
 	leader = {
@@ -221,7 +221,7 @@ army = {
 }
 
 army = {
-	name = "Army of the Mississpi"
+	name = "Army of the Lake"
 	
 	leader = {
 		name = "Braxton Bragg"
@@ -258,7 +258,7 @@ army = {
 
 
 navy = {
-	name = "CSN"
+	name = "Defense Armada"
 	location = 204
 	ship = {
 		name= "CSS Sumter"

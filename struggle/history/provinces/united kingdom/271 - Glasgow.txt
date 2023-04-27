@@ -44,3 +44,5 @@ state_building = {
 
 	railroad = 3 
 }
+
+add_core = SCA

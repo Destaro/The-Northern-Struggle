@@ -1,5 +1,5 @@
 army = {
-	name = "Mansure Army"
+	name = "Thrace Army"
 	location = 859
 	regiment = {
 		name= "1. Piyade Alayı"
@@ -98,7 +98,7 @@ leader = {
 
 leader = {
 	name = "Milivoje Blaznavac"
-	date = 1861.1.1
+	date = 1821.1.1
 	type = land
 	personality = openminded
 	background = artillerist
@@ -126,7 +126,7 @@ army = {
 
 
 army = {
-	name = "Serbian Army"
+	name = "Aromanian Army"
 	location = 668
 	regiment = {
 		name= "1.1. Division"
@@ -282,7 +282,7 @@ navy = {
 }
 
 army = {
-	name = "Army of the Principality of Wallachia"
+	name = "Army of Wallachia"
 	location = 786
 	regiment = {
 		name= "1st Wallachia Infantry"

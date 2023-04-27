@@ -1,5 +1,5 @@
 army = {
-	name = "Royal Canadian Army"
+	name = "Royal Vinlandic Army"
 	location = 57
 	regiment = {
 		name= "1.1. Canadian Division"
@@ -22,7 +22,7 @@ army = {
 }
 
 army = {
-	name = "The Montreal Garrison"
+	name = "The home Garrison"
 	location = 58
 	
 	regiment = {
@@ -75,7 +75,7 @@ army = {
 }
 
 army = {
-	name = "The Toronto Garrison"
+	name = "The Moshva Garrison"
 	location = 46
 	
 	regiment = {

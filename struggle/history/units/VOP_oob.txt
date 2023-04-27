@@ -35,7 +35,7 @@ leader = {
 }
 
 army = {
-	name = "Ejército de Bolivia"
+	name = "Army of the Quechua"
 	location = 2313 #Chuquisaca (Sucre)
 	regiment = {
 		name= "1. Brigada de Infanteria"
@@ -54,23 +54,20 @@ army = {
 		type = infantry
 		home = 2311
 	}
-}
-
-army = {
-	name = "Ejército de Bolivia"
-	location = 2310 #La Paz
 	regiment = {
-		name= "1. Brigada de Infanteria"
-		type = infantry
+		name= "1. Cavalry Brigade"
+		type = cavalry
 		home = 2313
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanteria"
-		type = infantry
+		name= "2. Cavalry Brigade"
+		type = cavalry
 		home = 2310
 	}
 }
+
+
 
 leader = {
 	name = "Valencia Melgarejo"
@@ -82,7 +79,7 @@ leader = {
 }
 
 army = {
-	name = "Ejército de Boliviados"
+	name = "Army of the Aimara"
 	location = 2310
 	regiment = {
 		name= "1.1ra división de infantería"
@@ -115,7 +112,7 @@ leader = {
 	}
 	
 navy = {
-	name = "French Corsairs"
+	name = "Frankish mercenaries"
 	location = 2305
 	ship = {
 		name = "Edmond"
@@ -135,7 +132,7 @@ navy = {
 	}
 	
 	army = {
-	name = "Ejército del Perú"
+	name = "Tawatinsuyu Army"
 	location = 2295
 	regiment = {
 		name= "1.1ra división de infantería"
@@ -151,20 +148,38 @@ navy = {
 
 	regiment = {
 		name= "3.1ra división de infantería"
-		type = infantry
+		type = artillery
 		home = 2298
 	}
 	
 	regiment = {
 		name= "4.1ra división de infantería"
-		type = infantry
+		type = artillery
 		home = 2302
 	}
+    
+	regiment = {
+		name= "1. Cavalry Brigade"
+		type = cavalry
+		home = 2295
+	}
 
+	regiment = {
+		name= "2. Cavalry Brigade"
+		type = cavalry
+		home = 2295
+	}
+
+	regiment = {
+		name= "3. Cavalry Brigade"
+		type = cavalry
+		home = 2302
+	}
 }
 
+
 navy = {
-	name = "Marina de Guerra del Peru"
+	name = "Incan War Navy"
 	location = 2295
 	ship = {
 		name= "Monteagudo"
@@ -175,12 +190,6 @@ navy = {
 		name= "Santa Cruz"
 		type = frigate
 	}
-
-}
-
-navy = {
-	name = "Peruvian Fleet"
-	location = 2295
 	ship = {
 		name= "Amazonas"
 		type = frigate

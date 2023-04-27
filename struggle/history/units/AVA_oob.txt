@@ -37,7 +37,7 @@ leader = {
 
 
 army = {
-	name = "Army of the Potomac"
+	name = "The Army of Paradise"
 	
 	leader = {
 		name = "George B. McClellan"
@@ -119,7 +119,7 @@ army = {
 }
 
 army = {
-	name = "Army of Virginia"
+	name = "Army of Victory"
 
 	leader = {
 		name = "John Pope"
@@ -160,7 +160,7 @@ army = {
 
 army = {
 	
-	name = "Army of the Mississippi"
+	name = "Army of the Great lakes"
 
 	leader = {
 		name = "Ulysses S. Grant"
@@ -194,7 +194,7 @@ army = {
 }
 
 army = {
-	name = "Army of the Ohio"
+	name = "Army of the Plains"
 
 	leader = {
 		name = "Don Carlos Buell"
@@ -385,7 +385,7 @@ navy = {
 }
 
 navy = {
-	name = "South Atlantic Block'g Squadron"
+	name = "South Atlantic Squadron"
 	
 	leader = {
 		name = "Samuel F. DuPont"

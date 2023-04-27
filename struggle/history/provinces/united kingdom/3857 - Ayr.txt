@@ -4,3 +4,5 @@ add_core = NOR
 add_core = SCO
 trade_goods = coal
 life_rating = 35
+
+add_core = SCA
