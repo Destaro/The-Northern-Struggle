@@ -20,6 +20,10 @@ state_building = {
 	building = small_arms_factory
 	upgrade = yes
 }
-
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}
 
 add_core = SCA
