@@ -55,6 +55,7 @@ claim_holy_land
 restore_british_raj
 unification_casus_belli
 civil_war
+ruthenia_acquire_state
 unification_annex_casus_belli
 annex_core_country
 unification_add_to_sphere
@@ -7141,5 +7142,80 @@ war_reparations = {
 			value = 0.25
 		}
 	}
+}
+ruthenia_acquire_state = {
+    sprite_index = 2
+    months = 12
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 0
+    break_truce_militancy_factor = 0
+    truce_months = 6
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+
+    can_use = {
+        NOT = { is_our_vassal = THIS }
+        number_of_states = 2
+        neighbour = THIS
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = RUT
+            }
+            primary_culture = russian
+        }
+        THIS = {
+            OR = {
+                primary_culture = russian
+            }
+            NOT = {
+                has_country_modifier = neutrality
+                war_policy = pacifism
+            }
+        }
+        is_vassal = no
+        OR = {
+            war_with = THIS
+            THIS = {
+                NOT = { has_country_modifier = no_more_war }
+            }
+        }
+    }
+
+    allowed_states = {
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = RUT
+            }
+            any_owned_province = {
+                owner = { primary_culture = russian }
+                NOT = { is_core = RUT }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_RUTHENIA_UNIFICATION
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.10
+        }
+    }
 }
 
