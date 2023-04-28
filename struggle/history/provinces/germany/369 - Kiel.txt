@@ -17,3 +17,4 @@ naval_base = 1
 	}
 }
 add_core = WES
+add_core = SCA

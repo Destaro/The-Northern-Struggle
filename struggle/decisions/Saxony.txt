@@ -4,9 +4,7 @@ political_decisions = {
  potential = {
              
 			OR = {
-			tag = WES
-			tag = NGF
-			tag = GER
+			
 			tag = MRV
 			}
          NOT = {
@@ -15,12 +13,18 @@ political_decisions = {
                       }
 					  
 	    allow = {
-		 SAX = { all_core = { owned_by = THIS } }
+		nationalism_n_imperialism = 1
+		owns = 687
+		owns = 3514
 		 war = no
 		}
 		
 		effect = {
-		SAX = { all_core = { add_core = THIS } }
+		687 = { add_core = THIS }
+		558 = { add_core = THIS }
+		3514 = { add_core = THIS }
+		3512 = { add_core = THIS }
+		552 = { add_core = THIS }
 		set_country_flag = integrate_lausic
 		
 		}

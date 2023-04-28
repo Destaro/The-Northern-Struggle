@@ -1,5 +1,6 @@
 capital = 3636
 primary_culture = romansh
+culture = venetian
 religion = catholic
 government = theocracy
 plurality = 0.0

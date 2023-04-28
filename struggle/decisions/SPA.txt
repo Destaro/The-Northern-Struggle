@@ -206,7 +206,7 @@ political_decisions = {
 			prestige = 50
 			is_greater_power = yes
 			nationalism_n_imperialism = 1
-			TLD = {
+			IBR = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -222,84 +222,6 @@ political_decisions = {
 				}
 			}
 			
-			GLC = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-						owner = {
-							vassal_of = THIS
-							war = no
-						}
-					}
-				}
-			}
-			
-			VND = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-						owner = {
-							vassal_of = THIS
-							war = no
-						}
-					}
-				}
-			}
-			
-			ANU = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-						owner = {
-							vassal_of = THIS
-							war = no
-						}
-					}
-				}
-			}
-			
-			BSQ = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-						owner = {
-							vassal_of = THIS
-							war = no
-						}
-					}
-				}
-			}
-			LST = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-						owner = {
-							vassal_of = THIS
-							war = no
-						}
-					}
-				}
-			}
 			498 = {
 				OR = {
 					owned_by = THIS

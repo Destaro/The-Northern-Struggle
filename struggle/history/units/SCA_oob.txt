@@ -321,7 +321,7 @@ army = {
 
 army = {
 	name = "Svenska Armén"
-	location = 322
+	location = 349
 	regiment = {
 		name= "Svea Livgarde"
 		type = guard
@@ -359,7 +359,7 @@ army = {
 	regiment = {
 		name= "Södra Skånska Infanteriregementet"
 		type = infantry
-		home = 334
+		home = 3859
 	}
 	
 	regiment = {
@@ -379,7 +379,7 @@ army = {
 	regiment = {
 		name= "Södra Skånska Infanteriregementet"
 		type = infantry
-		home = 3515
+		home = 3373
 	}
 	
 	regiment = {
@@ -391,7 +391,7 @@ army = {
 	regiment = {
 		name= "Södra Skånska Infanteriregementet"
 		type = infantry
-		home = 546
+		home = 3857
 	}
 
 	regiment = {
@@ -1575,17 +1575,17 @@ army = {
     regiment = {
         name= "1. Landvern"
         type = guard
-        home = 3490
+        home = 1919
     }
 
     regiment = {
-        name= "1. Landvern"
+        name= "2. Landvern"
         type = guard
         home = 312
     }
 
     regiment = {
-        name= "1. Landvern"
+        name= "3. Landvern"
         type = guard
         home = 312
     }

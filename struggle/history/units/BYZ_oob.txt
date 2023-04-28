@@ -127,7 +127,7 @@ army = {
 
 army = {
 	name = "Aromanian Army"
-	location = 668
+	location = 795
 	regiment = {
 		name= "1.1. Division"
 		type = infantry

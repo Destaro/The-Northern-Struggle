@@ -4,7 +4,7 @@ army = {
 	regiment = {
 		name= "I. Suomen Tarkk’ampujapataljoona"
 		type = guard
-		home = 343
+		home = 345
 	}
 
 	regiment = {

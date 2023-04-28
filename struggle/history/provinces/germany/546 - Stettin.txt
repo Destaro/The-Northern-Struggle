@@ -6,6 +6,11 @@ trade_goods = fish
 life_rating = 35
 terrain = stettin
 #naval_base = 1
+state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}
 1861.1.1 = {
 	state_building = {
 		level = 1

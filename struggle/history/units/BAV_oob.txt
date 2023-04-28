@@ -65,35 +65,35 @@ army = {
 
 army = {
 	name = "II. Korps"
-	location = 595
+	location = 3673
 	regiment = {
 		name= "5. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
-		home = 595
+		home = 622
 	}
 
 	regiment = {
 		name= "6. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
-		home = 595
+		home = 622
 	}
 
 	regiment = {
 		name= "7. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
-		home = 597
+		home = 622
 	}
 
 }
 
 army = {
 	name = "III. Korps"
-	location = 571
+	location = 3670
 	
 	regiment = {
 		name = "8. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
-		home = 571
+		home = 3670
 	}
 }
 

@@ -1,6 +1,7 @@
 owner = SCA
 controller = SCA
 add_core = ENL
+add_core = SCA
 trade_goods = grain
 life_rating = 35
 party_loyalty = {
