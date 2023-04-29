@@ -3,31 +3,31 @@
 #Zomba (208000/52000 POPS) 
 2066 = {
 	aristocrats = {
-		culture = chewa
+		culture = Pauperes
 		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = chewa
+		culture = Pauperes
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = chewa
+		culture = Pauperes
 		religion = animist
 		size = 1450
 	}
 
 	soldiers = {
-		culture = chewa
+		culture = Pauperes
 		religion = animist
-		size = 300
+		size = 2500
 	}
 
 	farmers = {
-		culture = chewa
+		culture = Pauperes
 		religion = animist
 		size = 26400
 	}

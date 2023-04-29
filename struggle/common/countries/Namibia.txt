@@ -1,6 +1,6 @@
-color = { 215  66  244 }
-colonial_company = { 120 100 70 }
-dominion = { 120 100 70 }
+color = { 105  200  199 }
+colonial_company = { 105  114  200 }
+dominion = { 105  114  200 }
 graphical_culture = AfricanGC
 
 party = {

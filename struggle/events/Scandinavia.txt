@@ -619,7 +619,8 @@ country_event = {
 		             
 		war = {
 			target = SCA
-			attacker_goal = { casus_belli = status_quo }
+			attacker_goal = { casus_belli = acquire_core_state
+                    			state_province_id = 2087 }
 			defender_goal = { casus_belli = make_puppet }
 		}
 		

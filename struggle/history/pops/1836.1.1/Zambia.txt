@@ -417,45 +417,50 @@
 #Senanga (52000/13000 POPS) 
 2013 = {
 	aristocrats = {
-		culture = lunda
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 225
 	}
 
 	bureaucrats = {
-		culture = lunda
-		religion = animist
-		size = 10
+		culture = Pauperes
+		religion = protestant
+		size = 100
 	}
 
 	officers = {
-		culture = lunda
-		religion = animist
-		size = 65
+		culture = Pauperes
+		religion = protestant
+		size = 165
 	}
 
 	clergymen = {
-		culture = lunda
-		religion = animist
-		size = 125
+		culture = Pauperes
+		religion = protestant
+		size = 525
 	}
 
 	artisans = {
-		culture = lunda
-		religion = animist
-		size = 500
+		culture = Pauperes
+		religion = protestant
+		size = 1500
 	}
 
 	soldiers = {
-		culture = lunda
-		religion = animist
-		size = 125
+		culture = Pauperes
+		religion = protestant
+		size = 2125
+	}
+	farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 18950
 	}
 
 	farmers = {
 		culture = lunda
 		religion = animist
-		size = 8950
+		size = 28950
 	}
 
 	aristocrats = {
@@ -565,29 +570,35 @@
 #Monzo (108000/27000 POPS) 
 2015 = {
 	aristocrats = {
-		culture = lunda
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 475
 	}
 
 	clergymen = {
-		culture = lunda
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = lunda
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = lunda
-		religion = animist
-		size = 250
+		culture = Pauperes
+		religion = protestant
+		size = 2250
 	}
 
+farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 20025
+	}
+	
 	farmers = {
 		culture = lunda
 		religion = animist

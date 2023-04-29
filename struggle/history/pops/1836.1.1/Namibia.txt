@@ -3,27 +3,27 @@
 #Windhoek (72000/18000 POPS)
 2078 = {
 	aristocrats = {
-		culture = herero
+		culture = Serklander
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 50
+		size = 550
 	}
 
 	artisans = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 300
+		size = 1300
 	}
 
 	soldiers = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 75
+		size = 2075
 	}
 
 	farmers = {
@@ -33,9 +33,9 @@
 	}
 	
 	farmers = {
-		culture = herero
+		culture = Serklander
 		religion = protestant
-		size = 300
+		size = 7300
 	}
 
 	aristocrats = {
@@ -77,33 +77,39 @@
 #Swakopmund (52000/13000 POPS)
 2079 = {
 	aristocrats = {
-		culture = herero
+		culture = Serklander
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 100
+		size = 1100
 	}
 
 	artisans = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 450
+		size = 2450
 	}
 
 	soldiers = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 100
+		size = 2100
 	}
 
+    farmers = {
+		culture = Serklander
+		religion = animist
+		size = 28200
+	}
+	
 	farmers = {
 		culture = herero
 		religion = animist
-		size = 8200
+		size = 38200
 	}
 
 	aristocrats = {
@@ -331,27 +337,33 @@
 #Angra Pequena (28000/7000 POPS)
 2084 = {
 	aristocrats = {
-		culture = khoisan
+		culture = Serklander
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = Serklander
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = Serklander
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = Serklander
 		religion = animist
-		size = 75
+		size = 1075
+	}
+	
+	farmers = {
+		culture = Serklander
+		religion = animist
+		size = 16375
 	}
 
 	farmers = {

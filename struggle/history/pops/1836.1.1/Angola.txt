@@ -3,25 +3,25 @@
 #Luanda (164000/41000 POPS)
 1999 = {
 	aristocrats = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 100
 	}
@@ -387,29 +387,35 @@
 #Mocamedes (116000/29000 POPS)
 2004 = {
 	aristocrats = {
-		culture = herero
+		culture = Serklander
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = herero
+		culture = Serklander
 		religion = animist
 		size = 600
 	}
 
 	artisans = {
-		culture = herero
+		culture = Serklander
 		religion = animist
-		size = 750
+		size = 1750
 	}
 
 	soldiers = {
-		culture = herero
+		culture = Serklander
 		religion = animist
 		size = 300
 	}
 
+    farmers = {
+		culture = Serklander
+		religion = animist
+		size = 11250
+	}
+	
 	farmers = {
 		culture = herero
 		religion = animist
@@ -466,27 +472,33 @@
 #Kuito (148000/37000 POPS)
 2006 = {
 	aristocrats = {
-		culture = ovimbundu
+		culture = Pauperes
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = ovimbundu
+		culture = Pauperes
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = ovimbundu
+		culture = Pauperes
 		religion = animist
 		size = 1800
 	}
 
 	soldiers = {
-		culture = ovimbundu
+		culture = Pauperes
 		religion = animist
-		size = 400
+		size = 1400
+	}
+	
+	farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 10700
 	}
 
 	farmers = {
@@ -504,29 +516,34 @@
 #Mavinga (80000/20000 POPS)
 2007 = {
 	aristocrats = {
-		culture = lunda
+		culture = Pauperes
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = lunda
+		culture = Pauperes
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = lunda
+		culture = Pauperes
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = lunda
+		culture = Pauperes
 		religion = animist
-		size = 50
+		size = 1050
 	}
 
+	farmers = {
+		culture = Pauperes
+		religion = animist
+		size = 12400
+	}
 	farmers = {
 		culture = lunda
 		religion = animist

@@ -296,33 +296,33 @@
 #Sena (176000/43000 POPS)
 2053 = {
 	aristocrats = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 150
+		size = 450
 	}
 	
 	farmers = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 1000
+		size = 5000
 	}
 
 	aristocrats = {
@@ -424,33 +424,33 @@
 #Quelimane (84000/21000 POPS)
 2059 = {
 	aristocrats = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 100
+		size = 500
 	}
 
 	artisans = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 125
+		size = 1125
 	}
 
 	soldiers = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 100
+		size = 1100
 	}
 	
 	farmers = {
-		culture = frankish
+		culture = Pauperes
 		religion = catholic
-		size = 200
+		size = 20200
 	}
 
 	aristocrats = {
@@ -541,27 +541,32 @@
 #Tete (104000/26000 POPS)
 2054 = {
 	aristocrats = {
-		culture = shona
+		culture = Pauperes
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = shona
+		culture = Pauperes
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = shona
+		culture = Pauperes
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = shona
+		culture = Pauperes
 		religion = animist
 		size = 150
+	}
+	farmers = {
+		culture = Pauperes
+		religion = animist
+		size = 4125
 	}
 
 	farmers = {
@@ -645,29 +650,35 @@
 #Songo (164000/41000 POPS)
 2055 = {
 	aristocrats = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 400
 	}
 
 	artisans = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 2000
 	}
 
 	soldiers = {
-		culture = shona
-		religion = animist
-		size = 450
+		culture = Pauperes
+		religion = protestant
+		size = 2450
 	}
 
+   farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 25700
+	}
+	
 	farmers = {
 		culture = shona
 		religion = animist
@@ -787,29 +798,34 @@
 #Sofala (144000/36000 POPS)
 2057 = {
 	aristocrats = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = shona
-		religion = animist
-		size = 100
+		culture = Pauperes
+		religion = protestant
+		size = 1100
 	}
 
+farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 27800
+	}
 	farmers = {
 		culture = shona
 		religion = animist
@@ -915,29 +931,35 @@
 #Mossurize (136000/34000 POPS)
 2058 = {
 	aristocrats = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 3350
 	}
 
 	clergymen = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = shona
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 1750
 	}
 
 	soldiers = {
-		culture = shona
-		religion = animist
-		size = 350
+		culture = Pauperes
+		religion = protestant
+		size = 2350
 	}
-
+    
+	farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 30275
+	}
+	
 	farmers = {
 		culture = shona
 		religion = animist
@@ -1259,29 +1281,34 @@
 #Milange (108000/27000 POPS)
 2065 = {
 	aristocrats = {
-		culture = sena
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = sena
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = sena
-		religion = animist
+		culture = Pauperes
+		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = sena
-		religion = animist
-		size = 300
+		culture = Pauperes
+		religion = protestant
+		size = 1300
 	}
 
+    farmers = {
+		culture = Pauperes
+		religion = protestant
+		size = 8450
+	} 
 	farmers = {
 		culture = sena
 		religion = animist
