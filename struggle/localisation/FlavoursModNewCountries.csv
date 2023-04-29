@@ -214,9 +214,9 @@ KOR_colonial_company;Chosen;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 KOR_dominion;Chosen;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 TAI_colonial_company;Takasago;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 TAI_dominion;Takasago;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-SAF_hms_government;The Union of South Africa;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-SAF_colonial_company;The Cape Colony;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
-SAF_dominion;The Cape Colony;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+SAF_hms_government;Midgard;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+SAF_colonial_company;Nýr-Heima;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
+SAF_dominion;Nýr-Heima;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 PHL_colonial_company;Lupang Colony;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 MAD_absolute_monarchy;The Merina Kingdom;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
 MAD_colonial_company;Protectorat de Madagascar;;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -248,8 +248,8 @@ ALD_dominion;Nundia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 MGH_dominion;Maziçia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 MOR_dominion;Mauria;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 COL_hms_government;The Dominion of Columbia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
-NMB_colonial_company;Südwestafrika;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
-NMB_dominion;Südwestafrika;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
+NMB_colonial_company;Nýr-Heima;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
+NMB_dominion;Nýr-Heima;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 TNZ_colonial_company;Ostafrika;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 TNZ_dominion;Ostafrika;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,
 AUS_absolute_monarchy;The Austrian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;,

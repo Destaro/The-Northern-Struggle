@@ -1,5 +1,5 @@
 capital = 2105
-primary_culture = boer
+primary_culture = Pauperes
 religion = protestant
 government = democracy
 plurality = 25.0

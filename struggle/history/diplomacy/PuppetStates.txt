@@ -111,7 +111,13 @@ substate = {
 	first = SCA
 	second = FIN
 	start_date = 1815.1.1
-	end_date = 1863.1.1
+	end_date = 1935.1.1
+}
+substate = {
+	first = SCA
+	second = SAF
+	start_date = 1815.1.1
+	end_date = 1935.1.1
 }
 ##sca-vin
 substate = {
