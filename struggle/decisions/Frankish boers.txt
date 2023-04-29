@@ -32,6 +32,7 @@ potential = {
 	2002 = { add_core = THIS }
 	1999 = { add_core = THIS }
 	2003 = { add_core = THIS }
+	2004 = { add_core = THIS }
 	change_tag = VLK
 	prestige = 10
 	}
