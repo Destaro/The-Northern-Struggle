@@ -62,3 +62,8 @@ JAN_socialist;Arbeiderparti;x,,
 JAN_anarcho_liberal;Radicals;x,,
 JAN_communist;Communists;x,,
 JAN_fascist;Nasjonal Samling;x,,
+NORMAL_WAR_RUTHENIA_UNIFICATION;$ORDER$Reunification of Ruthenia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+ruthenia_acquire_state;Ruthene Reunification;Prendre ?at;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+ruthenia_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+ruthenia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+ruthenia_acquire_state_desc;Acquire a Ruthene state.;Prendre un ??at? ennemi;Erobern Sie einen feindlichen ?Staat?.;;;;;;;;;;;x,,,
