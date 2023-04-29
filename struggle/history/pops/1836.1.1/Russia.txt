@@ -1127,13 +1127,13 @@
 	officers = {
 		culture = russian
 		religion = orthodox
-		size = 50
+		size = 150
 	}
 
 	clergymen = {
 		culture = russian
 		religion = orthodox
-		size = 125
+		size = 525
 	}
 
 	artisans = {
@@ -1145,7 +1145,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 325
+		size = 2325
 	}
 
 	farmers = {
@@ -1391,19 +1391,19 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 4200
+		size = 24200
 	}
 
 	farmers = {
 		culture = finnish
 		religion = orthodox
-		size = 1000
+		size = 11000
 	}
 }
 #Mezen Region (54000)
@@ -1411,33 +1411,33 @@
 #Mezen (22600/5650 POPS)
 985 = {
 	bureaucrats = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 80
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
-		size = 50
+		size = 850
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
-		size = 3610
+		size = 13610
 	}
 
 	clergymen = {
@@ -1558,11 +1558,22 @@
 		religion = animist
 		size = 10
 	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 1000
+	}
+
 
 	farmers = {
 		culture = ugrian
 		religion = animist
 		size = 915
+	}
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 19015
 	}
 }
 #Naryan-Mar Region (16200)
@@ -1746,7 +1757,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 1850
+		size = 3850
 	}
 
 	farmers = {
@@ -1790,25 +1801,25 @@
 	clergymen = {
 		culture = russian
 		religion = orthodox
-		size = 25
+		size = 125
 	}
 
 	artisans = {
 		culture = russian
 		religion = orthodox
-		size = 50
+		size = 1050
 	}
 
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 900
+		size = 30900
 	}
 
 	clergymen = {
@@ -1858,7 +1869,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
@@ -1896,7 +1907,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 950
+		size = 2950
 	}
 
 	farmers = {
@@ -1934,7 +1945,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 200
+		size = 1200
 	}
 
 	farmers = {
