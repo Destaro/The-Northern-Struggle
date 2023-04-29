@@ -27,6 +27,7 @@ political_decisions = {
 		}
 		
 		effect = {
+		change_tag = WRE
 			set_global_flag = the_eagle_rose_in_the_west
 			prestige = 30
 			badboy = -5
@@ -95,6 +96,7 @@ political_decisions = {
 		}
 		
 		effect = {
+		change_tag = WRE
 			set_global_flag = the_eagle_rose_in_the_west
 			prestige = 30
 			badboy = -5
@@ -166,6 +168,7 @@ political_decisions = {
 		}
 		
 		effect = {
+		change_tag = WRE
 			set_global_flag = the_eagle_rose_in_the_west
 			prestige = 30
 			badboy = -5

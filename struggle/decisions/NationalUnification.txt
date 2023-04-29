@@ -162,6 +162,7 @@ political_decisions = {
 				tag = FSA
 				tag = CSA
 				tag = URP
+				tag = BYZ
 			}
 		}
 		

@@ -1,3 +1,3 @@
-name = "The Northern Struggle - HFM PORT"
+name = "The Northern Struggle"
 path = "mod/struggle"
 user_dir = "struggle"
