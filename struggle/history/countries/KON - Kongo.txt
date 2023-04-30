@@ -51,6 +51,9 @@ upper_house = {
 	communist = 0
 }
 
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+
 set_country_flag = lacking_writing_system
 set_country_flag = delay_unciv_annexation
 
