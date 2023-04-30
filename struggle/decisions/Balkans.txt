@@ -94,6 +94,7 @@ political_decisions = {
 		potential = {
 			NOT = { tag = URP }
 			NOT = {
+			has_global_flag = create_romania
 				exists = ROM
 				is_culture_group = pan_romanian
 				AND = {
@@ -127,6 +128,7 @@ political_decisions = {
 			}
 		}
 		effect = {
+		set_global_flag = create_romania
 			prestige = 20
 			badboy = 2
 			any_country = {
