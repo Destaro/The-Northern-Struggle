@@ -905,6 +905,50 @@
 	
 	            }
 	}
+	
+	integrate_the_edge_of_the_world = {
+	potential = {
+	
+	tag = SCA
+	
+	        
+	NOT = { has_country_flag = integrate_the_edge_of_the_world
+	                                              }
+	      SAF = { vassal_of = THIS }
+		  
+		  }
+		  
+	allow = {
+	SAF = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+	revolution_n_counterrevolution = 1
+	year = 1880
+	war = no
+	   SAF = { vassal_of = THIS }
+	  
+	is_greater_power = yes
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_the_edge_of_the_world
+	inherit = SAF
+	add_accepted_culture = boer
+	prestige = 5
+	
+	
+	
+	            }
+	}
 
 
 	
