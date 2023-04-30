@@ -10,7 +10,7 @@ form_ruthenia = {
 				   }
 			NOT = {
 				exists = RUT
-				
+				tag = BUL
 			}
 		}	
 		allow = {
