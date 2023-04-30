@@ -19,6 +19,8 @@ potential = {
 	owns = 2011
 	}
 	effect = {
+	add_accepted_culture = nguni
+	add_accepted_culture = lunda
 	set_country_flag = form_volkstaat
 	GAZ = { all_core = { add_core = THIS } }
 	AGC = { all_core = { add_core = THIS } }
@@ -61,6 +63,7 @@ potential = {
 	owns = 2051
 	}
 	effect = {
+	add_accepted_culture = nguni
 	add_accepted_culture = boer
     add_accepted_culture = Serklander
 	add_accepted_culture = Pauperes
