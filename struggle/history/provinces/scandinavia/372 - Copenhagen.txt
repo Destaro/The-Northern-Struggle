@@ -1,6 +1,6 @@
 owner = SCA
 controller = SCA
-add_core = DEN
+
 trade_goods = precious_goods
 life_rating = 35
 terrain = copenhagen

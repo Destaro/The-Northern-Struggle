@@ -2285,31 +2285,31 @@
 #Channel Islands (72000/18000 POPS)
 419 = {
 	aristocrats = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 125
 	}
 
 	soldiers = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 2075
 	}

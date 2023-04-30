@@ -3,19 +3,19 @@
 #Godthab (4220/1055 POPS)
 251 = {
 	bureaucrats = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 23
 	}
 
 	artisans = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 23
 	}

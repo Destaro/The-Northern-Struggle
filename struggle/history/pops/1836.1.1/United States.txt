@@ -566,7 +566,7 @@
 	}
 	
 	farmers = {
-		culture = norwegian
+		culture = new_mongol
 		religion = protestant
 		size = 1100
 	}
@@ -598,7 +598,7 @@
 	}
 	
 	farmers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 10
 	}
@@ -1107,25 +1107,25 @@
 93 = {
 
 	clergymen = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 30
 	}
@@ -2097,37 +2097,37 @@
 #Bismarck (8000/2000 POPS)
 117 = {
 	aristocrats = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 30
 	}
@@ -2160,37 +2160,37 @@
 118 = {
 
 	aristocrats = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 30
 	}
@@ -2276,37 +2276,37 @@
 120 = {
 
 	aristocrats = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 30
 	}
@@ -2442,37 +2442,37 @@
 123 = {
 
 	aristocrats = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 	
 	clergymen = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = dakota
 		religion = protestant
 		size = 30
 	}
@@ -2517,25 +2517,25 @@
 124 = {
 	
 	clergymen = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 30
 	}
@@ -2556,19 +2556,19 @@
 125 = {
 	
 	clergymen = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 20
 	}
@@ -2655,25 +2655,25 @@
 127 = {
 	
 	clergymen = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = norwegian
+		culture = native_american_minor
 		religion = protestant
 		size = 30
 	}
