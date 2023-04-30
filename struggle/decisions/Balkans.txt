@@ -92,7 +92,9 @@ political_decisions = {
 
 	create_romania = {
 		potential = {
-			NOT = { tag = URP }
+			NOT = { 
+			tag = BYZ 
+			tag = URP }
 			NOT = {
 			has_global_flag = create_romania
 				exists = ROM

@@ -1,4 +1,37 @@
 political_decisions = {
+
+form_the_deserters = {
+potential = { 
+  OR = {
+       tag = NMB
+	   tag = SAF
+	   }
+	    NOT = { exists = NAL
+		has_country_flag = form_the_deserters }
+		
+		           }
+				   
+	allow = { 
+	war = no
+	ZUL = { all_core = { owned_by = THIS } }
+	NMB = { all_core = { owned_by = THIS } }
+	TSW = { all_core = { owned_by = THIS } }
+	owns = 2056
+	owns = 2011
+	}
+	effect = {
+	set_country_flag = form_the_deserters
+	GAZ = { all_core = { add_core = THIS } }
+	NMB = { all_core = { add_core = THIS } }
+    ZUL = { all_core = { add_core = THIS } }
+	SAF = { all_core = { add_core = THIS } }
+	add_accepted_culture = zulu
+	add_accepted_culture = xhosa
+	add_accepted_culture = Serklander
+	change_tag = NAL
+	prestige = 10
+	}
+}
 	kruger_wildlife_preserve = {
 		picture = kruger_national_park
 		
@@ -455,7 +488,10 @@ political_decisions = {
 		picture = cape_map
 		potential = {
 			NOT = { has_country_flag = greater_south_africa }	
+			OR = { 
 			tag = SAF
+			tag = ORA
+			              }
 		}
 				
 		allow = {
