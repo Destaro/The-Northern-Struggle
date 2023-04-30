@@ -21,6 +21,7 @@ potential = {
 	effect = {
 	set_country_flag = form_volkstaat
 	GAZ = { all_core = { add_core = THIS } }
+	AGC = { all_core = { add_core = THIS } }
 	ZOU = { all_core = { add_core = THIS } }
 	KZB = { all_core = { add_core = THIS } }
 	TRN = { all_core = { add_core = THIS } }
