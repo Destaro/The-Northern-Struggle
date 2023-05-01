@@ -8,6 +8,7 @@ nationalvalue = nv_productivity
 literacy = 0.2
 civilized = yes
 is_releasable_vassal = no
+oob = "SAF_oob.txt"
 
 # Political reforms
 slavery = no_slavery
