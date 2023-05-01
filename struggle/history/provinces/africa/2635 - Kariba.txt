@@ -3,7 +3,7 @@ controller = MAT
 add_core = ZBW
 trade_goods = grain
 terrain = dryhills
-life_rating = 10
-colonial = 1
+life_rating = 30
+
 
 add_core = MAT

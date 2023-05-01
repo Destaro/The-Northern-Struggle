@@ -21,7 +21,7 @@ political_decisions = {
 		  effect = {
 		  set_country_flag = accept_the_aromanians
 		  
-		  add_accepted_culture = aromanian
+		
 		 ROM = { all_core = { add_core = THIS } }
 		  prestige = 5
 		 

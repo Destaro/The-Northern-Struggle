@@ -3,6 +3,6 @@ controller = MAT
 add_core = ZBW
 terrain = savanna
 trade_goods = iron
-life_rating = 10
+life_rating = 30
 
 add_core = MAT
