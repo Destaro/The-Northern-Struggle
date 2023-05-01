@@ -1365,20 +1365,47 @@ country_event = {
 		
 	option = {
 		name = "EVTOPT4006004A"
+		VNS = { country_event = 4006555 }
 		THIS = { leave_alliance = VNS }
-		VNS = { add_country_modifier = { name = small_country_draft duration = 365 } }
-		VNS = { add_country_modifier = { name = unrecognized_country duration = 3650 } }
+		
 		TLD = {
 			release_vassal = VNS
 			
 		}
 		
+		
+		set_global_flag = the_mexican_rebellion
+		ai_chance = { factor = 0.9 }
+	}
+		
+	
+}
+
+country_event = {
+	id = 4006555
+	title = "EVTNAME4006555" #mexicanrebellion
+	desc = "EVTDESC4006555"
+	picture = "rosas_urquiza"
+	
+	
+	
+	is_triggered_only = yes
+
+
+		
+	option = {
+		name = "EVTOPT4006004A"
+		
+		VNS = { add_country_modifier = { name = small_country_draft duration = 365 } }
+		VNS = { add_country_modifier = { name = unrecognized_country duration = 3650 } }
+		
+		
 		war = {
 			target = TLD
-			attacker_goal = { casus_belli = make_puppet }
-			defender_goal = { casus_belli = status_quo }
+			attacker_goal = { casus_belli = status_quo }
+			defender_goal = { casus_belli = make_puppet }
 		}
-		set_global_flag = the_mexican_rebellion
+		
 		ai_chance = { factor = 0.9 }
 	}
 		
