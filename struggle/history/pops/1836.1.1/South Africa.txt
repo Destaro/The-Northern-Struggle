@@ -56,13 +56,25 @@
 	aristocrats = {
 		culture = boer
 		religion = catholic
-		size = 20
+		size = 80
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 120
 	}
 	
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 500
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 200
 	}
 
 	artisans = {
@@ -80,7 +92,13 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 1250
+		size = 21250
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 4250
 	}
 
 	aristocrats = {
@@ -105,6 +123,12 @@
 		culture = boer
 		religion = catholic
 		size = 1100
+	}
+	
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 100
 	}
 	
 	officers = {
@@ -301,7 +325,13 @@
 	aristocrats = {
 		culture = boer
 		religion = catholic
-		size = 8
+		size = 80
+	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 40
 	}
 
 	bureaucrats = {
@@ -319,7 +349,13 @@
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 65
+		size = 650
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 165
 	}
 
 	artisans = {
@@ -349,7 +385,7 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 425
+		size = 25425
 	}
 
 	clergymen = {
@@ -373,7 +409,7 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 260
+		size = 9260
 	}
 }
 #Mossel Bay (34700/8675 POPS)
