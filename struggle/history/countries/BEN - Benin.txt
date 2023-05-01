@@ -54,6 +54,10 @@ upper_house = {
 set_country_flag = lacking_writing_system
 
 # Technologies
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+education_reform = yes_education_reform
+admin_reform = yes_admin_reform
 
 # Inventions
 
