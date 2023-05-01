@@ -5,6 +5,6 @@ add_core = AGC
 add_core = GAZ
 trade_goods = grain
 life_rating = 35
-colonial = 2
+
 
 add_core = ZOU
