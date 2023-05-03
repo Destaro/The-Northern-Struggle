@@ -42,6 +42,8 @@ political_decisions = {
 	   owns = 107
          	         }
 	effect = { 
+	prestige = 10
+	set_country_flag = claim_the_northern_tigers
 	 AMG = { all_core = { add_core = THIS } }
 	 AKR = { all_core = { add_core = THIS } }
 	 AJP = { all_core = { add_core = THIS } }
