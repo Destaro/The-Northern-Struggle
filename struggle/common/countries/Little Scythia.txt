@@ -2,7 +2,7 @@ color = { 130  100  95 }
 graphical_culture = MiddleEasternGC
 
 party = {
-	name = "KDS_conservative"
+	name = "KSK_conservative"
 	start_date = 1800.1.1
 	end_date = 1895.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "KDS_conservative_2"
+	name = "KSK_conservative_2"
 	start_date = 1895.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "KDS_liberal"
+	name = "KSK_liberal"
 	start_date = 1820.1.1
 	end_date = 1890.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "KDS_liberal_2"
+	name = "KSK_liberal_2"
 	start_date = 1890.1.1
 	end_date = 1920.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "KDS_liberal_3"
+	name = "KSK_liberal_3"
 	start_date = 1920.1.1
 	end_date = 1936.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "KDS_reactionary"
+	name = "KSK_reactionary"
 	start_date = 1800.1.1
 	end_date = 1890.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "KDS_reactionary_2"
+	name = "KSK_reactionary_2"
 	start_date = 1890.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +107,7 @@ party = {
 }
 
 party = {
-	name = "KDS_anarcho_liberal"
+	name = "KSK_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -122,7 +122,7 @@ party = {
 }
 
 party = {
-	name = "KDS_socialist"
+	name = "KSK_socialist"
 	start_date = 1910.1.1
 	end_date = 2000.1.1
 
@@ -137,7 +137,7 @@ party = {
 }
 
 party = {
-	name = "KDS_socialist_2"
+	name = "KSK_socialist_2"
 	start_date = 1848.1.1
 	end_date = 1910.1.1
 
@@ -152,7 +152,7 @@ party = {
 }
 
 party = {
-	name = "KDS_communist"
+	name = "KSK_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -167,7 +167,7 @@ party = {
 }
 
 party = {
-	name = "KDS_fascist"
+	name = "KSK_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

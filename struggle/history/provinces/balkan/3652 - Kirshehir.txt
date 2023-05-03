@@ -1,6 +1,7 @@
-owner = ANT
-controller = ANT
-add_core = ANT
+owner = KSK
+controller = KSK
+
 trade_goods = wool
 life_rating = 35
 terrain = steppe
+add_core = KSK

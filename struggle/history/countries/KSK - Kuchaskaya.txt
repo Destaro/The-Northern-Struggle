@@ -1,11 +1,14 @@
-capital = 893
+capital = 876
 primary_culture = kurdish
-religion = sunni
+religion = manichaeism
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.15
 is_releasable_vassal = no
+oob = "KSK_oob.txt"
+civilized = yes
+prestige = 5
 
 # Political reforms
 slavery = yes_slavery
@@ -37,7 +40,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = KDS_conservative
+ruling_party = KSK_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25

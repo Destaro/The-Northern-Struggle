@@ -1,6 +1,6 @@
-owner = ANT
-controller = ANT
-add_core = ANT
+owner = KSK
+controller = KSK
+
 trade_goods = grain
 life_rating = 35
 #state_building = {
@@ -11,3 +11,4 @@ life_rating = 35
 1861.1.1 = {
 	naval_base = 1
 }
+add_core = KSK

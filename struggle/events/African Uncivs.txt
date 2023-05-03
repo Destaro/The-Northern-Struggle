@@ -123,7 +123,7 @@ country_event = { #The Mfecane
 				any_pop = { limit = { has_pop_culture = nguni } reduce_pop = 0.8 }
 				}
 			}
-		ZOU = { country_event = 6023 }
+		
 		}
 	}
 
