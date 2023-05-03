@@ -1411,3 +1411,36 @@ country_event = {
 		
 	
 }
+
+country_event = {
+	id = 566992
+	title = "EVTNAME566992" #ultimatumfromthebatavians
+	desc = "EVTDESC566992"
+	picture = "rosas_urquiza"
+	
+	
+	
+	is_triggered_only = yes
+
+
+		
+	option = {
+		name = "EVTOPT566991A"
+		
+		TEX = { add_casus_belli = { target = ULA type = conquest_any months = 24 } }
+		
+		ai_chance = { factor = 0.4 }
+	}
+	
+	option = {
+		name = "EVTOPT566992A"
+		any_pop = {
+			limit = { culture = texan }
+			militancy = 8
+		}
+		ULA = { inherit = TEX } 
+		ai_chance = { factor = 0.6 }
+	}
+		
+	
+}
