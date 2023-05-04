@@ -73,9 +73,9 @@ form_ruthenia = {
 	
 	allow = { 
 	    
-		 RUT = { all_core = { owned_by = THIS } }
+		 BLG = { all_core = { owned_by = THIS } }
 		 war = no
-		 KAZ = { all_core = { owned_by = THIS } }
+		 URA = { all_core = { owned_by = THIS } }
 		 }
 	
 	effect = {
@@ -83,6 +83,35 @@ form_ruthenia = {
           
 		  ALT = { all_core = { add_core = THIS } }
 		  SIB = { all_core = { add_core = THIS } }
+		  URA = { all_core = { add_core = THIS } }
+		  BLG = { all_core = { add_core = THIS } }
+		  KDA = { all_core = { add_core = THIS } }
+		  prestige = 10
+             	}
+	
+	
+	}
+	
+	claim_siberia_further = { 
+	potential = { 
+	       tag = RUT  
+		   NOT = { has_country_flag = claim_siberia_further }
+		                }
+	
+	allow = { 
+	    
+		 TNT = { all_core = { owned_by = THIS } }
+		 war = no
+		
+		 }
+	
+	effect = {
+	set_country_flag = claim_siberia_further
+          
+		  YAK = { all_core = { add_core = THIS } }
+		  TNT = { all_core = { add_core = THIS } }
+		  BRY = { all_core = { add_core = THIS } }
+		 
 		  prestige = 10
              	}
 	
@@ -97,17 +126,17 @@ form_ruthenia = {
 	
 	allow = { 
 	     
-		 RUT = { all_core = { owned_by = THIS } }
+		 ALN = { all_core = { owned_by = THIS } }
 		 war = no
 		 
-		 URA = { all_core = { owned_by = THIS } }
+		 KAZ = { all_core = { owned_by = THIS } }
 		 }
 	
 	effect = {
 	set_country_flag = claim_the_southern_khanates
           KAZ = { all_core = { add_core = THIS } }
 		  ALN = { all_core = { add_core = THIS } }
-		  
+		  UZB = { all_core = { add_core = THIS } }
 		  prestige = 10
              	}
 	

@@ -1,5 +1,5 @@
-owner = LAU
-controller = LAU
+owner = WES
+controller = WES
 add_core = WES
 add_core = LAU
 add_core = GER

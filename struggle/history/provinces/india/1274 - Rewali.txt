@@ -1,5 +1,6 @@
-owner = REW
-controller = REW
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = REW
 add_core = BUN
 trade_goods = cattle

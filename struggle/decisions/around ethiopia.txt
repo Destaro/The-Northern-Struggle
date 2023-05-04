@@ -21,6 +21,7 @@ political_decisions = {
             NOT = { has_country_flag = the_horn_of_africa }		
                       			}
 		  allow = {
+		  civilized = yes
 		  war = no
           owns = 2043
 		  owns = 2023
@@ -38,6 +39,27 @@ political_decisions = {
 		   BUG = { all_core = { add_core = THIS } }
 		   ZAN = { all_core = { add_core = THIS } }
 		   set_country_flag = the_eastern_coast_is_kongo
+		  }
+	}
+	
+	properly_integrate_the_peoples_around_the_kongo	= {
+	      potential = { 
+		    tag = KON
+            NOT = { has_country_flag = properly_integrate_the_peoples_around_the_kongo }		
+                      			}
+		  allow = {
+		  war = no
+          civilized = yes
+		  MNG = { all_core = { owned_by = THIS } }
+		  LUN = { all_core = { owned_by = THIS } }
+		  KUB = { all_core = { owned_by = THIS } }
+		                                }
+		  effect = { 
+		   prestige = 10
+		 add_accepted_culture = mongo
+		 add_accepted_culture = kuba
+		 add_accepted_culture = lunda
+		   set_country_flag = properly_integrate_the_peoples_around_the_kongo
 		  }
 	}
 	

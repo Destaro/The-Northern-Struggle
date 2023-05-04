@@ -1760,7 +1760,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1020
+		size = 4020
 	}
 	
 	farmers = {
@@ -1867,7 +1867,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 3100
+		size = 6100
 	}
 
 	farmers = {
@@ -1919,7 +1919,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1200
+		size = 6200
 	}
 
 	farmers = {
@@ -1945,7 +1945,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 1750
+		size = 7750
 	}
 
 	farmers = {
@@ -2230,7 +2230,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 2250
+		size = 7250
 	}
 
 	farmers = {
@@ -2480,7 +2480,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = catholic
-		size = 1500
+		size = 5500
 	}
 
 	farmers = {

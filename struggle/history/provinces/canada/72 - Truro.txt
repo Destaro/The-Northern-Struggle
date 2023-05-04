@@ -3,3 +3,5 @@ controller = AVA
 add_core = AVA
 trade_goods = timber
 life_rating = 30
+
+add_core = VIN
