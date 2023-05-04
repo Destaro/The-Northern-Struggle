@@ -492,6 +492,7 @@ potential = {
 			OR = { 
 			tag = SAF
 			tag = ORA
+			tag = NAL
 			              }
 		}
 				
