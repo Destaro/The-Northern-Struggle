@@ -45,7 +45,7 @@ potential = {
 potential = { 
   OR = {
        tag = VLK
-	   tag = ORA
+	   tag = NAL
 	   }
 	    NOT = { exists = ORA
 		has_country_flag = form_the_south_african_confederation }
