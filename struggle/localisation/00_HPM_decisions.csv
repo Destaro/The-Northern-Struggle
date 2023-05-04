@@ -133,6 +133,8 @@ centralize_songai_title;Centralize Songai;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 centralize_songai_desc;We can now centralize our lands.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 claim_britany_title;Claim the Brittonians lands;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 claim_britany_desc;After a long and hard-fought battle, the Frankish forces have successfully taken the Britonians under their control once again. The Britonians will now be integrated into our society as loyal subjects of the Frankish Empire.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
+integrate_the_edge_of_the_world_title;The edge of the World;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+integrate_the_edge_of_the_world_desc;The rebellions have failed and only our rule remains at the very edge of the world, thus, let the banner of our empire shine in this corner of the world as well and let us integrate properly this dominion of ours into our great nation.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 vassal_stop_paying_vassal_payments_title;Stop Paying Overlord Taxes;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 vassal_stop_paying_vassal_payments_desc;Our overlord issued an order allowing us to cease any contribution to their offers.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 turn_off_vassal_payments_title;Exempt Vassals from Contributing to our Treasury;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
