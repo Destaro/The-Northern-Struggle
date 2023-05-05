@@ -94,7 +94,7 @@ allow = {
 year = 1855
 is_greater_power = yes
 war = no
- THIS = { all_core = { owned_by = THIS } } 
+ HUN = { all_core = { owned_by = THIS } } 
           }
 effect = { 
   badboy = 2
