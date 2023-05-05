@@ -1,5 +1,5 @@
-owner = SVA
-controller = SVA
+owner = ALN
+controller = ALN
 add_core = SVA
 add_core = CIR
 add_core = ALN
