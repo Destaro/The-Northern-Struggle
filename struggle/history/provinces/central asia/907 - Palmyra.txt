@@ -9,3 +9,5 @@ life_rating = 10
 	controller = TUR 
 	owner = TUR
 }
+
+add_core = KSK

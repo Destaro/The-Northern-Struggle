@@ -5,3 +5,5 @@ add_core = CIR
 add_core = ALN
 trade_goods = grain
 life_rating = 35
+
+add_core = CHY

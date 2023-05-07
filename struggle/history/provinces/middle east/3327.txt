@@ -1,5 +1,5 @@
-owner = PNT
-controller = PNT
+owner = KSK
+controller = KSK
 add_core = PNT
 add_core = ARM
 trade_goods = grain
@@ -9,3 +9,4 @@ terrain = farmlandhills
 	controller = TUR 
 	owner = TUR
 }
+add_core = KSK

@@ -66,6 +66,14 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+
+substate = {
+	first = ALN
+	second = MIG
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
 substate = {
 	first = ALN
 	second = CHY

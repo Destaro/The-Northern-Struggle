@@ -6,3 +6,5 @@ add_core = ASY
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
+
+add_core = KSK

@@ -26,5 +26,90 @@ integrate_the_west_alania = {
 		add_core = 976
    }
                                }
+							   
+							   
+		centralize_alania = {
+	           potential = {
+			   tag = ALN	   
+			   NOT = { has_country_flag = centralize_alania }
+			   MIG = { vassal_of = THIS }
+			   SVA = { vassal_of = THIS }
+			   CIR = { vassal_of = THIS }
+			   ABK = { vassal_of = THIS }
+			   CHY = { vassal_of = THIS }
+			   }
+	      
+		  allow = {
+				war = no
+				civilized = yes
+				state_n_government = 1
+			SVA = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			}
+			
+			MIG = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			
+			CIR = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			 
+			 CHY = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+			 ABK = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
+					}
+				}
+			 }
+	      }
+		  
+		  effect = {
+		  set_country_flag = centralize_alania
+		  MIG = { all_core = { add_core = THIS } }
+		  ABK = { all_core = { add_core = THIS } }
+		  CHY = { all_core = { add_core = THIS } }
+		  CIR = { all_core = { add_core = THIS } }
+		  SVA = { all_core = { add_core = THIS } }
+		  inherit = SVA
+		  inherit = MIG
+		  inherit = ABK
+		  inherit = CIR
+		  inherit = CHY
+		  prestige = 10
+		  badboy = -1
+		             	  
+				}
+		 }
+							   
 
 }
