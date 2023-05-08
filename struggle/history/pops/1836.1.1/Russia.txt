@@ -1145,7 +1145,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 2325
+		size = 5325
 	}
 
 	farmers = {
@@ -1431,7 +1431,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 850
+		size = 4850
 	}
 
 	farmers = {
@@ -1757,7 +1757,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 3850
+		size = 10850
 	}
 
 	farmers = {
