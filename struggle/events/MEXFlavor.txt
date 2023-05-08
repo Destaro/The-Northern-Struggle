@@ -1403,7 +1403,7 @@ country_event = {
 		war = {
 			target = TLD
 			attacker_goal = { casus_belli = status_quo }
-			defender_goal = { casus_belli = make_puppet }
+			defender_goal = { casus_belli = conquest_any }
 		}
 		
 		ai_chance = { factor = 0.9 }

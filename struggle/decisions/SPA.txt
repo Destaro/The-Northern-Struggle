@@ -1,5 +1,39 @@
 political_decisions = {
 	
+	integrate_the_mexicans = {
+	potential = {
+	
+	tag = IBR
+	
+	        
+	NOT = { has_country_flag = integrate_the_mexicans
+	                                              }
+	      NOT = { exists = MEX }
+		  
+		  }
+		  
+	allow = {
+
+	revolution_n_counterrevolution = 1
+	
+	war = no
+	   MEX = { all_core = { owned_by = THIS } }
+	  
+	is_greater_power = yes
+	
+	
+	}
+	
+	effect = {
+	set_country_flag = integrate_the_mexicans
+	MEX = { all_core = { add_core = THIS } }
+	add_accepted_culture = mexican
+	prestige = 25
+	
+	
+	
+	            }
+	}
 	
 	effective_occupation_western_sahara = {
 	picture = map_africa
