@@ -7328,10 +7328,12 @@ persia_acquire_state = {
                 is_core = KHR
             }
             primary_culture = old_persian
+			primary_culture = parthian
         }
         THIS = {
             OR = {
                 primary_culture = old_persian
+				primary_culture = parthian
             }
             NOT = {
                 has_country_modifier = neutrality
@@ -7356,6 +7358,17 @@ persia_acquire_state = {
             any_owned_province = {
                 owner = { primary_culture = parthian }
                 NOT = { is_core = PER }
+            }
+        }
+		
+		OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = PER
+            }
+            any_owned_province = {
+                owner = { primary_culture = old_persian }
+                NOT = { is_core = KHR }
             }
         }
     }
