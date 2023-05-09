@@ -45,6 +45,30 @@ form_vinland_federation = {
 		}
 		
 		effect = {
+		120 = { add_core = THIS }
+		117 = { add_core = THIS }
+		118 = { add_core = THIS }
+		41 = { add_core = THIS }
+		30 = { add_core = THIS }
+		35 = { add_core = THIS }
+		28 = { add_core = THIS }
+		33 = { add_core = THIS }
+		23 = { add_core = THIS }
+		31 = { add_core = THIS }
+		12 = { add_core = THIS }
+		24 = { add_core = THIS }
+		22 = { add_core = THIS }
+		27 = { add_core = THIS }
+		2597 = { add_core = THIS }
+		18 = { add_core = THIS }
+		2598 = { add_core = THIS }
+		8 = { add_core = THIS }
+		10 = { add_core = THIS }
+		2629 = { add_core = THIS }
+		11 = { add_core = THIS }
+		2596 = { add_core = THIS }
+		
+		set_country_flag = the_viking_federation
 		    add_accepted_culture = avalonian
 			add_accepted_culture = vinlander
 			add_accepted_culture = new_frankish
@@ -126,6 +150,28 @@ form_vinland_federation = {
 		}
 		
 		effect = {
+		120 = { add_core = THIS }
+		117 = { add_core = THIS }
+		118 = { add_core = THIS }
+		41 = { add_core = THIS }
+		30 = { add_core = THIS }
+		35 = { add_core = THIS }
+		28 = { add_core = THIS }
+		33 = { add_core = THIS }
+		23 = { add_core = THIS }
+		31 = { add_core = THIS }
+		12 = { add_core = THIS }
+		24 = { add_core = THIS }
+		22 = { add_core = THIS }
+		27 = { add_core = THIS }
+		2597 = { add_core = THIS }
+		18 = { add_core = THIS }
+		2598 = { add_core = THIS }
+		8 = { add_core = THIS }
+		10 = { add_core = THIS }
+		2629 = { add_core = THIS }
+		11 = { add_core = THIS }
+		2596 = { add_core = THIS }
 		set_country_flag = unite_the_east_coast_avalon
 		    add_accepted_culture = avalonian
 			add_accepted_culture = vinlander
@@ -206,6 +252,28 @@ form_vinland_federation = {
 		}
 		
 		effect = {
+		120 = { add_core = THIS }
+		117 = { add_core = THIS }
+		118 = { add_core = THIS }
+		41 = { add_core = THIS }
+		30 = { add_core = THIS }
+		35 = { add_core = THIS }
+		28 = { add_core = THIS }
+		33 = { add_core = THIS }
+		23 = { add_core = THIS }
+		31 = { add_core = THIS }
+		12 = { add_core = THIS }
+		24 = { add_core = THIS }
+		22 = { add_core = THIS }
+		27 = { add_core = THIS }
+		2597 = { add_core = THIS }
+		18 = { add_core = THIS }
+		2598 = { add_core = THIS }
+		8 = { add_core = THIS }
+		10 = { add_core = THIS }
+		2629 = { add_core = THIS }
+		11 = { add_core = THIS }
+		2596 = { add_core = THIS }
 		set_country_flag = unite_the_east_coast_batavia
 		    add_accepted_culture = avalonian
 			add_accepted_culture = vinlander
@@ -234,6 +302,79 @@ form_vinland_federation = {
 				add_core = THIS
 			}			
 			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
+	
+	claim_the_western_plains = {
+		potential = {
+			OR = {
+			has_country_flag = unite_the_east_coast_avalon
+			has_country_flag = unite_the_east_coast_batavia
+			has_country_flag = the_viking_federation
+			}
+			OR = {
+			      tag = USA
+				  tag = ULA
+				  tag = AVA
+				   tag = VIN
+			                }
+			NOT = {
+				has_country_flag = claim_the_western_plains
+			}
+		}	
+		allow = {
+			war = no
+			AKR = { all_core = { owned_by = THIS } }
+			ACH = { all_core = { owned_by = THIS } }
+			THIS = { all_core = { owned_by = THIS } }
+		}
+		
+		effect = {
+		    ACH = { all_core = { owned_by = THIS } }
+			AMG = { all_core = { owned_by = THIS } }
+			AKR = { all_core = { owned_by = THIS } }
+			AJP = { all_core = { owned_by = THIS } }
+			prestige = 5
+			set_country_flag = claim_the_western_plains
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	alaska_is_ours = {
+		potential = {
+			has_country_flag = claim_the_western_plains
+			OR = {
+			      tag = USA
+				  tag = ULA
+				  tag = AVA
+				   tag = VIN
+			                }
+			NOT = {
+				has_country_flag = alaska_is_ours
+			}
+		}	
+		allow = {
+		neighbour = JAP
+			war = no
+			AKR = { all_core = { owned_by = THIS } }
+			ACH = { all_core = { owned_by = THIS } }
+			AMG = { all_core = { owned_by = THIS } }
+			AJP = { all_core = { owned_by = THIS } }
+			THIS = { all_core = { owned_by = THIS } }
+		}
+		
+		effect = {
+		    LSK = { all_core = { owned_by = THIS } }
+			
+			prestige = 5
+			set_country_flag = alaska_is_ours
 		}
 		ai_will_do = {
 			factor = 1
