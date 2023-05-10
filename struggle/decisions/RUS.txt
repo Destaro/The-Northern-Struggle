@@ -65,6 +65,34 @@ form_ruthenia = {
 		}
 	}
 	
+	claim_the_baltics = { 
+	potential = { 
+	OR = {
+	       tag = RUT  
+		   
+		   }
+		   NOT = { has_country_flag = claim_the_baltics }
+		                }
+	
+	allow = { 
+	    is_greater_power = yes
+		 BUL = { all_core = { owned_by = THIS } }
+		 war = no
+		 nationalism_n_imperialism = 1
+		 }
+	
+	effect = {
+	set_country_flag = claim_the_baltics
+          
+		  LIT = { all_core = { add_core = THIS } }
+		  EST = { all_core = { add_core = THIS } }
+		 
+		  badboy = 2
+             	}
+	
+	
+	}
+	
 	claim_siberia = { 
 	potential = { 
 	OR = {
@@ -523,7 +551,7 @@ form_ruthenia = {
 
 	russian_vladivostok = {
 		potential = {
-			tag = RUS
+			tag = RUT
 			owns = 1085
 			owns = 1084
 			owns = 2617

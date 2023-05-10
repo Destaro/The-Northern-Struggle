@@ -102,6 +102,35 @@ form_vinland_federation = {
 		}
 	}
 	
+	
+	
+	reclaim_the_old_nordic_nordic_colonies = { 
+	potential = { 
+	OR = {
+	       tag = VIN
+		   }
+		   NOT = { has_country_flag = reclaim_the_old_nordic_nordic_colonies }
+		                }
+	
+	allow = { 
+	    is_greater_power = yes
+		 THIS = { all_core = { owned_by = THIS } }
+		 war = no
+		 state_n_government = 1
+		 }
+	
+	effect = {
+	set_country_flag = reclaim_the_old_nordic_nordic_colonies
+          
+		  AVA = { all_core = { add_core = THIS } }
+		  
+		 prestige = 10
+		  badboy = 3
+             	}
+	
+	
+	}
+	
 	unite_the_east_coast_avalon = {
 		potential = {
 			
