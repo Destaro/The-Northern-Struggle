@@ -547,25 +547,25 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 45  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 45  
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 4450
 	}
@@ -633,25 +633,25 @@
 	}
 	
 	clergymen = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 30  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 30  
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 4000
 	}

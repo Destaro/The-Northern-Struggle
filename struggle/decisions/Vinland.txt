@@ -150,6 +150,7 @@ form_vinland_federation = {
 		}
 		
 		effect = {
+		change_tag = CAN
 		120 = { add_core = THIS }
 		117 = { add_core = THIS }
 		118 = { add_core = THIS }
@@ -252,6 +253,7 @@ form_vinland_federation = {
 		}
 		
 		effect = {
+		change_tag = QUE
 		120 = { add_core = THIS }
 		117 = { add_core = THIS }
 		118 = { add_core = THIS }
@@ -319,8 +321,8 @@ form_vinland_federation = {
 			}
 			OR = {
 			      tag = USA
-				  tag = ULA
-				  tag = AVA
+				  tag = CAN
+				  tag = QUE
 				   tag = VIN
 			                }
 			NOT = {
@@ -352,8 +354,8 @@ form_vinland_federation = {
 			has_country_flag = claim_the_western_plains
 			OR = {
 			      tag = USA
-				  tag = ULA
-				  tag = AVA
+				  tag = CAN
+				  tag = QUE
 				   tag = VIN
 			                }
 			NOT = {

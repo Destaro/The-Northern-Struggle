@@ -611,7 +611,7 @@
             set_country_flag = emb_sco
             badboy = 1
             add_accepted_culture = scottish
-			add_accepted_culture = norn
+			
         }
 
         ai_will_do = { factor = 1 }

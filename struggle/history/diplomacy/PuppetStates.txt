@@ -202,12 +202,7 @@ vassal = {
 }
 
 #Ming/Lanfang
-vassal = {
-	first = MIN
-	second = LAN
-	start_date = 1636.1.1
-	end_date = 1860.1.1
-}
+
 
 
 #########

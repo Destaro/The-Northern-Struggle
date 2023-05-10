@@ -67,7 +67,10 @@ form_ruthenia = {
 	
 	claim_siberia = { 
 	potential = { 
+	OR = {
 	       tag = RUT  
+		   tag = SLA
+		   }
 		   NOT = { has_country_flag = claim_siberia }
 		                }
 	
@@ -94,12 +97,15 @@ form_ruthenia = {
 	
 	claim_siberia_further = { 
 	potential = { 
+	OR = {
 	       tag = RUT  
+		   tag = SLA
+		   }
 		   NOT = { has_country_flag = claim_siberia_further }
 		                }
 	
 	allow = { 
-	    
+	     SIB = { all_core = { owned_by = THIS } }
 		 TNT = { all_core = { owned_by = THIS } }
 		 war = no
 		
@@ -111,7 +117,7 @@ form_ruthenia = {
 		  YAK = { all_core = { add_core = THIS } }
 		  TNT = { all_core = { add_core = THIS } }
 		  BRY = { all_core = { add_core = THIS } }
-		 
+		  KAM = { all_core = { add_core = THIS } }
 		  prestige = 10
              	}
 	
@@ -120,7 +126,10 @@ form_ruthenia = {
 	
 	claim_the_southern_khanates = { 
 	potential = { 
+	OR = { 
 	       tag = RUT  
+		   tag = SLA
+		   }
 		   NOT = { has_country_flag = claim_the_southern_khanates }
 		                }
 	

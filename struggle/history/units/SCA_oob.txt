@@ -429,6 +429,34 @@ army = {
 
 }
 
+army = {
+
+	name = "Accra Garrison"
+
+	location = 1907
+	regiment = {
+
+		name= "Asantehene's Guards"
+	
+	type = infantry
+
+
+		home = 1887
+	}
+
+
+	regiment = {
+
+		name= "1st Ashanti Warriors"
+	
+	type = infantry
+
+	
+	home = 3373
+	}
+
+}
+
 
 
 
