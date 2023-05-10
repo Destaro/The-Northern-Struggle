@@ -57,6 +57,7 @@ unification_casus_belli
 civil_war
 ruthenia_acquire_state
 persia_acquire_state
+parthia_acquire_state
 frankia_acquire_state
 unification_annex_casus_belli
 annex_core_country
@@ -7446,7 +7447,7 @@ parthia_acquire_state = {
 
     po_demand_state = yes
 
-    war_name = WAR_PERSIA_UNIFICATION
+    war_name = WAR_PARTHIA_UNIFICATION
 
     on_add = {
         move_issue_percentage = {
