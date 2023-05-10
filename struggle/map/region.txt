@@ -424,7 +424,7 @@ AUS_652 = { 652 653 792 3665 647 } #Banat
 
 AUS_654 = { 654 661 2533 660 3661 } #Northern Transylvania
 
-AUS_657 = { 657 659 655 656 3662 } #Southern Transylvania
+AUS_657 = { 657 655 656  } #Southern Transylvania
 
 #AUS_702 = { } #Galicia-Lodomeria
 
@@ -506,7 +506,7 @@ AUS_727 = { 727 728 3640 3643 3523 } #Lombardia
 
 ### Balkans
 
-WAL_665 = { 664 665 666 668 667 669 } #Wallachia
+WAL_665 = { 664 665 666 668 667 669 3662 659 } #Wallachia
 
 MOL_673 = { 673 672 670 671 663 662 } #Moldavia
 
