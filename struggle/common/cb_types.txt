@@ -7169,7 +7169,7 @@ ruthenia_acquire_state = {
 
     can_use = {
         NOT = { is_our_vassal = THIS }
-        number_of_states = 2
+        number_of_states = 1
         neighbour = THIS
         OR = {
             any_owned_province = {
@@ -7245,7 +7245,7 @@ frankia_acquire_state = {
 
     can_use = {
         NOT = { is_our_vassal = THIS }
-        number_of_states = 2
+        number_of_states = 1
         neighbour = THIS
         OR = {
             any_owned_province = {
