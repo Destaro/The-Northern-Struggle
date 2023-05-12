@@ -253,7 +253,7 @@ claim_england = {
 	   allow = {
 	   war = no
          SCO = {	all_core = { owned_by = THIS }	}
-		 ENL = { all_core = { add_core = THIS } }
+		 ENL = { all_core = { owned_by = THIS } }
 		 }
 	   effect = {
          set_country_flag = remove_nordic_claims

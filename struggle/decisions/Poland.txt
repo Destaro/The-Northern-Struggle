@@ -904,19 +904,13 @@ war = {
 	unite_poland = {
 		picture = become_poland
 		potential = {
-		OR = {
-		has_global_flag = the_substates_are_loyal
-		has_global_flag = galicia_and_prusy_rebels
-		has_global_flag = galicia_rebels
-		has_global_flag = prusy_rebels
-		                  }
-			tag = POL
+		primary_culture = polish
 			NOT = { has_country_flag = unite_poland }
 		}
 		allow = {
 			
 			war = no
-			CPL = {
+			POL = {
 				
 					OR = {
 						owned_by = THIS
@@ -932,20 +926,7 @@ war = {
 			}
 			
 			
-			PRD = {
-				
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-							}
-						owner = { 
-						vassal_of = THIS 
-						}
-					}
-				
-			}
+		
 			
 			
 		}
@@ -958,7 +939,7 @@ war = {
 					OR = {
 						tag = CPL
 						tag = PRD
-						
+						primary_culture = polish
 					}
 					ai = yes
 					in_sphere = THIS
