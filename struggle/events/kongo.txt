@@ -7,7 +7,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-	year = 1838
+	year = 1848
 		tag = KON
 		LOA = { vassal_of = THIS }
 		MNG = { vassal_of = THIS }
@@ -55,7 +55,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-	year = 1838
+	year = 1850
 		tag = KON
 		KUB = { vassal_of = THIS }
 		LUN = { vassal_of = THIS }
@@ -103,7 +103,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-	year = 1838
+	year = 1852
 		tag = KON
 		LBA = { vassal_of = THIS }
 		AZA = { vassal_of = THIS }

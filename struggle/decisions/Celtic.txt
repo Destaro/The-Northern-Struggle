@@ -180,7 +180,7 @@ claim_scotland = {
 		allow = {
 		
 			war = no
-			SCO = {	all_core = { owned_by = THIS }			}
+			SCO = {	all_core = { owned_by = THIS }		}
 			
 			
 			
@@ -240,6 +240,32 @@ claim_england = {
 		ai_will_do = {
 			factor = 1
 		}
+	}
+	
+	remove_nordic_claims = {
+	   potential = { 
+	   OR = { 
+	   tag = WHA
+	   tag = CEL
+	   }
+	   NOT = { has_country_flag = remove_nordic_claims }
+	   }
+	   allow = {
+	   war = no
+         SCO = {	all_core = { owned_by = THIS }	}
+		 ENL = { all_core = { add_core = THIS } }
+		 }
+	   effect = {
+         set_country_flag = remove_nordic_claims
+		 prestige = 20
+		 relation = { who = SCA value = -200 }
+        any_owned = {
+                 limit = { 
+				  is_core = SCA 
+				                 }
+				remove_core = SCA
+                        } 		
+		          }
 	}
 
 

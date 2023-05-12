@@ -124,43 +124,43 @@ army = {
 	regiment = {
 		name= "7. Tümeni Firkasi"
 		type = infantry
-		home = 863
+		home = 3491
 	}
 
 	regiment = {
 		name= "8. Tümeni Firkasi"
 		type = infantry
-		home = 862
+		home = 895
 	}
 	
 	regiment = {
 		name= "9. Tümeni Firkasi"
 		type = infantry
-		home = 869
+		home = 880
 	}
 
 	regiment = {
 		name= "10. Tümeni Firkasi"
 		type = infantry
-		home = 885
+		home = 880
 	}
 
 	regiment = {
 		name= "11. Tümeni Firkasi"
 		type = infantry
-		home = 878
+		home = 876
 	}
 	
 	regiment = {
 		name= "12. Tümeni Firkasi"
 		type = infantry
-		home = 879
+		home = 873
 	}
 	
 	regiment = {
 		name= "4. Süvari Firkasi"
 		type = cuirassier
-		home = 886
+		home = 888
 	}
 	
 	
@@ -168,7 +168,7 @@ army = {
 	regiment = {
 		name = "2. Topçu Firkas"
 		type = artillery
-		home = 804
+		home = 888
 	}
 }
 

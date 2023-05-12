@@ -67,7 +67,7 @@ political_decisions = {
 			war = no
 			is_greater_power = yes
             
-			BUL = { all_core = { owned_by = THIS } }
+			PRD = { all_core = { owned_by = THIS } }
 			POL = { all_core = { owned_by = THIS } }
 			LIT = { all_core = { owned_by = THIS } }
 		}
@@ -87,7 +87,8 @@ political_decisions = {
 				limit = { owner = { primary_culture = polish } }
 				owner = {
 					add_accepted_culture = lithuanian
-					add_accepted_culture = ukrainian
+					add_accepted_culture = bulgarian
+					add_accepted_culture = polish
 					add_accepted_culture = byelorussian
 					all_core = {
 						add_core = PLC
@@ -121,7 +122,7 @@ political_decisions = {
 			LIT = {
 				all_core = { add_core = PLC }
 			}
-			BYE = {
+			KUR = {
 				all_core = { add_core = PLC }
 			}
 			RUS_958 = { add_core = PLC }

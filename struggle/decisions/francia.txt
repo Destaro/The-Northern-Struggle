@@ -47,6 +47,34 @@ reclaim_ocitania = {
  
  }
  
+ claim_britany = {
+ potential = {
+             
+			tag = FRC
+			
+			
+         NOT = {
+            has_country_flag = claim_britany
+		 }
+                      }
+					  
+	    allow = {
+		421 = { owned_by = THIS }
+		 war = no
+		state_n_government = 1
+		}
+		
+		effect = {
+		prestige = 15
+		badboy = 1
+		BRT = { all_core = { add_core = THIS } }
+		set_country_flag = claim_britany
+		
+		}
+       
+ 
+ }
+ 
  
  
  reclaim_savoy = {

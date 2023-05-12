@@ -93,7 +93,7 @@ political_decisions = {
 		  integrate_the_eastern_slavs = {
 	           potential = {
 			   tag = BUL		   
-			   NOT = { has_country_flag = integrate_the_lithuanians }
+			   NOT = { has_country_flag = integrate_the_eastern_slavs }
 			   KUR = { vassal_of = THIS }
                BKV = { vassal_of = THIS }
 			   }

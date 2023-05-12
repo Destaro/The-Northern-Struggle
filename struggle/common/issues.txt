@@ -546,6 +546,9 @@ political_reforms = {
 					primary_culture = australian
 					primary_culture = anglo_canadian
 					primary_culture = french_canadian
+					primary_culture = boer
+					primary_culture = Pauperes
+					primary_culture = Serklander
 				}
 			}
 		}

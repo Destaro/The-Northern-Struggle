@@ -1,6 +1,3 @@
-FRA = {
-	value = -150
-}
 
 leader = {
 	name = "Emir Abdelkader"
@@ -32,73 +29,34 @@ army = {
 	regiment = {
 		name= "2.Askäris"
 		type = irregular
-		home = 1702
+		home = 1706
 	}
 
 	regiment = {
 		name= "3.Askäris"
 		type = irregular
-		home = 1705
+		home = 1707
 	}
 
 	regiment = {
 		name= "1.Spahis"
 		type = cavalry
-		home = 1705
+		home = 1707
 	}
 
 	regiment = {
 		name= "2.Spahis"
 		type = cavalry
-		home = 1715
+		home = 1704
 	}
 
 	regiment = {
 		name= "3.Spahis"
 		type = cavalry
-		home = 1713
+		home = 1715
 	}
 
 }
 
-army = {
-	name = "Army of the Bey of Constantine"
-	location = 1713
-	regiment = {
-		name= "4.Askäris"
-		type = irregular
-		home = 1708
-	}
 
-	regiment = {
-		name= "5.Askäris"
-		type = irregular
-		home = 1703
-	}
-
-	regiment = {
-		name= "6.Askäris"
-		type = irregular
-		home = 1702
-	}
-
-	regiment = {
-		name= "7.Askäris"
-		type = irregular
-		home = 1703
-	}
-
-	regiment = {
-		name= "3.Spahis"
-		type = irregular
-		home = 1708
-	}
-
-	regiment = {
-		name= "4.Spahis"
-		type = irregular
-		home = 1710
-	}
-
-}
 

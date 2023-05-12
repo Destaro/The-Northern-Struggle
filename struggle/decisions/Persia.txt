@@ -1,4 +1,112 @@
 political_decisions = {
+	form_eranshahr = {
+		potential = {
+	
+		tag = PER
+		
+		
+			
+			NOT = {
+				exists = ARY
+			}
+		}
+		allow = {
+			war = no
+			KHR = { all_core = { owned_by = THIS } }
+			TKM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			UZB = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			BDK = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			KHI = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			BUK = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+		set_global_flag = the_empire_of_the_iranians
+			prestige = 35
+			any_country = {
+				limit = {
+					OR = {
+						tag = BUK
+						tag = BDK 
+						tag = KHI
+						tag = UZB
+                        tag = TKM 						
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = KHR
+					is_core = KHI 
+					is_core = UZB
+					is_core = BDK
+					is_core = TKM
+					is_core = BUK
+				}
+				add_core = ARY
+			}			
+			change_tag = ARY
+			add_accepted_culture = parthian
+			add_accepted_culture = chorasmian
+			add_accepted_culture = aryao
+			add_accepted_culture = uzbek
+			add_accepted_culture = turkmen
+			add_accepted_culture = sogdian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 #Trip to Europe
 	travel_to_europe = {

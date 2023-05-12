@@ -4,3 +4,4 @@ add_core = PER
 terrain = dry_mountains
 trade_goods = iron
 life_rating = 35
+add_core = KHR

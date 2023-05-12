@@ -6,17 +6,35 @@
 		religion = protestant
 		size = 200
 	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 200
+	}
 
 	officers = {
 		culture = norn
 		religion = protestant
 		size = 500
 	}
+	
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 250
+	}
 
 	soldiers = {
 		culture = norn
 		religion = protestant
 		size = 1100
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 300
 	}
 
 	artisans = {
@@ -38,9 +56,9 @@
 	}
 	
 	farmers = {
-		culture = scottish
+		culture = swedish
 		religion = catholic
-		size = 2000
+		size = 8000
 	}
 }
 
@@ -50,17 +68,35 @@
 		religion = protestant
 		size = 200
 	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
 
 	officers = {
 		culture = norn
 		religion = protestant
 		size = 500
 	}
+	
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
 
 	soldiers = {
 		culture = norn
 		religion = protestant
 		size = 1100
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 100
 	}
 
 	artisans = {
@@ -77,6 +113,12 @@
 
 	labourers = {
 		culture = scottish
+		religion = protestant
+		size = 15000
+	}
+	
+	labourers = {
+		culture = swedish
 		religion = protestant
 		size = 15000
 	}
@@ -94,11 +136,23 @@
 		religion = protestant
 		size = 200
 	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 200
+	}
 
 	officers = {
 		culture = norn
 		religion = protestant
 		size = 500
+	}
+	
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 100
 	}
 
 	soldiers = {
@@ -125,6 +179,12 @@
 		size = 15000
 	}
 	
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 15000
+	}
+	
 	farmers = {
 		culture = scottish
 		religion = catholic
@@ -135,6 +195,12 @@
 267 = {
 	aristocrats = {
 		culture = norn
+		religion = protestant
+		size = 160
+	}
+	
+	aristocrats = {
+		culture = swedish
 		religion = protestant
 		size = 160
 	}
@@ -156,11 +222,23 @@
 		religion = protestant
 		size = 4000
 	}
+	
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1000
+	}
 
 	farmers = {
 		culture = norn
 		religion = protestant
 		size = 38090
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 18090
 	}
 
 	farmers = {
@@ -212,17 +290,35 @@
 		religion = protestant
 		size = 300
 	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 300
+	}
 
 	bureaucrats = {
 		culture = scottish
 		religion = protestant
 		size = 1100
 	}
+	
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
 
 	artisans = {
 		culture = norn
 		religion = protestant
 		size = 8000
+	}
+	
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2000
 	}
 
 	soldiers = {
@@ -235,6 +331,12 @@
 		culture = scottish
 		religion = protestant
 		size = 78200
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 18200
 	}
 
 }
@@ -344,13 +446,25 @@
 		religion = protestant
 		size = 200
 	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 70
+	}
 
 	artisans = {
 		culture = norn
 		religion = protestant
 		size = 6500
 	}
-
+    
+	artisans = {
+		culture = norn
+		religion = protestant
+		size = 3500
+	}
+	
 	soldiers = {
 		culture = scottish
 		religion = protestant
@@ -361,6 +475,12 @@
 		culture = scottish
 		religion = protestant
 		size = 79100
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 19100
 	}
 
 	farmers = {
@@ -462,6 +582,12 @@
 		religion = protestant
 		size = 100
 	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
 
 	artisans = {
 		culture = norn
@@ -474,7 +600,13 @@
 		religion = protestant
 		size = 33800
 	}
-
+    
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 5000
+	}
+	
 	farmers = {
 		culture = norn
 		religion = catholic
@@ -946,7 +1078,7 @@
 #Newcastle-upon-Tyne (552000/138000 POPS)
 280 = {
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 1100
 	}
@@ -955,6 +1087,12 @@
 		culture = british
 		religion = protestant
 		size = 750
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 150
 	}
 
 	craftsmen = {
@@ -969,7 +1107,7 @@
 	}
 	
 	artisans = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 5900
 	}
@@ -985,7 +1123,14 @@
 		religion = protestant
 		size = 94850
 	}
-
+      
+	  
+	labourers = {
+		culture = swedish
+		religion = catholic
+		size = 14000
+	}
+	
 	labourers = {
 		culture = irish
 		religion = catholic
@@ -995,7 +1140,7 @@
 #Hull (512000/128000 POPS)
 281 = {
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 1100
 	}
@@ -1014,7 +1159,7 @@
 	}
 	
 	artisans = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 1300
 	}
@@ -1032,9 +1177,9 @@
 	}
 
 	labourers = {
-		culture = british
+		culture = swedish
 		religion = catholic
-		size = 5000
+		size = 8000
 	}
 }
 #Leeds (468000/117000 POPS)
@@ -1455,7 +1600,7 @@
 #Lincoln (336000/84000 POPS)
 290 = {
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 500
 	}
@@ -1465,11 +1610,23 @@
 		religion = protestant
 		size = 500
 	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 200
+	}
 
 	artisans = {
 		culture = british
 		religion = protestant
 		size = 6500
+	}
+	
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1500
 	}
 
 	soldiers = {
@@ -1477,7 +1634,14 @@
 		religion = protestant
 		size = 1100
 	}
-
+    
+	
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 25500
+	}
+	
 	labourers = {
 		culture = british
 		religion = protestant
@@ -1533,7 +1697,7 @@
 #Ipswich (676000/169000 POPS)
 292 = {
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 1500
 	}
@@ -1543,17 +1707,40 @@
 		religion = protestant
 		size = 1100
 	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 500
+	}
 
 	artisans = {
 		culture = british
 		religion = protestant
 		size = 8500
 	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2500
+	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
 		size = 1500
+	}
+	
+	
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 500
+	}
+	
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 36500
 	}
 
 	labourers = {
@@ -1565,7 +1752,7 @@
 #Chelmsford (276000/69000 POPS)
 293 = {
 	aristocrats = {
-		culture = british
+		culture = swedish
 		religion = protestant
 		size = 500
 	}
@@ -1576,12 +1763,23 @@
 		size = 375
 	}
 
+    clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 375
+	}
 	artisans = {
 		culture = british
 		religion = protestant
 		size = 7500
 	}
-
+    
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 500
+	}
+	
 	soldiers = {
 		culture = british
 		religion = protestant
@@ -1595,9 +1793,9 @@
 	}
 
 	labourers = {
-		culture = british
+		culture = swedish
 		religion = catholic
-		size = 2000
+		size = 7000
 	}
 
 }
@@ -2285,31 +2483,31 @@
 #Channel Islands (72000/18000 POPS)
 419 = {
 	aristocrats = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 125
 	}
 
 	soldiers = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = danish
+		culture = swedish
 		religion = protestant
 		size = 2075
 	}
@@ -2340,11 +2538,23 @@
 		religion = protestant
 		size = 40
 	}
+	
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 20
+	}
 
 	clergymen = {
 		culture = norn
 		religion = protestant
 		size = 225
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 125
 	}
 
 	soldiers = {
@@ -2361,6 +2571,12 @@
 
 	farmers = {
 		culture = norn
+		religion = protestant
+		size = 3000
+	}
+	
+	farmers = {
+		culture = swedish
 		religion = protestant
 		size = 3000
 	}

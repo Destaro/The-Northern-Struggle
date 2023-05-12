@@ -2,8 +2,7 @@ owner = NMB
 controller = NMB
 terrain = semidesert
 trade_goods = fish
-life_rating = 15
+life_rating = 25
 
 
 add_core = NMB
-add_core = SAF

@@ -1,6 +1,5 @@
 owner = OMA
 controller = OMA
-add_core = ZAN
 add_core = OMA
 add_core = MAJ
 add_core = GEL
@@ -8,6 +7,6 @@ add_core = WRL
 trade_goods = cattle
 terrain = savanna
 life_rating = 10
-colonial = 1
+
 
 add_core = SOM

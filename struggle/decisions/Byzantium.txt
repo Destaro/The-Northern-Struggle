@@ -20,8 +20,8 @@ political_decisions = {
 		  
 		  effect = {
 		  set_country_flag = accept_the_aromanians
-		  
 		  add_accepted_culture = aromanian
+		
 		 ROM = { all_core = { add_core = THIS } }
 		  prestige = 5
 		 
@@ -52,7 +52,7 @@ political_decisions = {
 		  set_country_flag = the_reclamation_of_anatolia
 		  
 		  badboy = 10
-		 ANT = { all_core = { add_core = THIS } }
+		 KSK = { all_core = { add_core = THIS } }
 		  prestige = 5
 		 
 		             	  

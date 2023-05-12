@@ -1,10 +1,10 @@
-capital = 2110
-primary_culture = boer
+capital = 2057
+primary_culture = Pauperes
 religion = protestant
 government = democracy
 plurality = 2.5
 nationalvalue = nv_productivity
-literacy = 0.2
+literacy = 0.9
 non_state_culture_literacy = 0.05
 civilized = yes
 is_releasable_vassal = yes

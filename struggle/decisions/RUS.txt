@@ -10,7 +10,7 @@ form_ruthenia = {
 				   }
 			NOT = {
 				exists = RUT
-				
+				tag = BUL
 			}
 		}	
 		allow = {
@@ -65,17 +65,48 @@ form_ruthenia = {
 		}
 	}
 	
+	claim_the_baltics = { 
+	potential = { 
+	OR = {
+	       tag = RUT  
+		   
+		   }
+		   NOT = { has_country_flag = claim_the_baltics }
+		                }
+	
+	allow = { 
+	    is_greater_power = yes
+		 BUL = { all_core = { owned_by = THIS } }
+		 war = no
+		 nationalism_n_imperialism = 1
+		 }
+	
+	effect = {
+	set_country_flag = claim_the_baltics
+          
+		  LIT = { all_core = { add_core = THIS } }
+		  EST = { all_core = { add_core = THIS } }
+		 
+		  badboy = 2
+             	}
+	
+	
+	}
+	
 	claim_siberia = { 
 	potential = { 
+	OR = {
 	       tag = RUT  
+		   tag = SLA
+		   }
 		   NOT = { has_country_flag = claim_siberia }
 		                }
 	
 	allow = { 
 	    
-		 RUT = { all_core = { owned_by = THIS } }
+		 BLG = { all_core = { owned_by = THIS } }
 		 war = no
-		 KAZ = { all_core = { owned_by = THIS } }
+		 URA = { all_core = { owned_by = THIS } }
 		 }
 	
 	effect = {
@@ -83,6 +114,38 @@ form_ruthenia = {
           
 		  ALT = { all_core = { add_core = THIS } }
 		  SIB = { all_core = { add_core = THIS } }
+		  URA = { all_core = { add_core = THIS } }
+		  BLG = { all_core = { add_core = THIS } }
+		  KDA = { all_core = { add_core = THIS } }
+		  prestige = 10
+             	}
+	
+	
+	}
+	
+	claim_siberia_further = { 
+	potential = { 
+	OR = {
+	       tag = RUT  
+		   tag = SLA
+		   }
+		   NOT = { has_country_flag = claim_siberia_further }
+		                }
+	
+	allow = { 
+	     SIB = { all_core = { owned_by = THIS } }
+		 TNT = { all_core = { owned_by = THIS } }
+		 war = no
+		
+		 }
+	
+	effect = {
+	set_country_flag = claim_siberia_further
+          
+		  YAK = { all_core = { add_core = THIS } }
+		  TNT = { all_core = { add_core = THIS } }
+		  BRY = { all_core = { add_core = THIS } }
+		  KAM = { all_core = { add_core = THIS } }
 		  prestige = 10
              	}
 	
@@ -91,23 +154,26 @@ form_ruthenia = {
 	
 	claim_the_southern_khanates = { 
 	potential = { 
+	OR = { 
 	       tag = RUT  
+		   tag = SLA
+		   }
 		   NOT = { has_country_flag = claim_the_southern_khanates }
 		                }
 	
 	allow = { 
 	     
-		 RUT = { all_core = { owned_by = THIS } }
+		 ALN = { all_core = { owned_by = THIS } }
 		 war = no
 		 
-		 URA = { all_core = { owned_by = THIS } }
+		 KAZ = { all_core = { owned_by = THIS } }
 		 }
 	
 	effect = {
 	set_country_flag = claim_the_southern_khanates
           KAZ = { all_core = { add_core = THIS } }
 		  ALN = { all_core = { add_core = THIS } }
-		  
+		  UZB = { all_core = { add_core = THIS } }
 		  prestige = 10
              	}
 	
@@ -485,7 +551,7 @@ form_ruthenia = {
 
 	russian_vladivostok = {
 		potential = {
-			tag = RUS
+			tag = RUT
 			owns = 1085
 			owns = 1084
 			owns = 2617
@@ -724,34 +790,7 @@ form_ruthenia = {
 		}
 	}
 	
-	treaty_of_tartu = {
-		picture = treaty_signing
-		potential = {
-			tag = FIN
-			RUS = { owns = 982 } #Petsamo
-			owns = 339 #Viipuri
-			NOT = { has_country_flag = treaty_of_tartu }
-		}
-		
-		allow = {
-			war = no
-			is_vassal = no
-			RUS = {
-				OR = {
-					NOT = { truce_with = THIS }
-					has_recently_lost_war = yes
-				}
-				war = no
-			}
-		}
-		
-		effect = {
-			set_country_flag = treaty_of_tartu
-			RUS = { country_event = 32515 }
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
+	
 	
 	reclaim_poland_RUS = {
 		picture = become_poland
@@ -1712,7 +1751,7 @@ form_ruthenia = {
 	integrate_kazakhstan = {
 		picture = unite_turkestan
 		potential = {
-			tag = RUS
+			tag = RUT
 			NOT = { has_country_flag = kazakhstan_integrated }
 			KAZ = { civilized = no neighbour = THIS }
 			NOT = { exists = KHI }

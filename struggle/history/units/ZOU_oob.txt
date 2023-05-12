@@ -1,12 +1,12 @@
-ENG = {
+LUX = {
 	value = 25
 }
 
-NET = {
+ORL = {
 	value = 50
 }
 
-USA = {
+SCA = {
 	value = 5
 }
 
@@ -20,10 +20,67 @@ leader = {
 
 army = {
 	name = "Voortrekkers"
-	location = 2110
+	location = 2065
 	regiment = {
 		name= "Zoutpansberg Commando"
-		type = irregular
-		home = 2110
+		type = infantry
+		home = 2065
 	}
+}
+
+army = {
+	name = "Army of Staat"
+	location = 2057
+	regiment = {
+		name= "1.Lotharingian Commando"
+		type = infantry
+		home = 2057
+	}
+	regiment = {
+		name= "2.Lotharingian Commando"
+		type = infantry
+		home = 2058
+	}
+	regiment = {
+		name= "3.Lotharingian Commando"
+		type = infantry
+		home = 2059
+	}
+}
+leader = {
+	name = "Jacobus Wepener"
+	date = 1832.1.1
+	type = land
+	personality = ballsy
+	background = unfit
+	prestige = 0.2
+}
+
+army = {
+	name = "Settler Army"
+	location = 2056
+	regiment = {
+		name= "Bloemfontein Commando"
+		type = dragoon
+		home = 2054
+	}
+
+	regiment = {
+		name= "Winburg Commando"
+		type = dragoon
+		home = 2053
+	}
+
+	regiment = {
+		name= "Philippolis Commando"
+		type = infantry
+		home = 2066
+	}
+	
+	regiment = {
+		name= "Philippolis Commando"
+		type = artillery
+		home = 2055
+	}
+
 }

@@ -1,7 +1,9 @@
-owner = ANT
-controller = ANT
-add_core = ANT
+owner = KSK
+controller = KSK
+
 add_core = GRE
 trade_goods = sulphur
 life_rating = 35
 
+
+add_core = KSK

@@ -4,3 +4,4 @@ add_core = AVA
 trade_goods = fish
 life_rating = 30
 colonial = 2
+add_core = VIN

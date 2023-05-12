@@ -67,3 +67,18 @@ ruthenia_acquire_state;Ruthene Reunification;Prendre ?at;$STATE$ erwerben;;;;;;;
 ruthenia_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
 ruthenia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
 ruthenia_acquire_state_desc;Acquire a Ruthene state.;Prendre un ??at? ennemi;Erobern Sie einen feindlichen ?Staat?.;;;;;;;;;;;x,,,
+NORMAL_WAR_PERSIA_UNIFICATION;$ORDER$Parvizid war of reclamation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+persia_acquire_state;Persia;Prendre ?at;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+persia_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+persia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+persia_acquire_state_desc;Acquire a Persian state.;Prendre un ??at? ennemi;Erobern Sie einen feindlichen ?Staat?.;;;;;;;;;;;x,,,
+NORMAL_WAR_PARTHIA_UNIFICATION;$ORDER$Parthian war of reclamation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+parthia_acquire_state;Persia;Prendre ?at;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+parthia_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+parthia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+parthia_acquire_state_desc;Acquire a Persian state.;Prendre un ??at? ennemi;Erobern Sie einen feindlichen ?Staat?.;;;;;;;;;;;x,,,
+NORMAL_WAR_FRANKIA_UNIFICATION;$ORDER$Frankish war of Unification;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+frankia_acquire_state;Frankia;Prendre ?at;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+frankia_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+frankia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+frankia_acquire_state_desc;Acquire a Frankish state.;Prendre un ??at? ennemi;Erobern Sie einen feindlichen ?Staat?.;;;;;;;;;;;x,,,

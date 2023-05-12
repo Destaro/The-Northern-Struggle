@@ -2,23 +2,22 @@
 
 #========================= H E A D E R =========================
 
-capital = 322
-primary_culture = swedish
-culture = norwegian
-religion = protestant
+capital = 1127
+primary_culture = persian
+religion = sunni
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
 literacy = 0.5
 civilized = yes 
-prestige = 60
-schools = army_tech_school
-oob = "SWN.txt"
+prestige = 50
+schools = traditional_academic
+oob = "ARY.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================
 
-ruling_party = SWN_conservative_92
+ruling_party = ARY_conservative_92
 upper_house = {
 fascist = 0
 reactionary = 40

@@ -8,6 +8,7 @@ literacy = 0.12
 civilized = yes
 is_releasable_vassal = no
 oob = "GCO_oob.txt"
+prestige = 15
 
 # Political reforms
 slavery = no_slavery

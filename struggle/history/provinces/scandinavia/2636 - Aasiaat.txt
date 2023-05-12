@@ -1,10 +1,10 @@
 owner = SCA
 controller = SCA
 add_core = GRN
-add_core = DEN
+
 trade_goods = fish
 life_rating = 10
 colonial = 2
 
-add_core = NOR
+
 add_core = SCA

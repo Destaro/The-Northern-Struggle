@@ -5,7 +5,9 @@ political_decisions = {
 			OR = {
 				tag = GEO
 				tag = AZB
-				tag = ARM
+				tag = TTN
+				tag = SHV
+				tag = DAG
 			}
 			NOT = { exists = TCA }
 			NOT = { has_global_flag = transcaucasia_formed }
@@ -31,13 +33,13 @@ political_decisions = {
 					}
 				}
 			}
-			1098 = {
+			1105 = {
 				OR = {
 					owned_by = THIS
 					owner = { in_sphere = THIS }
 					owner = { has_country_flag = newly_released_nation }
 					owner = {
-						primary_culture = armenian
+						primary_culture = alvuanian
 						war = no
 						civilized = yes
 						relation = { who = THIS value = 150 }
@@ -48,17 +50,52 @@ political_decisions = {
 					}
 				}
 			}
+			
+			3308 = {
+				OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { has_country_flag = newly_released_nation }
+					owner = {
+						primary_culture = kumyk
+						war = no
+						civilized = yes
+						relation = { who = THIS value = 150 }
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			
+			
 		}
 
 		effect = {
 			set_global_flag = transcaucasia_formed
 			prestige = 10
 			GEO = { all_core = { add_core = TCA } }
-			ARM = { all_core = { add_core = TCA } }
+			SHV = { all_core = { add_core = TCA } }
 			AZB = { all_core = { add_core = TCA } }
+			DAG = { all_core = { add_core = TCA } }
+			CHY = { all_core = { add_core = TCA } }
+			MIG = { all_core = { add_core = TCA } }
+			ABK = { all_core = { add_core = TCA } }
+			CIR = { all_core = { add_core = TCA } }
+			TTN = { all_core = { add_core = TCA } }
+			1101 = { add_core = THIS }
+			3321 = { add_core = THIS }
+			1098 = { add_core = THIS }
+			885 = { add_core = THIS }
+			886 = { add_core = THIS }
+			3497 = { add_core = THIS }
 			add_accepted_culture = georgian
-			add_accepted_culture = armenian
+			add_accepted_culture = alvuanian
+			add_accepted_culture = kumyk
 			add_accepted_culture = azerbaijani
+			add_accepted_culture = circassian
+			add_accepted_culture = chechen
 			change_tag = TCA
 			any_country = {
 				limit = {
@@ -75,9 +112,12 @@ political_decisions = {
 				limit = {
 					war = no
 					OR = {
-						primary_culture = armenian
+						primary_culture = circassian
 						primary_culture = georgian
 						primary_culture = azerbaijani
+						primary_culture = kumyk
+						primary_culture = chechen
+						primary_culture = alvuanian
 					}
 					OR = {
 						in_sphere = THIS
@@ -104,18 +144,18 @@ political_decisions = {
 			NOT = {
 				tag = GEO
 				tag = AZB
-				tag = ARM
-				tag = RUT
+				tag = DAG
+				
 			}
 			NOT = { exists = TCA }
 			NOT = { has_global_flag = transcaucasia_formed }
 			OR = {
 				any_owned_province = { is_core = GEO }
-				any_owned_province = { is_core = AZB }
-				any_owned_province = { is_core = ARM }
+				any_owned_province = { is_core = TTN }
+				any_owned_province = { is_core = DAG }
 				is_sphere_leader_of = GEO
-				is_sphere_leader_of = AZB
-				is_sphere_leader_of = ARM
+				is_sphere_leader_of = TTN
+				is_sphere_leader_of = DAG
 			}
 		}
 
@@ -160,7 +200,10 @@ political_decisions = {
 					OR = {
 						tag = GEO
 						tag = AZB
-						tag = ARM
+					    tag = DAG
+						tag = TTN
+						tag = SHV
+						tag = MIG
 					}
 					ai = yes
 					in_sphere = THIS
@@ -177,15 +220,21 @@ political_decisions = {
 						OR = {
 							is_core = GEO
 							is_core = AZB
-							is_core = ARM
+							tag = DAG
+						tag = TTN
+						tag = SHV
+						tag = MIG
 						}
 					}
 					secede_province = THIS
 				}
 			}
 			GEO = { all_core = { add_core = TCA } }
-			ARM = { all_core = { add_core = TCA } }
+			MIG = { all_core = { add_core = TCA } }
 			AZB = { all_core = { add_core = TCA } }
+			TTN = { all_core = { add_core = TCA } }
+			DAG = { all_core = { add_core = TCA } }
+			SHV = { all_core = { add_core = TCA } }
 			any_owned = {
 				limit = {
 					is_core = THIS

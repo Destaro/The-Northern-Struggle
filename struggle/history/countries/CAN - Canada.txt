@@ -1,9 +1,9 @@
 capital = 57
-primary_culture = anglo_canadian
+primary_culture = avalonian
 #culture = british
 culture = french_canadian
 religion = protestant
-government = dominion
+government = democracy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
