@@ -4,7 +4,7 @@
 
 capital = 1127
 primary_culture = persian
-religion = sunni
+religion = manichaeism
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order

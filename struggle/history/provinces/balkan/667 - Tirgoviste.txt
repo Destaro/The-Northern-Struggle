@@ -1,5 +1,5 @@
-owner = SER
-controller = SER
+owner = MRV
+controller = MRV
 
 
 trade_goods = wool
@@ -11,4 +11,5 @@ life_rating = 35
 }
 
 
-add_core = SER
+
+add_core = MRV

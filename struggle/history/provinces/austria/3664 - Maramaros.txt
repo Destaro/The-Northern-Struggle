@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = CRO
+controller = CRO
 
 
 trade_goods = coal

@@ -293,7 +293,7 @@ form_ruthenia = {
 	
 	manifesto_on_unshakable_autocracy = {
 		potential = {
-			tag = RUS
+			tag = RUT
 			OR = {
 				government = prussian_constitutionalism
 				government = hms_government

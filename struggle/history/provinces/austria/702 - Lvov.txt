@@ -1,5 +1,5 @@
-owner = GLM
-controller = GLM
+owner = CRO
+controller = CRO
 
 
 add_core = POL
@@ -15,4 +15,6 @@ terrain = lvov
 
 
 
-add_core = GLM
+
+add_core = CRO
+add_core = PZN

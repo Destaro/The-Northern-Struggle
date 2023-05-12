@@ -1,7 +1,7 @@
 owner = MRV
 controller = MRV
 
-add_core = SER
+
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }
@@ -9,3 +9,4 @@ life_rating = 35
 
 
 add_core = PNN
+add_core = MRV

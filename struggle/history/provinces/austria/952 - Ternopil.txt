@@ -1,6 +1,9 @@
-owner = GLM
-controller = GLM
-add_core = GLM
+owner = CRO
+controller = CRO
+
 
 trade_goods = grain
 life_rating = 35
+
+add_core = CRO
+add_core = PZN

@@ -15,5 +15,6 @@ terrain = krakow
 
 
 
-add_core = GLM
+
 add_core = PZN
+add_core = CRO
