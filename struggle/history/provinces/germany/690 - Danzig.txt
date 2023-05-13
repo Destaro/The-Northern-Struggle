@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = PML
+owner = PRD
+controller = PRD
+add_core = PRD
 trade_goods = fish
 life_rating = 35
 terrain = danzig
@@ -19,4 +19,3 @@ naval_base = 1
 }
 1861.1.1 = { railroad = 3 }
 
-add_core = WES

@@ -1,20 +1,20 @@
 army = {
-	name = "Armata Principatul Moldovei"
-	location = 670
+	name = "1st Army Korps"
+	location = 702
 	regiment = {
-		name= "1. Infanterie Moldovei"
+		name= "1. Infantry"
 		type = infantry
 		home = 670
 	}
 
 	regiment = {
-		name= "2. Infanterie Moldovei"
+		name= "2. Infantry"
 		type = infantry
 		home = 672
 	}
 
 	regiment = {
-		name= "3. Infanterie Moldovei"
+		name= "3. Infantry"
 		type = infantry
 		home = 673
 	}
@@ -23,7 +23,7 @@ army = {
 
 army = {
 	name = "2nd Army Korps" #Poland Army
-	location = 702
+	location = 952
 	
 
 	regiment = {
