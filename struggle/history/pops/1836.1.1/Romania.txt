@@ -280,7 +280,7 @@
 		size = 4150     
 	}
 }
-#Banat-Bacska Region (1240000) #See pannoniania.txt and Croatia.txt for balance of region 
+#Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region 
 #under the rule of Austria in 1836  
 #Temesvar (940000/235000 POPS) #part of Romania today
 652 = {

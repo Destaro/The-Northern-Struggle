@@ -891,10 +891,7 @@ political_decisions = {
 	reclamation_of_slovakia = {
 		picture = montenegro_map
 		potential = {
-		OR = {
 		tag = CRO
-		
-		           }
 		NOT = {
 		has_country_flag = reclamation_of_slovakia
 		             }
@@ -909,9 +906,6 @@ political_decisions = {
 			set_country_flag = reclamation_of_slovakia
 			SLV = { all_core = { add_core = THIS } }
 			DBJ = { all_core = { add_core = THIS } }
-			
-			
-	
 		}
 		ai_will_do = { factor = 1 }
 	}

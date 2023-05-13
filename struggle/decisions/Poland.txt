@@ -885,7 +885,6 @@ war = {
 	target = HUN
 	attacker_goal = { 
 	casus_belli = conquest_any
-	
 	 }
 	defender_goal = { 
 	casus_belli = cut_down_to_size
