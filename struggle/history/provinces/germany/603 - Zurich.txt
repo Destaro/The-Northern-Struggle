@@ -35,4 +35,3 @@ state_building = {
 		upgrade = yes
 	}
 }
-add_core = GER

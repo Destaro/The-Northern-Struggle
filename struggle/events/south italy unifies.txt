@@ -735,7 +735,7 @@ country_event = {
 			secede_province = SRD
 		}
 		relation = { who = SRD value = -100 }
-		prestige = -25
+		
 	}
 
 	option = {

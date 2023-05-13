@@ -24,7 +24,7 @@ potential = {
 	GAZ = { all_core = { add_core = THIS } }
 	NMB = { all_core = { add_core = THIS } }
     ZUL = { all_core = { add_core = THIS } }
-	TSW = { all_core = { owned_by = THIS } }
+	TSW = { all_core = { add_core = THIS } }
 	SAF = { all_core = { add_core = THIS } }
 	add_accepted_culture = zulu
 	add_accepted_culture = xhosa

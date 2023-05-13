@@ -827,7 +827,7 @@ country_event = {
 		set_country_flag = emperor_meiji
 		remove_country_modifier = kobu_gattai
 		any_country = {
-			limit = { is = JAP }
+			limit = { tag = JAP }
 			country_event = 97631
 		}
 	}

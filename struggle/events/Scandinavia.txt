@@ -424,8 +424,8 @@ country_event = {
 		prestige = 30
 		any_owned = {
 		limit = {
-		OR = { is_core = IRE
-		       is_core = WHA }
+		 is_core = IRE
+		       is_core = WHA 
 		                 }
 			militancy = 8
 		}

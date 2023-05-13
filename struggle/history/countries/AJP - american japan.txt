@@ -11,7 +11,7 @@ nationalvalue = nv_order
 literacy = 0.1
 prestige = 2
 schools = army_tech_school
-oob = "AJP.txt"
+oob = "AJP_oob.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================

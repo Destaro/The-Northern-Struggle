@@ -47,8 +47,7 @@ country_event = {
 
 	trigger = { 
          tag = ORL
-         truce_with = SWE
-         truce_with = DEN
+         truce_with = SCA
          NOT = {
                 any_neighbour_country = { is_vassal = yes }
                 has_country_flag = victor_in_the_north 

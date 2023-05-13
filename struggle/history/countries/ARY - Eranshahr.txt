@@ -14,7 +14,7 @@ literacy = 0.5
 civilized = yes 
 prestige = 50
 schools = traditional_academic
-oob = "ARY.txt"
+oob = "ARY_oob.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================

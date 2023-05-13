@@ -220,13 +220,13 @@ political_decisions = {
 						OR = {
 							is_core = GEO
 							is_core = AZB
-							tag = DAG
-						tag = TTN
-						tag = SHV
-						tag = MIG
+							is_core = DAG
+						is_core = TTN
+						is_core = SHV
+						is_core = MIG
 						}
 					}
-					secede_province = THIS
+					secede_province = TCA
 				}
 			}
 			GEO = { all_core = { add_core = TCA } }

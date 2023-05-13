@@ -75,27 +75,3 @@ country_event = {
 }
 
 #Treaty of Simulambuko for the sphere owner of Kongo
-country_event = {
-
-	id = 49518
-	title = "EVTNAME49518"
-	desc = "EVTDESC49518"
-	picture = "scramble_for_africa"
-
-	is_triggered_only = yes
-
-	option = {
-		name = "EVT49518OPTA"
-		relation = { who = FROM value = 25 }
-		ai_chance = { factor = 0.75 }
-	}
-	
-	option = {
-		name = "EVT49518OPTB"
-		badboy = 2
-		relation = { who = FROM value = -50 }
-		casus_belli = { target = FROM type = add_to_sphere months = 24 }
-		casus_belli = { target = FROM type = humiliate months = 24 }
-		ai_chance = { factor = 0.25 }
-	}
-}

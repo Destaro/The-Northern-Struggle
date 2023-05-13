@@ -366,10 +366,10 @@ form_vinland_federation = {
 		}
 		
 		effect = {
-		    ACH = { all_core = { owned_by = THIS } }
-			AMG = { all_core = { owned_by = THIS } }
-			AKR = { all_core = { owned_by = THIS } }
-			AJP = { all_core = { owned_by = THIS } }
+		    ACH = { all_core = { add_core = THIS } }
+			AMG = { all_core = { add_core = THIS } }
+			AKR = { all_core = { add_core = THIS } }
+			AJP = { all_core = { add_core = THIS } }
 			prestige = 5
 			set_country_flag = claim_the_western_plains
 		}
@@ -402,7 +402,7 @@ form_vinland_federation = {
 		}
 		
 		effect = {
-		    LSK = { all_core = { owned_by = THIS } }
+		    LSK = { all_core = { add_core = THIS } }
 			
 			prestige = 5
 			set_country_flag = alaska_is_ours

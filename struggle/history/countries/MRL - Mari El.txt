@@ -1,8 +1,8 @@
 capital = 1030
 primary_culture = mari
 religion = orthodox
-government = absolute monarchy
-plurality = 0.0
+government = absolute_monarchy
+plurality = 0.1
 nationalvalue = nv_autocracy
 literacy = 0.01
 civilized = yes
