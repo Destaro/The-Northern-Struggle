@@ -6,7 +6,7 @@ political_decisions = {
 			   NOT = { has_country_flag = centralize_the_empire }
 			   MOR = { vassal_of = THIS }
 			   ALD = { vassal_of = THIS }
-			   MGH = { vassal_of = THIS }
+			   
 			   }
 	      
 		  allow = {
@@ -33,15 +33,7 @@ political_decisions = {
 				}
 			 }
 			
-			MGH = {
-				all_core = {
-					OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-					}
-				}
-			 }
+			
 	      }
 		  
 		  effect = {
@@ -51,7 +43,7 @@ political_decisions = {
 		  MGH = { all_core = { add_core = THIS } }
 		  inherit = MOR
 		  inherit = ALD
-		  inherit = MGH
+		  
 		  prestige = 30
 		  badboy = -1
 		             	  
