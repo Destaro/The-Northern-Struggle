@@ -873,7 +873,7 @@ war = {
 		allow = {
 			has_country_flag = integrate_the_eastern_slavs
 			war = no
-			
+			DON = { all_core = { owned_by = THIS } }
 			nationalism_n_imperialism = 1
 			
 		}
