@@ -43,7 +43,7 @@ political_decisions = {
 		  MGH = { all_core = { add_core = THIS } }
 		  inherit = MOR
 		  inherit = ALD
-		  
+		  add_accepted_culture = berber
 		  prestige = 30
 		  badboy = -1
 		             	  

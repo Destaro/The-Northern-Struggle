@@ -555,91 +555,91 @@
 	}
 	
 	serfs = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 2000 
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 250   
 	}
 
 	bureaucrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 375   
 	}
 
 	officers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 250  
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 650  
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 2375  
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 500  
 	}
 
 	bureaucrats = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 275  
 	}
 
 	officers = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 250  
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 75      
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 1500     
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 6300      
 	}
@@ -1153,25 +1153,25 @@
 #Udvarhely (228000/57000 POPS)  
 660 = {
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 75 
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 7450
 	}
@@ -1183,13 +1183,13 @@
 	}
 	
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 300    
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 150  
 	}
@@ -1213,31 +1213,31 @@
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 600  
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 300      
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 1550    
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = protestant
 		size = 29250      
 	}
@@ -1269,61 +1269,61 @@
 #Beszterce (300000/75000 POPS)  
 661 = {
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 500 
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 29500 
 	}
 
 	serfs = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 20000 
 	}
 	
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 350   
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 200  
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 3350   
 	}
@@ -1385,25 +1385,25 @@
 #Targu Mures (344000/86000 POPS)  
 2533 = {
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 250 
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 300
 	}
 
 	serfs = {
-		culture = croat
+		culture = czech
 		religion = orthodox
 		size = 24150 
 	}
@@ -1415,25 +1415,25 @@
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 700   
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 800  
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 175
 	}
@@ -1466,12 +1466,6 @@
 		culture = pannonian
 		religion = protestant
 		size = 325
-	}
-
-	farmers = {
-		culture = croat
-		religion = protestant
-		size = 28875      
 	}
 
 	clergymen = {
@@ -2747,37 +2741,37 @@
 	}
 	
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 350   
 	}
 
 	clergymen = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 550  
 	}
 
 	artisans = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 1200  
 	}
 
 	soldiers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 32350   
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = czech
 		religion = catholic
 		size = 400  
 	}

@@ -263,25 +263,25 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = serb
+		culture = croat
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = serb
+		culture = croat
 		religion = orthodox
 		size = 4600 
 	}
 
 	soldiers = {
-		culture = serb
+		culture = croat
 		religion = orthodox
 		size = 900
 	}
 
-	serfs = {
-		culture = serb
+	farmers = {
+		culture = croat
 		religion = orthodox
 		size = 20650  
 	}
@@ -675,6 +675,55 @@
 #under the rule of Austria in 1836
 #Lvov (660000/165000 POPS) #now part of Ukraine 
 702 = {
+
+   farmers = {
+		culture = croat
+		religion = protestant
+		size = 28875      
+	}
+
+    clergymen = {
+		culture = croat
+		religion = orthodox
+		size = 75 
+	}
+
+	artisans = {
+		culture = croat
+		religion = orthodox
+		size = 400
+	}
+
+	soldiers = {
+		culture = croat
+		religion = orthodox
+		size = 75
+	}
+
+	serfs = {
+		culture = croat
+		religion = orthodox
+		size = 7450
+	}
+
+	serfs = {
+		culture = croat
+		religion = orthodox
+		size = 1500      
+	}
+	
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 300    
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 150  
+	}
+	
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
@@ -871,6 +920,37 @@
 }
 #Stryi (404000/101000 POPS) #now part of Ukraine  
 951 = {
+
+    aristocrats = {
+		culture = croat
+		religion = protestant
+		size = 600  
+	}
+
+	clergymen = {
+		culture = croat
+		religion = protestant
+		size = 300      
+	}
+
+	artisans = {
+		culture = croat
+		religion = protestant
+		size = 1550    
+	}
+
+	soldiers = {
+		culture = croat
+		religion = protestant
+		size = 300
+	}
+
+	farmers = {
+		culture = croat
+		religion = protestant
+		size = 29250      
+	}
+	
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
@@ -951,6 +1031,67 @@
 }
 #Ternopil (1136000/284000 POPS) #now part of Ukraine  
 952 = {
+
+    clergymen = {
+		culture = croat
+		religion = orthodox
+		size = 500 
+	}
+
+	artisans = {
+		culture = croat
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = croat
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = croat
+		religion = orthodox
+		size = 229500 
+	}
+
+	serfs = {
+		culture = croat
+		religion = orthodox
+		size = 20000 
+	}
+	
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 350   
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 200  
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 3350   
+	}
+	
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
@@ -972,7 +1113,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 184200
+		size = 84200
 	}
 	
 	
@@ -1044,6 +1185,97 @@
 }
 #Stanislavov (376000/94000 POPS) #now part of Ukraine  
 953 = {
+    
+	serfs = {
+		culture = croat
+		religion = catholic
+		size = 2000 
+	}
+
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 250   
+	}
+
+	bureaucrats = {
+		culture = croat
+		religion = catholic
+		size = 375   
+	}
+
+	officers = {
+		culture = croat
+		religion = catholic
+		size = 250  
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 50   
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 650  
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 72375  
+	}
+
+	aristocrats = {
+		culture = croat
+		religion = protestant
+		size = 500  
+	}
+
+	bureaucrats = {
+		culture = croat
+		religion = protestant
+		size = 275  
+	}
+
+	officers = {
+		culture = croat
+		religion = protestant
+		size = 250  
+	}
+
+	clergymen = {
+		culture = croat
+		religion = protestant
+		size = 75      
+	}
+
+	artisans = {
+		culture = croat
+		religion = protestant
+		size = 1500     
+	}
+
+	soldiers = {
+		culture = croat
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = croat
+		religion = protestant
+		size = 6300      
+	}
+	
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
@@ -4667,6 +4899,61 @@
 #under the rule of Russia in 1836
 #Odessa (248000/62000 POPS)
 968 = {
+
+    clergymen = {
+		culture = croat
+		religion = orthodox
+		size = 250 
+	}
+
+	artisans = {
+		culture = croat
+		religion = orthodox
+		size = 1300
+	}
+
+	soldiers = {
+		culture = croat
+		religion = orthodox
+		size = 300
+	}
+
+	serfs = {
+		culture = croat
+		religion = orthodox
+		size = 24150 
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 2000 
+	}
+
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 700   
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 800  
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 175
+	}
+	
 	aristocrats = {
 		culture = hungarian
 		religion = orthodox
@@ -4861,6 +5148,43 @@
 }
 #Pervomaisk (496000/124000 POPS)
 969 = {
+
+    aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 350   
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 550  
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 1200  
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 32350   
+	}
+
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 400  
+	}
+	
 	farmers = {
 		culture = gypsy
 		religion = orthodox
