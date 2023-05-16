@@ -119,7 +119,7 @@ foreign_investment = {
 	EIC = 20000
 }
 
-oob = "ENG_oob.txt"
+
 
 1861.1.1 = {
 	oob = "/1861/ENG_oob.txt"
