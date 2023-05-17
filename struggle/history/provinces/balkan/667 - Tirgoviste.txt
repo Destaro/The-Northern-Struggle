@@ -12,4 +12,5 @@ life_rating = 35
 
 
 
-add_core = MRV
+
+add_core = SIE
