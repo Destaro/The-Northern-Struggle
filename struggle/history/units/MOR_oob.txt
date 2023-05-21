@@ -1,0 +1,21 @@
+TLD = {
+	value = -100
+}
+
+TUN = {
+	value = 100
+}
+
+
+
+
+leader = {
+	name = "Sultan Abd al-Rahman"
+	type = land
+	date = 1820.1.1
+	background = gifted_administrator
+	personality = harsh
+	prestige = 0.1
+	}
+	
+	

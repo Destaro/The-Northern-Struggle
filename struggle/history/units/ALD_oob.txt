@@ -1,0 +1,26 @@
+TLD = {
+	value = -150
+}
+
+TUN = {
+	value = 100
+}
+
+leader = {
+	name = "Emir Abdelkader"
+	type = land
+	date = 1836.1.1
+	personality = stalwart
+	background = school_of_offense
+	prestige = 0.1
+}
+
+leader = {
+	name = "Ahmed Bey"
+	type = land
+	date = 1780.1.1
+	personality = stalwart
+	background = elderly
+	prestige = 0.1
+}
+
