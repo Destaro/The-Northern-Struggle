@@ -1598,25 +1598,25 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 130
+		size = 3
 	}
 
 	artisans = {
 		culture = vinlander
 		religion = protestant
-		size = 1003
+		size = 3
 	}
 
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 300
+		size = 3
 	}
 	
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 2010
+		size = 10
 	}
 
 	farmers = {

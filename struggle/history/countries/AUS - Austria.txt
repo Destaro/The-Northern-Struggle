@@ -1,5 +1,5 @@
 capital = 619
-primary_culture = bavarian
+primary_culture = south_german
 culture = czech
 religion = catholic
 government = absolute_monarchy
@@ -108,7 +108,7 @@ foreign_investment = {
 		BAD = 5000
 }
 
-
+oob = "AUS_oob.txt"
 1861.1.1 = {
 	oob = "/1861/AUS_oob.txt"
 	prestige = 110

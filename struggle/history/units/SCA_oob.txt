@@ -1,6 +1,10 @@
 
 
-
+BDB = {	
+	value = 125
+	level = 5
+	influence_value = 0
+}
 
 PRD = {	
 	value = -200
@@ -8,7 +12,11 @@ PRD = {
 	influence_value = 0
 }
 
-
+NOR = {	
+	value = 25
+	level = 4
+	influence_value = 0
+}
 
 IZH = {	
 	value = 125
@@ -426,34 +434,6 @@ army = {
 	}
 
 	
-
-}
-
-army = {
-
-	name = "Accra Garrison"
-
-	location = 1907
-	regiment = {
-
-		name= "Asantehene's Guards"
-	
-	type = infantry
-
-
-		home = 1887
-	}
-
-
-	regiment = {
-
-		name= "1st Ashanti Warriors"
-	
-	type = infantry
-
-	
-	home = 3373
-	}
 
 }
 

@@ -1,5 +1,5 @@
-owner = MRV
-controller = MRV
+owner = PNN
+controller = PNN
 
 trade_goods = wool
 life_rating = 35
@@ -8,9 +8,10 @@ life_rating = 35
 	controller = ROM
 	owner = ROM
 }
-add_core = MOR
+
 
 
 
 
 add_core = SIE
+add_core = PNN

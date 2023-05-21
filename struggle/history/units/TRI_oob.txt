@@ -16,11 +16,11 @@ army = {
 
 army = {
 	name = "Berbers"
-	location = 1741
+	location = 1744
 	regiment = {
 		name= "1.Imazighen"
 		type = irregular
-		home = 1741
+		home = 1744
 	}
 }
 

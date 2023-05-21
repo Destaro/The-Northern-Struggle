@@ -334,4 +334,3 @@
 		religion = manichaeism
 		size = 13550
 	}
-}
